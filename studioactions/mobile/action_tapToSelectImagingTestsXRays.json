@@ -1,0 +1,17 @@
+{
+    "AS__2fee923db57e40dd822642b011c9e53b": {
+        "id": "AS__2fee923db57e40dd822642b011c9e53b",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_tapToSelectImagingTestsXRays",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d8bd521dc41d4faaabe4c83937e00b66",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSegmentImagingTestsXRays",
+            "display": "tapToSegmentImagingTestsXRays",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s2f832b7782440059d56641f064f93eb",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "CopyCalendarDOB0462c94c0627f47",
+        "CopytfFirstName07770a0df22c543",
+        "CopytfFirstName05a985b082dd14d",
+        "CopytfFirstName0ad650ee9ca3b45",
+        "CopytfFirstName0c83b9c1ccb284f",
+        "CopytfFirstName043d40c24aeff4b",
+        "CopytfFirstName040415a5fe39940",
+        "CopytfFirstName0e458935d8a8d46",
+        "tfBodyMass"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxContainerVitalSignsAdmitForm",
+    "info": null,
+    "isvisible": true,
+    "kuid": "508fcca5cd394ca387c4a954f6a60994",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "patientMandatorySection",
+    "pf": "frmAdmitForm",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabpaneId": "admitFormTabSection",
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

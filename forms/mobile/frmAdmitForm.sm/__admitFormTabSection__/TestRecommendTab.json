@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizTab",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sc3172b680c5481781b73c8bccbfc2c9",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "CopyinnerTabRow09d92c6a92f4d46",
+        "recommendationAll",
+        "FlexContainerRecommendationNoFeilds"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "TestRecommendTab",
+    "ide_onInit": "AS_Button_bd9074a1ed624bea82d3877a955634eb",
+    "info": null,
+    "isvisible": true,
+    "kuid": "45a96bcc3c294596a64886d3a5eb95df",
+    "layouttype": 2,
+    "margininpixel": false,
+    "name": "kony.ui.Tab",
+    "paddinginpixel": false,
+    "parent": "admitFormTabSection",
+    "pf": "frmAdmitForm",
+    "scrolldirection": 1,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabname": "Recommendations",
+    "tabpaneId": "admitFormTabSection",
+    "wType": "Tab"
+}

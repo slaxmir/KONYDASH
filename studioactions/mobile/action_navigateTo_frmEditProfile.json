@@ -1,0 +1,19 @@
+{
+    "AS_NamedActions_05d3c02a2c394dc9aedbef399f38818a": {
+        "id": "AS_NamedActions_05d3c02a2c394dc9aedbef399f38818a",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_navigateTo_frmEditProfile",
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___11ef2168bb2b4af8b6392a4f06d46805",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEditProfile",
+            "formKUID": "7f237bf94cbe40eca705b8771c4cc80c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

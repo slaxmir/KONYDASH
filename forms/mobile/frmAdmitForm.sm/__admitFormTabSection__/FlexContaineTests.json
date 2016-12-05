@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s2a016ad20de42e9858c145b4fde0e87",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "CopyimgCollapsable09b98ca56a35b4a",
+        "CopylableAdmissionDetails0e4319bb2a2ad42",
+        "imgCollapseArrowAdmitFormTests"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContaineTests",
+    "ide_onClick": "AS_NamedActions_e08328f0fedc4f92836454ffa750ffc8",
+    "info": null,
+    "isvisible": true,
+    "kuid": "808713aa9b134b89afe7d146cbaeb6b8",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "recommendationAll",
+    "pf": "frmAdmitForm",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabpaneId": "admitFormTabSection",
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_1b4bb0b105db410faed8ac7e165ed7ff": {
+        "id": "AS_NamedActions_1b4bb0b105db410faed8ac7e165ed7ff",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_onSelectClinic",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___05aace8a30324b87869340e9a644c0f2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showFormTypeList",
+            "display": "showFormTypeList",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_1bb2f3bf16b241628f94fee5b4ab9391": {
+        "id": "AS_NamedActions_1bb2f3bf16b241628f94fee5b4ab9391",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_tapToSelectOtherMediations",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f0848849e65d4210bad8bdf559641a7b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSelectSegOtherMediations",
+            "display": "tapToSelectSegOtherMediations",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

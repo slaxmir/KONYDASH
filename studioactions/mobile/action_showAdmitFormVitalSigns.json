@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_ce830ea07f2b4479a29c460e4393818e": {
+        "id": "AS_NamedActions_ce830ea07f2b4479a29c460e4393818e",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmitFormVitalSigns",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___3b3d4c303a0042f4bf217c76c5535633",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmitFormVitalSigns",
+            "display": "showAdmitFormVitalSigns",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

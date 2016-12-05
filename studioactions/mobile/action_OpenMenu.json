@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_59f90898340d4953be384a35208868b0": {
+        "id": "AS_NamedActions_59f90898340d4953be384a35208868b0",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_OpenMenu",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b9f5028afdd44b0eb6c53cb598ee41cc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hamburger",
+            "display": "hamburger",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

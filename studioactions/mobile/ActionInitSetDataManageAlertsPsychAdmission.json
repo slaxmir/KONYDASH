@@ -1,0 +1,17 @@
+{
+    "AS__af5a550807234e29a4df7a342c0ec16a": {
+        "id": "AS__af5a550807234e29a4df7a342c0ec16a",
+        "type": "ACTION_SEQUENCE",
+        "name": "ActionInitSetDataManageAlertsPsychAdmission",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___446dbf17cb2e4a36a664594c29da2352",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setDataSetmentManageAlertsPsychAdmission",
+            "display": "setDataSetmentManageAlertsPsychAdmission",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

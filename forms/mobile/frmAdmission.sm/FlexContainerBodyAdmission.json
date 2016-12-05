@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf246316e7d349c2b88ddbd373f1a2e5",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainerAdmissionSub1",
+        "FlexContainerAdmissionSub2",
+        "flexContainerAdmissionSub3",
+        "flexContainerAdmissionDetailsBlock",
+        "SegmentAdmissionDetails",
+        "flexContainerVitalSignalsBlock",
+        "flexContainerShowVitalSigns",
+        "flexContainerSepsisScreeingBlock",
+        "flexContainerSepsisScreeing",
+        "flexContainerAdditionalInfoBlock",
+        "flexContainerAdmissionShowAdditionalInfo"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "FlexContainerBodyAdmission",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a54be86c3b244cc1af1c00837d2ed340",
+    "layouttype": 4,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "flxContainerAdmissiom",
+    "pf": "frmAdmission",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

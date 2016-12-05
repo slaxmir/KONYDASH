@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s28e34f69f6147268df021738040c65c",
+    "_text_": "Travelled to a country in West Africa (Guinea, Liberia, Nigeria, Senegal or Sierra Leone)?",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyRichText0a65fe0b6569844",
+    "info": null,
+    "isvisible": true,
+    "kuid": "da07d6dcb5254e408b050ce8029b5e0a",
+    "name": "kony.ui.RichText",
+    "parent": "flxContainerInfectiousDiceaseQuestionareAdmitForm",
+    "pf": "frmAdmitForm",
+    "tabpaneId": "admitFormTabSection",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

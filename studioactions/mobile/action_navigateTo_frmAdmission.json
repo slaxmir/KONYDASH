@@ -1,0 +1,35 @@
+{
+    "AS_Segment_537e457f44164d389476c222380f49f1": {
+        "id": "AS_Segment_537e457f44164d389476c222380f49f1",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_navigateTo_frmAdmission",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmDashBoard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4d052e83ef0b47678eb3c35c72c7d4a0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___23f4f7538ee342989309177166c8a622",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAdmission",
+            "formKUID": "6c615efc359e439e90d51933eeb167d0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

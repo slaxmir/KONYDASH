@@ -1,0 +1,21 @@
+{
+    "AS_Button_bd9074a1ed624bea82d3877a955634eb": {
+        "id": "AS_Button_bd9074a1ed624bea82d3877a955634eb",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showRecommandationAll",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_776d1088636f46159995d53072d39f7c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showRecommendationAll",
+            "display": "showRecommendationAll",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

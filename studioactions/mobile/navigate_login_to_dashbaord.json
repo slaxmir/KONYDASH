@@ -1,0 +1,35 @@
+{
+    "AS_Button_0c4edb318b9c47e0ae5e4c0a73429d93": {
+        "id": "AS_Button_0c4edb318b9c47e0ae5e4c0a73429d93",
+        "type": "ACTION_SEQUENCE",
+        "name": "navigate_login_to_dashbaord",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "77e183c3f03346008a7b8ffd2e71b173"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___f3c3fb11ce714839922ea1a6d02733d5",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashBoard",
+            "formKUID": "4d052e83ef0b47678eb3c35c72c7d4a0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

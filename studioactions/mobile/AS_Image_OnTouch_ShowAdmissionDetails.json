@@ -1,0 +1,34 @@
+{
+    "AS_Image_4c8f7523432947eba67b8087d4f4356c": {
+        "id": "AS_Image_4c8f7523432947eba67b8087d4f4356c",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Image_OnTouch_ShowAdmissionDetails",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAdmission",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6c615efc359e439e90d51933eeb167d0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e614dbcba8cb48ea980e7c2bcb6dd357",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmissionDetails",
+            "display": "showAdmissionDetails",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

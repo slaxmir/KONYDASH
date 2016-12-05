@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_footers_": [],
+    "_headers_": [],
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s3b72a5eb1d34ba9a28e835f42e267ee",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "popupReferringFacilityRow1",
+        "referringFacilityBorder",
+        "popupReferringFacilityRow2",
+        "popupReferringFacilityRow3",
+        "popupReferringFacilityRow4",
+        "popupReferringFacilityRow5",
+        "popupReferringFacilityRow6",
+        "popupReferringFacilityRow7",
+        "popupReferringFacilityClinicianInfo",
+        "popupReferringFacilityRow8",
+        "popupReferringFacilityRow9",
+        "popupReferringFacilityRow10",
+        "popupReferringFacilityContactPerson",
+        "popupReferringFacilityRow11",
+        "popupReferringFacilityRow12",
+        "popupReferringFacilityRow13"
+    ],
+    "containerheight": 100,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "currentLocale": null,
+    "desktopweb": {
+        "psp": {
+            "titleBarConfig": {
+                "closeIcon": "close.png",
+                "maxIcon": "max.png",
+                "minIcon": "min.png"
+            }
+        }
+    },
+    "device": "iPhone6",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "footer": "popupReferringFacility_footer",
+    "header": "popupReferringFacility_header",
+    "id": "popupReferringFacility",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ismodal": true,
+    "isvisible": true,
+    "kuid": "174cfafd722f4424905c97a6493b857e",
+    "name": "kony.ui.Popup",
+    "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "GalaxyS5",
+    "prevPlatform": "android",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone6",
+    "titlebar": true,
+    "transparencybehindthepopup": 100,
+    "wType": "Popup"
+}

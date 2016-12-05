@@ -1,0 +1,33 @@
+{
+    "AS_Image_c232e524395940a8a73e1dc1430ae281": {
+        "id": "AS_Image_c232e524395940a8a73e1dc1430ae281",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Image_segment_showAditionalInfoRowDetails",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "tmpSegemntlAdmissionAdditionalInfo",
+            "type": "templates",
+            "KUID": "9c312b0ba53349eba83c3e586c91cc7d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___16b3b22ba33d46ab95690870b3440fbc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAditionalInfoRowDetails",
+            "display": "showAditionalInfoRowDetails",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

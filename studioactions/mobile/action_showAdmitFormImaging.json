@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_d5ab48750bc44382859c8adac883e95c": {
+        "id": "AS_NamedActions_d5ab48750bc44382859c8adac883e95c",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmitFormImaging",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f86602b5283a4d36950f898f5a4d4ba3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmitFormImaging",
+            "display": "showAdmitFormImaging",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Button_a5bb6f7d80b54441b2a21d52540f0f15": {
+        "id": "AS_Button_a5bb6f7d80b54441b2a21d52540f0f15",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSupport",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b3b5324350fc4699a656b11729de50de"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___131b6c90fdda4860b7643a40e74c853d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showSupportReportAnIssue",
+            "display": "showSupportReportAnIssue",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

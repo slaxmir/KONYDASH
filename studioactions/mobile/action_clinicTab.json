@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_1352f25abbd14c909e7ab7b40b4ef99f": {
+        "id": "AS_NamedActions_1352f25abbd14c909e7ab7b40b4ef99f",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_clinicTab",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d051c5c13f924d2eb2d574a9732aba97",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showClinicList",
+            "display": "showClinicList",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

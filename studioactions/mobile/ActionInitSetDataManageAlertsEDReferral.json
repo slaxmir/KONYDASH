@@ -1,0 +1,17 @@
+{
+    "AS__3a8895e4588a4fb0a96388157af9cccc": {
+        "id": "AS__3a8895e4588a4fb0a96388157af9cccc",
+        "type": "ACTION_SEQUENCE",
+        "name": "ActionInitSetDataManageAlertsEDReferral",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___309db2a50d0f4a4795a4dd43a34192fb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setDataSetmentManageAlertsEDReferral",
+            "display": "setDataSetmentManageAlertsEDReferral",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_891431ecffbc452386695dcff95c1a64": {
+        "id": "AS_FlexContainer_891431ecffbc452386695dcff95c1a64",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_FlexContainer_showAdmissionDetails2",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchStart_af4c48332ced446580eeb0dad0041282",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmissionDetails2",
+            "display": "showAdmissionDetails2",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

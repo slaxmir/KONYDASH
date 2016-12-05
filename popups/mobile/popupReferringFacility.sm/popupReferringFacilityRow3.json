@@ -1,0 +1,46 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        2,
+        0,
+        2,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s7bd6759355f4e61889df4341e04f7ff",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "ReferringName",
+        "ReferringNameValue"
+    ],
+    "containerheight": 30,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "contextmenu": null,
+    "enablescrollbypage": false,
+    "id": "popupReferringFacilityRow3",
+    "info": null,
+    "isvisible": true,
+    "kuid": "725d6af0c760408eb77e60afb10a8c17",
+    "name": "kony.ui.ScrollBox",
+    "paddinginpixel": false,
+    "parent": "popupReferringFacility",
+    "pf": "popupReferringFacility",
+    "scrollbar": "scrollbar",
+    "scrolldirection": 1,
+    "scrollingevents": null,
+    "showscrollbars": true,
+    "totalWt": 100,
+    "wType": "ScrollBox",
+    "widgetalignment": 5
+}

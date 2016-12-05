@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_skin_": "sc2ecf908bd74edfa6653687068c78e2",
+    "_text_": "Boarding Pass",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s1ae931a069c40f4ac73da87a33301f1"
+    },
+    "displaytext": true,
+    "id": "CopybtnReferringFacilityInfo0d11d054a96bb4b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "09a6e223dad34e13b88c5137cce894f5",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxConBoardingPass",
+    "pf": "frmAdmission",
+    "wType": "Button",
+    "zindex": 1
+}

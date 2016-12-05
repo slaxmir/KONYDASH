@@ -1,0 +1,33 @@
+{
+    "AS_TabPane_95c60463e6fd42ceb3d98d38796ebcec": {
+        "id": "AS_TabPane_95c60463e6fd42ceb3d98d38796ebcec",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "currentindex"
+        }, {
+            "datatype": "boolean",
+            "name": "isexpanded"
+        }],
+        "contextObj": {
+            "name": "frmAdmitForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a61f86b4fb384227b844ba626c644872"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___eafc04eea2f54555874fd22b97e10e7b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showadmitFrom",
+            "display": "showadmitFrom",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

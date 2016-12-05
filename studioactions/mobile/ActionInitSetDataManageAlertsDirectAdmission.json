@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_11b6d54803234f5593c17f17d8ede9f7": {
+        "id": "AS_NamedActions_11b6d54803234f5593c17f17d8ede9f7",
+        "type": "ACTION_SEQUENCE",
+        "name": "ActionInitSetDataManageAlertsDirectAdmission",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9e4cdadba5044923af6a08ed11e66876",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setDataSetmentManageAlertsDirectAdmission",
+            "display": "setDataSetmentManageAlertsDirectAdmission",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s08dcfc8f3074dc8b3839e89e31f29c6",
+    "_text_": "General Feedback",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1ae931a069c40f4ac73da87a33301f1",
+    "id": "Button06f47252b88da45",
+    "info": null,
+    "isvisible": false,
+    "kuid": "9742db1b8b464412a6470413ba7fff29",
+    "name": "kony.ui.Button",
+    "parent": "supportTabRow",
+    "pf": "frmSupport",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,31 @@
+{
+    "AS_Label_d06b5d10406e4206ad38e4c06d979596": {
+        "id": "AS_Label_d06b5d10406e4206ad38e4c06d979596",
+        "type": "ACTION_SEQUENCE",
+        "name": "a",
+        "params": [{
+            "name": "eventObject",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "tmplDashboardSection",
+            "type": "templates",
+            "platform": "",
+            "KUID": "9ea9ca061f1b44af95730739bac90608"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___df8c3ed74e4a412da63bb4059d3508aa",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getDashBoardShowAndHideRow",
+            "display": "getDashBoardShowAndHideRow",
+            "inputparams": [{
+                "name": "eventObject",
+                "value": "eventObject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

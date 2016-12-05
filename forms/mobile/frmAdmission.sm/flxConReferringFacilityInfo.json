@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sc8d112a1d48498993e9cc8a4db2d488",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyimgPrint05f5af9eb1e6743",
+        "btnReferringFacilityInfo"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxConReferringFacilityInfo",
+    "ide_onClick": "AS_NamedActions_7b404dbb005749549e452e4d6ce70498",
+    "info": null,
+    "isvisible": true,
+    "kuid": "00d767b3df704830b34f35932fa09c94",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexContainerAdmissionSub3",
+    "pf": "frmAdmission",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

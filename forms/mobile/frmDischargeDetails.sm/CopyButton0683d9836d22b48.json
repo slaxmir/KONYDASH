@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "137dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s97bda424bbc46af90d2e4ee6f0cf1a5",
+    "_text_": "Boarding Pass",
+    "_top_": {
+        "type": "string",
+        "value": "85dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s26297e0d4174dfaa146c86d5611ee1b",
+    "id": "CopyButton0683d9836d22b48",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bf83da5603a848dd9213ec96bf725f5c",
+    "name": "kony.ui.Button",
+    "parent": "CopyFlexScrollContainer0b7ceed2b053542",
+    "pf": "frmDischargeDetails",
+    "wType": "Button",
+    "zindex": 1
+}

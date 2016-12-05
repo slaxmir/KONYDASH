@@ -1,0 +1,150 @@
+{
+  "android": {
+    "border_color": "0072c6ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 1,
+    "font_name": "arial",
+    "font_size": 119,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "background_color": "ffffffff",
+  "bg_type": "one",
+  "border_color": "0072c6ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_name": "arial",
+    "font_size": 417,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "fontSizeInPx": true,
+  "font_color": "0072c6ff",
+  "font_name": "Arial",
+  "font_size": 105,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "border_color": "0072c6ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 1,
+    "font_name": "arial",
+    "font_size": 179,
+    "isForked": true
+  },
+  "iphone": {
+    "border_color": "0072c6ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 1,
+    "font_name": "arial",
+    "font_size": 179,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "border_color": "0072c6ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 1,
+    "font_name": "arial",
+    "font_size": 313,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "kuid": "s6684aa43a5c42868f7a9e12c80a585e",
+  "spaan": {
+    "font_name": "arial",
+    "font_size": 208,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "font_name": "arial",
+    "font_size": 208,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "spabb": {
+    "font_name": "arial",
+    "font_size": 208,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "spaip": {
+    "font_name": "arial",
+    "font_size": 208,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "spaipad": {
+    "font_name": "arial",
+    "font_size": 208,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "font_name": "arial",
+    "font_size": 208,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "spawinphone8": {
+    "font_name": "arial",
+    "font_size": 208,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "border_color": "0072c6ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 1,
+    "font_name": "arial",
+    "font_size": 296,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "wType": "TabPane",
+  "watchos": {
+    "font_size": 105,
+    "isForked": false
+  },
+  "windows8": {
+    "border_color": "0072c6ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 1,
+    "font_name": "arial",
+    "font_size": 122,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "winphone8": {
+    "border_color": "0072c6ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 1,
+    "font_name": "arial",
+    "font_size": 167,
+    "font_style": "underline",
+    "font_weight": "bold",
+    "isForked": true
+  }
+}

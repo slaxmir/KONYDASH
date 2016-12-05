@@ -1,0 +1,17 @@
+{
+    "AS__2e0665e9d89944e8bea87c67562fe35c": {
+        "id": "AS__2e0665e9d89944e8bea87c67562fe35c",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_tapToSelectImagingTestsCT",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a06c2d82d7594c898087e1d8a5b0b3ef",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSegmentImagingTestsCT",
+            "display": "tapToSegmentImagingTestsCT",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

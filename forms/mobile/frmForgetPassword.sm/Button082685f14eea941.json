@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27.00%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s68ce9bc48e54065aed904489942f874",
+    "_text_": "Recover",
+    "_top_": {
+        "type": "string",
+        "value": "-3dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s1ae931a069c40f4ac73da87a33301f1"
+    },
+    "displaytext": true,
+    "id": "Button082685f14eea941",
+    "info": null,
+    "isvisible": true,
+    "kuid": "02f5bbf0a5f940ad9b91f05af58c7b82",
+    "name": "kony.ui.Button",
+    "parent": "CopyFlexContainer0968557ed9d8c47",
+    "pf": "frmForgetPassword",
+    "wType": "Button",
+    "zindex": 1
+}

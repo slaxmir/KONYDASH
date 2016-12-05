@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "239dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s66f047e93744575ba9bb20848bf5f3f",
+    "_text_": "Take Action",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "115dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1ae931a069c40f4ac73da87a33301f1",
+    "id": "CopyButton0d56f14754ddc40",
+    "info": null,
+    "isvisible": true,
+    "kuid": "68c887c4735f4e9d826e32a6f438382a",
+    "name": "kony.ui.Button",
+    "parent": "CopyFlexScrollContainer0b7ceed2b053542",
+    "pf": "frmDischargeDetails",
+    "wType": "Button",
+    "zindex": 1
+}

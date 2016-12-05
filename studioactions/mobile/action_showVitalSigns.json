@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_811d40bcf159457fbf7a153d2bb9ee6a": {
+        "id": "AS_FlexContainer_811d40bcf159457fbf7a153d2bb9ee6a",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showVitalSigns",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmission",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6c615efc359e439e90d51933eeb167d0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9db2cbb622be4998ba8bad3a08563562",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showshowVitalSigns",
+            "display": "showshowVitalSigns",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

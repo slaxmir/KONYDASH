@@ -1,0 +1,19 @@
+{
+    "AS_NamedActions_526b9726d9f646619dec541686cd7b4f": {
+        "id": "AS_NamedActions_526b9726d9f646619dec541686cd7b4f",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_popup_takeaction",
+        "language": "js",
+        "actions": [{
+            "id": "DISPLAY_POPUP___2b27f8bf98a14de9a64e23a7ed9a6671",
+            "type": "DISPLAY_POPUP",
+            "popupId": "popupTakeaction",
+            "popupKUID": "3a82dc76aa7646ac913b72895a18ac33",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

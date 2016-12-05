@@ -1,0 +1,109 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        13,
+        0,
+        2,
+        0
+    ],
+    "_placeholder_": "",
+    "_render_": true,
+    "_skin_": "s59fcf8b14e043858939c44f58f5752e",
+    "_top_": {
+        "type": "string",
+        "value": "129dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "contentAlignment": 2,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmDischargeDetails",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "",
+    "groupcells": false,
+    "id": "CopyListBox026e1739cbc4d4d",
+    "info": null,
+    "iphone": {
+        "contentAlignment": 2,
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "988da1a01b7b48a6bcbe2e749d9ffd22",
+    "masterdata": [
+        [
+            "lb1",
+            "Admission Details [Direct Admission]"
+        ],
+        [
+            "lb2",
+            "Listbox Two"
+        ],
+        [
+            "lb3",
+            "Listbox Three"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "CopyFlexScrollContainer0b7ceed2b053542",
+    "pf": "frmDischargeDetails",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Admission Details [Direct Admission]"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

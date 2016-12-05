@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_13ba87fe395740aea317e3a6fe90d233": {
+        "id": "AS_NamedActions_13ba87fe395740aea317e3a6fe90d233",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmitFormPatientInfo",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7216e5a7a69e4e91b4c5b9963b934ea6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmitFormPatientInfo",
+            "display": "showAdmitFormPatientInfo",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        2,
+        0,
+        3
+    ],
+    "_skin_": "sde5ba5208214c45a8ca8890940362db",
+    "_text_": "Feilds",
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "CopylableAdmissionDetails0725922a2fb6d4f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "f642c969a0184e918d91ed0541b3c15c",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "innerTabRow",
+    "pf": "frmAdmitForm",
+    "tabpaneId": "admitFormTabSection",
+    "tooltip": "",
+    "wType": "Label"
+}

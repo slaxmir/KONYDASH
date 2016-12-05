@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_e8648570061a438f81bd3b5e552c1d9d": {
+        "id": "AS_NamedActions_e8648570061a438f81bd3b5e552c1d9d",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showPatientPreferredFeilds",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___5482a47d758d438b817323e01c981c6e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientPreferredFeilds",
+            "display": "showPatientPreferredFeilds",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s28e34f69f6147268df021738040c65c",
+    "_text_": "Had contact with a person known or suspected of having Ebola?",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyRichText009dcff9c115440",
+    "info": null,
+    "isvisible": true,
+    "kuid": "aa09fd94c8fc44eaa286381e78b27588",
+    "name": "kony.ui.RichText",
+    "parent": "flxContainerInfectiousDiceaseQuestionareAdmitForm",
+    "pf": "frmAdmitForm",
+    "tabpaneId": "admitFormTabSection",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

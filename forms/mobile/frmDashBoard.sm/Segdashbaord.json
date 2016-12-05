@@ -1,0 +1,175 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgstatus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "capsule.png"
+            },
+            "labeValuelBedType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labeValuelCondition": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labeValuelname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Test"
+            },
+            "labelAgeSex": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Age/Sex"
+            },
+            "labelRefFac": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ref Fac"
+            },
+            "labelSepsisScreeing": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sepsis Screening"
+            },
+            "labelValueAdm": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "HCAPH110816-0005"
+            },
+            "labelValueAge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "25F"
+            },
+            "labelValueChiefComplaint": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhaniRC"
+            },
+            "labelValueReferringFacility": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "PhanidraED"
+            },
+            "labelValueSepsisScreening": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Negative"
+            },
+            "lableRef": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Adm #"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "1.39%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96.72%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "disabledSkins": {
+        "rowSkin": "sb8a1606d29a408fae0767dae0cc6922"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segdashbaord",
+    "ide_onRowClick": "AS_Segment_537e457f44164d389476c222380f49f1",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "e5eaf70e8330482da21b489192b9e001",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxPsychAdmissionContainer",
+    "pf": "frmDashBoard",
+    "retainselection": false,
+    "rowTemplateId": "574457749be84b1790b9e358c65d0b43",
+    "rowcounter": 0,
+    "rowfocusskin": "sb6ad43583984d478b3dd90c47d4aac2",
+    "rowtemplate": "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s36bc0910fbd4744acd46aa2263dbc2a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer0f7a2b74862b742": "CopyFlexContainer0f7a2b74862b742",
+        "CopyflxTemplateRowConfigurationAlertsContainer04fbe30676a584c": "CopyflxTemplateRowConfigurationAlertsContainer04fbe30676a584c",
+        "CopyflxTemplateRowConfigurationAlertsContainer0555522c60d9140": "CopyflxTemplateRowConfigurationAlertsContainer0555522c60d9140",
+        "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e": "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e",
+        "FlexContainer027b38e27710d47": "FlexContainer027b38e27710d47",
+        "FlexContainer04b1e195e498540": "FlexContainer04b1e195e498540",
+        "FlexContainer0fb1e2f7758184e": "FlexContainer0fb1e2f7758184e",
+        "imgstatus": "imgstatus",
+        "labeValuelBedType": "labeValuelBedType",
+        "labeValuelCondition": "labeValuelCondition",
+        "labeValuelname": "labeValuelname",
+        "labelAgeSex": "labelAgeSex",
+        "labelRefFac": "labelRefFac",
+        "labelSepsisScreeing": "labelSepsisScreeing",
+        "labelValueAdm": "labelValueAdm",
+        "labelValueAge": "labelValueAge",
+        "labelValueChiefComplaint": "labelValueChiefComplaint",
+        "labelValueReferringFacility": "labelValueReferringFacility",
+        "labelValueSepsisScreening": "labelValueSepsisScreening",
+        "lableRef": "lableRef"
+    },
+    "zindex": 1
+}

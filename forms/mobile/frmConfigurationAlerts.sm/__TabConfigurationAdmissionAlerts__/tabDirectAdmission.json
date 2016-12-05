@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizTab",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_image_": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s58bc26002454e1292df0094e7c92645",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "children": [
+        "flxPsychAdmissionContainer"
+    ],
+    "clipbounds": true,
+    "containerweight": 93,
+    "defaultunit": 3,
+    "enablescrolling": true,
+    "id": "tabDirectAdmission",
+    "ide_onInit": "AS_NamedActions_11b6d54803234f5593c17f17d8ede9f7",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "6437759e4cd7480eb9906562f62367ce",
+    "layouttype": 3,
+    "margininpixel": false,
+    "name": "kony.ui.Tab",
+    "paddinginpixel": false,
+    "parent": "TabConfigurationAdmissionAlerts",
+    "pf": "frmConfigurationAlerts",
+    "scrolldirection": 1,
+    "snapgridsize": "10",
+    "snaptogrid": true,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "tabname": "Direct Admission",
+    "tabpaneId": "TabConfigurationAdmissionAlerts",
+    "wType": "Tab",
+    "winphone8": {
+        "render": false
+    }
+}

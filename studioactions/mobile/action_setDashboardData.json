@@ -1,0 +1,22 @@
+{
+    "AS_NamedActions_39f4aa24a2004cdeb65ac547cbe7ceee": {
+        "id": "AS_NamedActions_39f4aa24a2004cdeb65ac547cbe7ceee",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_setDashboardData",
+        "params": [{
+            "name": "eventObject",
+            "datatype": "string"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___0b5f349bf13f4a44a77e036ab4673f44",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setDashBoardData",
+            "display": "setDashBoardData",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

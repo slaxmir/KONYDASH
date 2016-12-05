@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_d2dc0f6b70824b2d9f5642e525a43317": {
+        "id": "AS_NamedActions_d2dc0f6b70824b2d9f5642e525a43317",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmitFormPatientDiagnosis",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9e27b93b5f9c4b18ae77c54425b56961",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmitFormInfectiousPatientDiagnosis",
+            "display": "showAdmitFormInfectiousPatientDiagnosis",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

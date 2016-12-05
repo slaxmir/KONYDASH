@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Body mass index-BMI(Lb/In^2)",
+    "_skin_": "sfa00918b22b4161b14a9818cfd2241a",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "tfBodyMass",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "c9e2ad24b13c4a5d9e68063d15f01032",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxContainerVitalSignsAdmitForm",
+    "pf": "frmAdmitForm",
+    "securetextentry": false,
+    "tabpaneId": "admitFormTabSection",
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

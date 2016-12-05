@@ -1,0 +1,17 @@
+{
+    "AS__ab68fcbd80b043d084df39cb1b3dfe12": {
+        "id": "AS__ab68fcbd80b043d084df39cb1b3dfe12",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_tapToSelectImagingTestsMRI",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___277287bbec3c401aa707ac421bcc860f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSegmentImagingTestsMRI",
+            "display": "tapToSegmentImagingTestsMRI",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

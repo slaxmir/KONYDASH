@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_68503974481a415db5ecd3e31fe5f652": {
+        "id": "AS_FlexContainer_68503974481a415db5ecd3e31fe5f652",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmissionDetails",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAdmission",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6c615efc359e439e90d51933eeb167d0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___abaf448a80b94b1193417f6bc908ea50",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmissionDetails",
+            "display": "showAdmissionDetails",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s071dae1fd8e417182cf8d194bdd2ef0",
+    "_top_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_width_": {
+        "type": "number",
+        "value": "260"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": "159"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmLogin",
+        "platform": "spaan",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "groupcells": false,
+    "id": "ListBox046ea5cabb0b44f",
+    "info": null,
+    "isvisible": true,
+    "kuid": "7950509844f0455197703309e66fefd5",
+    "masterdata": [
+        [
+            "lb1",
+            "Baptist Health of Southeast Texas"
+        ],
+        [
+            "lb2",
+            "College Station Medical Center"
+        ],
+        [
+            "lb3",
+            "Cypress Fairbanks Medical Center"
+        ],
+        [
+            "Key221",
+            "Dignity Healthcare"
+        ],
+        [
+            "Key809",
+            "HCA Continental"
+        ],
+        [
+            "Key465",
+            "HCA Gulf Coast"
+        ],
+        [
+            "Key214",
+            "HCA North Texas"
+        ],
+        [
+            "Key506",
+            "NIX Health"
+        ],
+        [
+            "Key501",
+            "Tomball Regional Medical Center"
+        ],
+        [
+            "Key202",
+            "Valley Baptist Medical Center"
+        ],
+        [
+            "Key558",
+            "AM Module"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flexForm",
+    "pf": "frmLogin",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Baptist Health of Southeast Texas"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

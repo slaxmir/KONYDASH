@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "s082eb711f8643d6bf3c2031f0c90278",
+    "_src_": "arrow.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmAdmitForm",
+        "platform": "android",
+        "tabpaneID": "",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgCollapseArrowAdmitformVitalSigns",
+    "ide_onTouchStart": "AS_NamedActions_ce830ea07f2b4479a29c460e4393818e",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "dc90e3d11c984ccf854777235b2e9235",
+    "name": "kony.ui.Image2",
+    "parent": "flexContainerVitalSigns",
+    "pf": "frmAdmitForm",
+    "srcType": 1,
+    "tabpaneId": "admitFormTabSection",
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

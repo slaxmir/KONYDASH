@@ -1,0 +1,1508 @@
+	
+[Mon Oct 17 2016 11:58:59 GMT+0530:764]:START EXPORT TOTAL	
+[Mon Oct 17 2016 11:58:59 GMT+0530:790]:START COLLECTING LAYERS	
+[Mon Oct 17 2016 11:58:59 GMT+0530:790]:(duration: 0ms)FINISH COLLECTING LAYERS	
+[Mon Oct 17 2016 11:58:59 GMT+0530:791]:START CREATING PROJECT:	
+[Mon Oct 17 2016 11:59:00 GMT+0530:471]:START COPY FOLDER: 	
+    From: C:/Program Files (x86)/Common Files/Adobe/CEP/extensions\com.kony.visualizer.PSExtension\jsx\defaultProject	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:471]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions	
+[Mon Oct 17 2016 11:59:00 GMT+0530:471]:(duration: 0ms)Folder: actions already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:472]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\actions	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:473]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/common	
+[Mon Oct 17 2016 11:59:00 GMT+0530:473]:(duration: 0ms)Folder: common already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:473]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\actions\common	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/common	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:473]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\actions\common\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:473]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:473]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\actions\common	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/common	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:474]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/desktop	
+[Mon Oct 17 2016 11:59:00 GMT+0530:474]:(duration: 0ms)Folder: desktop already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:474]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\actions\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:474]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\actions\desktop\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:491]:(duration: 18ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:492]:(duration: 18ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\actions\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:492]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/mobile	
+[Mon Oct 17 2016 11:59:00 GMT+0530:492]:(duration: 0ms)Folder: mobile already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:492]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\actions\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:492]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\actions\mobile\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:493]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:493]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\actions\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:493]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/tablet	
+[Mon Oct 17 2016 11:59:00 GMT+0530:493]:(duration: 0ms)Folder: tablet already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:493]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\actions\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:493]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\actions\tablet\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:493]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:494]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\actions\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:494]:(duration: 21ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\actions	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/actions	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:494]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations	
+[Mon Oct 17 2016 11:59:00 GMT+0530:494]:(duration: 0ms)Folder: annotations already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:495]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\annotations	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:495]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations/desktop	
+[Mon Oct 17 2016 11:59:00 GMT+0530:495]:(duration: 0ms)Folder: desktop already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:495]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\annotations\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:495]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\annotations\desktop\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:496]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:496]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\annotations\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:496]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations/mobile	
+[Mon Oct 17 2016 11:59:00 GMT+0530:496]:(duration: 0ms)Folder: mobile already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:496]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\annotations\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:496]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\annotations\mobile\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:497]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:497]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\annotations\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:497]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations/tablet	
+[Mon Oct 17 2016 11:59:00 GMT+0530:497]:(duration: 0ms)Folder: tablet already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:497]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\annotations\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:498]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\annotations\tablet\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:498]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:498]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\annotations\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:498]:(duration: 3ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\annotations	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/annotations	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:498]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms	
+[Mon Oct 17 2016 11:59:00 GMT+0530:498]:(duration: 0ms)Folder: forms already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:499]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\forms	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:499]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/desktop	
+[Mon Oct 17 2016 11:59:00 GMT+0530:499]:(duration: 0ms)Folder: desktop already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:500]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\forms\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:500]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\forms\desktop\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:500]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:500]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\forms\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:500]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile	
+[Mon Oct 17 2016 11:59:00 GMT+0530:500]:(duration: 0ms)Folder: mobile already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:501]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\forms\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:501]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\forms\mobile\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:501]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:501]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\forms\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:501]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/tablet	
+[Mon Oct 17 2016 11:59:00 GMT+0530:501]:(duration: 0ms)Folder: tablet already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:501]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\forms\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:502]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\forms\tablet\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:525]:(duration: 23ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:525]:(duration: 24ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\forms\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:525]:(duration: 26ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\forms	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:525]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/masters	
+[Mon Oct 17 2016 11:59:00 GMT+0530:525]:(duration: 0ms)Folder: masters already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:526]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\masters	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/masters	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:526]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\masters\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:526]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:526]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\masters	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/masters	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:526]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/modules	
+[Mon Oct 17 2016 11:59:00 GMT+0530:526]:(duration: 0ms)Folder: modules already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:527]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\modules	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/modules	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:527]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\modules\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:527]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:527]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\modules	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/modules	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:527]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups	
+[Mon Oct 17 2016 11:59:00 GMT+0530:527]:(duration: 0ms)Folder: popups already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:528]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\popups	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:528]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups/desktop	
+[Mon Oct 17 2016 11:59:00 GMT+0530:528]:(duration: 0ms)Folder: desktop already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:529]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\popups\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:529]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\popups\desktop\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:529]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:529]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\popups\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:529]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups/mobile	
+[Mon Oct 17 2016 11:59:00 GMT+0530:529]:(duration: 0ms)Folder: mobile already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:530]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\popups\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:530]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\popups\mobile\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:537]:(duration: 7ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:537]:(duration: 7ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\popups\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:537]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups/tablet	
+[Mon Oct 17 2016 11:59:00 GMT+0530:537]:(duration: 0ms)Folder: tablet already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:537]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\popups\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:537]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\popups\tablet\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:538]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:538]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\popups\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:538]:(duration: 10ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\popups	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/popups	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:538]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources	
+[Mon Oct 17 2016 11:59:00 GMT+0530:538]:(duration: 0ms)Folder: resources already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:540]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:540]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/common	
+[Mon Oct 17 2016 11:59:00 GMT+0530:540]:(duration: 0ms)Folder: common already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:543]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\common	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/common	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:543]:START COPYING FILE: calbtn.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\calbtn.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:544]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:544]:START COPYING FILE: imagedrag.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\imagedrag.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:544]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:544]:START COPYING FILE: option1.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\option1.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:545]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:545]:START COPYING FILE: option2.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\option2.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:546]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:546]:START COPYING FILE: option3.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\option3.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:546]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:546]:START COPYING FILE: option4.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\option4.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:547]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:547]:START COPYING FILE: pageOffDot.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\pageOffDot.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:548]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:548]:START COPYING FILE: pageOnDot.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\pageOnDot.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:548]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:548]:START COPYING FILE: pinb.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\pinb.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:549]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:549]:START COPYING FILE: slider.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\slider.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:549]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:549]:START COPYING FILE: slider_android.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\slider_android.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:550]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:550]:START COPYING FILE: slider_ios7.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\slider_ios7.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:551]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:551]:START COPYING FILE: zoomout.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common\zoomout.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:551]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:551]:(duration: 8ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\common	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/common	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:551]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/desktop	
+[Mon Oct 17 2016 11:59:00 GMT+0530:552]:(duration: 1ms)Folder: desktop already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:552]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:552]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/desktop/common	
+[Mon Oct 17 2016 11:59:00 GMT+0530:552]:(duration: 0ms)Folder: common already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:554]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\desktop\common	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/desktop/common	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:554]:START COPYING FILE: close.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\desktop\common\close.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:554]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:554]:START COPYING FILE: defvideoposter.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\desktop\common\defvideoposter.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:555]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:555]:START COPYING FILE: max.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\desktop\common\max.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:556]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:556]:START COPYING FILE: min.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\desktop\common\min.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:556]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:556]:START COPYING FILE: tableftarrow.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\desktop\common\tableftarrow.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:557]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:557]:START COPYING FILE: tabrightarrow.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\desktop\common\tabrightarrow.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:557]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:557]:(duration: 3ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\desktop\common	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/desktop/common	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:557]:(duration: 5ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:558]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts	
+[Mon Oct 17 2016 11:59:00 GMT+0530:558]:(duration: 0ms)Folder: fonts already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:562]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:562]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Android	
+[Mon Oct 17 2016 11:59:00 GMT+0530:562]:(duration: 0ms)Folder: Android already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:563]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\Android	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Android	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:563]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\Android\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:563]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:563]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\Android	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Android	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:563]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Android%20Tablet	
+[Mon Oct 17 2016 11:59:00 GMT+0530:563]:(duration: 0ms)Folder: Android%20Tablet already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:564]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\Android Tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Android%20Tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:564]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\Android Tablet\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:565]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:565]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\Android Tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Android%20Tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:565]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Desktop_web	
+[Mon Oct 17 2016 11:59:00 GMT+0530:565]:(duration: 0ms)Folder: Desktop_web already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:565]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\Desktop_web	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Desktop_web	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:565]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\Desktop_web\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:566]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:566]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\Desktop_web	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Desktop_web	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:566]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/iPad	
+[Mon Oct 17 2016 11:59:00 GMT+0530:566]:(duration: 0ms)Folder: iPad already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:566]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\iPad	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/iPad	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:566]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\iPad\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:567]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:567]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\iPad	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/iPad	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:567]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/iPhone	
+[Mon Oct 17 2016 11:59:00 GMT+0530:567]:(duration: 0ms)Folder: iPhone already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:567]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\iPhone	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/iPhone	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:567]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\iPhone\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:568]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:568]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\iPhone	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/iPhone	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:568]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Kiosk	
+[Mon Oct 17 2016 11:59:00 GMT+0530:568]:(duration: 0ms)Folder: Kiosk already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:568]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\Kiosk	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Kiosk	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:568]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\Kiosk\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:569]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:569]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\Kiosk	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Kiosk	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:569]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Android	
+[Mon Oct 17 2016 11:59:00 GMT+0530:569]:(duration: 0ms)Folder: SPA%20Android already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:570]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA Android	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Android	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:570]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\SPA Android\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:570]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:570]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA Android	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Android	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:570]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Android%20Tablet	
+[Mon Oct 17 2016 11:59:00 GMT+0530:570]:(duration: 0ms)Folder: SPA%20Android%20Tablet already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:571]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA Android Tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Android%20Tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:571]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\SPA Android Tablet\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:571]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:571]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA Android Tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Android%20Tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:571]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Blackberry	
+[Mon Oct 17 2016 11:59:00 GMT+0530:571]:(duration: 0ms)Folder: SPA%20Blackberry already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:572]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA Blackberry	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Blackberry	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:572]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\SPA Blackberry\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:572]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:572]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA Blackberry	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Blackberry	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:572]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20iPad	
+[Mon Oct 17 2016 11:59:00 GMT+0530:572]:(duration: 0ms)Folder: SPA%20iPad already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:573]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA iPad	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20iPad	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:573]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\SPA iPad\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:573]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:573]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA iPad	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20iPad	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:573]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20iPhone	
+[Mon Oct 17 2016 11:59:00 GMT+0530:574]:(duration: 0ms)Folder: SPA%20iPhone already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:574]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA iPhone	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20iPhone	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:574]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\SPA iPhone\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:574]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:574]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA iPhone	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20iPhone	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:575]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Windows	
+[Mon Oct 17 2016 11:59:00 GMT+0530:575]:(duration: 0ms)Folder: SPA%20Windows already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:575]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA Windows	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Windows	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:575]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\SPA Windows\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:575]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:575]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA Windows	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Windows	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:576]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Windows%20Tablet	
+[Mon Oct 17 2016 11:59:00 GMT+0530:576]:(duration: 0ms)Folder: SPA%20Windows%20Tablet already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:576]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA Windows Tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Windows%20Tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:576]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\SPA Windows Tablet\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:577]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:577]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\SPA Windows Tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/SPA%20Windows%20Tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:577]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Windows8	
+[Mon Oct 17 2016 11:59:00 GMT+0530:577]:(duration: 0ms)Folder: Windows8 already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:578]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\Windows8	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Windows8	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:578]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\Windows8\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:579]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:579]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\Windows8	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/Windows8	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:579]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/WinPhone8	
+[Mon Oct 17 2016 11:59:00 GMT+0530:579]:(duration: 0ms)Folder: WinPhone8 already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:580]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\WinPhone8	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/WinPhone8	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:580]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\fonts\WinPhone8\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:580]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:580]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts\WinPhone8	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts/WinPhone8	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:580]:(duration: 18ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\fonts	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/fonts	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:580]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile	
+[Mon Oct 17 2016 11:59:00 GMT+0530:580]:(duration: 0ms)Folder: mobile already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:581]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:581]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/native	
+[Mon Oct 17 2016 11:59:00 GMT+0530:581]:(duration: 0ms)Folder: native already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:581]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\native	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/native	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:582]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/native/iphone	
+[Mon Oct 17 2016 11:59:00 GMT+0530:582]:(duration: 0ms)Folder: iphone already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:584]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\native\iphone	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/native/iphone	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:584]:START COPYING FILE: option1@2x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\native\iphone\option1@2x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:585]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:585]:START COPYING FILE: option1@3x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\native\iphone\option1@3x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:585]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:585]:START COPYING FILE: option2@2x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\native\iphone\option2@2x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:586]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:586]:START COPYING FILE: option2@3x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\native\iphone\option2@3x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:587]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:587]:START COPYING FILE: option3@2x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\native\iphone\option3@2x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:587]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:588]:START COPYING FILE: option3@3x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\native\iphone\option3@3x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:588]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:588]:START COPYING FILE: option4@2x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\native\iphone\option4@2x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:589]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:589]:START COPYING FILE: option4@3x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\native\iphone\option4@3x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:589]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:590]:(duration: 6ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\native\iphone	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/native/iphone	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:590]:(duration: 9ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\native	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/native	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:590]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web	
+[Mon Oct 17 2016 11:59:00 GMT+0530:590]:(duration: 0ms)Folder: web already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:591]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\web	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:591]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spaandroid	
+[Mon Oct 17 2016 11:59:00 GMT+0530:591]:(duration: 0ms)Folder: spaandroid already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:592]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\web\spaandroid	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spaandroid	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:592]:START COPYING FILE: defvideoposter.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\web\spaandroid\defvideoposter.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:592]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:592]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\web\spaandroid	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spaandroid	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:592]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spablackberry	
+[Mon Oct 17 2016 11:59:00 GMT+0530:593]:(duration: 1ms)Folder: spablackberry already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:593]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\web\spablackberry	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spablackberry	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:593]:START COPYING FILE: defvideoposter.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\web\spablackberry\defvideoposter.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:594]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:594]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\web\spablackberry	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spablackberry	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:594]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spaiphone	
+[Mon Oct 17 2016 11:59:00 GMT+0530:594]:(duration: 0ms)Folder: spaiphone already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:595]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\web\spaiphone	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spaiphone	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:595]:START COPYING FILE: defvideoposter.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\web\spaiphone\defvideoposter.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:596]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:596]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\web\spaiphone	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spaiphone	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:596]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spawinphone8	
+[Mon Oct 17 2016 11:59:00 GMT+0530:596]:(duration: 0ms)Folder: spawinphone8 already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:597]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\web\spawinphone8	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spawinphone8	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:597]:START COPYING FILE: defvideoposter.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\mobile\web\spawinphone8\defvideoposter.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:597]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:597]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\web\spawinphone8	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web/spawinphone8	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:597]:(duration: 6ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile\web	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile/web	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:598]:(duration: 17ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:598]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet	
+[Mon Oct 17 2016 11:59:00 GMT+0530:598]:(duration: 0ms)Folder: tablet already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:598]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:598]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/native	
+[Mon Oct 17 2016 11:59:00 GMT+0530:599]:(duration: 1ms)Folder: native already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:599]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\native	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/native	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:599]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/native/ipad	
+[Mon Oct 17 2016 11:59:00 GMT+0530:599]:(duration: 0ms)Folder: ipad already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:601]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\native\ipad	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/native/ipad	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:601]:START COPYING FILE: option1@2x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\tablet\native\ipad\option1@2x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:602]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:602]:START COPYING FILE: option1@3x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\tablet\native\ipad\option1@3x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:602]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:602]:START COPYING FILE: option2@2x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\tablet\native\ipad\option2@2x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:603]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:603]:START COPYING FILE: option2@3x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\tablet\native\ipad\option2@3x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:603]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:603]:START COPYING FILE: option3@2x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\tablet\native\ipad\option3@2x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:604]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:604]:START COPYING FILE: option3@3x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\tablet\native\ipad\option3@3x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:604]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:604]:START COPYING FILE: option4@2x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\tablet\native\ipad\option4@2x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:605]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:605]:START COPYING FILE: option4@3x.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\tablet\native\ipad\option4@3x.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:605]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:605]:(duration: 4ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\native\ipad	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/native/ipad	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:606]:(duration: 7ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\native	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/native	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:606]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web	
+[Mon Oct 17 2016 11:59:00 GMT+0530:606]:(duration: 0ms)Folder: web already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:607]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\web	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:607]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web/spaandroidtab	
+[Mon Oct 17 2016 11:59:00 GMT+0530:607]:(duration: 0ms)Folder: spaandroidtab already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:607]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\web\spaandroidtab	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web/spaandroidtab	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:607]:START COPYING FILE: defvideoposter.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\tablet\web\spaandroidtab\defvideoposter.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:608]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:608]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\web\spaandroidtab	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web/spaandroidtab	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:608]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web/spaipad	
+[Mon Oct 17 2016 11:59:00 GMT+0530:608]:(duration: 0ms)Folder: spaipad already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:609]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\web\spaipad	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web/spaipad	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:609]:START COPYING FILE: defvideoposter.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\tablet\web\spaipad\defvideoposter.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:610]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:610]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\web\spaipad	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web/spaipad	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:610]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web/spawindowstablet	
+[Mon Oct 17 2016 11:59:00 GMT+0530:610]:(duration: 0ms)Folder: spawindowstablet already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:611]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\web\spawindowstablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web/spawindowstablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:611]:START COPYING FILE: defvideoposter.png	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\tablet\web\spawindowstablet\defvideoposter.png	
+[Mon Oct 17 2016 11:59:00 GMT+0530:612]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:612]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\web\spawindowstablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web/spawindowstablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:612]:(duration: 5ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet\web	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet/web	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:612]:(duration: 14ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:612]:(duration: 72ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\resources	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/resources	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:612]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates	
+[Mon Oct 17 2016 11:59:00 GMT+0530:612]:(duration: 0ms)Folder: templates already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:613]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:613]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop	
+[Mon Oct 17 2016 11:59:00 GMT+0530:613]:(duration: 0ms)Folder: desktop already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:616]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:616]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/contextmenus	
+[Mon Oct 17 2016 11:59:00 GMT+0530:616]:(duration: 0ms)Folder: contextmenus already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:616]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\contextmenus	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/contextmenus	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:616]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\desktop\contextmenus\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:617]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:617]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\contextmenus	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/contextmenus	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:617]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/footers	
+[Mon Oct 17 2016 11:59:00 GMT+0530:617]:(duration: 0ms)Folder: footers already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:617]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\footers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/footers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:617]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\desktop\footers\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:618]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:618]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\footers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/footers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:618]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/grids	
+[Mon Oct 17 2016 11:59:00 GMT+0530:618]:(duration: 0ms)Folder: grids already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:618]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\grids	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/grids	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:618]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\desktop\grids\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:619]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:619]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\grids	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/grids	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:619]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/headers	
+[Mon Oct 17 2016 11:59:00 GMT+0530:619]:(duration: 0ms)Folder: headers already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:619]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\headers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/headers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:619]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\desktop\headers\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:620]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:620]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\headers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/headers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:620]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/maps	
+[Mon Oct 17 2016 11:59:00 GMT+0530:620]:(duration: 0ms)Folder: maps already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:621]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\maps	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/maps	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:621]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\desktop\maps\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:621]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:622]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\maps	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/maps	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:622]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/menus	
+[Mon Oct 17 2016 11:59:00 GMT+0530:622]:(duration: 0ms)Folder: menus already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:622]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\menus	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/menus	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:622]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\desktop\menus\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:622]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:623]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\menus	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/menus	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:623]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/segments	
+[Mon Oct 17 2016 11:59:00 GMT+0530:623]:(duration: 0ms)Folder: segments already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:623]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\segments	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/segments	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:623]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\desktop\segments\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:624]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:624]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\segments	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/segments	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:624]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/tabheaders	
+[Mon Oct 17 2016 11:59:00 GMT+0530:624]:(duration: 0ms)Folder: tabheaders already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:624]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\tabheaders	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/tabheaders	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:624]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\desktop\tabheaders\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:625]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:625]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop\tabheaders	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop/tabheaders	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:625]:(duration: 9ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\desktop	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/desktop	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:625]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile	
+[Mon Oct 17 2016 11:59:00 GMT+0530:625]:(duration: 0ms)Folder: mobile already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:627]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:627]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/footers	
+[Mon Oct 17 2016 11:59:00 GMT+0530:627]:(duration: 0ms)Folder: footers already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:628]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile\footers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/footers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:628]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\mobile\footers\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:628]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:629]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile\footers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/footers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:629]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/gridcalendars	
+[Mon Oct 17 2016 11:59:00 GMT+0530:629]:(duration: 0ms)Folder: gridcalendars already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:629]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile\gridcalendars	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/gridcalendars	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:629]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\mobile\gridcalendars\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:630]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:630]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile\gridcalendars	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/gridcalendars	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:630]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/headers	
+[Mon Oct 17 2016 11:59:00 GMT+0530:630]:(duration: 0ms)Folder: headers already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:630]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile\headers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/headers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:630]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\mobile\headers\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:631]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:631]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile\headers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/headers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:631]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/maps	
+[Mon Oct 17 2016 11:59:00 GMT+0530:631]:(duration: 0ms)Folder: maps already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:631]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile\maps	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/maps	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:632]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\mobile\maps\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:632]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:632]:(duration: 1ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile\maps	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/maps	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:632]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/segments	
+[Mon Oct 17 2016 11:59:00 GMT+0530:632]:(duration: 0ms)Folder: segments already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:633]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile\segments	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/segments	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:633]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\mobile\segments\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:633]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:633]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile\segments	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile/segments	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:633]:(duration: 6ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\mobile	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/mobile	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:633]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet	
+[Mon Oct 17 2016 11:59:00 GMT+0530:633]:(duration: 0ms)Folder: tablet already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:635]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:635]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/footers	
+[Mon Oct 17 2016 11:59:00 GMT+0530:635]:(duration: 0ms)Folder: footers already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:636]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet\footers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/footers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:636]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\tablet\footers\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:636]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:636]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet\footers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/footers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:636]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/gridcalendars	
+[Mon Oct 17 2016 11:59:00 GMT+0530:636]:(duration: 0ms)Folder: gridcalendars already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:637]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet\gridcalendars	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/gridcalendars	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:637]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\tablet\gridcalendars\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:637]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:637]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet\gridcalendars	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/gridcalendars	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:637]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/headers	
+[Mon Oct 17 2016 11:59:00 GMT+0530:637]:(duration: 0ms)Folder: headers already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:638]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet\headers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/headers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:638]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\tablet\headers\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:638]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:638]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet\headers	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/headers	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:638]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/maps	
+[Mon Oct 17 2016 11:59:00 GMT+0530:638]:(duration: 0ms)Folder: maps already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:639]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet\maps	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/maps	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:639]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\tablet\maps\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:639]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:639]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet\maps	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/maps	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:639]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/segments	
+[Mon Oct 17 2016 11:59:00 GMT+0530:639]:(duration: 1ms)Folder: segments already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:640]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet\segments	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/segments	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:640]:START COPYING FILE: .gitkeep	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\templates\tablet\segments\.gitkeep	
+[Mon Oct 17 2016 11:59:00 GMT+0530:640]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:640]:(duration: 0ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet\segments	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet/segments	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:640]:(duration: 5ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates\tablet	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates/tablet	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:641]:(duration: 28ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\templates	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/templates	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:641]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes	
+[Mon Oct 17 2016 11:59:00 GMT+0530:641]:(duration: 0ms)Folder: themes already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:641]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\themes	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:641]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:00 GMT+0530:641]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:00 GMT+0530:645]:START COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\themes\defaultTheme	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:645]:START COPYING FILE: slButtonGlossBlue.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slButtonGlossBlue.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:648]:(duration: 3ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:648]:START COPYING FILE: slButtonGlossRed.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slButtonGlossRed.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:650]:(duration: 2ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:650]:START COPYING FILE: slDynamicNotificationForm.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slDynamicNotificationForm.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:651]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:651]:START COPYING FILE: slFbox.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slFbox.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:651]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:651]:START COPYING FILE: slForm.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slForm.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:652]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:652]:START COPYING FILE: slFSbox.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slFSbox.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:652]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:652]:START COPYING FILE: slImage.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slImage.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:654]:(duration: 2ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:654]:START COPYING FILE: slLabel.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slLabel.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:654]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:655]:START COPYING FILE: slPopup.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slPopup.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:657]:(duration: 2ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:657]:START COPYING FILE: slRichText.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slRichText.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:658]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:658]:START COPYING FILE: slStaticNotificationForm.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slStaticNotificationForm.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:658]:(duration: 0ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:658]:START COPYING FILE: slTextArea.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slTextArea.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:659]:(duration: 1ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:659]:START COPYING FILE: slTextBox.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slTextBox.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:661]:(duration: 2ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:661]:START COPYING FILE: slTitleBar.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slTitleBar.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:663]:(duration: 2ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:663]:START COPYING FILE: slWatchForm.json	
+    to: D:\Sindhuri.sms\kony_workspace\KONYDASH\themes\defaultTheme\slWatchForm.json	
+[Mon Oct 17 2016 11:59:00 GMT+0530:665]:(duration: 2ms)successfully copied	
+[Mon Oct 17 2016 11:59:00 GMT+0530:665]:(duration: 20ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\themes\defaultTheme	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:665]:(duration: 24ms)END COPY FOLDER: 	
+    From: C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\com.kony.visualizer.PSExtension\jsx\defaultProject\themes	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:665]:(duration: 195ms)END COPY FOLDER: 	
+    From: C:/Program Files (x86)/Common Files/Adobe/CEP/extensions\com.kony.visualizer.PSExtension\jsx\defaultProject	
+        folder exists: true	
+    To: D:/Sindhuri.sms/kony_workspace/KONYDASH	
+        folder exists: true	
+[Mon Oct 17 2016 11:59:00 GMT+0530:700]:START CREATING WIDGET: From layer: Dash Admit Form	
+[Mon Oct 17 2016 11:59:00 GMT+0530:705]:START CREATING WIDGET: From layer: 1	
+[Mon Oct 17 2016 11:59:00 GMT+0530:706]:START CREATING WIDGET: From layer: Select Clinic copy	
+[Mon Oct 17 2016 11:59:00 GMT+0530:708]:(duration: 2ms)FINISH CREATING WIDGET: From layer: Select Clinic copy	
+[Mon Oct 17 2016 11:59:00 GMT+0530:708]:START CREATING WIDGET: From layer: Direct Admit Form copy	
+[Mon Oct 17 2016 11:59:00 GMT+0530:710]:(duration: 2ms)FINISH CREATING WIDGET: From layer: Direct Admit Form copy	
+[Mon Oct 17 2016 11:59:00 GMT+0530:711]:START CREATING WIDGET: From layer: Please select Clinic and Form type	
+[Mon Oct 17 2016 11:59:00 GMT+0530:712]:(duration: 1ms)FINISH CREATING WIDGET: From layer: Please select Clinic and Form type	
+[Mon Oct 17 2016 11:59:00 GMT+0530:713]:START CREATING WIDGET: From layer: Vector Smart Object	
+[Mon Oct 17 2016 11:59:00 GMT+0530:714]:(duration: 1ms)FINISH CREATING WIDGET: From layer: Vector Smart Object	
+[Mon Oct 17 2016 11:59:00 GMT+0530:715]:START CREATING WIDGET: From layer: report copy 2	
+[Mon Oct 17 2016 11:59:00 GMT+0530:715]:(duration: 0ms)FINISH CREATING WIDGET: From layer: report copy 2	
+[Mon Oct 17 2016 11:59:00 GMT+0530:716]:START CREATING WIDGET: From layer: Select Form Type copy	
+[Mon Oct 17 2016 11:59:00 GMT+0530:718]:(duration: 2ms)FINISH CREATING WIDGET: From layer: Select Form Type copy	
+[Mon Oct 17 2016 11:59:00 GMT+0530:718]:START CREATING WIDGET: From layer: Shape 11 copy 9	
+[Mon Oct 17 2016 11:59:00 GMT+0530:719]:(duration: 1ms)FINISH CREATING WIDGET: From layer: Shape 11 copy 9	
+[Mon Oct 17 2016 11:59:00 GMT+0530:719]:START CREATING WIDGET: From layer: Shape 11 copy 8	
+[Mon Oct 17 2016 11:59:00 GMT+0530:721]:(duration: 2ms)FINISH CREATING WIDGET: From layer: Shape 11 copy 8	
+[Mon Oct 17 2016 11:59:00 GMT+0530:722]:START CREATING WIDGET: From layer: Shape 4 copy 2	
+[Mon Oct 17 2016 11:59:00 GMT+0530:723]:(duration: 1ms)FINISH CREATING WIDGET: From layer: Shape 4 copy 2	
+[Mon Oct 17 2016 11:59:00 GMT+0530:723]:START CREATING WIDGET: From layer: Layer 4 copy 2	
+[Mon Oct 17 2016 11:59:00 GMT+0530:725]:(duration: 2ms)FINISH CREATING WIDGET: From layer: Layer 4 copy 2	
+[Mon Oct 17 2016 11:59:00 GMT+0530:726]:START CREATING WIDGET: From layer: Layer 1 copy 2	
+[Mon Oct 17 2016 11:59:00 GMT+0530:727]:(duration: 1ms)FINISH CREATING WIDGET: From layer: Layer 1 copy 2	
+[Mon Oct 17 2016 11:59:00 GMT+0530:727]:START CREATING WIDGET: From layer: Rounded Rectangle 1	
+[Mon Oct 17 2016 11:59:00 GMT+0530:729]:(duration: 2ms)FINISH CREATING WIDGET: From layer: Rounded Rectangle 1	
+[Mon Oct 17 2016 11:59:00 GMT+0530:730]:START CREATING WIDGET: From layer: Layer 0 copy 3	
+[Mon Oct 17 2016 11:59:00 GMT+0530:732]:(duration: 2ms)FINISH CREATING WIDGET: From layer: Layer 0 copy 3	
+[Mon Oct 17 2016 11:59:00 GMT+0530:732]:(duration: 27ms)FINISH CREATING WIDGET: From layer: 1	
+[Mon Oct 17 2016 11:59:00 GMT+0530:732]:(duration: 32ms)FINISH CREATING WIDGET: From layer: Dash Admit Form	
+[Mon Oct 17 2016 11:59:00 GMT+0530:732]:(duration: 941ms)FINISH CREATING PROJECT:	
+[Mon Oct 17 2016 11:59:17 GMT+0530:549]:START SAVING TOTAL: 	
+[Mon Oct 17 2016 11:59:17 GMT+0530:551]:START SAVING FILE: projectProperties.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH	
+[Mon Oct 17 2016 11:59:17 GMT+0530:551]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH	
+[Mon Oct 17 2016 11:59:17 GMT+0530:551]:(duration: 0ms)Folder: KONYDASH already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:554]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:556]:START SAVING FILE: Directadmitform.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:556]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:556]:(duration: 0ms)created successfully	
+[Mon Oct 17 2016 11:59:17 GMT+0530:558]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:560]:START SAVING FILE: PhotoshopContainer.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:560]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:560]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:576]:(duration: 16ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:578]:START SAVING FILE: DashAdmitForm.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:578]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:578]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:580]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:581]:START SAVING FILE: exp1.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:582]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:582]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:584]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:585]:START SAVING FILE: SelectCliniccopy.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:585]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:585]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:587]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:589]:START SAVING FILE: DirectAdmitFormcopy.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:589]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:589]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:593]:(duration: 4ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:594]:START SAVING FILE: PleaseselectClinicandFormtype.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:595]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:595]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:597]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:598]:START SAVING FILE: VectorSmartObject.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:598]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:598]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:601]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:602]:START SAVING FILE: reportcopy2.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:602]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:602]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:604]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:605]:START SAVING FILE: SelectFormTypecopy.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:605]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:605]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:608]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:609]:START SAVING FILE: Shape11copy9.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:609]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:610]:(duration: 1ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:613]:(duration: 4ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:614]:START SAVING FILE: Shape11copy8.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:614]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:614]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:617]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:618]:START SAVING FILE: Shape4copy2.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:618]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:618]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:620]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:621]:START SAVING FILE: Layer4copy2.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:621]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:621]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:624]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:625]:START SAVING FILE: Layer1copy2.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:625]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:625]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:628]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:629]:START SAVING FILE: RoundedRectangle1.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:629]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:630]:(duration: 1ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:632]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:633]:START SAVING FILE: Layer0copy3.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:633]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/forms/mobile/Directadmitform.sm	
+[Mon Oct 17 2016 11:59:17 GMT+0530:633]:(duration: 0ms)Folder: Directadmitform.sm already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:635]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:636]:START SAVING FILE: skinfdb3bf32.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:636]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:636]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:638]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:639]:START SAVING FILE: skinfdb43462.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:639]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:639]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:641]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:642]:START SAVING FILE: skinfdb48281.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:642]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:642]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:645]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:645]:START SAVING FILE: skinfdb4d0a2.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:645]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:645]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:647]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:647]:START SAVING FILE: skinfdb4f7b2.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:647]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:648]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:650]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:650]:START SAVING FILE: skinfdb56ce0.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:650]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:650]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:652]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:653]:START SAVING FILE: skinfdb593f2.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:653]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:653]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:655]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:655]:START SAVING FILE: skinfdb5e210.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:655]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:655]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:658]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:658]:START SAVING FILE: skinfdb63030.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:658]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:658]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:660]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:661]:START SAVING FILE: skinfdb67e50.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:661]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:661]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:663]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:663]:START SAVING FILE: skinfdb6cc70.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:663]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:664]:(duration: 1ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:665]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:666]:START SAVING FILE: skinfdb71a90.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:666]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:666]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:668]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:668]:START SAVING FILE: skinfdb768b0.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:668]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH/themes/defaultTheme	
+[Mon Oct 17 2016 11:59:17 GMT+0530:668]:(duration: 0ms)Folder: defaultTheme already exists	
+[Mon Oct 17 2016 11:59:17 GMT+0530:670]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 11:59:17 GMT+0530:670]:START EXPORTING TO .PNG TOTAL: 	
+[Mon Oct 17 2016 11:59:17 GMT+0530:724]:START EXPORT AS .PNG: Layer: Vector Smart Object	
+[Mon Oct 17 2016 11:59:26 GMT+0530:648]:START CREATING NEW FOLDER: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common	
+[Mon Oct 17 2016 11:59:26 GMT+0530:649]:(duration: 1ms)Folder: common already exists	
+[Mon Oct 17 2016 11:59:27 GMT+0530:170]:(duration: 9446ms)FINISH EXPORT AS .PNG: Layer: Vector Smart Object	
+[Mon Oct 17 2016 11:59:27 GMT+0530:170]:START EXPORT AS .PNG: Layer: report copy 2	
+[Mon Oct 17 2016 11:59:34 GMT+0530:402]:START CREATING NEW FOLDER: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common	
+[Mon Oct 17 2016 11:59:34 GMT+0530:402]:(duration: 0ms)Folder: common already exists	
+[Mon Oct 17 2016 11:59:34 GMT+0530:895]:(duration: 7725ms)FINISH EXPORT AS .PNG: Layer: report copy 2	
+[Mon Oct 17 2016 11:59:34 GMT+0530:895]:START EXPORT AS .PNG: Layer: Shape 11 copy 9	
+[Mon Oct 17 2016 11:59:42 GMT+0530:987]:START CREATING NEW FOLDER: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common	
+[Mon Oct 17 2016 11:59:42 GMT+0530:987]:(duration: 0ms)Folder: common already exists	
+[Mon Oct 17 2016 11:59:43 GMT+0530:462]:(duration: 8567ms)FINISH EXPORT AS .PNG: Layer: Shape 11 copy 9	
+[Mon Oct 17 2016 11:59:43 GMT+0530:462]:START EXPORT AS .PNG: Layer: Shape 11 copy 8	
+[Mon Oct 17 2016 11:59:51 GMT+0530:617]:START CREATING NEW FOLDER: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common	
+[Mon Oct 17 2016 11:59:51 GMT+0530:617]:(duration: 0ms)Folder: common already exists	
+[Mon Oct 17 2016 11:59:52 GMT+0530:114]:(duration: 8652ms)FINISH EXPORT AS .PNG: Layer: Shape 11 copy 8	
+[Mon Oct 17 2016 11:59:52 GMT+0530:114]:START EXPORT AS .PNG: Layer: Shape 4 copy 2	
+[Mon Oct 17 2016 11:59:59 GMT+0530:287]:START CREATING NEW FOLDER: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common	
+[Mon Oct 17 2016 11:59:59 GMT+0530:287]:(duration: 0ms)Folder: common already exists	
+[Mon Oct 17 2016 11:59:59 GMT+0530:734]:(duration: 7620ms)FINISH EXPORT AS .PNG: Layer: Shape 4 copy 2	
+[Mon Oct 17 2016 11:59:59 GMT+0530:735]:START EXPORT AS .PNG: Layer: Layer 4 copy 2	
+[Mon Oct 17 2016 12:00:07 GMT+0530:859]:START CREATING NEW FOLDER: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common	
+[Mon Oct 17 2016 12:00:07 GMT+0530:859]:(duration: 0ms)Folder: common already exists	
+[Mon Oct 17 2016 12:00:08 GMT+0530:360]:(duration: 8625ms)FINISH EXPORT AS .PNG: Layer: Layer 4 copy 2	
+[Mon Oct 17 2016 12:00:08 GMT+0530:360]:START EXPORT AS .PNG: Layer: Layer 1 copy 2	
+[Mon Oct 17 2016 12:00:16 GMT+0530:152]:START CREATING NEW FOLDER: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common	
+[Mon Oct 17 2016 12:00:16 GMT+0530:152]:(duration: 0ms)Folder: common already exists	
+[Mon Oct 17 2016 12:00:16 GMT+0530:597]:(duration: 8237ms)FINISH EXPORT AS .PNG: Layer: Layer 1 copy 2	
+[Mon Oct 17 2016 12:00:16 GMT+0530:597]:START EXPORT AS .PNG: Layer: Rounded Rectangle 1	
+[Mon Oct 17 2016 12:00:23 GMT+0530:718]:START CREATING NEW FOLDER: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common	
+[Mon Oct 17 2016 12:00:23 GMT+0530:718]:(duration: 0ms)Folder: common already exists	
+[Mon Oct 17 2016 12:00:24 GMT+0530:217]:(duration: 7620ms)FINISH EXPORT AS .PNG: Layer: Rounded Rectangle 1	
+[Mon Oct 17 2016 12:00:24 GMT+0530:217]:START EXPORT AS .PNG: Layer: Layer 0 copy 3	
+[Mon Oct 17 2016 12:00:34 GMT+0530:676]:START CREATING NEW FOLDER: D:\Sindhuri.sms\kony_workspace\KONYDASH\resources\common	
+[Mon Oct 17 2016 12:00:34 GMT+0530:676]:(duration: 0ms)Folder: common already exists	
+[Mon Oct 17 2016 12:00:35 GMT+0530:225]:(duration: 11008ms)FINISH EXPORT AS .PNG: Layer: Layer 0 copy 3	
+[Mon Oct 17 2016 12:00:35 GMT+0530:268]:(duration: 77598ms)FINISH EXPORTING TO .PNG TOTAL: 	
+[Mon Oct 17 2016 12:00:35 GMT+0530:270]:START SAVING FILE: PSDSettingsFile.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH	
+[Mon Oct 17 2016 12:00:35 GMT+0530:270]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH	
+[Mon Oct 17 2016 12:00:35 GMT+0530:270]:(duration: 0ms)Folder: KONYDASH already exists	
+[Mon Oct 17 2016 12:00:35 GMT+0530:273]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 12:00:35 GMT+0530:284]:START SAVING FILE: PSDStructureFile.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH	
+[Mon Oct 17 2016 12:00:35 GMT+0530:284]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH	
+[Mon Oct 17 2016 12:00:35 GMT+0530:284]:(duration: 0ms)Folder: KONYDASH already exists	
+[Mon Oct 17 2016 12:00:35 GMT+0530:287]:(duration: 3ms)successfully saved	
+[Mon Oct 17 2016 12:00:35 GMT+0530:290]:START SAVING FILE: PSDMappingFile.json	
+    to: D:/Sindhuri.sms/kony_workspace/KONYDASH	
+[Mon Oct 17 2016 12:00:35 GMT+0530:290]:START CREATING NEW FOLDER: D:/Sindhuri.sms/kony_workspace/KONYDASH	
+[Mon Oct 17 2016 12:00:35 GMT+0530:290]:(duration: 0ms)Folder: KONYDASH already exists	
+[Mon Oct 17 2016 12:00:35 GMT+0530:292]:(duration: 2ms)successfully saved	
+[Mon Oct 17 2016 12:00:35 GMT+0530:306]:(duration: 77757ms)FINISH SAVING TOTAL: 	
+[Mon Oct 17 2016 12:00:35 GMT+0530:306]:(duration: 95542ms)FINISH EXPORT TOTAL

@@ -1,0 +1,148 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "labelAdmissionDetailsHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Admission Number"
+            },
+            "labelAdmissionDetailsValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "HCAFg082161223"
+            }
+        },
+        {
+            "labelAdmissionDetailsHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "First Name"
+            },
+            "labelAdmissionDetailsValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "John"
+            }
+        },
+        {
+            "labelAdmissionDetailsHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Last Name"
+            },
+            "labelAdmissionDetailsValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "R"
+            }
+        },
+        {
+            "labelAdmissionDetailsHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Age"
+            },
+            "labelAdmissionDetailsValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "30"
+            }
+        },
+        {
+            "labelAdmissionDetailsHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Gender"
+            },
+            "labelAdmissionDetailsValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Male"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "04",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegmentAdmissionDetails",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "418031c7f59c48bc90c4950584359028",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexContainerBodyAdmission",
+    "pf": "frmAdmission",
+    "retainselection": false,
+    "rowTemplateId": "252afd70c451473991a442cdf416ed92",
+    "rowcounter": 4,
+    "rowfocusskin": "sb6ad43583984d478b3dd90c47d4aac2",
+    "rowskin": "sb8a1606d29a408fae0767dae0cc6922",
+    "rowtemplate": "flxContainerSegAdmisionDetails",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s36bc0910fbd4744acd46aa2263dbc2a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "e3e3e300",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxContainerSegAdmisionDetails": "flxContainerSegAdmisionDetails",
+        "labelAdmissionDetailsHeading": "labelAdmissionDetailsHeading",
+        "labelAdmissionDetailsValue": "labelAdmissionDetailsValue"
+    },
+    "zindex": 1
+}

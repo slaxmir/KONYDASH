@@ -1,0 +1,17 @@
+{
+    "AS__eb076c1b4ca841ee901c63b3ad35a9b4": {
+        "id": "AS__eb076c1b4ca841ee901c63b3ad35a9b4",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_tapToSelectUrineTestsCA",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2094b33559bb4e5187c188968ced4e46",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSelectUrineTestsCA",
+            "display": "tapToSelectUrineTestsCA",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

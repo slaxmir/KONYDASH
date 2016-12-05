@@ -1,0 +1,224 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTable",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "col1": "2016-08-26",
+            "col2": "01:44 AM",
+            "col3": "Pending",
+            "col4": "",
+            "col5": "[Admission Initiated]",
+            "col6": "RC, Phani (Clinician)"
+        },
+        {
+            "col1": "2016-08-26",
+            "col2": "01:45 AM",
+            "col3": "Bed Unavailable",
+            "col4": "",
+            "col5": "HBC Notes abot bed status",
+            "col6": "HBC, Phani (HBC)"
+        },
+        {
+            "col1": "2016-08-26",
+            "col2": "01:45 AM",
+            "col3": "Pending",
+            "col4": "",
+            "col5": "Revoking - [Status Revoked from BedUnAvilable and moved to Pending",
+            "col6": "HBC, Phani (HBC)"
+        },
+        {
+            "col1": "2016-08-26",
+            "col2": "01:45 AM",
+            "col3": "Bed available",
+            "col4": "",
+            "col5": "HBC Notes abot bed status",
+            "col6": "HBC, Phani (HBC)"
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "479dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_top_": {
+        "type": "string",
+        "value": "923dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "cellBorder": "3px solid #5C5C5C",
+    "columnheadersconfig": [
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "DATE",
+            "columnHeaderType": "text",
+            "columnID": "col1",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 15,
+            "isColumnSortable": true,
+            "kuid": "8a55b7ee072649e7989eb05fb24037aa"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "TIME",
+            "columnHeaderType": "text",
+            "columnID": "col2",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 15,
+            "isColumnSortable": false,
+            "kuid": "758e95e9bf7f4a32b99fb7dcdc0697af"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "STATUS",
+            "columnHeaderType": "text",
+            "columnID": "col3",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 20,
+            "isColumnSortable": false,
+            "kuid": "b79433f244854fc1baf2850d01ef09b8"
+        },
+        {
+            "columnContentAlignment": "5",
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "Revoke",
+            "columnHeaderType": "text",
+            "columnID": "col4",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 15,
+            "isColumnSortable": false,
+            "kuid": "77780ac4e323402b8a6f8611c5373fb9"
+        },
+        {
+            "columnContentAlignment": "5",
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "ACTION NOTE",
+            "columnHeaderType": "text",
+            "columnID": "col5",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 20,
+            "isColumnSortable": false,
+            "kuid": "ac6a60b0b0ee4e1d95f58815a88632ae"
+        },
+        {
+            "columnContentAlignment": "5",
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "USER",
+            "columnHeaderType": "text",
+            "columnID": "col6",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 15,
+            "isColumnSortable": false,
+            "kuid": "45d07de6ebd042d896835b78a358bf23"
+        }
+    ],
+    "columnids": [
+        "col1",
+        "col2",
+        "col3",
+        "col4",
+        "col5",
+        "col6"
+    ],
+    "columntype": [
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmDischargeDetails",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "counter": "35",
+    "disabledSkins": {
+        "rowAlternateSkin": "s696d37bc45f43689900f3f6fe33fde6"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "gridlinestyle": "solid",
+    "headerskin": "s6038236966147fa8c65d65915fb2f54",
+    "id": "CopyDataGrid0da8b6203cf264e",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "ismultiselect": false,
+    "isvisible": true,
+    "kuid": "096c3e19724049d5918f50f3605641c1",
+    "name": "kony.ui.DataGrid",
+    "parent": "CopyFlexScrollContainer0b7ceed2b053542",
+    "pf": "frmDischargeDetails",
+    "rowcount": 4,
+    "rowfocusskin": "s45dca4c0f7c4ee1bd178602c79539a2",
+    "rownormalskin": "s9ea9f310e3a44d7b6be1e0080eb8123",
+    "selectedcellindex": null,
+    "selectedcellitem": null,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditem": null,
+    "selecteditems": null,
+    "showcolumnheaders": true,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "DataGrid",
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

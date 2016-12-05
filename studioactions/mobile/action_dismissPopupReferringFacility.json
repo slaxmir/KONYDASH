@@ -1,0 +1,19 @@
+{
+    "AS__a131499a2f264fdc8d2a48c7518f4f67": {
+        "id": "AS__a131499a2f264fdc8d2a48c7518f4f67",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_dismissPopupReferringFacility",
+        "params": [{
+            "name": "eventObject",
+            "datatype": "collection"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "DISMISS_POPUP___f8e22fff6a704b598b187aedccfa1cb8",
+            "type": "DISMISS_POPUP",
+            "popupId": "popupReferringFacility",
+            "popupKUID": "174cfafd722f4424905c97a6493b857e",
+            "callbackType": null
+        }]
+    }
+}

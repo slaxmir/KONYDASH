@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb7800fc8f7f40d4beec4a23bdb6f241",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "CopysupportImpLabel0b33431c314e244",
+        "CopyTextArea06f5b4f2416bb47"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyreportTabContentRow0bc2c9c68d8484e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "808207fbc57f42778662ed368a063f5b",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CopyreportIssueContent08a542d7470a24e",
+    "pf": "frmSupport",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

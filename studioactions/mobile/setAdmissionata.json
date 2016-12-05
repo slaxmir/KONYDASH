@@ -1,0 +1,28 @@
+{
+    "AS_Form_6d7772887d824c9ba29e40e4b0a0445f": {
+        "id": "AS_Form_6d7772887d824c9ba29e40e4b0a0445f",
+        "type": "ACTION_SEQUENCE",
+        "name": "setAdmissionata",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmission",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6c615efc359e439e90d51933eeb167d0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b7026eb031bc4e2c8767964404f8a9d3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setSegDataAditionalInfo",
+            "display": "setSegDataAditionalInfo",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

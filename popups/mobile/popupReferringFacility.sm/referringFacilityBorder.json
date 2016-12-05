@@ -1,0 +1,29 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLine",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seaed96f7bb34710a1c2adffc4ce4cc7",
+    "_thickness_": 2,
+    "canUpdateUI": true,
+    "containerWeightLocked": false,
+    "containerweight": 100,
+    "id": "referringFacilityBorder",
+    "info": null,
+    "isvisible": true,
+    "kuid": "955766881ce0406c8631e735d1da6cb9",
+    "name": "kony.ui.Line",
+    "parent": "popupReferringFacility",
+    "pf": "popupReferringFacility",
+    "wType": "Line"
+}

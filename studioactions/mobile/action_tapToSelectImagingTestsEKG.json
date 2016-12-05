@@ -1,0 +1,17 @@
+{
+    "AS__490469733ab24dd0873283df8bbd7755": {
+        "id": "AS__490469733ab24dd0873283df8bbd7755",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_tapToSelectImagingTestsEKG",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e52f03fd32064e6fa1f439a915718ad7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSegmentImagingTestsEKG",
+            "display": "tapToSegmentImagingTestsEKG",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

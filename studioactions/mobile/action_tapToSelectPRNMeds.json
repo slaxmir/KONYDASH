@@ -1,0 +1,17 @@
+{
+    "AS__5fe8882bb1fd46e4ad96044f8e24e5a8": {
+        "id": "AS__5fe8882bb1fd46e4ad96044f8e24e5a8",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_tapToSelectPRNMeds",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___0e023fc2132d488896b2df91279b448d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSelectSegmentPRNMeds",
+            "display": "tapToSelectSegmentPRNMeds",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_skin_": "sab3423ffb194c7fbc2da6e2fc5f2cff",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s1ae931a069c40f4ac73da87a33301f1"
+    },
+    "displaytext": true,
+    "id": "btnComorbidity3",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4a8b21731517469ab63151a10e2a6681",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "CopyFlexContainer018b5621e817e4e",
+    "pf": "TemplateSegmentComorbidity",
+    "wType": "Button",
+    "zindex": 1
+}

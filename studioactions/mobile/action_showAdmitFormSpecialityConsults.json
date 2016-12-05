@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_c84915d7e9774bad8c054996b66182a0": {
+        "id": "AS_FlexContainer_c84915d7e9774bad8c054996b66182a0",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmitFormSpecialityConsults",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAdmitForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a61f86b4fb384227b844ba626c644872"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9129146eeaa0416e95087c00b73c79ab",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmitFormSpecialityConsults",
+            "display": "showAdmitFormSpecialityConsults",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

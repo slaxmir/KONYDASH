@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_133a1a770f3e4dcbb9284e6122566f39": {
+        "id": "AS_NamedActions_133a1a770f3e4dcbb9284e6122566f39",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmitFormMedicalHistory",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___951607ff6c504455b70f32bc7af097a2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmitFormMedicationOrders",
+            "display": "showAdmitFormMedicationOrders",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

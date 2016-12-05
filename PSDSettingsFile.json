@@ -1,0 +1,31 @@
+{
+	"projectPath": "D:/Sindhuri.sms/kony_workspace/KONYDASH",
+	"projectName": "KONYDASH",
+	"formName": "Directadmitform",
+	"appendToProject": "true",
+	"onlyVisible": "true",
+	"platformType": "mobile",
+	"positionUnits": "%",
+	"sizeUnits": "%",
+	"dpRatio": "1",
+	"layerSetWidget": "flexContainer",
+	"artLayerWidget": "flexContainer",
+	"textLayerWidget": "label",
+	"exportAsShape": "false",
+	"copyFonts": "true",
+	"documentMetadata": {
+		"projectPath": "D:/Sindhuri.sms/kony_workspace/KONYDASH",
+		"artLayerWidget": "flexContainer",
+		"textLayerWidget": "label",
+		"layerSetWidget": "",
+		"formName": "Directadmitform",
+		"onlyVisible": "true",
+		"appendToProject": "true",
+		"platformType": "mobile",
+		"exportAsShape": "false",
+		"copyFonts": "",
+		"sizeUnits": "%",
+		"positionUnits": "%",
+		"dpRatio": ""
+	}
+}

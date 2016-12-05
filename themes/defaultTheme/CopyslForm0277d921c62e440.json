@@ -1,0 +1,14 @@
+{
+  "android": {
+    "isForked": true
+  },
+  "background_color": "4149e8ff",
+  "bg_type": "one",
+  "border_color": "ffffffff",
+  "iphone": {
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kuid": "s7d8f28068c843249caa5bacc85135be",
+  "wType": "Form"
+}

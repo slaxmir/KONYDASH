@@ -1,0 +1,21 @@
+{
+    "AS__6de8822e217f4e1a87614b09e72157ba": {
+        "id": "AS__6de8822e217f4e1a87614b09e72157ba",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showRecommandationMandatory",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c2eef161a6164e5590ee00925e678a80",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showRecommendationsMandatory",
+            "display": "showRecommendationsMandatory",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

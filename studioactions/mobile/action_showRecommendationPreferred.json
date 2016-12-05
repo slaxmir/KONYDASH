@@ -1,0 +1,21 @@
+{
+    "AS__795d08d7df7740c7a925a1c1385da303": {
+        "id": "AS__795d08d7df7740c7a925a1c1385da303",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showRecommendationPreferred",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___14449b36fd184dcb827e46750356ffe8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showRecommendationsPreferred",
+            "display": "showRecommendationsPreferred",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s9dd5513e8224ae19c71a181194a96b1",
+    "_top_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmSupport",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "groupcells": false,
+    "id": "reportBowserList",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4249448e816f4a66a8b605082c43ec13",
+    "masterdata": [
+        [
+            "lb1",
+            "Choose Browser"
+        ],
+        [
+            "lb2",
+            "Internet Explorer"
+        ],
+        [
+            "lb3",
+            "Firefox"
+        ],
+        [
+            "Key901",
+            "Google Chrome"
+        ],
+        [
+            "Key381",
+            "Safari"
+        ],
+        [
+            "Key166",
+            "Opera"
+        ],
+        [
+            "Key910",
+            "Other"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "reportTabContentRow2",
+    "pf": "frmSupport",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Choose Browser"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

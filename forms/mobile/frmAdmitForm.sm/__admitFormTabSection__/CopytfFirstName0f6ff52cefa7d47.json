@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Other Allergies",
+    "_skin_": "sfa00918b22b4161b14a9818cfd2241a",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopytfFirstName0f6ff52cefa7d47",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "24416d429be640cf82ee4c5ff32a4ca8",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexContainerMedicalHistoryAdmitForm",
+    "pf": "frmAdmitForm",
+    "securetextentry": false,
+    "tabpaneId": "admitFormTabSection",
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

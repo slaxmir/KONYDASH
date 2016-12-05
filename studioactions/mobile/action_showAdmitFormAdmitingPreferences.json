@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_a9f6edee3bfa48828a6a358068400672": {
+        "id": "AS_NamedActions_a9f6edee3bfa48828a6a358068400672",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmitFormAdmitingPreferences",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d1ab75cacdf647379b573e5f0afce950",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmitFormAdmittingPreferences",
+            "display": "showAdmitFormAdmittingPreferences",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

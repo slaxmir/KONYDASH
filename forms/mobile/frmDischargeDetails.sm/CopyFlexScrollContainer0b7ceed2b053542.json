@@ -1,0 +1,95 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s037cb943e4b450ab5722feb370d5841",
+    "_top_": {
+        "type": "string",
+        "value": "68dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "CopyButton0d56f14754ddc40",
+        "CopyLabel05cc3fb8c999f45",
+        "CopyLabel025394540eed344",
+        "CopyLabel082ca14095bb24a",
+        "CopyLabel0c1e633797fe746",
+        "CopyButton0e0fad8d4614646",
+        "CopyButton0683d9836d22b48",
+        "CopyButton0506a21aac0674f",
+        "CopyButton0a15a9f19062242",
+        "CopyListBox026e1739cbc4d4d",
+        "CopySegment0ea52e6f9b35844",
+        "CopyListBox0a71a100e294641",
+        "CopyListBox062168c9339fd4c",
+        "CopyListBox0efc517d33b6240",
+        "CopyListBox02807291251bc4f",
+        "CopyListBox08113c3bb681547",
+        "CopyDataGrid0da8b6203cf264e",
+        "CopyLabel09ebd580cbd8943",
+        "CopyLabel0843e71ac3cea4a",
+        "CopyLabel027be65d3dd514c",
+        "CopyLabel058c9eb43f03f40",
+        "CopyLabel0b2e2b83b0cb244",
+        "CopyLabel09b257fff56cb4e"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "contentoffset": {
+        "y": "50dp"
+    },
+    "contentsize": {
+        "height": "50dp"
+    },
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "CopyFlexScrollContainer0b7ceed2b053542",
+    "ide_onScrolling": "AS_FlexScrollContainer_c2941fa2ff3b41fd965dfb22193a6718",
+    "info": null,
+    "isvisible": true,
+    "kuid": "809540e45aa441bfb1a8cb2c71218913",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "FlexContainer02e9f2c9ed3a540",
+    "pf": "frmDischargeDetails",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

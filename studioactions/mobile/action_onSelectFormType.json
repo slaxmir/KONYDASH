@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_96dba70c43c645a7a93754c6f2c04519": {
+        "id": "AS_NamedActions_96dba70c43c645a7a93754c6f2c04519",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_onSelectFormType",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f78819f70a7f42aa95eb628c859648ea",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showadmitFrom",
+            "display": "showadmitFrom",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

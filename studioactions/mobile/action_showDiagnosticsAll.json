@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_c650ed97c0f5429f9b7d64f3be30c2be": {
+        "id": "AS_NamedActions_c650ed97c0f5429f9b7d64f3be30c2be",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showDiagnosticsAll",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___03a745a11dd448a789efff41811b90c5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showDiagnosticsAll",
+            "display": "showDiagnosticsAll",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

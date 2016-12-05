@@ -1,0 +1,222 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Label007babdc7a63143": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Admission Number"
+            },
+            "Label0e9615ad5ce0a4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "HCAfg7458976-5674"
+            }
+        },
+        {
+            "Label007babdc7a63143": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "First Name"
+            },
+            "Label0e9615ad5ce0a4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "John"
+            }
+        },
+        {
+            "Label007babdc7a63143": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Last Name"
+            },
+            "Label0e9615ad5ce0a4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "smith"
+            }
+        },
+        {
+            "Label007babdc7a63143": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "DOB"
+            },
+            "Label0e9615ad5ce0a4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2013-05-04"
+            }
+        },
+        {
+            "Label007babdc7a63143": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Age"
+            },
+            "Label0e9615ad5ce0a4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3 Year(s)3 Month(s)"
+            }
+        },
+        {
+            "Label007babdc7a63143": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Gender"
+            },
+            "Label0e9615ad5ce0a4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Male"
+            }
+        },
+        {
+            "Label007babdc7a63143": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Patient ETA"
+            },
+            "Label0e9615ad5ce0a4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Within 3 Hours"
+            }
+        },
+        {
+            "Label007babdc7a63143": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Additional info"
+            },
+            "Label0e9615ad5ce0a4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Additional not specified"
+            }
+        },
+        {
+            "Label007babdc7a63143": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": " Condition "
+            },
+            "Label0e9615ad5ce0a4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Stable"
+            }
+        },
+        {
+            "Label007babdc7a63143": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Isolation Required"
+            },
+            "Label0e9615ad5ce0a4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Yes"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "483dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        2,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_top_": {
+        "type": "string",
+        "value": "169dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": true
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "disabledSkins": {
+        "rowFocusSkin": "sb6ad43583984d478b3dd90c47d4aac2",
+        "rowSkin": "sa3ea2621a1c49b49a42e32893bcff68"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "CopySegment0ea52e6f9b35844",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "941f5f5149b2454784c9dee33fcd552d",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paddinginpixel": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "CopyFlexScrollContainer0b7ceed2b053542",
+    "pf": "frmDischargeDetails",
+    "retainselection": false,
+    "rowTemplateId": "56e94836666e4306a6ad8da93bd57a9c",
+    "rowcounter": 9,
+    "rowtemplate": "FlexContainer0b21889ef4e094d",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s36bc0910fbd4744acd46aa2263dbc2a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": true,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0b21889ef4e094d": "FlexContainer0b21889ef4e094d",
+        "Label007babdc7a63143": "Label007babdc7a63143",
+        "Label0e9615ad5ce0a4c": "Label0e9615ad5ce0a4c"
+    },
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

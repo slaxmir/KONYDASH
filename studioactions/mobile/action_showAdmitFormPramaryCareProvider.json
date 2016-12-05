@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_7d02766afc544cd8b3a4d4dc26f97795": {
+        "id": "AS_NamedActions_7d02766afc544cd8b3a4d4dc26f97795",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmitFormPramaryCareProvider",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___601cc316e306415e97b5de24dde76184",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmitFormPrimaryCareProvider",
+            "display": "showAdmitFormPrimaryCareProvider",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

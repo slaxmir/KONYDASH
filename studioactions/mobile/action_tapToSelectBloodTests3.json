@@ -1,0 +1,17 @@
+{
+    "AS__ace80bd712154a80945ce30169b88c5c": {
+        "id": "AS__ace80bd712154a80945ce30169b88c5c",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_tapToSelectBloodTests3",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b87269d2607b4e509a2e4d256d301cd8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSegmentBloodTests3",
+            "display": "tapToSegmentBloodTests3",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

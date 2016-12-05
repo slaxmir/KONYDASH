@@ -1,0 +1,126 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "btnComorbidity1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "btnComorbidity2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "btnComorbidity3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "btnComorbidity4": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "btnComorbidity5": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "disabledSkins": {
+        "rowFocusSkin": "sb6ad43583984d478b3dd90c47d4aac2"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "a1ba33126b0b40949563a45db6df0a95",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SetmentComorbidity",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "3097a175d920468580afe9115e864a40",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexContainerMedicalHistoryAdmitForm",
+    "pf": "frmAdmitForm",
+    "retainselection": false,
+    "rowTemplateId": "803e8a84719745be8276ed4046a66956",
+    "rowcounter": 0,
+    "rowskin": "sb8a1606d29a408fae0767dae0cc6922",
+    "rowtemplate": "CopyFlexContainer018b5621e817e4e",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s36bc0910fbd4744acd46aa2263dbc2a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": true,
+    "tabpaneId": "admitFormTabSection",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer018b5621e817e4e": "CopyFlexContainer018b5621e817e4e",
+        "btnComorbidity1": "btnComorbidity1",
+        "btnComorbidity2": "btnComorbidity2",
+        "btnComorbidity3": "btnComorbidity3",
+        "btnComorbidity4": "btnComorbidity4",
+        "btnComorbidity5": "btnComorbidity5"
+    },
+    "zindex": 1
+}

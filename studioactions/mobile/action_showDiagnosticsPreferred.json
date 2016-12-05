@@ -1,0 +1,17 @@
+{
+    "AS__6477c23e4b024f879273f3fda0e8698f": {
+        "id": "AS__6477c23e4b024f879273f3fda0e8698f",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showDiagnosticsPreferred",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___030585fcdfca484bbcae23853b1bb34a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showDiagnosticsPreferred",
+            "display": "showDiagnosticsPreferred",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

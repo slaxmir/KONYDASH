@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_3517a8ee729842769c095c8668e88353": {
+        "id": "AS_NamedActions_3517a8ee729842769c095c8668e88353",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmitFormInfectiousDieseaseQuestionries",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c0b923556b06486c87c5f82b746b1456",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmitFormInfectiousDiseaseQuestionnaire",
+            "display": "showAdmitFormInfectiousDiseaseQuestionnaire",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

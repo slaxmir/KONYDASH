@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_deb97a05f6be4f88b44ebb4958662026": {
+        "id": "AS_NamedActions_deb97a05f6be4f88b44ebb4958662026",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showPatientAllFeilds",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e77509ca0c8f44fc8953afdccb6c78aa",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientAllFeilds",
+            "display": "showPatientAllFeilds",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

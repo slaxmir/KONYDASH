@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_4fad31864dc34c84a154802c95fab512": {
+        "id": "AS_NamedActions_4fad31864dc34c84a154802c95fab512",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_FormTypeTab",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9312685e5c0d429a89ce30818ddd0bbd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showFormTypeList",
+            "display": "showFormTypeList",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

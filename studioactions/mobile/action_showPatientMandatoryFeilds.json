@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_13f36a91edd14b358667a0fc935daedd": {
+        "id": "AS_NamedActions_13f36a91edd14b358667a0fc935daedd",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showPatientMandatoryFeilds",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c20a7eaacfb548c69fad221780cca6bf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientMandatoryFeilds",
+            "display": "showPatientMandatoryFeilds",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

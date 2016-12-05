@@ -1,0 +1,17 @@
+{
+    "AS__c0ff320afed7478e9f583eaeb0a0ea3c": {
+        "id": "AS__c0ff320afed7478e9f583eaeb0a0ea3c",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_tapToSelectSpecialityConsults",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___748db55771f94366a201378dacfa65bc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSegmentSpecialityConsults",
+            "display": "tapToSegmentSpecialityConsults",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

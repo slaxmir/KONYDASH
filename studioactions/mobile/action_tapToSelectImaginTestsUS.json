@@ -1,0 +1,17 @@
+{
+    "AS__f552ff361bbd40638e6b9423f92c08ae": {
+        "id": "AS__f552ff361bbd40638e6b9423f92c08ae",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_tapToSelectImaginTestsUS",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___607ef28dc1694f8ba436f17695adf45e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSegmentImaginTestsUS",
+            "display": "tapToSegmentImaginTestsUS",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

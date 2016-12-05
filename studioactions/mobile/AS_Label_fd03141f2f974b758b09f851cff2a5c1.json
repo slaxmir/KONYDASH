@@ -1,0 +1,27 @@
+{
+    "AS_Label_fd03141f2f974b758b09f851cff2a5c1": {
+        "id": "AS_Label_fd03141f2f974b758b09f851cff2a5c1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "DISPLAY_POPUP__ide_onTouchStart_73f83ae9f158498f8d5f9f99388696e9",
+            "type": "DISPLAY_POPUP",
+            "popupId": "popupTakeaction",
+            "popupKUID": "3a82dc76aa7646ac913b72895a18ac33",
+            "mappings": {},
+            "mappingsOrder": [],
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

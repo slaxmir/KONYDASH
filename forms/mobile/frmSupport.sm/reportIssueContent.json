@@ -1,0 +1,75 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s037cb943e4b450ab5722feb370d5841",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "reportTabContentRow1",
+        "reportIssueHeadingSection1",
+        "reportTabContentRow2",
+        "reportTabContentRow3",
+        "reportTabContentRow4",
+        "reportTabContentRow5",
+        "CopyLabel02369650cae8945",
+        "CopyFlexScrollContainer05c466fcc95124e",
+        "CopyLabel0cf43a64cbc2243",
+        "CopyFlexContainer07895a70b818e49"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "reportIssueContent",
+    "info": null,
+    "isvisible": true,
+    "kuid": "74aa35a9a1404906bfe063b28e87e3dd",
+    "layouttype": 4,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "reportIssueTabContainer",
+    "pf": "frmSupport",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

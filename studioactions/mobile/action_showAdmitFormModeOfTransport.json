@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_3669fa437d63467385e3dac43b321d13": {
+        "id": "AS_NamedActions_3669fa437d63467385e3dac43b321d13",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmitFormModeOfTransport",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___170ed5fe803049628c13a844aa12608a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmitFormModeOfTransport",
+            "display": "showAdmitFormModeOfTransport",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

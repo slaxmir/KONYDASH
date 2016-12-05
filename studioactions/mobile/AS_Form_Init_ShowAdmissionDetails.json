@@ -1,0 +1,19 @@
+{
+    "AS_Form_7b02b282ee454740abece1e01cb5a37a": {
+        "id": "AS_Form_7b02b282ee454740abece1e01cb5a37a",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Form_Init_ShowAdmissionDetails",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmission",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6c615efc359e439e90d51933eeb167d0"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

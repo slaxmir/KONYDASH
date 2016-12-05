@@ -1,0 +1,39 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        2,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        2,
+        4,
+        2,
+        4
+    ],
+    "_skin_": "s6a41e0c8d16491aac2d981eed2331c5",
+    "_text_": "Bed UnAvailable",
+    "canUpdateUI": true,
+    "containerweight": 50,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1ae931a069c40f4ac73da87a33301f1",
+    "id": "BedUnAvailableButton",
+    "info": null,
+    "isvisible": true,
+    "kuid": "36373356e10b44cf97e7bf5ef11f1159",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        26.84,
+        26.84,
+        26.84,
+        26.84
+    ],
+    "paddinginpixel": false,
+    "parent": "BedAvailableButtonsRow",
+    "pf": "popupTakeaction",
+    "wType": "Button"
+}

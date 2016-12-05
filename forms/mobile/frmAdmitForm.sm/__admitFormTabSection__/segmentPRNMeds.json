@@ -1,0 +1,170 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Albuterol 2.5 mg via Ben q6h prn sob"
+            }
+        },
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ambien 5 mg po qhs prn insomnia"
+            }
+        },
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ativan 1 mg po/iv q6h prn agitation"
+            }
+        },
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Clonidine 0.1 mg po q 6h prn SBP >= 160"
+            }
+        },
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dilaudid 1 mg iv q4h prn pain scale 1-5"
+            }
+        },
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dilaudid 2 mg iv q4h prn pain scale 6-10"
+            }
+        },
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Electrolyte replacement protocol"
+            }
+        },
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hydralazine 10 mg iv q 2h prn SBP >= 160"
+            }
+        },
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ibuprofen 400 mg po q 6h prn fever/pain"
+            }
+        },
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Labetolol 10 mg iv q 2h prn SBP >= 160"
+            }
+        },
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Maalox 30 cc q 6h prn indigestion"
+            }
+        },
+        {
+            "labelmediationOthers": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nicotine patch 21 mcg/hr q day"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "011",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentPRNMeds",
+    "ide_onRowClick": "AS__5fe8882bb1fd46e4ad96044f8e24e5a8",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "e6d9c29be16e44cf9850b5e62c9de817",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexContainerMedicationOrdersAdmitForm",
+    "pf": "frmAdmitForm",
+    "retainselection": false,
+    "rowTemplateId": "5db374baf188457684c36cfb3a5b4fdd",
+    "rowcounter": 11,
+    "rowfocusskin": "sb6ad43583984d478b3dd90c47d4aac2",
+    "rowskin": "sb8a1606d29a408fae0767dae0cc6922",
+    "rowtemplate": "FlexContainer09b5d195a6ab142",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s36bc0910fbd4744acd46aa2263dbc2a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "tabpaneId": "admitFormTabSection",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer09b5d195a6ab142": "FlexContainer09b5d195a6ab142",
+        "labelmediationOthers": "labelmediationOthers"
+    },
+    "zindex": 1
+}

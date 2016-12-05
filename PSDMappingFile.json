@@ -1,0 +1,206 @@
+[
+	{
+		"Document": {
+			"widgetID": "PhotoshopContainer",
+			"widgetType": "flexContainer",
+			"sizeUnits": "px",
+			"positionUnits": "px",
+			"exportAsShape": "false",
+			"skinID": "slFbox",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"741": {
+			"widgetID": "DashAdmitForm",
+			"widgetType": "flexContainer",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"exportAsShape": "false",
+			"skinID": "slFbox",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"415": {
+			"widgetID": "exp1",
+			"widgetType": "flexContainer",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"exportAsShape": "false",
+			"skinID": "slFbox",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"414": {
+			"widgetID": "SelectCliniccopy",
+			"widgetType": "label",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"skinID": "skinfdb3bf32",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"413": {
+			"widgetID": "DirectAdmitFormcopy",
+			"widgetType": "label",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"skinID": "skinfdb43462",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"418": {
+			"widgetID": "PleaseselectClinicandFormtype",
+			"widgetType": "label",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"skinID": "skinfdb48281",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"3677": {
+			"widgetID": "VectorSmartObject",
+			"widgetType": "flexContainer",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"exportAsShape": "false",
+			"skinID": "skinfdb4d0a2",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"408": {
+			"widgetID": "reportcopy2",
+			"widgetType": "flexContainer",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"exportAsShape": "false",
+			"skinID": "skinfdb4f7b2",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"407": {
+			"widgetID": "SelectFormTypecopy",
+			"widgetType": "label",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"skinID": "skinfdb56ce0",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"399": {
+			"widgetID": "Shape11copy9",
+			"widgetType": "flexContainer",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"exportAsShape": "false",
+			"skinID": "skinfdb593f2",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"398": {
+			"widgetID": "Shape11copy8",
+			"widgetType": "flexContainer",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"exportAsShape": "false",
+			"skinID": "skinfdb5e210",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"397": {
+			"widgetID": "Shape4copy2",
+			"widgetType": "flexContainer",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"exportAsShape": "false",
+			"skinID": "skinfdb63030",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"396": {
+			"widgetID": "Layer4copy2",
+			"widgetType": "flexContainer",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"exportAsShape": "false",
+			"skinID": "skinfdb67e50",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"394": {
+			"widgetID": "Layer1copy2",
+			"widgetType": "flexContainer",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"exportAsShape": "false",
+			"skinID": "skinfdb6cc70",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"417": {
+			"widgetID": "RoundedRectangle1",
+			"widgetType": "flexContainer",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"exportAsShape": "false",
+			"skinID": "skinfdb71a90",
+			"forkedPlatforms": [
+				
+			]
+		}
+	},
+	{
+		"393": {
+			"widgetID": "Layer0copy3",
+			"widgetType": "flexContainer",
+			"sizeUnits": "%",
+			"positionUnits": "%",
+			"exportAsShape": "false",
+			"skinID": "skinfdb768b0",
+			"forkedPlatforms": [
+				
+			]
+		}
+	}
+]

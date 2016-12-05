@@ -1,0 +1,17 @@
+{
+    "AS__b0690075fe954ae6ad72e2fff3cb0ca8": {
+        "id": "AS__b0690075fe954ae6ad72e2fff3cb0ca8",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_tapToSelectModeOfTransport1",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7e690654bfd34b8ab5b02e3a44d270b0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSegmentModeOfTransport1",
+            "display": "tapToSegmentModeOfTransport1",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

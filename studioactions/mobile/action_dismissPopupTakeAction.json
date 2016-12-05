@@ -1,0 +1,26 @@
+{
+    "AS_Label_d06b5d10406e4206ad38e4c06d979596": {
+        "id": "AS_Label_d06b5d10406e4206ad38e4c06d979596",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_dismissPopupTakeAction",
+        "params": [{
+            "name": "eventObject",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "tmplDashboardSection",
+            "type": "templates",
+            "platform": "",
+            "KUID": "9ea9ca061f1b44af95730739bac90608"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "DISMISS_POPUP___127cde163fb64a53ae7a9cbed2a9023e",
+            "type": "DISMISS_POPUP",
+            "popupId": "popupTakeaction",
+            "popupKUID": "3a82dc76aa7646ac913b72895a18ac33",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

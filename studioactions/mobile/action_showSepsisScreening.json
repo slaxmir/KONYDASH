@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_8283c08a069849b982e85d166112e4a3": {
+        "id": "AS_FlexContainer_8283c08a069849b982e85d166112e4a3",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showSepsisScreening",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmission",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6c615efc359e439e90d51933eeb167d0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___4e5314390ec9446ca14f628f5e032f38",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showshowSepsisScreening",
+            "display": "showshowSepsisScreening",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

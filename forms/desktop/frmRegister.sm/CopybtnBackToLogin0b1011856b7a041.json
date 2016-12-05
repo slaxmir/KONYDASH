@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4cda5d8bc5e433593fceb5e569e1c92",
+    "_text_": "Back to login",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1ae931a069c40f4ac73da87a33301f1",
+    "id": "CopybtnBackToLogin0b1011856b7a041",
+    "info": null,
+    "isvisible": true,
+    "kuid": "afe9f05cc7484cee8e1d8c80649bf0f4",
+    "name": "kony.ui.Button",
+    "parent": "CopyflxRegFormContainer05ffb75c5d8514c",
+    "pf": "frmRegister",
+    "wType": "Button",
+    "zindex": 1
+}

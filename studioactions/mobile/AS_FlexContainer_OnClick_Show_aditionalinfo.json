@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_9c5883a3adbd46c389fb90aed2856773": {
+        "id": "AS_FlexContainer_9c5883a3adbd46c389fb90aed2856773",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_FlexContainer_OnClick_Show_aditionalinfo",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmission",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6c615efc359e439e90d51933eeb167d0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fce8270394834823bddc71fbb774eda6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAditionalInfo",
+            "display": "showAditionalInfo",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

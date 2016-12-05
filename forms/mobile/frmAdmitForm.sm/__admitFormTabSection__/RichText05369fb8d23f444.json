@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s290e6ab01074024be275dd144a0b593",
+    "_text_": "Please Note: Any orders that appear should be taken as recommendations from the referring physician to the accepting physician ONLY and are not to be acted on without express consent from the accepting physician.",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText05369fb8d23f444",
+    "info": null,
+    "isvisible": true,
+    "kuid": "90201dbd7c0848ccbcff1d1b433aa562",
+    "name": "kony.ui.RichText",
+    "parent": "FlexContainerMedicationOrdersAdmitForm",
+    "pf": "frmAdmitForm",
+    "tabpaneId": "admitFormTabSection",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

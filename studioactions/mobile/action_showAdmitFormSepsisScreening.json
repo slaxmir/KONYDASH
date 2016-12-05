@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_c0851c46d4304418bb300c7a97d1abc3": {
+        "id": "AS_NamedActions_c0851c46d4304418bb300c7a97d1abc3",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_showAdmitFormSepsisScreening",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___02693c362cae42828dee8c002635becc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showAdmitFormSepsisScreening",
+            "display": "showAdmitFormSepsisScreening",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

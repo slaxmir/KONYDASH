@@ -1,0 +1,45 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        5,
+        0,
+        5,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s3df77bab39a4db3965b1ccbd92cd71b",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "BedAvailableButton",
+        "BedUnAvailableButton"
+    ],
+    "containerheight": 30,
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "contextmenu": null,
+    "enablescrollbypage": false,
+    "id": "BedAvailableButtonsRow",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f2a6c3199bf54699a8b13b73530725a8",
+    "name": "kony.ui.ScrollBox",
+    "parent": "popupTakeaction",
+    "pf": "popupTakeaction",
+    "scrollbar": "scrollbar",
+    "scrolldirection": 1,
+    "scrollingevents": null,
+    "showscrollbars": true,
+    "totalWt": 100,
+    "wType": "ScrollBox",
+    "widgetalignment": 5
+}

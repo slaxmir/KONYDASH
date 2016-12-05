@@ -1,0 +1,33 @@
+{
+    "AS_Image_eedbb9fbdbc24cf59e8098c4990f69bf": {
+        "id": "AS_Image_eedbb9fbdbc24cf59e8098c4990f69bf",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Image_Touch_Email_alerts",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "tmplRowConfigureAletrs",
+            "type": "templates",
+            "KUID": "93c8fda712164dcdb5eb98544bb67029"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___80a4678878014ff6af425961265f09e6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onTouchEmailAlerts",
+            "display": "onTouchEmailAlerts",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

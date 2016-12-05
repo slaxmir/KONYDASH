@@ -1,0 +1,52 @@
+{
+	"background_color": "00000000",
+	"bg_type": "one",
+	"border_color": "00000000",
+	"border_style": "plain",
+	"border_type": 0,
+	"border_width": 0,
+	"fontSizeInPx": false,
+	"font_color": "ffffffff",
+	"font_name": "arial",
+	"font_size": 113,
+	"font_style": "normal",
+	"font_weight": "normal",
+	"isDefaultSkin": false,
+	"wType": "Label",
+	"iphone": {
+		"font_size": 113,
+		"font_name": "arial",
+		"isForked": false
+	},
+	"android": {
+		"font_size": 113,
+		"font_name": "arial",
+		"isForked": false
+	},
+	"winphone8": {
+		"font_size": 113,
+		"font_name": "arial",
+		"isForked": false
+	},
+	"spaip": {
+		"font_size": 113,
+		"font_name": "arial",
+		"isForked": false
+	},
+	"spaan": {
+		"font_size": 113,
+		"font_name": "arial",
+		"isForked": false
+	},
+	"spawinphone8": {
+		"font_size": 113,
+		"font_name": "arial",
+		"isForked": false
+	},
+	"spabb": {
+		"font_size": 113,
+		"font_name": "arial",
+		"isForked": false
+	},
+	"kuid": "psfdb43463943211e682bc0100f8e50000"
+}

@@ -1,0 +1,34 @@
+{
+    "AS_Image_bf3d0d614a314ed59c2edf991a82e40a": {
+        "id": "AS_Image_bf3d0d614a314ed59c2edf991a82e40a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "CopyfrmAdmission018d1bff978dc42",
+            "type": "forms",
+            "platform": null,
+            "KUID": "3b8064c39e44490a8395a76079cac439"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onTouchStart_3f0ab914180949ddbffbcb17d6a45431",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashBoard",
+            "formKUID": "4d052e83ef0b47678eb3c35c72c7d4a0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}
