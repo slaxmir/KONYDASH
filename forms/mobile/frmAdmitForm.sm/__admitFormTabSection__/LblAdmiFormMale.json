@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s7fb4699c77c4c50af8169a0b601bd59",
-    "_text_": "Request Doc To Doc",
+    "_skin_": "s55a74c8d2304b289e93aa735704ab10",
+    "_text_": "Male",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,8 +41,8 @@
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "contentalignment": 4,
-    "id": "lblRequestDocToDoc",
+    "contentalignment": 5,
+    "id": "LblAdmiFormMale",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,9 +55,9 @@
         }
     },
     "isvisible": true,
-    "kuid": "3d675d52125246af91edd53418b95bd5",
+    "kuid": "46e78999f2c74a2690923c0816a03ccf",
     "name": "kony.ui.Label",
-    "parent": "flxContainerAdmittingPreferencesAdmitForm",
+    "parent": "FlexContainer04bef1e93257c44",
     "pf": "frmAdmitForm",
     "tabpaneId": "admitFormTabSection",
     "tooltip": "",

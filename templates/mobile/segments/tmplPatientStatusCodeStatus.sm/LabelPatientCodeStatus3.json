@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_margin_": [
         1,
@@ -18,15 +18,15 @@
     ],
     "_padding_": [
         0,
-        0,
-        0,
-        0
+        1,
+        1,
+        1
     ],
-    "_skin_": "s7fb4699c77c4c50af8169a0b601bd59",
-    "_text_": "Request Doc To Doc",
+    "_skin_": "sa681b823be14cd68bb42e686b0d38c1",
+    "_text_": "Label",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "5dp"
     },
     "_width_": {
         "type": "ref",
@@ -40,9 +40,14 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
     "containerweight": 100,
-    "contentalignment": 4,
-    "id": "lblRequestDocToDoc",
+    "contentalignment": 5,
+    "id": "LabelPatientCodeStatus3",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,11 +60,11 @@
         }
     },
     "isvisible": true,
-    "kuid": "3d675d52125246af91edd53418b95bd5",
+    "kuid": "065309bc026946e48ea85bc9d386e0bb",
     "name": "kony.ui.Label",
-    "parent": "flxContainerAdmittingPreferencesAdmitForm",
-    "pf": "frmAdmitForm",
-    "tabpaneId": "admitFormTabSection",
+    "paddinginpixel": false,
+    "parent": "FlexContainerPatientStatusCodeStatus3",
+    "pf": "tmplPatientStatusCodeStatus",
     "tooltip": "",
     "wType": "Label"
 }
