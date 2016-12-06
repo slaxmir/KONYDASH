@@ -557,6 +557,14 @@ function AS__91271a58263a4b61b985af875cbaea8a() {
     return tapToSelectUrineTestsCS.call(this);
 }
 
+function Action_TapToSelect_SegmentSepsisScreeingSIRS() {
+    return AS__5b397197fec94fb5821098fc2c584f80();
+}
+
+function AS__5b397197fec94fb5821098fc2c584f80() {
+    return tapToSelectSegmentSepsisScreeingSIRS.call(this);
+}
+
 function AS_Button_1690e2e3b85347399e26c117c7f58d61(eventobject) {
     return AS_Button_1690e2e3b85347399e26c117c7f58d61(eventobject);
 }

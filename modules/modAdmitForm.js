@@ -17,7 +17,7 @@ function showPatientMandatoryFeilds(){
   frmAdmitForm.flexContainerVitalSigns.isVisible = false;
   frmAdmitForm.flexContainerPatientDiagnosis.isVisible = false;
   frmAdmitForm.flexContainerPatientStatus.isVisible = false;
-  frmAdmitForm.tfSSN.isVisible = false;
+  frmAdmitForm.TFSSN.isVisible = false;
   
   frmAdmitForm.flxContainerPatientInfoAdmitForm.isVisible = true;
   
@@ -30,8 +30,10 @@ function showPatientMandatoryFeilds(){
 
   frmAdmitForm.flxContainerBedAssignAlertAdmitForm.isVisible = false;
   
+  
+  
   frmAdmitForm.flxContainerPatientDiagnosisAdmitForm.isVisible = true;
-   frmAdmitForm.tbAdditionalinfo.isVisible = false;
+  frmAdmitForm.tbAdditionalinfo.isVisible = false;
   
   frmAdmitForm.flxContainerInfectiousDiceaseQuestionareAdmitForm.isVisible = true;
   
@@ -44,11 +46,11 @@ function showPatientMandatoryFeilds(){
  
   //hide
   
-  frmAdmitForm.tfSSN.isVisible = false;
+  frmAdmitForm.TFSSN.isVisible = false;
   frmAdmitForm.tfEmail.isVisible = false;
   frmAdmitForm.txtpatientCellPhone.isVisible = false;
   
-  
+  setSegmentSepsisScreeingSIRSData();
   
 }
 function showPatientPreferredFeilds(){
@@ -71,7 +73,7 @@ function showPatientPreferredFeilds(){
   frmAdmitForm.flexContainerVitalSigns.isVisible = false;
   frmAdmitForm.flexContainerPatientDiagnosis.isVisible = false;
   frmAdmitForm.flexContainerPatientStatus.isVisible = false;
-  frmAdmitForm.tfSSN.isVisible = false;
+  frmAdmitForm.TFSSN.isVisible = false;
   
   frmAdmitForm.flxContainerPatientInfoAdmitForm.isVisible = true;
   
@@ -97,11 +99,13 @@ function showPatientPreferredFeilds(){
   frmAdmitForm.flxContainerPatientStatusAdmitForm.isVisible = false;
   
   
-  frmAdmitForm.tfSSN.isVisible = true;
+  frmAdmitForm.TFSSN.isVisible = true;
   frmAdmitForm.tfEmail.isVisible = true;
   frmAdmitForm.txtpatientCellPhone.isVisible = true;
 }
 function showPatientAllFeilds(){
+
+  setDataSegmentPatientStatusCodeStatus();
   
   frmAdmitForm.btnPatientAll.text = "All";
   frmAdmitForm.btnPatientAll.skin = "sknbtnFeildsSelected";
@@ -169,7 +173,7 @@ function showPatientAllFeilds(){
   
   
   
-  frmAdmitForm.tfSSN.isVisible = true;
+  frmAdmitForm.TFSSN.isVisible = true;
   frmAdmitForm.ListBoxSelectPhysicialAdmitForm.isVisible = true;
   frmAdmitForm.lblRequestDocToDoc.isVisible = true;
   frmAdmitForm.ListBoxRequestDocToDocAdmitForm.isVisible = true;
@@ -178,7 +182,7 @@ function showPatientAllFeilds(){
  
   frmAdmitForm.tbAdditionalinfo.isVisible = true;
   
-  frmAdmitForm.tfSSN.isVisible = true;
+  frmAdmitForm.TFSSN.isVisible = true;
   frmAdmitForm.tfEmail.isVisible = true;
   frmAdmitForm.txtpatientCellPhone.isVisible = true;
 
@@ -1082,4 +1086,128 @@ function onClickAllergies5(){
     rowObj[0].btnComorbidity5.skin = "sknComorbidity";
   }  
   frmAdmitForm.SegmentAllergies.setDataAt(rowObj[0],index);   
+}
+
+var segmentSepsisScreeingSIRSData = []; 
+function setSegmentSepsisScreeingSIRSData(){
+  frmAdmitForm.SegmentSepsisScreeingSIRS.widgetMap =   {labelmediationOthers:"labelmediationOthers"};
+  segmentSepsisScreeingSIRSData = [
+                    {labelmediationOthers:{text:"HR => 90"}},
+                    {labelmediationOthers:{text:"RR => 20"}},
+                    {labelmediationOthers:{text:"Temperature < 96.8 or > 100.4"}},
+                    {labelmediationOthers:{text:"WBC => 12,000 or <= 4,000 or > 10% Bands"}},
+                    {labelmediationOthers:{text:"No SIRS Criteria"}},
+     				];
+  frmAdmitForm.SegmentSepsisScreeingSIRS.setData(segmentSepsisScreeingSIRSData);
+ }
+function tapToSelectSegmentSepsisScreeingSIRS ()
+{
+    var index = frmAdmitForm.SegmentSepsisScreeingSIRS .selectedIndex[1];
+    var rowObj = frmAdmitForm.SegmentSepsisScreeingSIRS .selectedItems;
+    var text = rowObj[0].labelmediationOthers.text;
+    var skin = rowObj[0].labelmediationOthers.skin;
+  	if(skin == "slLabelMediationOrdersSelected"){
+    	rowObj[0].labelmediationOthers = {text:text,skin:"slLabelMediationOrders"};
+  	}else{
+    	rowObj[0].labelmediationOthers = {text:text,skin:"slLabelMediationOrdersSelected"};
+	}
+    frmAdmitForm.SegmentSepsisScreeingSIRS .setDataAt(rowObj[0], index);
+}
+
+var segmentPatientStatusCodeStatusData = [];
+function setDataSegmentPatientStatusCodeStatus(){
+  frmAdmitForm.SegmentPatientStatusCodeStatus.widgetMap =   {FlexContainerPatientStatusCodeStatus1:"FlexContainerPatientStatusCodeStatus1",
+															 FlexContainerPatientStatusCodeStatus2:"FlexContainerPatientStatusCodeStatus2",
+                                                             FlexContainerPatientStatusCodeStatus3:"FlexContainerPatientStatusCodeStatus3",
+                                                             FlexContainerPatientStatusCodeStatus4:"FlexContainerPatientStatusCodeStatus4",
+                                                             ImagePatientCodeStatus1:"ImagePatientCodeStatus1",
+														     ImagePatientCodeStatus2:"ImagePatientCodeStatus2",
+                                                             ImagePatientCodeStatus3:"ImagePatientCodeStatus3",
+                                                             ImagePatientCodeStatus4:"ImagePatientCodeStatus4",
+															 LabelPatientCodeStatus1:"LabelPatientCodeStatus1",
+															 LabelPatientCodeStatus2:"LabelPatientCodeStatus2",
+                                                             LabelPatientCodeStatus3:"LabelPatientCodeStatus3",
+                                                             LabelPatientCodeStatus4:"LabelPatientCodeStatus4"
+															 };
+  segmentPatientStatusCodeStatusData = [
+                                          {FlexContainerPatientStatusCodeStatus1:{onClcik:onClickPatientStatusCode1},
+                                           FlexContainerPatientStatusCodeStatus2:{onClcik:onClickPatientStatusCode2},
+                                           FlexContainerPatientStatusCodeStatus3:{onClcik:onClickPatientStatusCode3},
+                                           FlexContainerPatientStatusCodeStatus4:{onClcik:onClickPatientStatusCode4},
+                                           ImagePatientCodeStatus1:{src:"icon1"},
+                                           ImagePatientCodeStatus2:{src:"icon2"},
+                                           ImagePatientCodeStatus3:{src:"icon3"},
+                                           ImagePatientCodeStatus4:{src:"icon4"},
+                                           LabelPatientCodeStatus1:{text:"Comfort Measures",skin:"slLabelMediationOrders"},
+                                           LabelPatientCodeStatus2:{text:"DNR",skin:"slLabelMediationOrders"},
+                                           LabelPatientCodeStatus3:{text:"Full Code",skin:"slLabelMediationOrders"},
+                                           LabelPatientCodeStatus4:{text:"Half code",skin:"slLabelMediationOrders"}
+                                          }
+                   
+     				];
+  frmAdmitForm.SegmentPatientStatusCodeStatus.setData(segmentPatientStatusCodeStatusData);
+ }
+function onClickPatientStatusCode1(){
+  var index = frmAdmitForm.SegmentPatientStatusCodeStatus.selectedIndex[1];
+  var rowObj = frmAdmitForm.SegmentPatientStatusCodeStatus.selectedItems;
+  var src = rowObj[0].ImagePatientCodeStatus1.src;
+  var skin = rowObj[0].LabelPatientCodeStatus1.skin;
+  var text = rowObj[0].LabelPatientCodeStatus1.text;
+   if(skin == "slLabelMediationOrdersSelected"){
+          rowObj[0].LabelPatientCodeStatus1 = {text:text,skin:"slLabelMediationOrders"};
+          rowObj[0].ImagePatientCodeStatus1.src = "icon1"; 	
+   }else{
+          rowObj[0].LabelPatientCodeStatus1 = {text:text,skin:"slLabelMediationOrdersSelected"};
+          rowObj[0].ImagePatientCodeStatus1.src = "icon1"; 
+   }
+   
+  frmAdmitForm.SegmentPatientStatusCodeStatus.setDataAt(rowObj[0],index);   
+}
+function onClickPatientStatusCode2(){
+  var index = frmAdmitForm.SegmentPatientStatusCodeStatus.selectedIndex[1];
+  var rowObj = frmAdmitForm.SegmentPatientStatusCodeStatus.selectedItems;
+  var src = rowObj[0].ImagePatientCodeStatus2.src;
+  var skin = rowObj[0].LabelPatientCodeStatus2.skin;
+  var text = rowObj[0].LabelPatientCodeStatus2.text;
+   if(skin == "slLabelMediationOrdersSelected"){
+          rowObj[0].LabelPatientCodeStatus2 = {text:text,skin:"slLabelMediationOrders"};
+          rowObj[0].ImagePatientCodeStatus2.src = "icon2"; 	
+   }else{
+          rowObj[0].LabelPatientCodeStatus2 = {text:text,skin:"slLabelMediationOrdersSelected"};
+          rowObj[0].ImagePatientCodeStatus2.src = "icon2"; 
+   }
+   
+  frmAdmitForm.SegmentPatientStatusCodeStatus.setDataAt(rowObj[0],index);   
+}
+function onClickPatientStatusCode3(){
+  var index = frmAdmitForm.SegmentPatientStatusCodeStatus.selectedIndex[1];
+  var rowObj = frmAdmitForm.SegmentPatientStatusCodeStatus.selectedItems;
+  var src = rowObj[0].ImagePatientCodeStatus3.src;
+  var skin = rowObj[0].LabelPatientCodeStatus3.skin;
+  var text = rowObj[0].LabelPatientCodeStatus3.text;
+   if(skin == "slLabelMediationOrdersSelected"){
+          rowObj[0].LabelPatientCodeStatus3 = {text:text,skin:"slLabelMediationOrders"};
+          rowObj[0].ImagePatientCodeStatus3.src = "icon3"; 	
+   }else{
+          rowObj[0].LabelPatientCodeStatus3 = {text:text,skin:"slLabelMediationOrdersSelected"};
+          rowObj[0].ImagePatientCodeStatus3.src = "icon3"; 
+   }
+   
+  frmAdmitForm.SegmentPatientStatusCodeStatus.setDataAt(rowObj[0],index);   
+}
+function onClickPatientStatusCode4(){
+  var index = frmAdmitForm.SegmentPatientStatusCodeStatus.selectedIndex[1];
+  var rowObj = frmAdmitForm.SegmentPatientStatusCodeStatus.selectedItems;
+  var src = rowObj[0].ImagePatientCodeStatus4.src;
+  var skin = rowObj[0].LabelPatientCodeStatus4.skin;
+  var text = rowObj[0].LabelPatientCodeStatus4.text;
+   if(skin == "slLabelMediationOrdersSelected"){
+          rowObj[0].LabelPatientCodeStatus4 = {text:text,skin:"slLabelMediationOrders"};
+          rowObj[0].ImagePatientCodeStatus4.src = "icon4"; 	
+   }else{
+          rowObj[0].LabelPatientCodeStatus4 = {text:text,skin:"slLabelMediationOrdersSelected"};
+          rowObj[0].ImagePatientCodeStatus4.src = "icon4"; 
+   }
+   
+  frmAdmitForm.SegmentPatientStatusCodeStatus.setDataAt(rowObj[0],index);   
 }

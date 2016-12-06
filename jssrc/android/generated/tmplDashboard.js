@@ -1,16 +1,30 @@
 function initializetmplDashboard() {
     CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e = new kony.ui.FlexContainer({
-        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
         "clipBounds": true,
-        "height": "100dp",
         "id": "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,
         "skin": "skntmplRoundedbgDashboardborderblue"
     }, {}, {});
     CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e.setDefaultUnit(kony.flex.DP);
+    var FlexContainer07982319fc88c4f = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "clipBounds": true,
+        "height": "100dp",
+        "id": "FlexContainer07982319fc88c4f",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "0dp",
+        "skin": "dashboardSegmentBlue",
+        "top": "10dp",
+        "width": "100%",
+        "zIndex": 1
+    }, {}, {});
+    FlexContainer07982319fc88c4f.setDefaultUnit(kony.flex.DP);
     var FlexContainer0fb1e2f7758184e = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "bottom": "0dp",
         "clipBounds": true,
         "height": "100dp",
         "id": "FlexContainer0fb1e2f7758184e",
@@ -20,7 +34,7 @@ function initializetmplDashboard() {
         "skin": "slFboxDashbordColapse",
         "top": "0dp",
         "width": "2%",
-        "zIndex": 1
+        "zIndex": 3
     }, {}, {});
     FlexContainer0fb1e2f7758184e.setDefaultUnit(kony.flex.DP);
     FlexContainer0fb1e2f7758184e.add();
@@ -31,9 +45,8 @@ function initializetmplDashboard() {
         "id": "FlexContainer04b1e195e498540",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_VERTICAL,
-        "left": "0dp",
-        "right": "5dp",
-        "skin": "slFbox",
+        "left": "2%",
+        "skin": "CopyslFbox035f92efc15d74d",
         "top": "0dp",
         "width": "98%",
         "zIndex": 1
@@ -46,7 +59,6 @@ function initializetmplDashboard() {
         "id": "CopyFlexContainer0f7a2b74862b742",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,
-        "left": 0,
         "skin": "skntmplRoundedbgDashboardstattus",
         "top": "0dp",
         "width": "100%",
@@ -61,7 +73,6 @@ function initializetmplDashboard() {
         "id": "FlexContainer027b38e27710d47",
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
-        "left": "0dp",
         "skin": "slFbox",
         "width": "15%",
         "zIndex": 1
@@ -73,7 +84,6 @@ function initializetmplDashboard() {
         "height": "49.29%",
         "id": "imgstatus",
         "isVisible": true,
-        "left": "0dp",
         "skin": "slImage",
         "src": "capsule.png",
         "width": "70%"
@@ -89,19 +99,17 @@ function initializetmplDashboard() {
         "id": "labeValuelname",
         "includeFontPadding": false,
         "isVisible": true,
-        "left": 5,
         "skin": "sknSegmentTmplDashBoard",
         "text": "John Smith",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
         "width": "15%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [0, 0, 0, 0],
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {
         "textCopyable": false
@@ -111,41 +119,37 @@ function initializetmplDashboard() {
         "height": "30dp",
         "id": "labelValueChiefComplaint",
         "isVisible": true,
-        "left": "0dp",
         "skin": "sknSegmentTmplDashBoard",
         "text": "KIdney stones issues",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
         "width": "30%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [0, 0, 0, 0],
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {
         "textCopyable": false
     });
     var labeValuelCondition = new kony.ui.Label({
-        "centerY": 50,
+        "centerY": "50%",
         "height": "30dp",
         "id": "labeValuelCondition",
         "isVisible": true,
-        "left": "0dp",
         "skin": "sknSegmentTmplDashBoard",
         "text": "Guarded",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
         "width": "15%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [0, 0, 0, 0],
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {
         "textCopyable": false
@@ -155,19 +159,17 @@ function initializetmplDashboard() {
         "height": "30dp",
         "id": "labeValuelBedType",
         "isVisible": true,
-        "left": "0dp",
         "skin": "sknSegmentTmplDashBoard",
         "text": "Intensive Care unit",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
         "width": "20%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [0, 0, 0, 0],
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {
         "textCopyable": false
@@ -191,7 +193,6 @@ function initializetmplDashboard() {
         "centerY": "50%",
         "id": "lableRef",
         "isVisible": true,
-        "left": "5dp",
         "skin": "sknDashBoardHeader",
         "text": "Adm #",
         "textStyle": {
@@ -201,7 +202,7 @@ function initializetmplDashboard() {
         "width": "15%",
         "zIndex": 1
     }, {
-        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "contentAlignment": constants.CONTENT_ALIGN_CENTER,
         "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {
@@ -209,10 +210,8 @@ function initializetmplDashboard() {
     });
     var labelValueAdm = new kony.ui.Label({
         "bottom": "5dp",
-        "centerY": "50%",
         "id": "labelValueAdm",
-        "isVisible": true,
-        "left": "5dp",
+        "isVisible": false,
         "skin": "sknSegmentTmplDashBoard",
         "text": "HCAPH110816-0005",
         "textStyle": {
@@ -220,7 +219,28 @@ function initializetmplDashboard() {
             "strikeThrough": false
         },
         "top": "5dp",
-        "width": "25%",
+        "width": "15%",
+        "zIndex": 1
+    }, {
+        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "padding": [1, 1, 1, 1],
+        "paddingInPixel": false
+    }, {
+        "textCopyable": false
+    });
+    var admValue1 = new kony.ui.Label({
+        "centerY": "50%",
+        "id": "admValue1",
+        "isVisible": true,
+        "left": "0dp",
+        "skin": "adminValSkin",
+        "text": "HCAPH110816-0005",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "top": "0dp",
+        "width": "15%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
@@ -235,15 +255,13 @@ function initializetmplDashboard() {
         "id": "labelAgeSex",
         "includeFontPadding": false,
         "isVisible": true,
-        "left": 0,
         "skin": "sknDashBoardHeader",
         "text": "Age/Sex",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "5dp",
-        "width": "27.78%",
+        "width": "30%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
@@ -257,15 +275,14 @@ function initializetmplDashboard() {
         "centerY": "50%",
         "id": "labelValueAge",
         "isVisible": true,
-        "left": "0dp",
         "skin": "sknSegmentTmplDashBoard",
         "text": "25F",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
-        "width": kony.flex.USE_PREFFERED_SIZE,
+        "top": "5dp",
+        "width": "15%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
@@ -274,7 +291,7 @@ function initializetmplDashboard() {
     }, {
         "textCopyable": false
     });
-    CopyflxTemplateRowConfigurationAlertsContainer04fbe30676a584c.add(lableRef, labelValueAdm, labelAgeSex, labelValueAge);
+    CopyflxTemplateRowConfigurationAlertsContainer04fbe30676a584c.add(lableRef, labelValueAdm, admValue1, labelAgeSex, labelValueAge);
     var CopyflxTemplateRowConfigurationAlertsContainer0555522c60d9140 = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
@@ -293,7 +310,6 @@ function initializetmplDashboard() {
         "centerY": "50%",
         "id": "labelRefFac",
         "isVisible": true,
-        "left": "5dp",
         "skin": "sknDashBoardHeader",
         "text": "Ref Fac",
         "textStyle": {
@@ -304,7 +320,7 @@ function initializetmplDashboard() {
         "width": "15%",
         "zIndex": 1
     }, {
-        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "contentAlignment": constants.CONTENT_ALIGN_CENTER,
         "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {
@@ -312,10 +328,8 @@ function initializetmplDashboard() {
     });
     var labelValueReferringFacility = new kony.ui.Label({
         "bottom": "5dp",
-        "centerY": "50%",
         "id": "labelValueReferringFacility",
         "isVisible": true,
-        "left": "5dp",
         "skin": "sknSegmentTmplDashBoard",
         "text": "PhanidraED",
         "textStyle": {
@@ -323,7 +337,7 @@ function initializetmplDashboard() {
             "strikeThrough": false
         },
         "top": "5dp",
-        "width": "25%",
+        "width": "15%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
@@ -337,15 +351,13 @@ function initializetmplDashboard() {
         "centerY": "50%",
         "id": "labelSepsisScreeing",
         "isVisible": true,
-        "left": "0dp",
         "skin": "sknDashBoardHeader",
         "text": "Sepsis Screening",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "5dp",
-        "width": "25%",
+        "width": "30%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
@@ -359,7 +371,6 @@ function initializetmplDashboard() {
         "centerY": "50%",
         "id": "labelValueSepsisScreening",
         "isVisible": true,
-        "left": "0dp",
         "skin": "sknSegmentTmplDashBoard",
         "text": "Negative",
         "textStyle": {
@@ -367,7 +378,7 @@ function initializetmplDashboard() {
             "strikeThrough": false
         },
         "top": "0dp",
-        "width": kony.flex.USE_PREFFERED_SIZE,
+        "width": "15%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
@@ -378,5 +389,6 @@ function initializetmplDashboard() {
     });
     CopyflxTemplateRowConfigurationAlertsContainer0555522c60d9140.add(labelRefFac, labelValueReferringFacility, labelSepsisScreeing, labelValueSepsisScreening);
     FlexContainer04b1e195e498540.add(CopyFlexContainer0f7a2b74862b742, CopyflxTemplateRowConfigurationAlertsContainer04fbe30676a584c, CopyflxTemplateRowConfigurationAlertsContainer0555522c60d9140);
-    CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e.add(FlexContainer0fb1e2f7758184e, FlexContainer04b1e195e498540);
+    FlexContainer07982319fc88c4f.add(FlexContainer0fb1e2f7758184e, FlexContainer04b1e195e498540);
+    CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e.add(FlexContainer07982319fc88c4f);
 }

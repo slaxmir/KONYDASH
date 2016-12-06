@@ -6,10 +6,6 @@
         "type": "string",
         "value": "30dp"
     },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_margin_": [
         1,
         1,
@@ -17,17 +13,13 @@
         1
     ],
     "_padding_": [
-        0,
-        0,
-        0,
-        0
+        1,
+        1,
+        1,
+        1
     ],
     "_skin_": "s9e657b2f6d14c978baaab4a7282f0cd",
     "_text_": "KIdney stones issues",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_width_": {
         "type": "string",
         "value": "30%"
@@ -62,6 +54,7 @@
     "isvisible": true,
     "kuid": "b390a8f7bce04ead8bd6f9a8bcc78de9",
     "name": "kony.ui.Label",
+    "paddinginpixel": false,
     "parent": "CopyFlexContainer0f7a2b74862b742",
     "pf": "tmplDashboard",
     "tooltip": "",

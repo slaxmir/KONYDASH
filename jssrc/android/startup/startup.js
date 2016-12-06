@@ -20,6 +20,7 @@ sessionID = "";
 function appInit(params) {
     skinsInit();
     initializeCopyFBox0a9cedc484f624d();
+    initializeCopytmplDashboard06a9d2fffad814a();
     initializeFBox0ce6da63e12d141();
     initializetemplateEditProfileInfo1();
     initializetemplateEditProfileInfo2();
@@ -35,6 +36,7 @@ function appInit(params) {
     initializetmplModeofTransport3();
     initializetmplModeofTransport4();
     initializetmplModeofTransport5();
+    initializetmplPatientStatusCodeStatus();
     initializetmplRecomondationsMediationOrders();
     initializetmplSegAdmitFormSepsisScreeing();
     initializetmpSegemntlAdmissionAdditionalInfo();
@@ -70,7 +72,7 @@ function themeCallBack() {
     kony.application.setApplicationInitializationEvents({
         init: appInit,
         showstartupform: function() {
-            frmLogin.show();
+            frmDashBoard.show();
         }
     });
 };

@@ -36,8 +36,8 @@
     "autogrowmode": 1,
     "canUpdateUI": true,
     "children": [
-        "CopyLabel00160c62d01ae42",
-        "CopyLabel05eab8731b1db4b"
+        "LabelInfectiousDiseaseQuestionnaireSuspectEbolaNO",
+        "LabelInfectiousDiseaseQuestionnaireSuspectEbolaYes"
     ],
     "clipbounds": true,
     "containerweight": 100,

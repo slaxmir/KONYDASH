@@ -1,5 +1,6 @@
 function skinsInit() {
     addBtnSkin1 = "addBtnSkin1";
+    adminValSkin = "adminValSkin";
     admitFormHDSkin = "admitFormHDSkin";
     bedAdmissionHeader = "bedAdmissionHeader";
     bedAdmissionTitleSkin = "bedAdmissionTitleSkin";
@@ -112,6 +113,7 @@ function skinsInit() {
     CopyslFbox01d89946072df49 = "CopyslFbox01d89946072df49";
     CopyslFbox02e75e6e03ebb41 = "CopyslFbox02e75e6e03ebb41";
     CopyslFbox02f5b196d549943 = "CopyslFbox02f5b196d549943";
+    CopyslFbox035f92efc15d74d = "CopyslFbox035f92efc15d74d";
     CopyslFbox03f772a29d63d49 = "CopyslFbox03f772a29d63d49";
     CopyslFbox04ca04769869444 = "CopyslFbox04ca04769869444";
     CopyslFbox055b440af01ec45 = "CopyslFbox055b440af01ec45";
@@ -191,6 +193,7 @@ function skinsInit() {
     CopyslLabel0a878c0654a9b45 = "CopyslLabel0a878c0654a9b45";
     CopyslLabel0abb91b38760f4a = "CopyslLabel0abb91b38760f4a";
     CopyslLabel0ae22789f49d54d = "CopyslLabel0ae22789f49d54d";
+    CopyslLabel0c066cd2167d648 = "CopyslLabel0c066cd2167d648";
     CopyslLabel0c8f9817ca9574a = "CopyslLabel0c8f9817ca9574a";
     CopyslLabel0c94f071c9deb46 = "CopyslLabel0c94f071c9deb46";
     CopyslLabel0cf9384c7fe8743 = "CopyslLabel0cf9384c7fe8743";
@@ -245,6 +248,8 @@ function skinsInit() {
     CopytabCanvasInactive052646609077543 = "CopytabCanvasInactive052646609077543";
     CopytabCanvasInactive0a17bff67241244 = "CopytabCanvasInactive0a17bff67241244";
     CopytabColorSkin0b2140c8bcc1849 = "CopytabColorSkin0b2140c8bcc1849";
+    dashboardSegmentBlue = "dashboardSegmentBlue";
+    dashboardSegmentGray = "dashboardSegmentGray";
     dateLabel = "dateLabel";
     fieldLabel2Skin = "fieldLabel2Skin";
     fieldLabelSkin = "fieldLabelSkin";
@@ -385,6 +390,7 @@ function skinsInit() {
     slFboxbashboardsegRow1 = "slFboxbashboardsegRow1";
     slFboxbashboardsegRow2 = "slFboxbashboardsegRow2";
     slFboxDashbordColapse = "slFboxDashbordColapse";
+    slFboxDashbordColapseGray = "slFboxDashbordColapseGray";
     slFlxbg = "slFlxbg";
     slForm = "slForm";
     slFSbox = "slFSbox";
