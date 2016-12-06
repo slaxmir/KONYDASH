@@ -36,8 +36,8 @@
     "autogrowmode": 1,
     "canUpdateUI": true,
     "children": [
-        "Label0763548cf322640",
-        "CopyLabel0e4a5a7d81c7b4a"
+        "LblAdmiFormMale",
+        "LblAdmitFormFemale"
     ],
     "clipbounds": true,
     "containerweight": 100,

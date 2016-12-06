@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -26,33 +26,33 @@
     "_skin_": "s2a016ad20de42e9858c145b4fde0e87",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "25%"
     },
     "allboxes": [],
     "autogrowmode": 1,
     "canUpdateUI": true,
     "children": [
-        "LabelInfectiousDiseaseQuestionnaireTravelledNo",
-        "LabelInfectiousDiseaseQuestionnaireTravelledYes"
+        "ImagePatientCodeStatus1",
+        "LabelPatientCodeStatus1"
     ],
     "clipbounds": true,
+    "containerId": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "CopyFlexContainer0ce6a6ed28b7b42",
+    "id": "FlexContainerPatientStatusCodeStatus1",
     "info": null,
     "isvisible": true,
-    "kuid": "e79640598c1c4894b53e242803094899",
-    "layouttype": 3,
+    "kuid": "5555c86cfec1490abf11f283a3239093",
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxContainerInfectiousDiceaseQuestionareAdmitForm",
-    "pf": "frmAdmitForm",
+    "parent": "CopyFlexContainer0c2984e9049944e",
+    "pf": "tmplPatientStatusCodeStatus",
     "snapgridsize": 10,
     "snaptogrid": true,
-    "tabpaneId": "admitFormTabSection",
     "wType": "FlexContainer",
     "widgetalignment": 1,
     "zindex": 1

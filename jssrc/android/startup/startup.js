@@ -35,6 +35,7 @@ function appInit(params) {
     initializetmplModeofTransport3();
     initializetmplModeofTransport4();
     initializetmplModeofTransport5();
+    initializetmplPatientStatusCodeStatus();
     initializetmplRecomondationsMediationOrders();
     initializetmplSegAdmitFormSepsisScreeing();
     initializetmpSegemntlAdmissionAdditionalInfo();

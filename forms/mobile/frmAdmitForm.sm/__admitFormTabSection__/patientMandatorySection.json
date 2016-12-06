@@ -58,7 +58,7 @@
         "flxContainerVitalSignsAdmitForm",
         "flexContainerPatientStatus",
         "flxContainerPatientStatusAdmitForm",
-        "patientSubmit1"
+        "patientSubmit"
     ],
     "clipbounds": true,
     "containerweight": 100,

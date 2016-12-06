@@ -1,0 +1,142 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "ImagePatientCodeStatus1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "ImagePatientCodeStatus2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "ImagePatientCodeStatus3": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "ImagePatientCodeStatus4": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "LabelPatientCodeStatus1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LabelPatientCodeStatus2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LabelPatientCodeStatus3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LabelPatientCodeStatus4": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegmentPatientStatusCodeStatus",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "291d5ae8788a49ac9686613ee6134b5e",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxContainerPatientStatusAdmitForm",
+    "pf": "frmAdmitForm",
+    "retainselection": false,
+    "rowTemplateId": "921bd03558ee4841bcc1d80eda110b8d",
+    "rowcounter": 0,
+    "rowfocusskin": "sb6ad43583984d478b3dd90c47d4aac2",
+    "rowskin": "sb8a1606d29a408fae0767dae0cc6922",
+    "rowtemplate": "CopyFlexContainer0c2984e9049944e",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s36bc0910fbd4744acd46aa2263dbc2a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "tabpaneId": "admitFormTabSection",
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer0c2984e9049944e": "CopyFlexContainer0c2984e9049944e",
+        "FlexContainerPatientStatusCodeStatus1": "FlexContainerPatientStatusCodeStatus1",
+        "FlexContainerPatientStatusCodeStatus2": "FlexContainerPatientStatusCodeStatus2",
+        "FlexContainerPatientStatusCodeStatus3": "FlexContainerPatientStatusCodeStatus3",
+        "FlexContainerPatientStatusCodeStatus4": "FlexContainerPatientStatusCodeStatus4",
+        "ImagePatientCodeStatus1": "ImagePatientCodeStatus1",
+        "ImagePatientCodeStatus2": "ImagePatientCodeStatus2",
+        "ImagePatientCodeStatus3": "ImagePatientCodeStatus3",
+        "ImagePatientCodeStatus4": "ImagePatientCodeStatus4",
+        "LabelPatientCodeStatus1": "LabelPatientCodeStatus1",
+        "LabelPatientCodeStatus2": "LabelPatientCodeStatus2",
+        "LabelPatientCodeStatus3": "LabelPatientCodeStatus3",
+        "LabelPatientCodeStatus4": "LabelPatientCodeStatus4"
+    },
+    "zindex": 1
+}
