@@ -39,7 +39,6 @@
         "channel": "mobile",
         "formID": "frmConfigurationAlerts",
         "platform": "android",
-        "tabpaneID": "",
         "templateType": "forms",
         "topLevelBox": null
     },

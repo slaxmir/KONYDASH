@@ -94,6 +94,3 @@ loadResources();
 // If you wish to debug Application Initialization events, now is the time to
 // place breakpoints.
 debugger;
-kony.print = function() {
-    return;
-};
