@@ -3,12 +3,8 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
-    },
-    "_left_": {
         "type": "string",
-        "value": "15dp"
+        "value": "30dp"
     },
     "_margin_": [
         1,
@@ -17,10 +13,10 @@
         1
     ],
     "_padding_": [
-        0,
-        0,
-        0,
-        0
+        1,
+        1,
+        1,
+        1
     ],
     "_skin_": "s9a0ef6bc1944ce5b109ad9349b9fea9",
     "_text_": "Status",
@@ -45,7 +41,7 @@
         "value": "50.00%"
     },
     "containerweight": 100,
-    "contentalignment": 4,
+    "contentalignment": 5,
     "id": "CopylabelPsychAdmission032ac767f58c74c",
     "info": null,
     "ipad": {
@@ -61,6 +57,7 @@
     "isvisible": true,
     "kuid": "4503f097fde5400b8115e0cb76ed3ff3",
     "name": "kony.ui.Label",
+    "paddinginpixel": false,
     "parent": "CopyflxPsychAdmissionHeaderContainer0d5022215c04a4d",
     "pf": "frmDashBoard",
     "tooltip": "",

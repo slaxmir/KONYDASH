@@ -10,10 +10,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "5dp"
-    },
     "_margin_": [
         1,
         1,
@@ -34,7 +30,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "25%"
+        "value": "15%"
     },
     "_wrapping_": 2,
     "android": {
@@ -44,10 +40,6 @@
         }
     },
     "canUpdateUI": true,
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
     "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
@@ -63,7 +55,7 @@
             "wrapping": 2
         }
     },
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "f6f4f40de3784018b9648230cf45a4e4",
     "name": "kony.ui.Label",
     "paddinginpixel": false,

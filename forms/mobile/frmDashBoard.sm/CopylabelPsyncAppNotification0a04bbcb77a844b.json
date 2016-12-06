@@ -3,12 +3,8 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
-    },
-    "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "30dp"
     },
     "_margin_": [
         1,
@@ -24,10 +20,6 @@
     ],
     "_skin_": "s9a0ef6bc1944ce5b109ad9349b9fea9",
     "_text_": "Condition",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_width_": {
         "type": "string",
         "value": "15%"

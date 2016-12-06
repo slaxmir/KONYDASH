@@ -45,7 +45,7 @@
     "enablescrolling": true,
     "id": "FlexContainer02a20a3da3e884a",
     "info": null,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "806deb93862349e986a96bb2b436da8b",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
