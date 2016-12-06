@@ -20,8 +20,7 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "popupReferringFacilityTitle",
-        "popupReferringFacilityClose"
+        "popupReferringFacilityTitle"
     ],
     "containerheight": 30,
     "containerheightreference": 1,
@@ -40,7 +39,7 @@
     "scrolldirection": 1,
     "scrollingevents": null,
     "showscrollbars": true,
-    "totalWt": 100,
+    "totalWt": 90,
     "wType": "ScrollBox",
     "widgetalignment": 5
 }

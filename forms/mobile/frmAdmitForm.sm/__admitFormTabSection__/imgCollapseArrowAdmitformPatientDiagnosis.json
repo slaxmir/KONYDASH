@@ -40,7 +40,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "25dp"
+        "value": "21dp"
     },
     "containerweight": 100,
     "context": {

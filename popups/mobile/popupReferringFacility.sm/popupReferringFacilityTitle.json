@@ -23,7 +23,7 @@
         }
     },
     "canUpdateUI": true,
-    "containerweight": 93,
+    "containerweight": 90,
     "contentalignment": 5,
     "id": "popupReferringFacilityTitle",
     "info": null,
@@ -49,5 +49,6 @@
     "parent": "popupReferringFacilityRow1",
     "pf": "popupReferringFacility",
     "tooltip": "",
-    "wType": "Label"
+    "wType": "Label",
+    "widgetalignment": 5
 }

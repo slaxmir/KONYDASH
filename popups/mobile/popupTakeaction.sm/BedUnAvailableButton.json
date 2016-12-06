@@ -18,8 +18,10 @@
     "canUpdateUI": true,
     "containerweight": 50,
     "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s1ae931a069c40f4ac73da87a33301f1"
+    },
     "displaytext": true,
-    "focusskin": "s1ae931a069c40f4ac73da87a33301f1",
     "id": "BedUnAvailableButton",
     "info": null,
     "isvisible": true,

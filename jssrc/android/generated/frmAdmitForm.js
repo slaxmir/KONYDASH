@@ -870,7 +870,7 @@ function addWidgetsfrmAdmitForm() {
     var admitFormTabSection = new kony.ui.TabPane({
         "activeFocusSkin": "CopytabColorSkin0b2140c8bcc1849",
         "activeSkin": "tabColorSkin",
-        "activeTabs": [2],
+        "activeTabs": [0],
         "centerX": "49.99%",
         "height": "90%",
         "id": "admitFormTabSection",
@@ -1096,7 +1096,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var lableAdmissionDetails = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "20dp",
         "id": "lableAdmissionDetails",
         "isVisible": true,
         "left": "5dp",
@@ -1117,7 +1117,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmitFormPatientStatus = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "20dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmitFormPatientStatus",
         "isVisible": true,
@@ -1326,7 +1326,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails0d971933ceeb24b = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "20dp",
         "id": "CopylableAdmissionDetails0d971933ceeb24b",
         "isVisible": true,
         "left": "5dp",
@@ -1347,7 +1347,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmitFormAdmitingPreferences = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "20dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmitFormAdmitingPreferences",
         "isVisible": true,
@@ -1608,7 +1608,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails0f8061b93e4d241 = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "21dp",
         "id": "CopylableAdmissionDetails0f8061b93e4d241",
         "isVisible": true,
         "left": "5dp",
@@ -1629,7 +1629,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmitPageBedAssignAlert = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "21dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmitPageBedAssignAlert",
         "isVisible": true,
@@ -1762,7 +1762,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails0b2f0524f583a44 = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "21dp",
         "id": "CopylableAdmissionDetails0b2f0524f583a44",
         "isVisible": true,
         "left": "5dp",
@@ -1783,7 +1783,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmitformPatientDiagnosis = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "21dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmitformPatientDiagnosis",
         "isVisible": true,
@@ -1891,7 +1891,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails089eb49958b0645 = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "19dp",
         "id": "CopylableAdmissionDetails089eb49958b0645",
         "isVisible": true,
         "left": "5dp",
@@ -1912,7 +1912,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmitFormInfectiousDiseaseQuestionarrie = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "19dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmitFormInfectiousDiseaseQuestionarrie",
         "isVisible": true,
@@ -2118,7 +2118,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails07ef8275757564e = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "20dp",
         "id": "CopylableAdmissionDetails07ef8275757564e",
         "isVisible": true,
         "left": "5dp",
@@ -2139,7 +2139,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmitFormSepsisScreeing = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "20dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmitFormSepsisScreeing",
         "isVisible": true,
@@ -2298,7 +2298,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails06ce43ff962814d = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "18dp",
         "id": "CopylableAdmissionDetails06ce43ff962814d",
         "isVisible": true,
         "left": "5dp",
@@ -2319,7 +2319,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmitformVitalSigns = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "18dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmitformVitalSigns",
         "isVisible": true,
@@ -2597,7 +2597,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails0f45944c1ed8349 = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "20dp",
         "id": "CopylableAdmissionDetails0f45944c1ed8349",
         "isVisible": true,
         "left": "5dp",
@@ -2618,7 +2618,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmitFormPatientStatus1 = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "20dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmitFormPatientStatus1",
         "isVisible": true,
@@ -3112,7 +3112,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails039d4183dda064d = new kony.ui.Label({
-        "centerY": "19dp",
+        "centerY": "24dp",
         "id": "CopylableAdmissionDetails039d4183dda064d",
         "isVisible": true,
         "left": "5dp",
@@ -3133,7 +3133,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmiitFormMedicalHistory = new kony.ui.Image2({
-        "centerY": "16dp",
+        "centerY": "24dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmiitFormMedicalHistory",
         "isVisible": true,
@@ -3234,7 +3234,7 @@ function addWidgetsfrmAdmitForm() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "5dp",
+        "top": "15dp",
         "width": kony.flex.USE_PREFFERED_SIZE,
         "zIndex": 1
     }, {
@@ -3378,7 +3378,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails06a9bab5d7bf142 = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "21dp",
         "id": "CopylableAdmissionDetails06a9bab5d7bf142",
         "isVisible": true,
         "left": "5dp",
@@ -3399,7 +3399,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmitformModeOfTransport = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "21dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmitformModeOfTransport",
         "isVisible": true,
@@ -3577,7 +3577,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails0e40253d1a76742 = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "21dp",
         "id": "CopylableAdmissionDetails0e40253d1a76742",
         "isVisible": true,
         "left": "5dp",
@@ -3598,7 +3598,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmiitFormPrimaryCareProvider = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "21dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmiitFormPrimaryCareProvider",
         "isVisible": true,
@@ -3917,7 +3917,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails05f046e468b874f = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "21dp",
         "id": "CopylableAdmissionDetails05f046e468b874f",
         "isVisible": true,
         "left": "5dp",
@@ -3938,7 +3938,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmitFormMedicationOrders = new kony.ui.Image2({
-        "centerY": "27dp",
+        "centerY": "20dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmitFormMedicationOrders",
         "isVisible": true,
@@ -4196,7 +4196,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails0e4319bb2a2ad42 = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "21dp",
         "id": "CopylableAdmissionDetails0e4319bb2a2ad42",
         "isVisible": true,
         "left": "5dp",
@@ -4216,7 +4216,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmitFormTests = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "21dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmitFormTests",
         "isVisible": true,
@@ -4505,7 +4505,7 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     var CopylableAdmissionDetails0cb45c0a07b7347 = new kony.ui.Label({
-        "centerY": "25dp",
+        "centerY": "20dp",
         "id": "CopylableAdmissionDetails0cb45c0a07b7347",
         "isVisible": true,
         "left": "5dp",
@@ -4526,7 +4526,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmiitFormImaging = new kony.ui.Image2({
-        "centerY": "25dp",
+        "centerY": "20dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmiitFormImaging",
         "isVisible": true,
