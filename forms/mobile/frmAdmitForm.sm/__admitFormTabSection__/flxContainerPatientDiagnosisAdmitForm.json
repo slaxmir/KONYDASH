@@ -36,7 +36,7 @@
     "autogrowmode": 1,
     "canUpdateUI": true,
     "children": [
-        "tbChiefComplaint",
+        "TBChiefComplaint",
         "tbAdditionalinfo"
     ],
     "clipbounds": true,

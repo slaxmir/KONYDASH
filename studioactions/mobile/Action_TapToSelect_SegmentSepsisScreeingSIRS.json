@@ -1,0 +1,17 @@
+{
+    "AS__5b397197fec94fb5821098fc2c584f80": {
+        "id": "AS__5b397197fec94fb5821098fc2c584f80",
+        "type": "ACTION_SEQUENCE",
+        "name": "Action_TapToSelect_SegmentSepsisScreeingSIRS",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___8484d29bdf8b4ec9b56b1546f86b6ebd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSelectSegmentSepsisScreeingSIRS",
+            "display": "tapToSelectSegmentSepsisScreeingSIRS",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

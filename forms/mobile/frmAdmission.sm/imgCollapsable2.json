@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "30dp"
+        "value": "44dp"
     },
     "_left_": {
         "type": "string",
@@ -27,7 +27,7 @@
     "_src_": "collapselabelicon.png",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "-3dp"
     },
     "_width_": {
         "type": "string",

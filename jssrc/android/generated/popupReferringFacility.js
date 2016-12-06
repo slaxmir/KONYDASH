@@ -30,7 +30,7 @@ function addWidgetspopupReferringFacility() {
             "strikeThrough": false
         }
     }, {
-        "containerWeight": 93,
+        "containerWeight": 90,
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
         "hExpand": true,
         "margin": [1, 1, 1, 1],
@@ -42,21 +42,7 @@ function addWidgetspopupReferringFacility() {
     }, {
         "textCopyable": false
     });
-    var popupReferringFacilityClose = new kony.ui.Image2({
-        "id": "popupReferringFacilityClose",
-        "isVisible": true,
-        "skin": "slImage",
-        "src": "popcloseicon.png"
-    }, {
-        "containerWeight": 7,
-        "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
-        "margin": [0, 0, 0, 0],
-        "marginInPixel": false,
-        "padding": [0, 0, 0, 0],
-        "paddingInPixel": false,
-        "widgetAlignment": constants.WIDGET_ALIGN_CENTER
-    }, {});
-    popupReferringFacilityRow1.add(popupReferringFacilityTitle, popupReferringFacilityClose);
+    popupReferringFacilityRow1.add(popupReferringFacilityTitle);
     var referringFacilityBorder = new kony.ui.Line({
         "id": "referringFacilityBorder",
         "isVisible": true,

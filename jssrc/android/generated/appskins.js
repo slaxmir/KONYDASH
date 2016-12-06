@@ -66,6 +66,7 @@ function skinsInit() {
     CopyslButtonGlossBlue027680beb3ae447 = "CopyslButtonGlossBlue027680beb3ae447";
     CopyslButtonGlossBlue02b3b8927fd5c43 = "CopyslButtonGlossBlue02b3b8927fd5c43";
     CopyslButtonGlossBlue02b9440861e924e = "CopyslButtonGlossBlue02b9440861e924e";
+    CopyslButtonGlossBlue0367abdc3835c40 = "CopyslButtonGlossBlue0367abdc3835c40";
     CopyslButtonGlossBlue03d00effe15134c = "CopyslButtonGlossBlue03d00effe15134c";
     CopyslButtonGlossBlue03ee7289ad0a649 = "CopyslButtonGlossBlue03ee7289ad0a649";
     CopyslButtonGlossBlue03efbd6ac45e14e = "CopyslButtonGlossBlue03efbd6ac45e14e";
@@ -93,6 +94,7 @@ function skinsInit() {
     CopyslButtonGlossBlue0b688234dda284e = "CopyslButtonGlossBlue0b688234dda284e";
     CopyslButtonGlossBlue0c3e6bd33c8724f = "CopyslButtonGlossBlue0c3e6bd33c8724f";
     CopyslButtonGlossBlue0cfca8a49b89347 = "CopyslButtonGlossBlue0cfca8a49b89347";
+    CopyslButtonGlossBlue0e3e13d455b5349 = "CopyslButtonGlossBlue0e3e13d455b5349";
     CopyslButtonGlossBlue0ec7815a20dea44 = "CopyslButtonGlossBlue0ec7815a20dea44";
     CopyslButtonGlossBlue0f00c11afcead40 = "CopyslButtonGlossBlue0f00c11afcead40";
     CopyslButtonGlossBlue0f58716fdd5c94e = "CopyslButtonGlossBlue0f58716fdd5c94e";
@@ -155,6 +157,7 @@ function skinsInit() {
     CopyslFSbox0e128965edd2f43 = "CopyslFSbox0e128965edd2f43";
     CopyslFSbox0e5d233f8d36347 = "CopyslFSbox0e5d233f8d36347";
     CopyslFSbox0ed6dbdc7701248 = "CopyslFSbox0ed6dbdc7701248";
+    CopyslHbox07c6d147e9c6844 = "CopyslHbox07c6d147e9c6844";
     CopyslImage03ba0c02a3ddf4a = "CopyslImage03ba0c02a3ddf4a";
     CopyslImage03cc718f851a849 = "CopyslImage03cc718f851a849";
     CopyslLabel00313a835cccc41 = "CopyslLabel00313a835cccc41";

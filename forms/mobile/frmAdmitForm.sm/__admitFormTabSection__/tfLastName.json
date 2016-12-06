@@ -42,7 +42,7 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "tfLastName",
+    "id": "TFLastName",
     "info": null,
     "isvisible": true,
     "keyboardtype": "A",

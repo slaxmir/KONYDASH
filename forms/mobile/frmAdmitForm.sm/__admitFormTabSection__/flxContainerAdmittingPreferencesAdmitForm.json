@@ -37,14 +37,14 @@
     "canUpdateUI": true,
     "children": [
         "LabelAdmittingHospital",
-        "ListBox0c7b2da890a8647",
+        "ListBoxAdmittingHospital",
         "lblAdmittingGroup",
-        "CopyListBox07caea532b12445",
+        "ListBoxAdmittingGroup",
         "ListBoxSelectPhysicialAdmitForm",
         "lblRequestDocToDoc",
         "ListBoxRequestDocToDocAdmitForm",
         "lblPatientETA",
-        "CopyListBox0895efb89b97f4a"
+        "ListBoxPatienETA"
     ],
     "clipbounds": true,
     "containerweight": 100,

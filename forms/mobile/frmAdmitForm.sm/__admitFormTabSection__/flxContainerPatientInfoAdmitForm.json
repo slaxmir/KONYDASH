@@ -36,11 +36,11 @@
     "autogrowmode": 1,
     "canUpdateUI": true,
     "children": [
-        "tfFirstName",
-        "tfLastName",
+        "TFFirstName",
+        "TFLastName",
         "FlexContainer04bef1e93257c44",
-        "CalendarDOB",
-        "tfSSN"
+        "CalendarAdmitFormDOB",
+        "TFSSN"
     ],
     "clipbounds": true,
     "containerweight": 100,

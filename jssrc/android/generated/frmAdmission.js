@@ -398,8 +398,9 @@ function addWidgetsfrmAdmission() {
     CopyflxConMOTform0e9da8ee67e354e.add(CopyimgPrint07bb0b642d4b144);
     flexContainerAdmissionSub3.add(flxConReferringFacilityInfo, flxConBoardingPass, flxConMOTform, CopyflxConMOTform0e9da8ee67e354e);
     var flexContainerAdmissionDetailsBlock = new kony.ui.FlexContainer({
-        "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
+        "height": "36dp",
         "id": "flexContainerAdmissionDetailsBlock",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,
@@ -411,7 +412,7 @@ function addWidgetsfrmAdmission() {
     }, {}, {});
     flexContainerAdmissionDetailsBlock.setDefaultUnit(kony.flex.DP);
     var imgCollapsable1 = new kony.ui.Image2({
-        "height": "30dp",
+        "height": "35dp",
         "id": "imgCollapsable1",
         "isVisible": true,
         "left": "0dp",
@@ -426,7 +427,7 @@ function addWidgetsfrmAdmission() {
         "paddingInPixel": false
     }, {});
     var lableAdmissionDetails = new kony.ui.Label({
-        "centerY": "15dp",
+        "centerY": "17dp",
         "id": "lableAdmissionDetails",
         "isVisible": true,
         "left": "5dp",
@@ -446,7 +447,7 @@ function addWidgetsfrmAdmission() {
         "textCopyable": false
     });
     var imgCollapseArrowAdmissionDetails = new kony.ui.Image2({
-        "centerY": "15dp",
+        "centerY": "17dp",
         "height": "20dp",
         "id": "imgCollapseArrowAdmissionDetails",
         "isVisible": true,
@@ -514,8 +515,9 @@ function addWidgetsfrmAdmission() {
         "paddingInPixel": false
     }, {});
     var flexContainerVitalSignalsBlock = new kony.ui.FlexContainer({
-        "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
+        "height": "36dp",
         "id": "flexContainerVitalSignalsBlock",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,
@@ -527,13 +529,13 @@ function addWidgetsfrmAdmission() {
     }, {}, {});
     flexContainerVitalSignalsBlock.setDefaultUnit(kony.flex.DP);
     var imgCollapsable2 = new kony.ui.Image2({
-        "height": "30dp",
+        "height": "44dp",
         "id": "imgCollapsable2",
         "isVisible": true,
         "left": "0dp",
         "skin": "slImage",
         "src": "collapselabelicon.png",
-        "top": "0dp",
+        "top": "-3dp",
         "width": "1%",
         "zIndex": 1
     }, {
@@ -542,7 +544,7 @@ function addWidgetsfrmAdmission() {
         "paddingInPixel": false
     }, {});
     var lableAdmissionDetails2 = new kony.ui.Label({
-        "centerY": "15dp",
+        "centerY": "18dp",
         "id": "lableAdmissionDetails2",
         "isVisible": true,
         "left": "5dp",
@@ -562,7 +564,7 @@ function addWidgetsfrmAdmission() {
         "textCopyable": false
     });
     var imgCollapseArrowVitalSignals = new kony.ui.Image2({
-        "centerY": "15dp",
+        "centerY": "18dp",
         "height": "40dp",
         "id": "imgCollapseArrowVitalSignals",
         "isVisible": true,
@@ -637,20 +639,21 @@ function addWidgetsfrmAdmission() {
     }, {});
     flexContainerShowVitalSigns.add(SegmentVitalSigns);
     var flexContainerSepsisScreeingBlock = new kony.ui.FlexContainer({
-        "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
+        "height": "36dp",
         "id": "flexContainerSepsisScreeingBlock",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,
         "left": "0dp",
         "onClick": AS_FlexContainer_8283c08a069849b982e85d166112e4a3,
         "skin": "slFbox",
-        "top": "5dp",
+        "top": "10dp",
         "width": "100%"
     }, {}, {});
     flexContainerSepsisScreeingBlock.setDefaultUnit(kony.flex.DP);
     var imgCollapsable3 = new kony.ui.Image2({
-        "height": "30dp",
+        "height": "38dp",
         "id": "imgCollapsable3",
         "isVisible": true,
         "left": "0dp",
@@ -665,7 +668,7 @@ function addWidgetsfrmAdmission() {
         "paddingInPixel": false
     }, {});
     var lableAdmissionDetails3 = new kony.ui.Label({
-        "centerY": "15dp",
+        "centerY": "18dp",
         "id": "lableAdmissionDetails3",
         "isVisible": true,
         "left": "5dp",
@@ -685,7 +688,7 @@ function addWidgetsfrmAdmission() {
         "textCopyable": false
     });
     var imgCollapseArrowSepsisScreening = new kony.ui.Image2({
-        "centerY": "15dp",
+        "centerY": "18dp",
         "height": "40dp",
         "id": "imgCollapseArrowSepsisScreening",
         "isVisible": true,
@@ -758,8 +761,9 @@ function addWidgetsfrmAdmission() {
     }, {});
     flexContainerSepsisScreeing.add(SegmentSepsisScreeing);
     var flexContainerAdditionalInfoBlock = new kony.ui.FlexContainer({
-        "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
+        "height": "36dp",
         "id": "flexContainerAdditionalInfoBlock",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,
@@ -771,7 +775,7 @@ function addWidgetsfrmAdmission() {
     }, {}, {});
     flexContainerAdditionalInfoBlock.setDefaultUnit(kony.flex.DP);
     var imgCollapsable4 = new kony.ui.Image2({
-        "height": "30dp",
+        "height": "37dp",
         "id": "imgCollapsable4",
         "isVisible": true,
         "left": "0dp",
@@ -786,7 +790,7 @@ function addWidgetsfrmAdmission() {
         "paddingInPixel": false
     }, {});
     var lableAdmissionDetails4 = new kony.ui.Label({
-        "centerY": "15dp",
+        "centerY": "16dp",
         "id": "lableAdmissionDetails4",
         "isVisible": true,
         "left": "5dp",
@@ -806,7 +810,7 @@ function addWidgetsfrmAdmission() {
         "textCopyable": false
     });
     var imgCollapseArrowAdditonalInfo = new kony.ui.Image2({
-        "centerY": "15dp",
+        "centerY": "16dp",
         "height": "40dp",
         "id": "imgCollapseArrowAdditonalInfo",
         "isVisible": true,
