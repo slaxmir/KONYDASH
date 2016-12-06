@@ -96,15 +96,14 @@ function addWidgetsfrmDashBoard() {
     var CopyflxPsychAdmissionHeaderContainer0d5022215c04a4d = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
-        "height": "40dp",
+        "height": "5%",
         "id": "CopyflxPsychAdmissionHeaderContainer0d5022215c04a4d",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,
-        "left": "2.00%",
-        "right": "2%",
+        "left": "2%",
         "skin": "skinConfigurationAlertsHeader",
         "top": "0dp",
-        "width": "96%",
+        "width": "98%",
         "zIndex": 1
     }, {}, {});
     CopyflxPsychAdmissionHeaderContainer0d5022215c04a4d.setDefaultUnit(kony.flex.DP);
@@ -114,7 +113,7 @@ function addWidgetsfrmDashBoard() {
         "clipBounds": true,
         "height": "40dp",
         "id": "FlexContainer02a20a3da3e884a",
-        "isVisible": true,
+        "isVisible": false,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
         "skin": "slFbox",
@@ -126,9 +125,9 @@ function addWidgetsfrmDashBoard() {
     FlexContainer02a20a3da3e884a.add();
     var CopylabelPsychAdmission032ac767f58c74c = new kony.ui.Label({
         "centerY": "50.00%",
+        "height": "30dp",
         "id": "CopylabelPsychAdmission032ac767f58c74c",
         "isVisible": true,
-        "left": "15dp",
         "skin": "sknDashBoardHeader",
         "text": "Status",
         "textStyle": {
@@ -139,45 +138,43 @@ function addWidgetsfrmDashBoard() {
         "width": "15%",
         "zIndex": 1
     }, {
-        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [0, 0, 0, 0],
+        "contentAlignment": constants.CONTENT_ALIGN_CENTER,
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {
         "textCopyable": false
     });
     var CopylabelPsychEmail057d679da186d46 = new kony.ui.Label({
         "centerY": "50%",
+        "height": "30dp",
         "id": "CopylabelPsychEmail057d679da186d46",
         "isVisible": true,
-        "left": "0dp",
         "skin": "sknDashBoardHeader",
         "text": "Name",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
         "width": "15%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [0, 0, 0, 0],
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {
         "textCopyable": false
     });
     var CopylabelPsychText08723ef5ecfae41 = new kony.ui.Label({
         "centerY": "50%",
+        "height": "30dp",
         "id": "CopylabelPsychText08723ef5ecfae41",
         "isVisible": true,
-        "left": "0dp",
         "skin": "sknDashBoardHeader",
         "text": "Chief Complaint",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
         "width": "30%",
         "zIndex": 1
     }, {
@@ -189,16 +186,15 @@ function addWidgetsfrmDashBoard() {
     });
     var CopylabelPsyncAppNotification0a04bbcb77a844b = new kony.ui.Label({
         "centerY": "50%",
+        "height": "30dp",
         "id": "CopylabelPsyncAppNotification0a04bbcb77a844b",
         "isVisible": true,
-        "left": "0dp",
         "skin": "sknDashBoardHeader",
         "text": "Condition",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
         "width": "15%",
         "zIndex": 1
     }, {
@@ -210,16 +206,15 @@ function addWidgetsfrmDashBoard() {
     });
     var CopylabelPsyncAppNotification0059ae3e4a33d40 = new kony.ui.Label({
         "centerY": "50%",
+        "height": "30dp",
         "id": "CopylabelPsyncAppNotification0059ae3e4a33d40",
         "isVisible": true,
-        "left": "5dp",
         "skin": "sknDashBoardHeader",
         "text": "Bed Type",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
         "width": "20%",
         "zIndex": 1
     }, {
@@ -233,6 +228,7 @@ function addWidgetsfrmDashBoard() {
     var Segdashbaord = new kony.ui.SegmentedUI2({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "data": [{
+            "admValue1": "Label",
             "imgstatus": "capsule.png",
             "labeValuelBedType": "PhanidraED",
             "labeValuelCondition": "PhanidraED",
@@ -248,7 +244,7 @@ function addWidgetsfrmDashBoard() {
             "lableRef": "Adm #"
         }],
         "groupCells": false,
-        "height": "100%",
+        "height": "95%",
         "id": "Segdashbaord",
         "isVisible": true,
         "left": "1.39%",
@@ -274,7 +270,9 @@ function addWidgetsfrmDashBoard() {
             "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e": "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e",
             "FlexContainer027b38e27710d47": "FlexContainer027b38e27710d47",
             "FlexContainer04b1e195e498540": "FlexContainer04b1e195e498540",
+            "FlexContainer07982319fc88c4f": "FlexContainer07982319fc88c4f",
             "FlexContainer0fb1e2f7758184e": "FlexContainer0fb1e2f7758184e",
+            "admValue1": "admValue1",
             "imgstatus": "imgstatus",
             "labeValuelBedType": "labeValuelBedType",
             "labeValuelCondition": "labeValuelCondition",

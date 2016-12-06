@@ -20,6 +20,7 @@ sessionID = "";
 function appInit(params) {
     skinsInit();
     initializeCopyFBox0a9cedc484f624d();
+    initializeCopytmplDashboard06a9d2fffad814a();
     initializeFBox0ce6da63e12d141();
     initializetemplateEditProfileInfo1();
     initializetemplateEditProfileInfo2();
@@ -70,7 +71,7 @@ function themeCallBack() {
     kony.application.setApplicationInitializationEvents({
         init: appInit,
         showstartupform: function() {
-            frmLogin.show();
+            frmDashBoard.show();
         }
     });
 };
@@ -94,6 +95,3 @@ loadResources();
 // If you wish to debug Application Initialization events, now is the time to
 // place breakpoints.
 debugger;
-kony.print = function() {
-    return;
-};

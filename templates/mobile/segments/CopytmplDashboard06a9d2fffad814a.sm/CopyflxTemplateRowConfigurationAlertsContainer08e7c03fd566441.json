@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sf14c27a500640ccb0745bdbb92d8828",
+    "allboxes": [],
+    "android": {
+        "render": true
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer07982319fc88c4f",
+        "FlexContainer0fb1e2f7758184e",
+        "FlexContainer04b1e195e498540"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyflxTemplateRowConfigurationAlertsContainer08e7c03fd566441",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "f695af39981842a682d94bf38573ca80",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CopytmplDashboard06a9d2fffad814a",
+    "pf": "CopytmplDashboard06a9d2fffad814a",
+    "snapgridsize": "4",
+    "snaptogrid": true,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": false
+    }
+}

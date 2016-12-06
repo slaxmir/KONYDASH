@@ -7,7 +7,7 @@
     },
     "_height_": {
         "type": "string",
-        "value": "130%"
+        "value": "140%"
     },
     "_left_": {
         "type": "string",
@@ -47,6 +47,7 @@
         "CopybtnBackToLogin031b60e73e45a4b",
         "CopyFlexContainer049adf90952f142",
         "CopyLabel01def07e7cb0e49",
+        "firstNameRow1",
         "CopyTextField0f9fc16caf7f04a",
         "CopyTextField008ca952ee6194e",
         "CopyTextField07fc21078b94147",

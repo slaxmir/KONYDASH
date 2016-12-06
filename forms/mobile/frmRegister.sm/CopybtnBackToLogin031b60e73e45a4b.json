@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "25dp"
+        "value": "35dp"
     },
     "_left_": {
         "type": "string",
@@ -33,10 +33,6 @@
         "value": "113dp"
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "80%"
-    },
     "containerweight": 100,
     "contentalignment": 5,
     "disabledSkins": {
