@@ -4,6 +4,10 @@
     "__parentReadjusting__": false,
     "_data_": [
         {
+            "admValue1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "imgstatus": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "capsule.png"
@@ -58,6 +62,10 @@
             }
         },
         {
+            "admValue1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "imgstatus": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "capsule.png"
@@ -112,6 +120,10 @@
             }
         },
         {
+            "admValue1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "imgstatus": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "capsule.png"
@@ -166,6 +178,10 @@
             }
         },
         {
+            "admValue1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "imgstatus": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "capsule.png"
@@ -220,6 +236,10 @@
             }
         },
         {
+            "admValue1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "imgstatus": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "capsule.png"
@@ -274,6 +294,10 @@
             }
         },
         {
+            "admValue1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "imgstatus": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "capsule.png"
@@ -328,6 +352,10 @@
             }
         },
         {
+            "admValue1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "imgstatus": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "capsule.png"
@@ -382,6 +410,10 @@
             }
         },
         {
+            "admValue1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "imgstatus": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "capsule.png"
@@ -436,6 +468,10 @@
             }
         },
         {
+            "admValue1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "imgstatus": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "capsule.png"
@@ -490,6 +526,10 @@
             }
         },
         {
+            "admValue1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "imgstatus": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "capsule.png"
@@ -638,7 +678,9 @@
         "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e": "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e",
         "FlexContainer027b38e27710d47": "FlexContainer027b38e27710d47",
         "FlexContainer04b1e195e498540": "FlexContainer04b1e195e498540",
+        "FlexContainer07982319fc88c4f": "FlexContainer07982319fc88c4f",
         "FlexContainer0fb1e2f7758184e": "FlexContainer0fb1e2f7758184e",
+        "admValue1": "admValue1",
         "imgstatus": "imgstatus",
         "labeValuelBedType": "labeValuelBedType",
         "labeValuelCondition": "labeValuelCondition",

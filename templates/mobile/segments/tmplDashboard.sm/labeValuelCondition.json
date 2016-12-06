@@ -6,10 +6,6 @@
         "type": "string",
         "value": "30dp"
     },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_margin_": [
         1,
         1,
@@ -17,17 +13,13 @@
         1
     ],
     "_padding_": [
-        0,
-        0,
-        0,
-        0
+        1,
+        1,
+        1,
+        1
     ],
     "_skin_": "s9e657b2f6d14c978baaab4a7282f0cd",
     "_text_": "Guarded",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_width_": {
         "type": "string",
         "value": "15%"
@@ -41,8 +33,8 @@
     },
     "canUpdateUI": true,
     "centery": {
-        "type": "number",
-        "value": "50"
+        "type": "string",
+        "value": "50%"
     },
     "containerId": true,
     "containerweight": 100,
@@ -62,6 +54,7 @@
     "isvisible": true,
     "kuid": "238240b4a34a42f4b3223a7aaa404aa1",
     "name": "kony.ui.Label",
+    "paddinginpixel": false,
     "parent": "CopyFlexContainer0f7a2b74862b742",
     "pf": "tmplDashboard",
     "tooltip": "",

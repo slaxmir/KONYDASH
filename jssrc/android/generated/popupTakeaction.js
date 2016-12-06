@@ -174,7 +174,6 @@ function addWidgetspopupTakeaction() {
         "percent": true
     }, {});
     var BedAvailableButton = new kony.ui.Button({
-        "focusSkin": "slButtonGlossRed",
         "id": "BedAvailableButton",
         "isVisible": true,
         "skin": "BedAvailableButtonSkin",
@@ -192,7 +191,6 @@ function addWidgetspopupTakeaction() {
         "widgetAlignment": constants.WIDGET_ALIGN_CENTER
     }, {});
     var BedUnAvailableButton = new kony.ui.Button({
-        "focusSkin": "slButtonGlossRed",
         "id": "BedUnAvailableButton",
         "isVisible": true,
         "skin": "BedUnAvailableButtonSkin",

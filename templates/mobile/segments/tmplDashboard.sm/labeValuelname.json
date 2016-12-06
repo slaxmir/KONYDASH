@@ -6,10 +6,6 @@
         "type": "string",
         "value": "30dp"
     },
-    "_left_": {
-        "type": "number",
-        "value": "5"
-    },
     "_margin_": [
         1,
         1,
@@ -17,18 +13,14 @@
         1
     ],
     "_padding_": [
-        0,
-        0,
-        0,
-        0
+        1,
+        1,
+        1,
+        1
     ],
     "_render_": true,
     "_skin_": "s9e657b2f6d14c978baaab4a7282f0cd",
     "_text_": "John Smith",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_width_": {
         "type": "string",
         "value": "15%"
@@ -69,6 +61,7 @@
     "isvisible": true,
     "kuid": "0f7d60904c174046be422406d6c6a3f9",
     "name": "kony.ui.Label",
+    "paddinginpixel": false,
     "parent": "CopyFlexContainer0f7a2b74862b742",
     "pf": "tmplDashboard",
     "spaan": {

@@ -994,7 +994,7 @@ function addWidgetsfrmRegister() {
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "bottom": "10dp",
         "clipBounds": true,
-        "height": "130%",
+        "height": "140%",
         "id": "CopyflxRegFormContainer00651f0c1c98243",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_VERTICAL,
@@ -1007,8 +1007,7 @@ function addWidgetsfrmRegister() {
     }, {}, {});
     CopyflxRegFormContainer00651f0c1c98243.setDefaultUnit(kony.flex.DP);
     var CopybtnBackToLogin031b60e73e45a4b = new kony.ui.Button({
-        "centerX": "80%",
-        "height": "25dp",
+        "height": "35dp",
         "id": "CopybtnBackToLogin031b60e73e45a4b",
         "isVisible": true,
         "left": "10dp",
@@ -1061,6 +1060,20 @@ function addWidgetsfrmRegister() {
     }, {
         "textCopyable": false
     });
+    var firstNameRow1 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
+        "clipBounds": true,
+        "id": "firstNameRow1",
+        "isVisible": false,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "0dp",
+        "skin": "slFbox",
+        "top": "0dp",
+        "width": "100%",
+        "zIndex": 1
+    }, {}, {});
+    firstNameRow1.setDefaultUnit(kony.flex.DP);
+    firstNameRow1.add();
     var CopyTextField0f9fc16caf7f04a = new kony.ui.TextBox2({
         "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
         "centerX": "50%",
@@ -1389,7 +1402,7 @@ function addWidgetsfrmRegister() {
         "padding": [0, 0, 0, 6],
         "paddingInPixel": false
     }, {});
-    CopyflxRegFormContainer00651f0c1c98243.add(CopybtnBackToLogin031b60e73e45a4b, CopyFlexContainer049adf90952f142, CopyLabel01def07e7cb0e49, CopyTextField0f9fc16caf7f04a, CopyTextField008ca952ee6194e, CopyTextField07fc21078b94147, CopyTextField01037180e46b24a, CopyLabel0e0f8c631b11040, CopyRadioButtonGroup09a1375425c054e, CopyCheckBoxGroup0e5000e3307f84f, CopyFlexContainer0aa605b4a9d8046, CopyButton07eb81e646d3d4b, CopyRichText026de28b64e7e40, CopyFlexContainer0e6a59740b3b44b, CopyRichText01e6bfb722f5a41);
+    CopyflxRegFormContainer00651f0c1c98243.add(CopybtnBackToLogin031b60e73e45a4b, CopyFlexContainer049adf90952f142, CopyLabel01def07e7cb0e49, firstNameRow1, CopyTextField0f9fc16caf7f04a, CopyTextField008ca952ee6194e, CopyTextField07fc21078b94147, CopyTextField01037180e46b24a, CopyLabel0e0f8c631b11040, CopyRadioButtonGroup09a1375425c054e, CopyCheckBoxGroup0e5000e3307f84f, CopyFlexContainer0aa605b4a9d8046, CopyButton07eb81e646d3d4b, CopyRichText026de28b64e7e40, CopyFlexContainer0e6a59740b3b44b, CopyRichText01e6bfb722f5a41);
     CopyflxScrollContainer0a557e0a566e646.add(CopyimgDashReg0a516e5f055794a, CopyflxRegFormContainer00651f0c1c98243);
     CopyflxBodyContainer07d15c6dd11a843.add(CopyflxScrollContainer0a557e0a566e646);
     CopyflxregisterContainer0606567a656824c.add(CopyflxBodyContainer07d15c6dd11a843);

@@ -42,6 +42,7 @@
     "children": [
         "lableRef",
         "labelValueAdm",
+        "admValue1",
         "labelAgeSex",
         "labelValueAge"
     ],

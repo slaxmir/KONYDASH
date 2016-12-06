@@ -1036,7 +1036,7 @@ function addWidgetsfrmConfigurationAlerts() {
     var CopyflxPsychAdmissionHeaderContainer09277f8935e444b = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
-        "height": "8%",
+        "height": "6.31%",
         "id": "CopyflxPsychAdmissionHeaderContainer09277f8935e444b",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,
@@ -1137,7 +1137,7 @@ function addWidgetsfrmConfigurationAlerts() {
             "labelManageAlertsType": "Label"
         }],
         "groupCells": false,
-        "height": "100%",
+        "height": "98.18%",
         "id": "SegmentPsychAdmission",
         "isVisible": true,
         "left": "0dp",
@@ -1155,7 +1155,7 @@ function addWidgetsfrmConfigurationAlerts() {
         "separatorRequired": true,
         "separatorThickness": 0,
         "showScrollbars": false,
-        "top": "-10dp",
+        "top": "0dp",
         "viewType": constants.SEGUI_VIEW_TYPE_TABLEVIEW,
         "widgetDataMap": {
             "CopyFlexContainer046138e35029a4a": "CopyFlexContainer046138e35029a4a",

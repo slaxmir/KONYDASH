@@ -10,10 +10,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "5dp"
-    },
     "_margin_": [
         1,
         1,
@@ -50,7 +46,7 @@
     },
     "containerId": true,
     "containerweight": 100,
-    "contentalignment": 4,
+    "contentalignment": 5,
     "id": "labelRefFac",
     "info": null,
     "ipad": {
