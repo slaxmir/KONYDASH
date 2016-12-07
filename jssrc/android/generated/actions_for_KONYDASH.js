@@ -803,6 +803,8 @@ function AS_Label_fd03141f2f974b758b09f851cff2a5c1(eventobject, x, y) {
     popupTakeaction.show()
 }
 
+function AS_ListBox_05049926a7f241ae9b75801a698c7cb8(eventobject) {}
+
 function AS_ListBox_action_onSelectItem(eventobject) {
     return AS_ListBox_9345a658d386424baa49f10cd05e8cbf(eventobject);
 }

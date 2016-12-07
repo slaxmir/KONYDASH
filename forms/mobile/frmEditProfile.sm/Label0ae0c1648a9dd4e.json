@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "18%"
+        "value": "40dp"
     },
     "_margin_": [
         1,
@@ -22,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "s50c85507f3847b6bf1552de56404a5e",
-    "_text_": "Edit Profile",
+    "_skin_": "s00ee4bc2f4d41edb8976b31496ce2e1",
+    "_text_": "Change Password",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "27%"
     },
     "_width_": {
-        "type": "string",
-        "value": "60%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,13 +40,9 @@
         }
     },
     "canUpdateUI": true,
-    "centery": {
-        "type": "string",
-        "value": "48%"
-    },
     "containerweight": 100,
-    "contentalignment": 5,
-    "id": "labelProfile1",
+    "contentalignment": 4,
+    "id": "Label0ae0c1648a9dd4e",
     "info": null,
     "ipad": {
         "psp": {
@@ -59,13 +55,11 @@
         }
     },
     "isvisible": true,
-    "kuid": "4203fd8411504b4cb072b58204f0c665",
+    "kuid": "5f8ebbffe62f408f90d595a7452ec467",
     "name": "kony.ui.Label",
-    "paddingLocked": true,
-    "paddinginpixel": false,
-    "parent": "flxActionbarContainer",
+    "parent": "FlexContainer01615e4ebb07244",
     "pf": "frmEditProfile",
     "tooltip": "",
     "wType": "Label",
-    "zindex": 1
+    "zindex": 6
 }

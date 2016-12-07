@@ -22,12 +22,12 @@
         2,
         2
     ],
-    "_placeholder_": "Username",
-    "_skin_": "sb5981b33ccc4990b6ed535908948890",
-    "_text_": "Clinic clinisian",
+    "_placeholder_": "Re-enter New Password",
+    "_skin_": "s4f1977345f2445c9959e777f22edc62",
+    "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "1dp"
+        "value": "77%"
     },
     "_width_": {
         "type": "string",
@@ -46,17 +46,17 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Copytfusername0041476c33dd046",
+    "id": "Copytfusername0a9c9b374d55049",
     "info": null,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "7009fe794025467b811d886fc11caf15",
+    "kuid": "f8f4a545c3a948df894c3c578cdc36ad",
     "mode": "A",
     "name": "kony.ui.TextBox2",
     "paddinginpixel": false,
-    "parent": "flxScrollBodyContainer",
+    "parent": "FlexContainer035608f7aea9f47",
     "pf": "frmEditProfile",
-    "securetextentry": false,
+    "securetextentry": true,
     "textinputmode": "A",
     "viewtype": "default",
     "wType": "TextField",

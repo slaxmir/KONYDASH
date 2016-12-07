@@ -306,7 +306,7 @@ function mfobjectsecureinvokerasync(inputParam, serviceID, objectID, callBack) {
 };
 
 function appmenuseq() {
-    frmDashBoard.show();
+    frmLogin.show();
 };
 
 function callAppMenu() {

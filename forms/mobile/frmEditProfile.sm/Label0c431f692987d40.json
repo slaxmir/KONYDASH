@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "18%"
+        "value": "18dp"
     },
     "_margin_": [
         1,
@@ -22,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "s50c85507f3847b6bf1552de56404a5e",
-    "_text_": "Edit Profile",
+    "_skin_": "sc7c303d83eb403aa43284aa9428035c",
+    "_text_": "* Password length must be between 3 and 8 characters",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "0dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "60%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,13 +40,9 @@
         }
     },
     "canUpdateUI": true,
-    "centery": {
-        "type": "string",
-        "value": "48%"
-    },
     "containerweight": 100,
-    "contentalignment": 5,
-    "id": "labelProfile1",
+    "contentalignment": 4,
+    "id": "Label0c431f692987d40",
     "info": null,
     "ipad": {
         "psp": {
@@ -59,11 +55,9 @@
         }
     },
     "isvisible": true,
-    "kuid": "4203fd8411504b4cb072b58204f0c665",
+    "kuid": "225b678d8e58420792b5fb31c3d4598c",
     "name": "kony.ui.Label",
-    "paddingLocked": true,
-    "paddinginpixel": false,
-    "parent": "flxActionbarContainer",
+    "parent": "FlexContainer035608f7aea9f47",
     "pf": "frmEditProfile",
     "tooltip": "",
     "wType": "Label",
