@@ -43,6 +43,7 @@
     "containerweight": 100,
     "contentalignment": 4,
     "id": "TFLastName",
+    "ide_onTextChange": "AS_TextField_a511e27cdb9b40fdbe41098c1a435a26",
     "info": null,
     "isvisible": true,
     "keyboardtype": "A",

@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_skin_": "s55a74c8d2304b289e93aa735704ab10",
+    "_skin_": "s5eb64a5b0ab43c2bb80cdb5ff5344d5",
     "_text_": "Male",
     "_top_": {
         "type": "string",
@@ -43,6 +43,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "id": "LblAdmiFormMale",
+    "ide_onTouchStart": "AS_Label_acdd31124b7b440783b623fd5c2ef0b0",
     "info": null,
     "ipad": {
         "psp": {

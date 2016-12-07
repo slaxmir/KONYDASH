@@ -325,5 +325,7 @@ function makeCall(eventobject) {
 };
 
 function initializeGlobalVariables() {
+    tbTempAdmitPage = null;
+    listboxdefaultkey = 0;
     expandCollection = {};
 };

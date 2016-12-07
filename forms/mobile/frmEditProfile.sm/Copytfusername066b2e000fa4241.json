@@ -22,12 +22,12 @@
         2,
         2
     ],
-    "_placeholder_": "Username",
-    "_skin_": "s7fec1ab4aa74e4c9918fd592afcd05b",
-    "_text_": "Phani",
+    "_placeholder_": "New Password",
+    "_skin_": "s4f1977345f2445c9959e777f22edc62",
+    "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "1dp"
+        "value": "50%"
     },
     "_width_": {
         "type": "string",
@@ -46,17 +46,17 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Copytfusername071b0692c37694a",
+    "id": "Copytfusername066b2e000fa4241",
     "info": null,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "971bcf5a33c249e9b539d9d0705a5b34",
+    "kuid": "2e796e3bd3d9422eb6a207e77c41b3bf",
     "mode": "A",
     "name": "kony.ui.TextBox2",
     "paddinginpixel": false,
-    "parent": "flxScrollBodyContainer",
+    "parent": "FlexContainer035608f7aea9f47",
     "pf": "frmEditProfile",
-    "securetextentry": false,
+    "securetextentry": true,
     "textinputmode": "A",
     "viewtype": "default",
     "wType": "TextField",

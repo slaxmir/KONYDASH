@@ -8,36 +8,36 @@ function initializetmplDashboard() {
         "skin": "skntmplRoundedbgDashboardborderblue"
     }, {}, {});
     CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e.setDefaultUnit(kony.flex.DP);
-    var FlexContainer07982319fc88c4f = new kony.ui.FlexContainer({
+    var FlexContainerDashboard = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "bottom": "5dp",
         "clipBounds": true,
         "height": "100dp",
-        "id": "FlexContainer07982319fc88c4f",
+        "id": "FlexContainerDashboard",
         "isVisible": true,
-        "layoutType": kony.flex.FREE_FORM,
+        "layoutType": kony.flex.FLOW_HORIZONTAL,
         "left": "0dp",
         "skin": "dashboardSegmentBlue",
         "top": "10dp",
         "width": "100%",
         "zIndex": 1
     }, {}, {});
-    FlexContainer07982319fc88c4f.setDefaultUnit(kony.flex.DP);
-    var FlexContainer0fb1e2f7758184e = new kony.ui.FlexContainer({
-        "autogrowMode": kony.flex.AUTOGROW_NONE,
-        "bottom": "0dp",
-        "clipBounds": true,
+    FlexContainerDashboard.setDefaultUnit(kony.flex.DP);
+    var ImageCollapsed = new kony.ui.Image2({
         "height": "100dp",
-        "id": "FlexContainer0fb1e2f7758184e",
+        "id": "ImageCollapsed",
         "isVisible": true,
-        "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "skin": "slFboxDashbordColapse",
+        "skin": "slImage",
+        "src": "collapselabelicon.png",
         "top": "0dp",
         "width": "2%",
-        "zIndex": 3
-    }, {}, {});
-    FlexContainer0fb1e2f7758184e.setDefaultUnit(kony.flex.DP);
-    FlexContainer0fb1e2f7758184e.add();
+        "zIndex": 1
+    }, {
+        "imageScaleMode": constants.IMAGE_SCALE_MODE_FIT_TO_DIMENSIONS,
+        "padding": [0, 0, 0, 0],
+        "paddingInPixel": false
+    }, {});
     var FlexContainer04b1e195e498540 = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
@@ -45,11 +45,11 @@ function initializetmplDashboard() {
         "id": "FlexContainer04b1e195e498540",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_VERTICAL,
-        "left": "2%",
-        "skin": "CopyslFbox035f92efc15d74d",
+        "left": "0%",
+        "skin": "slFboxDashboardChild",
         "top": "0dp",
-        "width": "98%",
-        "zIndex": 1
+        "width": "100%",
+        "zIndex": 4
     }, {}, {});
     FlexContainer04b1e195e498540.setDefaultUnit(kony.flex.DP);
     var CopyFlexContainer0f7a2b74862b742 = new kony.ui.FlexContainer({
@@ -185,7 +185,7 @@ function initializetmplDashboard() {
         "left": "0dp",
         "skin": "skntmplRoundedbgDashboardstattus",
         "top": "0dp",
-        "width": "100%"
+        "width": "98%"
     }, {}, {});
     CopyflxTemplateRowConfigurationAlertsContainer04fbe30676a584c.setDefaultUnit(kony.flex.DP);
     var lableRef = new kony.ui.Label({
@@ -240,7 +240,7 @@ function initializetmplDashboard() {
             "strikeThrough": false
         },
         "top": "0dp",
-        "width": "15%",
+        "width": "35%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
@@ -261,7 +261,7 @@ function initializetmplDashboard() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "width": "30%",
+        "width": "25%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
@@ -302,7 +302,7 @@ function initializetmplDashboard() {
         "left": "0dp",
         "skin": "skntmplRoundedbgDashboardstattus",
         "top": "0",
-        "width": "100%"
+        "width": "98%"
     }, {}, {});
     CopyflxTemplateRowConfigurationAlertsContainer0555522c60d9140.setDefaultUnit(kony.flex.DP);
     var labelRefFac = new kony.ui.Label({
@@ -337,7 +337,7 @@ function initializetmplDashboard() {
             "strikeThrough": false
         },
         "top": "5dp",
-        "width": "15%",
+        "width": "35%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
@@ -357,7 +357,7 @@ function initializetmplDashboard() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "width": "30%",
+        "width": "25%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
@@ -389,6 +389,6 @@ function initializetmplDashboard() {
     });
     CopyflxTemplateRowConfigurationAlertsContainer0555522c60d9140.add(labelRefFac, labelValueReferringFacility, labelSepsisScreeing, labelValueSepsisScreening);
     FlexContainer04b1e195e498540.add(CopyFlexContainer0f7a2b74862b742, CopyflxTemplateRowConfigurationAlertsContainer04fbe30676a584c, CopyflxTemplateRowConfigurationAlertsContainer0555522c60d9140);
-    FlexContainer07982319fc88c4f.add(FlexContainer0fb1e2f7758184e, FlexContainer04b1e195e498540);
-    CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e.add(FlexContainer07982319fc88c4f);
+    FlexContainerDashboard.add(ImageCollapsed, FlexContainer04b1e195e498540);
+    CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e.add(FlexContainerDashboard);
 }

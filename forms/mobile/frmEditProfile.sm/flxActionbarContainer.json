@@ -37,7 +37,8 @@
     "canUpdateUI": true,
     "children": [
         "imgMenuOpen",
-        "labelProfile1"
+        "labelProfile1",
+        "Image0f4ef1b57b1094b"
     ],
     "clipbounds": true,
     "containerweight": 100,

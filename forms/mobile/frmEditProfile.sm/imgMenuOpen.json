@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "40%"
     },
     "_left_": {
         "type": "string",
@@ -27,11 +27,11 @@
     "_src_": "icons_03.png",
     "_top_": {
         "type": "string",
-        "value": "20%"
+        "value": "26%"
     },
     "_width_": {
         "type": "string",
-        "value": "12%"
+        "value": "8%"
     },
     "canUpdateUI": true,
     "containerweight": 100,

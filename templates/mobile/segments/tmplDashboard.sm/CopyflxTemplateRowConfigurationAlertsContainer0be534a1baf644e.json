@@ -27,7 +27,7 @@
     "autogrowmode": 1,
     "canUpdateUI": true,
     "children": [
-        "FlexContainer07982319fc88c4f"
+        "FlexContainerDashboard"
     ],
     "clipbounds": true,
     "containerId": true,

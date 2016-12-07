@@ -4,6 +4,10 @@
     "__parentReadjusting__": false,
     "_data_": [
         {
+            "ImageCollapsed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "admValue1": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
@@ -62,6 +66,10 @@
             }
         },
         {
+            "ImageCollapsed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "admValue1": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
@@ -120,6 +128,10 @@
             }
         },
         {
+            "ImageCollapsed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "admValue1": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
@@ -178,6 +190,10 @@
             }
         },
         {
+            "ImageCollapsed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "admValue1": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
@@ -236,6 +252,10 @@
             }
         },
         {
+            "ImageCollapsed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "admValue1": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
@@ -294,6 +314,10 @@
             }
         },
         {
+            "ImageCollapsed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "admValue1": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
@@ -352,6 +376,10 @@
             }
         },
         {
+            "ImageCollapsed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "admValue1": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
@@ -410,6 +438,10 @@
             }
         },
         {
+            "ImageCollapsed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "admValue1": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
@@ -468,6 +500,10 @@
             }
         },
         {
+            "ImageCollapsed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "admValue1": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
@@ -526,6 +562,10 @@
             }
         },
         {
+            "ImageCollapsed": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
             "admValue1": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
@@ -678,8 +718,8 @@
         "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e": "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e",
         "FlexContainer027b38e27710d47": "FlexContainer027b38e27710d47",
         "FlexContainer04b1e195e498540": "FlexContainer04b1e195e498540",
-        "FlexContainer07982319fc88c4f": "FlexContainer07982319fc88c4f",
-        "FlexContainer0fb1e2f7758184e": "FlexContainer0fb1e2f7758184e",
+        "FlexContainerDashboard": "FlexContainerDashboard",
+        "ImageCollapsed": "ImageCollapsed",
         "admValue1": "admValue1",
         "imgstatus": "imgstatus",
         "labeValuelBedType": "labeValuelBedType",

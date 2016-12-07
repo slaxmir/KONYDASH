@@ -115,6 +115,7 @@ function addWidgetsfrmSupport() {
         "id": "generalFeedbackTab",
         "isVisible": true,
         "left": "0dp",
+        "onClick": AS_NamedActions_a0d02896e7db44e392bc031c6bc3eda5,
         "skin": "supportTabSkin",
         "text": "General Feedback",
         "top": "0dp",
@@ -148,6 +149,7 @@ function addWidgetsfrmSupport() {
         "id": "ReportAnIssueTab",
         "isVisible": true,
         "left": 0,
+        "onClick": AS__c8791980ac0e41c3947b02e7c39d7326,
         "skin": "supportTabSkin",
         "text": "Report An Issue",
         "top": "0dp",
@@ -165,7 +167,7 @@ function addWidgetsfrmSupport() {
         "clipBounds": true,
         "height": "82%",
         "id": "reportIssueTabContainer",
-        "isVisible": false,
+        "isVisible": true,
         "layoutType": kony.flex.FLOW_VERTICAL,
         "left": "0dp",
         "skin": "CopyslFbox01d89946072df49",
@@ -1612,6 +1614,7 @@ function frmSupportGlobals() {
         "addWidgets": addWidgetsfrmSupport,
         "enabledForIdleTimeout": false,
         "id": "frmSupport",
+        "init": AS_NamedActions_a0d02896e7db44e392bc031c6bc3eda5,
         "layoutType": kony.flex.FREE_FORM,
         "needAppMenu": false
     }, {

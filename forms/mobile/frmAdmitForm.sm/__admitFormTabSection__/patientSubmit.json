@@ -39,9 +39,12 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s1ae931a069c40f4ac73da87a33301f1"
+    },
     "displaytext": true,
-    "focusskin": "s1ae931a069c40f4ac73da87a33301f1",
     "id": "patientSubmit",
+    "ide_onClick": "AS_Button_2d8730b20ada430e8123dab92eb2265d",
     "info": null,
     "isvisible": true,
     "kuid": "6a083ec3579d47f4996047245deb5850",

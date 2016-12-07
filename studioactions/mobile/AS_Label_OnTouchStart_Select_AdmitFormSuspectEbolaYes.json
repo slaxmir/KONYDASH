@@ -1,0 +1,43 @@
+{
+    "AS__f50604f9c95b417089b25351103d9244": {
+        "id": "AS__f50604f9c95b417089b25351103d9244",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Label_OnTouchStart_Select_AdmitFormSuspectEbolaYes",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f5aced6d78b140c08b5ba27acce7443f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSelectInfectiousDiseaseQuestionnaireSuspectEbolaYes",
+            "display": "tapToSelectInfectiousDiseaseQuestionnaireSuspectEbolaYes",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "NAMED_ACTION____a086fbd2e5404bfeb7f4d7efb70b2fbb",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_TextField_a511e27cdb9b40fdbe41098c1a435a26",
+            "display": "Action_validation_Admitform_Mandatory",
+            "inputparams": [{
+                "name": "eventobject",
+                "datatype": "collection"
+            }, {
+                "name": "changedtext",
+                "datatype": "string"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "isMasterInstanceAction": null
+        }]
+    }
+}

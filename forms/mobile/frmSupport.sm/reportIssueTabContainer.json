@@ -45,7 +45,7 @@
     "enablescrolling": true,
     "id": "reportIssueTabContainer",
     "info": null,
-    "isvisible": false,
+    "isvisible": true,
     "kuid": "bc6932187af7421a8974239530a9e0a4",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",

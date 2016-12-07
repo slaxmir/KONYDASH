@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_a0d02896e7db44e392bc031c6bc3eda5": {
+        "id": "AS_NamedActions_a0d02896e7db44e392bc031c6bc3eda5",
+        "type": "ACTION_SEQUENCE",
+        "name": "Action_Show_Support_GeneralTab",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f650bc4eadff4a528308740f335067f6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showSupportGeneral",
+            "display": "showSupportGeneral",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}
