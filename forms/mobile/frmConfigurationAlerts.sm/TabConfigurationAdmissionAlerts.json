@@ -34,7 +34,7 @@
         "type": "string",
         "value": "100%"
     },
-    "activefocusskin": "s416ac37b0a44a259d9f34ac29a1f43a",
+    "activefocusskin": "sb65bd8e93e049be8599448a53d0dda2",
     "activeskin": "s2f919815e39499295de4873cae688ee",
     "activetab": 2,
     "activetabs": [
@@ -46,7 +46,7 @@
     "allboxes": [],
     "android": {
         "psp": {
-            "tabHeaderHeight": 30
+            "tabHeaderHeight": 40
         },
         "render": true,
         "viewType": "tabview"
@@ -104,7 +104,7 @@
     "spawinphone8": {
         "render": false
     },
-    "tabHeaderHeight": 30,
+    "tabHeaderHeight": 40,
     "tabnamealignment": "left",
     "toggletabs": false,
     "viewconfig": {

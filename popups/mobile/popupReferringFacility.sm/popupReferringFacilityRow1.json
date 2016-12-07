@@ -9,9 +9,9 @@
     ],
     "_orientation_": 1,
     "_padding_": [
-        5,
         1,
-        5,
+        1,
+        1,
         1
     ],
     "_percent_": true,
@@ -20,7 +20,8 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "popupReferringFacilityTitle"
+        "popupReferringFacilityTitle",
+        "ReferringCloseIcon"
     ],
     "containerheight": 30,
     "containerheightreference": 1,
@@ -39,7 +40,7 @@
     "scrolldirection": 1,
     "scrollingevents": null,
     "showscrollbars": true,
-    "totalWt": 90,
+    "totalWt": 95,
     "wType": "ScrollBox",
     "widgetalignment": 5
 }

@@ -16,7 +16,7 @@ function addWidgetspopupReferringFacility() {
         "layoutAlignment": constants.BOX_LAYOUT_ALIGN_FROM_LEFT,
         "margin": [0, 0, 0, 0],
         "marginInPixel": false,
-        "padding": [5, 1, 5, 1],
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false,
         "percent": true
     }, {});
@@ -30,7 +30,7 @@ function addWidgetspopupReferringFacility() {
             "strikeThrough": false
         }
     }, {
-        "containerWeight": 90,
+        "containerWeight": 85,
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
         "hExpand": true,
         "margin": [1, 1, 1, 1],
@@ -42,7 +42,25 @@ function addWidgetspopupReferringFacility() {
     }, {
         "textCopyable": false
     });
-    popupReferringFacilityRow1.add(popupReferringFacilityTitle);
+    var ReferringCloseIcon = new kony.ui.Button({
+        "focusSkin": "slButtonGlossRed",
+        "id": "ReferringCloseIcon",
+        "isVisible": true,
+        "skin": "popCloseIconSkin",
+        "text": "X"
+    }, {
+        "containerWeight": 10,
+        "contentAlignment": constants.CONTENT_ALIGN_CENTER,
+        "displayText": true,
+        "hExpand": true,
+        "margin": [1, 1, 1, 1],
+        "marginInPixel": false,
+        "padding": [1, 4, 1, 4],
+        "paddingInPixel": false,
+        "vExpand": false,
+        "widgetAlignment": constants.WIDGET_ALIGN_CENTER
+    }, {});
+    popupReferringFacilityRow1.add(popupReferringFacilityTitle, ReferringCloseIcon);
     var referringFacilityBorder = new kony.ui.Line({
         "id": "referringFacilityBorder",
         "isVisible": true,
@@ -923,7 +941,7 @@ function popupReferringFacilityGlobals() {
     }, {
         "containerHeight": 100,
         "containerHeightReference": constants.CONTAINER_HEIGHT_BY_FORM_REFERENCE,
-        "containerWeight": 100,
+        "containerWeight": 95,
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {

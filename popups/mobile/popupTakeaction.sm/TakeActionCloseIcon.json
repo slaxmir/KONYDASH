@@ -1,0 +1,33 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        1,
+        4,
+        1,
+        4
+    ],
+    "_skin_": "s002ee4c352544019c8d1e402f9f12b8",
+    "_text_": "X",
+    "canUpdateUI": true,
+    "containerweight": 10,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1ae931a069c40f4ac73da87a33301f1",
+    "id": "TakeActionCloseIcon",
+    "info": null,
+    "isvisible": true,
+    "kuid": "2e0381717c394e80ab2405febe7b3dc3",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "popupUpdateAdmissionsRow1",
+    "pf": "popupTakeaction",
+    "wType": "Button"
+}

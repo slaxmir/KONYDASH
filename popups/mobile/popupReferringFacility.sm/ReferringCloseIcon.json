@@ -1,0 +1,33 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        1,
+        4,
+        1,
+        4
+    ],
+    "_skin_": "s002ee4c352544019c8d1e402f9f12b8",
+    "_text_": "X",
+    "canUpdateUI": true,
+    "containerweight": 10,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1ae931a069c40f4ac73da87a33301f1",
+    "id": "ReferringCloseIcon",
+    "info": null,
+    "isvisible": true,
+    "kuid": "8f633634ed2e4d43a705f91501962b65",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "popupReferringFacilityRow1",
+    "pf": "popupReferringFacility",
+    "wType": "Button"
+}
