@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "3dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "33.33%"
     },
     "_margin_": [
         0,
@@ -23,33 +23,29 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s2a016ad20de42e9858c145b4fde0e87",
+    "_skin_": "s9af245244bd457aa87192ef83c830af",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "33.33%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "alertTabActiveBorder2",
-        "CopyflxPsychAdmissionHeaderContainer0cb054e90f39045",
-        "SegmentEDReferral"
-    ],
+    "children": [],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "CopyflxPsychAdmissionContainer0f594455f0a0b4a",
+    "id": "alertTabActiveBorder2",
     "info": null,
     "isvisible": true,
-    "kuid": "a3fe708982614e289eadb7ffbc29d44c",
-    "layouttype": 4,
+    "kuid": "5ec7c3423e7c4a44aaad1b7d113878d6",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "tabEDReferral",
+    "parent": "CopyflxPsychAdmissionContainer0f594455f0a0b4a",
     "pf": "frmConfigurationAlerts",
     "snapgridsize": 10,
     "snaptogrid": true,
