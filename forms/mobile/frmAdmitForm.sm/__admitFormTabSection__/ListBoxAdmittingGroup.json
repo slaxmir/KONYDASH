@@ -22,6 +22,7 @@
         0,
         0
     ],
+    "_placeholder_": "Select Group",
     "_skin_": "s09a11d0700e4bb295a9dcc75f243145",
     "_top_": {
         "type": "string",
@@ -32,7 +33,8 @@
         "value": "96%"
     },
     "android": {
-        "dropDownImage": "activeicon.png"
+        "dropDownImage": "activeicon.png",
+        "placeholder": "Select Group"
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -49,35 +51,34 @@
     "groupcells": false,
     "id": "ListBoxAdmittingGroup",
     "info": null,
+    "iphone": {
+        "placeholder": "Select Group"
+    },
     "isvisible": true,
     "kuid": "3f2c45c8c51e4bcabca931da4cdabfa2",
     "masterdata": [
         [
-            "lb1",
-            "Select group"
+            "0",
+            "Select Group"
         ],
         [
-            "lb2",
+            "1",
             "Test AP Group(No Doctor On Call)  "
         ],
         [
-            "Key651",
+            "2",
             "OtherGroup - Test Hospital for Running Scripts(No Doctor On Call)"
         ],
         [
-            "Key341",
+            "3",
             "SAC Group  "
         ]
     ],
     "name": "kony.ui.ListBox",
     "parent": "flxContainerAdmittingPreferencesAdmitForm",
     "pf": "frmAdmitForm",
-    "selectedkey": "lb1",
     "selectedkeys": null,
-    "selectedkeyvalue": [
-        "lb1",
-        "Select group"
-    ],
+    "selectedkeyvalue": null,
     "selectedkeyvalues": null,
     "size": 18,
     "tabpaneId": "admitFormTabSection",

@@ -6,6 +6,10 @@
         "type": "string",
         "value": "30dp"
     },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
     "_margin_": [
         1,
         1,

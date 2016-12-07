@@ -1,0 +1,43 @@
+{
+    "AS__e69cc64b83e54ec29e1a445c59c1abc6": {
+        "id": "AS__e69cc64b83e54ec29e1a445c59c1abc6",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Label_OnTouchStart_Select_AdmitFormTravelledYes",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___0913fae9b0d941acb8a83ba18b9022a7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSelectInfectiousDiseaseQuestionnaireTravelledYes",
+            "display": "tapToSelectInfectiousDiseaseQuestionnaireTravelledYes",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "NAMED_ACTION____3152e6f3ac0c4bb0bef050d815e4974c",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_TextField_a511e27cdb9b40fdbe41098c1a435a26",
+            "display": "Action_validation_Admitform_Mandatory",
+            "inputparams": [{
+                "name": "eventobject",
+                "datatype": "collection"
+            }, {
+                "name": "changedtext",
+                "datatype": "string"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "isMasterInstanceAction": null
+        }]
+    }
+}

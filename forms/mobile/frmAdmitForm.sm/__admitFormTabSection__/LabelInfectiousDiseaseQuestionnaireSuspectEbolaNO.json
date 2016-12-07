@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_skin_": "s55a74c8d2304b289e93aa735704ab10",
+    "_skin_": "s5eb64a5b0ab43c2bb80cdb5ff5344d5",
     "_text_": "No",
     "_top_": {
         "type": "string",
@@ -43,6 +43,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "id": "LabelInfectiousDiseaseQuestionnaireSuspectEbolaNO",
+    "ide_onTouchStart": "AS__0577968ac2964d3da988556b5dcf0bee",
     "info": null,
     "ipad": {
         "psp": {

@@ -1,10 +1,8 @@
 {
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "0dp"
-    },
+    "_base64_": null,
     "_height_": {
         "type": "string",
         "value": "100dp"
@@ -19,15 +17,14 @@
         0,
         0
     ],
-    "_orientation_": 6,
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_percent_": true,
-    "_skin_": "s106b9a1ea494715add7491ff1457045",
+    "_skin_": "s082eb711f8643d6bf3c2031f0c90278",
+    "_src_": "collapselabelicon.png",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -36,25 +33,26 @@
         "type": "string",
         "value": "2%"
     },
-    "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [],
-    "clipbounds": true,
     "containerId": true,
     "containerweight": 100,
-    "enablescrolling": true,
-    "id": "FlexContainer0fb1e2f7758184e",
+    "context": {
+        "channel": "mobile",
+        "platform": "android",
+        "templateType": "segments",
+        "topLevelBox": null
+    },
+    "id": "ImageCollapsed",
+    "imagescalemode": 0,
     "info": null,
+    "invokedProperty": "src",
     "isvisible": true,
-    "kuid": "f509b549a2e34b0d97d879f320d35f79",
-    "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "FlexContainer07982319fc88c4f",
+    "kuid": "d264c4bbe0ff4cf49eb56deb7d7173c0",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainerDashboard",
     "pf": "tmplDashboard",
-    "snapgridsize": 10,
-    "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 3
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
 }

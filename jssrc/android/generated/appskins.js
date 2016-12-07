@@ -113,7 +113,6 @@ function skinsInit() {
     CopyslFbox01d89946072df49 = "CopyslFbox01d89946072df49";
     CopyslFbox02e75e6e03ebb41 = "CopyslFbox02e75e6e03ebb41";
     CopyslFbox02f5b196d549943 = "CopyslFbox02f5b196d549943";
-    CopyslFbox035f92efc15d74d = "CopyslFbox035f92efc15d74d";
     CopyslFbox03f772a29d63d49 = "CopyslFbox03f772a29d63d49";
     CopyslFbox04ca04769869444 = "CopyslFbox04ca04769869444";
     CopyslFbox055b440af01ec45 = "CopyslFbox055b440af01ec45";
@@ -324,6 +323,9 @@ function skinsInit() {
     sknAdmissionflx = "sknAdmissionflx";
     sknAdmissionflxDisable = "sknAdmissionflxDisable";
     sknadmitcodestatuslabel = "sknadmitcodestatuslabel";
+    sknAdmitFormSubmitDisable = "sknAdmitFormSubmitDisable";
+    sknAdmitFormSubmitEnable = "sknAdmitFormSubmitEnable";
+    sknAdmitFormSubmitError = "sknAdmitFormSubmitError";
     sknArrowDown = "sknArrowDown";
     sknbtnFeilds = "sknbtnFeilds";
     sknbtnFeildsEnbale = "sknbtnFeildsEnbale";
@@ -393,6 +395,7 @@ function skinsInit() {
     slFbox = "slFbox";
     slFboxbashboardsegRow1 = "slFboxbashboardsegRow1";
     slFboxbashboardsegRow2 = "slFboxbashboardsegRow2";
+    slFboxDashboardChild = "slFboxDashboardChild";
     slFboxDashbordColapse = "slFboxDashbordColapse";
     slFboxDashbordColapseGray = "slFboxDashbordColapseGray";
     slFlxbg = "slFlxbg";
@@ -432,7 +435,6 @@ function skinsInit() {
     slWatchForm = "slWatchForm";
     starSkin = "starSkin";
     startnoteskn = "startnoteskn";
-    submitColorSkin = "submitColorSkin";
     supportBorderSkin = "supportBorderSkin";
     supportContLabel = "supportContLabel";
     supportFieldsSkin = "supportFieldsSkin";

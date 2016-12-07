@@ -40,6 +40,7 @@
     },
     "displaytext": true,
     "id": "generalFeedbackTab",
+    "ide_onClick": "AS_NamedActions_a0d02896e7db44e392bc031c6bc3eda5",
     "info": null,
     "isvisible": true,
     "kuid": "4fe8d34c92a54b1096f03bef7c38283a",

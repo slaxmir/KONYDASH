@@ -14,6 +14,15 @@
             "parentId": "",
             "callbackType": null,
             "enableMappingEditor": true
+        }, {
+            "id": "NAMED_ACTION____7e6d269ccdab4c0ab794a47817280fe5",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_NamedActions_59f90898340d4953be384a35208868b0",
+            "display": "action_OpenMenu",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "isMasterInstanceAction": null
         }]
     }
 }

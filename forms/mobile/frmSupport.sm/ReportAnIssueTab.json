@@ -40,6 +40,7 @@
     },
     "displaytext": true,
     "id": "ReportAnIssueTab",
+    "ide_onClick": "AS__c8791980ac0e41c3947b02e7c39d7326",
     "info": null,
     "isvisible": true,
     "kuid": "5f31f4760ec048b680deaa189639468f",

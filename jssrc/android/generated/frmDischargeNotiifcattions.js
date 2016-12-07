@@ -191,6 +191,7 @@ function addWidgetsfrmDischargeNotiifcattions() {
     var CopysegmentPsychAdmission03cfd4ed9fe0f46 = new kony.ui.SegmentedUI2({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "data": [{
+            "ImageCollapsed": "imagedrag.png",
             "admValue1": "Label",
             "imgstatus": "capsule.png",
             "labeValuelBedType": "PhanidraED",
@@ -206,6 +207,7 @@ function addWidgetsfrmDischargeNotiifcattions() {
             "labelValueSepsisScreening": "Negative",
             "lableRef": "Adm #"
         }, {
+            "ImageCollapsed": "imagedrag.png",
             "admValue1": "Label",
             "imgstatus": "capsule.png",
             "labeValuelBedType": "PhanidraED",
@@ -221,6 +223,7 @@ function addWidgetsfrmDischargeNotiifcattions() {
             "labelValueSepsisScreening": "Negative",
             "lableRef": "Adm #"
         }, {
+            "ImageCollapsed": "imagedrag.png",
             "admValue1": "Label",
             "imgstatus": "capsule.png",
             "labeValuelBedType": "PhanidraED",
@@ -236,6 +239,7 @@ function addWidgetsfrmDischargeNotiifcattions() {
             "labelValueSepsisScreening": "Negative",
             "lableRef": "Adm #"
         }, {
+            "ImageCollapsed": "imagedrag.png",
             "admValue1": "Label",
             "imgstatus": "capsule.png",
             "labeValuelBedType": "PhanidraED",
@@ -251,6 +255,7 @@ function addWidgetsfrmDischargeNotiifcattions() {
             "labelValueSepsisScreening": "Negative",
             "lableRef": "Adm #"
         }, {
+            "ImageCollapsed": "imagedrag.png",
             "admValue1": "Label",
             "imgstatus": "capsule.png",
             "labeValuelBedType": "PhanidraED",
@@ -266,6 +271,7 @@ function addWidgetsfrmDischargeNotiifcattions() {
             "labelValueSepsisScreening": "Negative",
             "lableRef": "Adm #"
         }, {
+            "ImageCollapsed": "imagedrag.png",
             "admValue1": "Label",
             "imgstatus": "capsule.png",
             "labeValuelBedType": "PhanidraED",
@@ -281,6 +287,7 @@ function addWidgetsfrmDischargeNotiifcattions() {
             "labelValueSepsisScreening": "Negative",
             "lableRef": "Adm #"
         }, {
+            "ImageCollapsed": "imagedrag.png",
             "admValue1": "Label",
             "imgstatus": "capsule.png",
             "labeValuelBedType": "PhanidraED",
@@ -296,6 +303,7 @@ function addWidgetsfrmDischargeNotiifcattions() {
             "labelValueSepsisScreening": "Negative",
             "lableRef": "Adm #"
         }, {
+            "ImageCollapsed": "imagedrag.png",
             "admValue1": "Label",
             "imgstatus": "capsule.png",
             "labeValuelBedType": "PhanidraED",
@@ -311,6 +319,7 @@ function addWidgetsfrmDischargeNotiifcattions() {
             "labelValueSepsisScreening": "Negative",
             "lableRef": "Adm #"
         }, {
+            "ImageCollapsed": "imagedrag.png",
             "admValue1": "Label",
             "imgstatus": "capsule.png",
             "labeValuelBedType": "PhanidraED",
@@ -326,6 +335,7 @@ function addWidgetsfrmDischargeNotiifcattions() {
             "labelValueSepsisScreening": "Negative",
             "lableRef": "Adm #"
         }, {
+            "ImageCollapsed": "imagedrag.png",
             "admValue1": "Label",
             "imgstatus": "capsule.png",
             "labeValuelBedType": "PhanidraED",
@@ -369,8 +379,8 @@ function addWidgetsfrmDischargeNotiifcattions() {
             "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e": "CopyflxTemplateRowConfigurationAlertsContainer0be534a1baf644e",
             "FlexContainer027b38e27710d47": "FlexContainer027b38e27710d47",
             "FlexContainer04b1e195e498540": "FlexContainer04b1e195e498540",
-            "FlexContainer07982319fc88c4f": "FlexContainer07982319fc88c4f",
-            "FlexContainer0fb1e2f7758184e": "FlexContainer0fb1e2f7758184e",
+            "FlexContainerDashboard": "FlexContainerDashboard",
+            "ImageCollapsed": "ImageCollapsed",
             "admValue1": "admValue1",
             "imgstatus": "imgstatus",
             "labeValuelBedType": "labeValuelBedType",
