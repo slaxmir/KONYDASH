@@ -1155,6 +1155,7 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "left": "0dp",
+        "onTextChange": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "placeholder": "FirstName",
         "secureTextEntry": false,
         "skin": "textFieldSkin1",
@@ -1179,6 +1180,7 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "left": "0dp",
+        "onTextChange": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "placeholder": "Last Name",
         "secureTextEntry": false,
         "skin": "textFieldSkin1",
@@ -1213,7 +1215,8 @@ function addWidgetsfrmAdmitForm() {
         "id": "LblAdmiFormMale",
         "isVisible": true,
         "left": "5dp",
-        "skin": "sknadmitcodestatuslabel",
+        "onTouchStart": AS_Label_acdd31124b7b440783b623fd5c2ef0b0,
+        "skin": "slLabelMediationOrdersSelected",
         "text": "Male",
         "textStyle": {
             "letterSpacing": 0,
@@ -1232,7 +1235,8 @@ function addWidgetsfrmAdmitForm() {
         "id": "LblAdmitFormFemale",
         "isVisible": true,
         "left": "30dp",
-        "skin": "sknadmitcodestatuslabel",
+        "onTouchStart": AS_Label_6251f3853c3d4bebb3b0fff75e713d81,
+        "skin": "slLabelMediationOrders",
         "text": "Female",
         "textStyle": {
             "letterSpacing": 0,
@@ -1261,10 +1265,11 @@ function addWidgetsfrmAdmitForm() {
         "left": "0dp",
         "minutes": 0,
         "month": 11,
+        "onSelection": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "seconds": 0,
         "skin": "sknCalendarAdmitpage",
         "top": "10dp",
-        "viewType": constants.CALENDAR_VIEW_TYPE_DEFAULT,
+        "viewType": constants.CALENDAR_VIEW_TYPE_GRID_POPUP,
         "width": "96%",
         "year": 2016,
         "zIndex": 1
@@ -1272,7 +1277,9 @@ function addWidgetsfrmAdmitForm() {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
-    }, {});
+    }, {
+        "dayTextAlignmentInCell": constants.CONTENT_ALIGN_CENTER
+    });
     var TFSSN = new kony.ui.TextBox2({
         "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
         "height": "30dp",
@@ -1403,12 +1410,10 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "left": "5dp",
         "masterData": [
-            ["lb1", "Select Hospital"],
-            ["lb2", "Test Phani Hospital"],
-            ["Key342", "Value"]
+            ["0", "Select Hospital"],
+            ["1", "Test Phani Hospital"],
+            ["2", "Test PhaniRC Hospital"]
         ],
-        "selectedKey": "lb1",
-        "selectedKeyValue": ["lb1", "Select Hospital"],
         "skin": "patientAdmitHSPSelectBxSkin",
         "top": "10dp",
         "width": "96%",
@@ -1420,6 +1425,7 @@ function addWidgetsfrmAdmitForm() {
     }, {
         "applySkinsToPopup": true,
         "dropDownImage": "activeicon.png",
+        "placeholder": "Select Hospital",
         "tickedImage": "tick_03.png",
         "viewType": constants.LISTBOX_VIEW_TYPE_LISTVIEW
     });
@@ -1448,13 +1454,11 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "left": "5dp",
         "masterData": [
-            ["lb1", "Select group"],
-            ["lb2", "Test AP Group(No Doctor On Call)  "],
-            ["Key651", "OtherGroup - Test Hospital for Running Scripts(No Doctor On Call)"],
-            ["Key341", "SAC Group  "]
+            ["0", "Select Group"],
+            ["1", "Test AP Group(No Doctor On Call)  "],
+            ["2", "OtherGroup - Test Hospital for Running Scripts(No Doctor On Call)"],
+            ["3", "SAC Group  "]
         ],
-        "selectedKey": "lb1",
-        "selectedKeyValue": ["lb1", "Select group"],
         "skin": "patientAdmitHSPSelectBxSkin",
         "top": "10dp",
         "width": "96%",
@@ -1466,6 +1470,7 @@ function addWidgetsfrmAdmitForm() {
     }, {
         "applySkinsToPopup": true,
         "dropDownImage": "activeicon.png",
+        "placeholder": "Select Group",
         "viewType": constants.LISTBOX_VIEW_TYPE_LISTVIEW
     });
     var ListBoxSelectPhysicialAdmitForm = new kony.ui.ListBox({
@@ -1474,11 +1479,9 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "left": "5dp",
         "masterData": [
-            ["lb1", "Select Physician"],
+            ["0", "Select Physician"],
             ["lb2", "Test AP Group(No Doctor On Call)  "]
         ],
-        "selectedKey": "lb1",
-        "selectedKeyValue": ["lb1", "Select Physician"],
         "skin": "patientAdmitHSPSelectBxSkin",
         "top": "10dp",
         "width": "96%",
@@ -1490,6 +1493,7 @@ function addWidgetsfrmAdmitForm() {
     }, {
         "applySkinsToPopup": true,
         "dropDownImage": "activeicon.png",
+        "placeholder": "Select Physician",
         "viewType": constants.LISTBOX_VIEW_TYPE_LISTVIEW
     });
     var lblRequestDocToDoc = new kony.ui.Label({
@@ -1560,12 +1564,11 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "left": "5dp",
         "masterData": [
-            ["lb1", "ASAP"],
-            ["lb2", "Within 3 Hours"],
-            ["lb3", "Within 6 Hours"]
+            ["0", "Select ETA"],
+            ["1", "ASAP"],
+            ["2", "Within 3 Hours"],
+            ["3", "Within 6 Hours"]
         ],
-        "selectedKey": "lb1",
-        "selectedKeyValue": ["lb1", "ASAP"],
         "skin": "patientAdmitHSPSelectBxSkin",
         "top": "10dp",
         "width": "96%",
@@ -1577,6 +1580,7 @@ function addWidgetsfrmAdmitForm() {
     }, {
         "applySkinsToPopup": true,
         "dropDownImage": "activeicon.png",
+        "placeholder": "Select ETA",
         "viewType": constants.LISTBOX_VIEW_TYPE_LISTVIEW
     });
     flxContainerAdmittingPreferencesAdmitForm.add(LabelAdmittingHospital, ListBoxAdmittingHospital, lblAdmittingGroup, ListBoxAdmittingGroup, ListBoxSelectPhysicialAdmitForm, lblRequestDocToDoc, ListBoxRequestDocToDocAdmitForm, lblPatientETA, ListBoxPatienETA);
@@ -1988,7 +1992,8 @@ function addWidgetsfrmAdmitForm() {
         "id": "LabelInfectiousDiseaseQuestionnaireSuspectEbolaNO",
         "isVisible": true,
         "left": "5dp",
-        "skin": "sknadmitcodestatuslabel",
+        "onTouchStart": AS__0577968ac2964d3da988556b5dcf0bee,
+        "skin": "slLabelMediationOrdersSelected",
         "text": "No",
         "textStyle": {
             "letterSpacing": 0,
@@ -2007,7 +2012,8 @@ function addWidgetsfrmAdmitForm() {
         "id": "LabelInfectiousDiseaseQuestionnaireSuspectEbolaYes",
         "isVisible": true,
         "left": "30dp",
-        "skin": "sknadmitcodestatuslabel",
+        "onTouchStart": AS__f50604f9c95b417089b25351103d9244,
+        "skin": "slLabelMediationOrders",
         "text": "Yes",
         "textStyle": {
             "letterSpacing": 0,
@@ -2054,7 +2060,8 @@ function addWidgetsfrmAdmitForm() {
         "id": "LabelInfectiousDiseaseQuestionnaireTravelledNo",
         "isVisible": true,
         "left": "5dp",
-        "skin": "sknadmitcodestatuslabel",
+        "onTouchStart": AS__80ae979ceaab4c07862076f7a0c061fa,
+        "skin": "slLabelMediationOrdersSelected",
         "text": "No",
         "textStyle": {
             "letterSpacing": 0,
@@ -2073,7 +2080,8 @@ function addWidgetsfrmAdmitForm() {
         "id": "LabelInfectiousDiseaseQuestionnaireTravelledYes",
         "isVisible": true,
         "left": "30dp",
-        "skin": "sknadmitcodestatuslabel",
+        "onTouchStart": AS__e69cc64b83e54ec29e1a445c59c1abc6,
+        "skin": "slLabelMediationOrders",
         "text": "Yes",
         "textStyle": {
             "letterSpacing": 0,
@@ -2357,11 +2365,12 @@ function addWidgetsfrmAdmitForm() {
         "left": "0dp",
         "minutes": 0,
         "month": 11,
+        "onSelection": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "placeholder": "dd/MM/yyyy",
         "seconds": 0,
         "skin": "sknCalendarAdmitpage",
         "top": "5dp",
-        "viewType": constants.CALENDAR_VIEW_TYPE_DEFAULT,
+        "viewType": constants.CALENDAR_VIEW_TYPE_GRID_ONSCREEN,
         "width": "96%",
         "year": 2016,
         "zIndex": 1
@@ -2369,7 +2378,9 @@ function addWidgetsfrmAdmitForm() {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
-    }, {});
+    }, {
+        "dayTextAlignmentInCell": constants.CONTENT_ALIGN_CENTER
+    });
     var TBAdmitFormTemparature = new kony.ui.TextBox2({
         "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
         "height": "30dp",
@@ -2377,6 +2388,7 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "left": "0dp",
+        "onTextChange": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "placeholder": "Temperature *(F)",
         "secureTextEntry": false,
         "skin": "textFieldSkin1",
@@ -2401,6 +2413,7 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "left": "0dp",
+        "onTextChange": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "placeholder": "Blood Pressure *(Systolic)",
         "secureTextEntry": false,
         "skin": "textFieldSkin1",
@@ -2425,6 +2438,7 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "left": "0dp",
+        "onTextChange": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "placeholder": "Diastolic *",
         "secureTextEntry": false,
         "skin": "textFieldSkin1",
@@ -2449,6 +2463,7 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "left": "0dp",
+        "onTextChange": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "placeholder": "Pulse *(BPM)",
         "secureTextEntry": false,
         "skin": "textFieldSkin1",
@@ -2473,6 +2488,7 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "left": "0dp",
+        "onTextChange": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "placeholder": "O2 Level *(%)",
         "secureTextEntry": false,
         "skin": "textFieldSkin1",
@@ -2497,6 +2513,7 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "left": "0dp",
+        "onTextChange": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "placeholder": "Weight *(Pounds)",
         "secureTextEntry": false,
         "skin": "textFieldSkin1",
@@ -2514,13 +2531,14 @@ function addWidgetsfrmAdmitForm() {
         "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DEFAULT,
         "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
     });
-    var TBAdmitFormBaodyMass = new kony.ui.TextBox2({
+    var TBAdmitFormHeight = new kony.ui.TextBox2({
         "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
         "height": "30dp",
-        "id": "TBAdmitFormBaodyMass",
+        "id": "TBAdmitFormHeight",
         "isVisible": true,
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "left": "0dp",
+        "onTextChange": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "placeholder": "Height *(Inches)",
         "secureTextEntry": false,
         "skin": "textFieldSkin1",
@@ -2538,13 +2556,14 @@ function addWidgetsfrmAdmitForm() {
         "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DEFAULT,
         "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
     });
-    var tfBodyMass = new kony.ui.TextBox2({
+    var TBAdmitFormBodyMass = new kony.ui.TextBox2({
         "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
         "height": "30dp",
-        "id": "tfBodyMass",
+        "id": "TBAdmitFormBodyMass",
         "isVisible": true,
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "left": "0dp",
+        "onTextChange": AS_TextField_a511e27cdb9b40fdbe41098c1a435a26,
         "placeholder": "Body mass index-BMI(Lb/In^2)",
         "secureTextEntry": false,
         "skin": "textFieldSkin1",
@@ -2562,7 +2581,7 @@ function addWidgetsfrmAdmitForm() {
         "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DEFAULT,
         "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
     });
-    flxContainerVitalSignsAdmitForm.add(CalendarAdmitformVitalSigns, TBAdmitFormTemparature, TBAdmitFormBP, TBAdmitFormDiastolic, TBAdmitFormPulse, TBAdmitFormO2Level, TBAdmitFormWeight, TBAdmitFormBaodyMass, tfBodyMass);
+    flxContainerVitalSignsAdmitForm.add(CalendarAdmitformVitalSigns, TBAdmitFormTemparature, TBAdmitFormBP, TBAdmitFormDiastolic, TBAdmitFormPulse, TBAdmitFormO2Level, TBAdmitFormWeight, TBAdmitFormHeight, TBAdmitFormBodyMass);
     var flexContainerPatientStatus = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
@@ -2718,12 +2737,12 @@ function addWidgetsfrmAdmitForm() {
     flxContainerPatientStatusAdmitForm.add(CopyLabel0b75c0481e6ff48, SegmentPatientStatusCodeStatus);
     var patientSubmit = new kony.ui.Button({
         "bottom": "5dp",
-        "focusSkin": "slButtonGlossRed",
         "height": "10%",
         "id": "patientSubmit",
         "isVisible": true,
         "left": "0dp",
-        "skin": "submitColorSkin",
+        "onClick": AS_Button_2d8730b20ada430e8123dab92eb2265d,
+        "skin": "sknAdmitFormSubmitDisable",
         "text": "Submit",
         "top": "0dp",
         "width": "100%",
@@ -3488,11 +3507,11 @@ function addWidgetsfrmAdmitForm() {
     FlexContainerPrimaryCareProviderAdmitForm.add(CopyetFirstName0c5368485cfe042, CopyetLastName0cb04dfd3dfdc41);
     var DiagosticsSubmit = new kony.ui.Button({
         "bottom": "50dp",
-        "focusSkin": "slButtonGlossRed",
         "id": "DiagosticsSubmit",
         "isVisible": true,
         "left": "0dp",
-        "skin": "submitColorSkin",
+        "onClick": AS_Button_2d8730b20ada430e8123dab92eb2265d,
+        "skin": "sknAdmitFormSubmitDisable",
         "text": "Submit",
         "top": "10dp",
         "width": "96%",
@@ -5080,11 +5099,11 @@ function addWidgetsfrmAdmitForm() {
     FlexContainerSpecialityConsultsAdmitForm.add(FlexContainer04d9339d29f0343, CopytfFirstName0007d1dc6ee084d, TextArea0c762ce33a7d646);
     var RecommendationSubmit = new kony.ui.Button({
         "bottom": "60dp",
-        "focusSkin": "slButtonGlossRed",
         "id": "RecommendationSubmit",
         "isVisible": true,
         "left": "0dp",
-        "skin": "submitColorSkin",
+        "onClick": AS_Button_2d8730b20ada430e8123dab92eb2265d,
+        "skin": "sknAdmitFormSubmitDisable",
         "text": "Submit",
         "top": "10dp",
         "width": "96%",

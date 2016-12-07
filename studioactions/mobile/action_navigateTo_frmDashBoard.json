@@ -14,6 +14,25 @@
             "parentId": "",
             "callbackType": null,
             "enableMappingEditor": true
+        }, {
+            "id": "NAMED_ACTION____4b45c07d80784b669cb2e2590fa8dcf1",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Segment_42e20e0f588b4ffaafce0428d554aad0",
+            "display": "seg_Onrowclick_navigateto_admission",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject"
+            }, {
+                "datatype": "number",
+                "name": "sectionNumber"
+            }, {
+                "datatype": "number",
+                "name": "rowNumber"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "isMasterInstanceAction": null
         }]
     }
 }

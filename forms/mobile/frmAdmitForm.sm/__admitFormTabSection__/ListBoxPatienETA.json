@@ -22,6 +22,7 @@
         0,
         0
     ],
+    "_placeholder_": "Select ETA",
     "_skin_": "s09a11d0700e4bb295a9dcc75f243145",
     "_top_": {
         "type": "string",
@@ -32,7 +33,8 @@
         "value": "96%"
     },
     "android": {
-        "dropDownImage": "activeicon.png"
+        "dropDownImage": "activeicon.png",
+        "placeholder": "Select ETA"
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -49,31 +51,34 @@
     "groupcells": false,
     "id": "ListBoxPatienETA",
     "info": null,
+    "iphone": {
+        "placeholder": "Select ETA"
+    },
     "isvisible": true,
     "kuid": "70c85663e97b490ab07169a8e9f07442",
     "masterdata": [
         [
-            "lb1",
+            "0",
+            "Select ETA"
+        ],
+        [
+            "1",
             "ASAP"
         ],
         [
-            "lb2",
+            "2",
             "Within 3 Hours"
         ],
         [
-            "lb3",
+            "3",
             "Within 6 Hours"
         ]
     ],
     "name": "kony.ui.ListBox",
     "parent": "flxContainerAdmittingPreferencesAdmitForm",
     "pf": "frmAdmitForm",
-    "selectedkey": "lb1",
     "selectedkeys": null,
-    "selectedkeyvalue": [
-        "lb1",
-        "ASAP"
-    ],
+    "selectedkeyvalue": null,
     "selectedkeyvalues": null,
     "size": 18,
     "tabpaneId": "admitFormTabSection",

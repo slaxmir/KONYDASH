@@ -1,11 +1,9 @@
 function showSupportGeneral() {
-    var pForm = kony.application.getCurrentForm();
-    pForm.flxScreolGeneralFeedBack.isVisible = true;
-    pForm.CopyflxScreollReportAnIssue.isVisible = false;
+    frmSupport.flxScreolGeneralFeedBack.generalFeedbackTabContaine = true;
+    frmSupport.reportIssueTabContainer.isVisible = false;
 }
 
 function showSupportReportAnIssue() {
-    var pForm = kony.application.getCurrentForm();
-    pForm.CopyflxScreollReportAnIssue.isVisible = true;
-    pForm.flxScreolGeneralFeedBack.isVisible = false;
+    frmSupport.flxScreolGeneralFeedBack.generalFeedbackTabContaine = false;
+    frmSupport.reportIssueTabContainer.isVisible = true;
 }

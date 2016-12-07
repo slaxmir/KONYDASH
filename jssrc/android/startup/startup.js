@@ -72,7 +72,7 @@ function themeCallBack() {
     kony.application.setApplicationInitializationEvents({
         init: appInit,
         showstartupform: function() {
-            frmDashBoard.show();
+            frmLogin.show();
         }
     });
 };
@@ -96,3 +96,6 @@ loadResources();
 // If you wish to debug Application Initialization events, now is the time to
 // place breakpoints.
 debugger;
+kony.print = function() {
+    return;
+};

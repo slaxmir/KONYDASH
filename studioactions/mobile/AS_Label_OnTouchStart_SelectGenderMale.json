@@ -1,0 +1,50 @@
+{
+    "AS_Label_acdd31124b7b440783b623fd5c2ef0b0": {
+        "id": "AS_Label_acdd31124b7b440783b623fd5c2ef0b0",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Label_OnTouchStart_SelectGenderMale",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAdmitForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a61f86b4fb384227b844ba626c644872"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d540a1f0cd7e40d4bc87766c4e9b062c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "tapToSelectGenderMale",
+            "display": "tapToSelectGenderMale",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "NAMED_ACTION____9c2b0bbdd8b645bdaf3df030df98c655",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_TextField_a511e27cdb9b40fdbe41098c1a435a26",
+            "display": "Action_validation_Admitform_Mandatory",
+            "inputparams": [{
+                "name": "eventobject",
+                "datatype": "collection"
+            }, {
+                "name": "changedtext",
+                "datatype": "string"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "isMasterInstanceAction": null
+        }]
+    }
+}

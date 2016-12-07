@@ -34,7 +34,10 @@
         "type": "string",
         "value": "96%"
     },
-    "advview": "default",
+    "advview": "popup",
+    "android": {
+        "viewType": "popup"
+    },
     "calendaricon": "calbtn.png",
     "canUpdateUI": true,
     "containerweight": 100,
@@ -57,7 +60,11 @@
     "hidemonthsheader": false,
     "hour": 0,
     "id": "CalendarAdmitFormDOB",
+    "ide_onSelection": "AS_TextField_a511e27cdb9b40fdbe41098c1a435a26",
     "info": null,
+    "iphone": {
+        "viewType": "onscreen"
+    },
     "isvisible": true,
     "kuid": "e8fad6efec414d0cad0c64ff064967d7",
     "minutes": 0,

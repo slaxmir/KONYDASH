@@ -12,6 +12,22 @@
             "inputparams": [],
             "callbackType": null,
             "disabled": null
+        }, {
+            "id": "NAMED_ACTION____654abb4ee23c46fe87e3eedee6861ef2",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_TextField_a511e27cdb9b40fdbe41098c1a435a26",
+            "display": "Action_validation_Admitform_Mandatory",
+            "inputparams": [{
+                "name": "eventobject",
+                "datatype": "collection"
+            }, {
+                "name": "changedtext",
+                "datatype": "string"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "isMasterInstanceAction": null
         }]
     }
 }

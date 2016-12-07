@@ -1,0 +1,17 @@
+{
+    "AS__c8791980ac0e41c3947b02e7c39d7326": {
+        "id": "AS__c8791980ac0e41c3947b02e7c39d7326",
+        "type": "ACTION_SEQUENCE",
+        "name": "Action_Show_Support_ReportTab",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f559427e3dde42868c2ae55c28eb6658",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showSupportReportAnIssue",
+            "display": "showSupportReportAnIssue",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

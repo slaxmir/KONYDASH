@@ -22,6 +22,8 @@
         0,
         0
     ],
+    "_placeholder_": "Select Hospital",
+    "_render_": true,
     "_skin_": "s09a11d0700e4bb295a9dcc75f243145",
     "_top_": {
         "type": "string",
@@ -33,7 +35,10 @@
     },
     "android": {
         "dropDownImage": "activeicon.png",
-        "tickedImage": "tick_03.png"
+        "placeholder": "Select Hospital",
+        "render": true,
+        "tickedImage": "tick_03.png",
+        "viewType": 0
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -50,40 +55,50 @@
     "groupcells": false,
     "id": "ListBoxAdmittingHospital",
     "info": null,
+    "iphone": {
+        "placeholder": "Select Hospital",
+        "render": true
+    },
     "isvisible": true,
     "kuid": "ef47153cd9464f5083125f47b86a8d00",
     "masterdata": [
         [
-            "lb1",
+            "0",
             "Select Hospital"
         ],
         [
-            "lb2",
+            "1",
             "Test Phani Hospital"
         ],
         [
-            "Key342",
-            "Value"
+            "2",
+            "Test PhaniRC Hospital"
         ]
     ],
     "name": "kony.ui.ListBox",
     "parent": "flxContainerAdmittingPreferencesAdmitForm",
     "pf": "frmAdmitForm",
-    "selectedkey": "lb1",
     "selectedkeys": null,
-    "selectedkeyvalue": [
-        "lb1",
-        "Select Hospital"
-    ],
+    "selectedkeyvalue": null,
     "selectedkeyvalues": null,
     "size": 18,
-    "tabpaneId": "admitFormTabSection",
-    "viewconfig": {
-        "toggleViewConfig": {
-            "viewStyle": 0
-        }
+    "spaan": {
+        "render": true
     },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "tabpaneId": "admitFormTabSection",
     "viewtype": 0,
     "wType": "ListBox",
+    "winphone8": {
+        "render": false
+    },
     "zindex": 1
 }

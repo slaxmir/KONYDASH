@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "2%"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -30,7 +30,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "98%"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
@@ -50,11 +50,11 @@
     "kuid": "35a213b90cb542a79443dc8cf1565763",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "FlexContainer07982319fc88c4f",
+    "parent": "FlexContainerDashboard",
     "pf": "tmplDashboard",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 1
+    "zindex": 4
 }

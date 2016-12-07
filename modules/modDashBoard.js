@@ -15,6 +15,8 @@ function setDashBoardData(){
                                             labelValueReferringFacility:"labelValueReferringFacility",
                                             labelSepsisScreeing:"labelSepsisScreeing",
                                             labelValueSepsisScreening:"labelValueSepsisScreening",
+                                            FlexContainerDashboard:"FlexContainerDashboard",
+                                            ImageCollapsed:"ImageCollapsed"
                                             };
   
 	 dashBoardSegData = [
@@ -32,7 +34,9 @@ function setDashBoardData(){
 				 labelRefFac:{text:"Ref Fac"},
               	 labelValueReferringFacility:{text:"Phani ED"},
               	 labelSepsisScreeing:{text:"Sepsis Screening"},
-              	 labelValueSepsisScreening:{text:"Negative"}
+              	 labelValueSepsisScreening:{text:"Negative"},
+              	 FlexContainerDashboard:{skin:"dashboardSegmentBlue"},
+              	 ImageCollapsed:{src:"collapselabelicon"}
             },
            {
               	 imgstatus:{src:"patientdischarged"},
@@ -47,7 +51,10 @@ function setDashBoardData(){
 				 labelRefFac:{text:"Ref Fac"},
               	 labelValueReferringFacility:{text:"Phani ED"},
               	 labelSepsisScreeing:{text:"Sepsis Screening"},
-              	 labelValueSepsisScreening:{text:"Negative"}
+              	 labelValueSepsisScreening:{text:"Negative"},
+             	 FlexContainerDashboard:{skin:"dashboardSegmentGray"},
+				 ImageCollapsed:{src:"collapselabelicongrey"}
+           
             },
        		{
               	 imgstatus:{src:"patientdischarged"},
@@ -62,7 +69,10 @@ function setDashBoardData(){
 				 labelRefFac:{text:"Ref Fac"},
               	 labelValueReferringFacility:{text:"Phani ED"},
               	 labelSepsisScreeing:{text:"Sepsis Screening"},
-              	 labelValueSepsisScreening:{text:"Negative"}
+              	 labelValueSepsisScreening:{text:"Negative"},
+              	 FlexContainerDashboard:{skin:"dashboardSegmentBlue"},
+				 ImageCollapsed:{src:"collapselabelicon"}
+           
             },
        		{
               	 imgstatus:{src:"patientdischarged"},
@@ -77,7 +87,11 @@ function setDashBoardData(){
 				 labelRefFac:{text:"Ref Fac"},
               	 labelValueReferringFacility:{text:"Phani ED"},
               	 labelSepsisScreeing:{text:"Sepsis Screening"},
-              	 labelValueSepsisScreening:{text:"Negative"}
+              	 labelValueSepsisScreening:{text:"Negative"},
+              	 FlexContainerDashboard:{skin:"dashboardSegmentGray"},
+				 ImageCollapsed:{src:"collapselabelicongrey"}
+
+           
             },
        		{
               	 imgstatus:{src:"patientdischarged"},
@@ -92,7 +106,10 @@ function setDashBoardData(){
 				 labelRefFac:{text:"Ref Fac"},
               	 labelValueReferringFacility:{text:"Phani ED"},
               	 labelSepsisScreeing:{text:"Sepsis Screening"},
-              	 labelValueSepsisScreening:{text:"Negative"}
+              	 labelValueSepsisScreening:{text:"Negative"},
+              	 FlexContainerDashboard:{skin:"dashboardSegmentBlue"},
+				 ImageCollapsed:{src:"collapselabelicon"}
+           
             },
        		{
               	 imgstatus:{src:"patientdischarged"},
@@ -107,17 +124,14 @@ function setDashBoardData(){
 				 labelRefFac:{text:"Ref Fac"},
               	 labelValueReferringFacility:{text:"Phani ED"},
               	 labelSepsisScreeing:{text:"Sepsis Screening"},
-              	 labelValueSepsisScreening:{text:"Negative"}
+              	 labelValueSepsisScreening:{text:"Negative"},
+             	 FlexContainerDashboard:{skin:"dashboardSegmentGray"},
+				 ImageCollapsed:{src:"collapselabelicongrey"}
+           
             }       
-    ];   
-       
-       
-      
+    ]; 
      
   frmDashBoard.Segdashbaord.setData(dashBoardSegData);
- 
-
-
 }
 function getDashBoardShowAndHideRow(eventObject){
   var sectionIndex = eventObject["info"]["ind"];
