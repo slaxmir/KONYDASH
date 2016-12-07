@@ -1,0 +1,34 @@
+{
+    "AS_Label_10591b3b26d44d58ba45107643bbbbea": {
+        "id": "AS_Label_10591b3b26d44d58ba45107643bbbbea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "af8d18b74b094c8eb69dbe2a05f31739"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___d62f69de417d4961b77b021d31f1a831",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmForgetPassword",
+            "formKUID": "daa5509eff724523a456709c90afaab0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

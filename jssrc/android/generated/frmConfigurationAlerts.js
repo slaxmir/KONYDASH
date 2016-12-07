@@ -609,7 +609,7 @@ function addWidgetsfrmConfigurationAlerts() {
     }, {}, {});
     flxBodyScrollCointer.setDefaultUnit(kony.flex.DP);
     var TabConfigurationAdmissionAlerts = new kony.ui.TabPane({
-        "activeFocusSkin": "CopytabCanvas038b5bec321824c",
+        "activeFocusSkin": "CopytabCanvas060f1e66f53da42",
         "activeSkin": "CopytabCanvas069c76196e4904f",
         "activeTabs": [2],
         "height": "100.26%",
@@ -653,7 +653,7 @@ function addWidgetsfrmConfigurationAlerts() {
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {
-        "tabHeaderHeight": 30
+        "tabHeaderHeight": 40
     });
     var tabDirectAdmission = new kony.ui.FlexContainer({
         "clipBounds": true,
@@ -685,6 +685,21 @@ function addWidgetsfrmConfigurationAlerts() {
         "zIndex": 1
     }, {}, {});
     flxPsychAdmissionContainer.setDefaultUnit(kony.flex.DP);
+    var alertTabActiveBorder1 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "clipBounds": true,
+        "height": "3dp",
+        "id": "alertTabActiveBorder1",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "0dp",
+        "skin": "alertTabActiveBorderSkin",
+        "top": "0dp",
+        "width": "33.33%",
+        "zIndex": 1
+    }, {}, {});
+    alertTabActiveBorder1.setDefaultUnit(kony.flex.DP);
+    alertTabActiveBorder1.add();
     var CopyflxPsychAdmissionHeaderContainer0d5022215c04a4d = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
@@ -825,7 +840,7 @@ function addWidgetsfrmConfigurationAlerts() {
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {});
-    flxPsychAdmissionContainer.add(CopyflxPsychAdmissionHeaderContainer0d5022215c04a4d, SegmentDirectAdmission);
+    flxPsychAdmissionContainer.add(alertTabActiveBorder1, CopyflxPsychAdmissionHeaderContainer0d5022215c04a4d, SegmentDirectAdmission);
     tabDirectAdmission.add(flxPsychAdmissionContainer);
     TabConfigurationAdmissionAlerts.addTab("tabDirectAdmission", "Direct Admission", null, tabDirectAdmission, AS_NamedActions_11b6d54803234f5593c17f17d8ede9f7);
     var tabEDReferral = new kony.ui.FlexContainer({
@@ -859,6 +874,21 @@ function addWidgetsfrmConfigurationAlerts() {
         "zIndex": 1
     }, {}, {});
     CopyflxPsychAdmissionContainer0f594455f0a0b4a.setDefaultUnit(kony.flex.DP);
+    var alertTabActiveBorder2 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "clipBounds": true,
+        "height": "3dp",
+        "id": "alertTabActiveBorder2",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "33.33%",
+        "skin": "alertTabActiveBorderSkin",
+        "top": "0dp",
+        "width": "33.33%",
+        "zIndex": 1
+    }, {}, {});
+    alertTabActiveBorder2.setDefaultUnit(kony.flex.DP);
+    alertTabActiveBorder2.add();
     var CopyflxPsychAdmissionHeaderContainer0cb054e90f39045 = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
@@ -999,7 +1029,7 @@ function addWidgetsfrmConfigurationAlerts() {
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {});
-    CopyflxPsychAdmissionContainer0f594455f0a0b4a.add(CopyflxPsychAdmissionHeaderContainer0cb054e90f39045, SegmentEDReferral);
+    CopyflxPsychAdmissionContainer0f594455f0a0b4a.add(alertTabActiveBorder2, CopyflxPsychAdmissionHeaderContainer0cb054e90f39045, SegmentEDReferral);
     tabEDReferral.add(CopyflxPsychAdmissionContainer0f594455f0a0b4a);
     TabConfigurationAdmissionAlerts.addTab("tabEDReferral", "ED Referral", null, tabEDReferral, AS__3a8895e4588a4fb0a96388157af9cccc);
     var tabPsychAdmission = new kony.ui.FlexContainer({
@@ -1033,6 +1063,21 @@ function addWidgetsfrmConfigurationAlerts() {
         "zIndex": 1
     }, {}, {});
     CopyflxPsychAdmissionContainer0847b9a3b5ce34b.setDefaultUnit(kony.flex.DP);
+    var alertTabActiveBorder3 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "clipBounds": true,
+        "height": "3dp",
+        "id": "alertTabActiveBorder3",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "66.67%",
+        "skin": "alertTabActiveBorderSkin",
+        "top": "0dp",
+        "width": "33.33%",
+        "zIndex": 1
+    }, {}, {});
+    alertTabActiveBorder3.setDefaultUnit(kony.flex.DP);
+    alertTabActiveBorder3.add();
     var CopyflxPsychAdmissionHeaderContainer09277f8935e444b = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
@@ -1173,7 +1218,7 @@ function addWidgetsfrmConfigurationAlerts() {
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {});
-    CopyflxPsychAdmissionContainer0847b9a3b5ce34b.add(CopyflxPsychAdmissionHeaderContainer09277f8935e444b, SegmentPsychAdmission);
+    CopyflxPsychAdmissionContainer0847b9a3b5ce34b.add(alertTabActiveBorder3, CopyflxPsychAdmissionHeaderContainer09277f8935e444b, SegmentPsychAdmission);
     tabPsychAdmission.add(CopyflxPsychAdmissionContainer0847b9a3b5ce34b);
     TabConfigurationAdmissionAlerts.addTab("tabPsychAdmission", "Psych Admission", null, tabPsychAdmission, AS__af5a550807234e29a4df7a342c0ec16a);
     flxBodyScrollCointer.add(TabConfigurationAdmissionAlerts);

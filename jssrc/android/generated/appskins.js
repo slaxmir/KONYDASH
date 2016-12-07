@@ -2,6 +2,7 @@ function skinsInit() {
     addBtnSkin1 = "addBtnSkin1";
     adminValSkin = "adminValSkin";
     admitFormHDSkin = "admitFormHDSkin";
+    alertTabActiveBorderSkin = "alertTabActiveBorderSkin";
     bedAdmissionHeader = "bedAdmissionHeader";
     bedAdmissionTitleSkin = "bedAdmissionTitleSkin";
     bedAdmSection1LabelSkin = "bedAdmSection1LabelSkin";
@@ -243,6 +244,7 @@ function skinsInit() {
     CopyslTextBox0d95698a9614f44 = "CopyslTextBox0d95698a9614f44";
     CopyslTextBox0da7be1e142c046 = "CopyslTextBox0da7be1e142c046";
     CopytabCanvas038b5bec321824c = "CopytabCanvas038b5bec321824c";
+    CopytabCanvas060f1e66f53da42 = "CopytabCanvas060f1e66f53da42";
     CopytabCanvas069c76196e4904f = "CopytabCanvas069c76196e4904f";
     CopytabCanvas0a32e8010188c4b = "CopytabCanvas0a32e8010188c4b";
     CopytabCanvasInactive052646609077543 = "CopytabCanvasInactive052646609077543";
@@ -276,6 +278,7 @@ function skinsInit() {
     lFboxbashboardsegRow2 = "lFboxbashboardsegRow2";
     noteButtonSkin1 = "noteButtonSkin1";
     patientAdmitHSPSelectBxSkin = "patientAdmitHSPSelectBxSkin";
+    popCloseIconSkin = "popCloseIconSkin";
     popupReferringFacilityRow1Skin = "popupReferringFacilityRow1Skin";
     popupReferringFacilityRow2Heading1Skin = "popupReferringFacilityRow2Heading1Skin";
     popupReferringFacilityRow2Skin = "popupReferringFacilityRow2Skin";

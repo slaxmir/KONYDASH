@@ -36,6 +36,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
+        "alertTabActiveBorder1",
         "CopyflxPsychAdmissionHeaderContainer0d5022215c04a4d",
         "SegmentDirectAdmission"
     ],

@@ -16,7 +16,7 @@ function addWidgetspopupTakeaction() {
         "layoutAlignment": constants.BOX_LAYOUT_ALIGN_FROM_LEFT,
         "margin": [0, 0, 0, 0],
         "marginInPixel": false,
-        "padding": [5, 1, 5, 1],
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false,
         "percent": true
     }, {});
@@ -30,7 +30,7 @@ function addWidgetspopupTakeaction() {
             "strikeThrough": false
         }
     }, {
-        "containerWeight": 93,
+        "containerWeight": 85,
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
         "hExpand": true,
         "margin": [1, 1, 1, 1],
@@ -42,21 +42,25 @@ function addWidgetspopupTakeaction() {
     }, {
         "textCopyable": false
     });
-    var popupUpdateAdmissionsClose = new kony.ui.Image2({
-        "id": "popupUpdateAdmissionsClose",
+    var TakeActionCloseIcon = new kony.ui.Button({
+        "focusSkin": "slButtonGlossRed",
+        "id": "TakeActionCloseIcon",
         "isVisible": true,
-        "skin": "slImage",
-        "src": "popcloseicon.png"
+        "skin": "popCloseIconSkin",
+        "text": "X"
     }, {
-        "containerWeight": 7,
-        "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
-        "margin": [0, 0, 0, 0],
+        "containerWeight": 10,
+        "contentAlignment": constants.CONTENT_ALIGN_CENTER,
+        "displayText": true,
+        "hExpand": true,
+        "margin": [1, 1, 1, 1],
         "marginInPixel": false,
-        "padding": [0, 0, 0, 0],
+        "padding": [1, 4, 1, 4],
         "paddingInPixel": false,
+        "vExpand": false,
         "widgetAlignment": constants.WIDGET_ALIGN_CENTER
     }, {});
-    popupUpdateAdmissionsRow1.add(popupUpdateAdmissionsTitle, popupUpdateAdmissionsClose);
+    popupUpdateAdmissionsRow1.add(popupUpdateAdmissionsTitle, TakeActionCloseIcon);
     var referringUpdateAdmissionsBorder = new kony.ui.Line({
         "id": "referringUpdateAdmissionsBorder",
         "isVisible": true,
@@ -419,7 +423,7 @@ function popupTakeactionGlobals() {
         "skin": "popupTakeactionSkin",
         "transparencyBehindThePopup": 100
     }, {
-        "containerWeight": 100,
+        "containerWeight": 95,
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {

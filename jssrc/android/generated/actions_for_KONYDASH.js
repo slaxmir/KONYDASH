@@ -116,7 +116,7 @@ function action_navigateTo_frmForgotPassword() {
 }
 
 function AS_NamedActions_61196736f19c49d1991454a4788d3363() {
-    frmForgetPassword.show();
+    popupReferringFacility.show()
 }
 
 function action_navigateTo_frmLogin() {
@@ -789,6 +789,10 @@ function AS_Image_Touch_Text_alerts(eventobject, x, y) {
 
 function AS_Image_39bd0dd404a641ed9b10ad5a69ee8603(eventobject, x, y) {
     return onTouchTextAlerts.call(this);
+}
+
+function AS_Label_10591b3b26d44d58ba45107643bbbbea(eventobject, x, y) {
+    frmForgetPassword.show();
 }
 
 function AS_Label_2d2b38ea30bc4f928977703820b9ecbd(eventobject, x, y) {
