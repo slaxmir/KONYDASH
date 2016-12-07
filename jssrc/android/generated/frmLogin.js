@@ -211,7 +211,7 @@ function addWidgetsfrmLogin() {
         "id": "labelForgotPassword",
         "isVisible": true,
         "left": 0,
-        "onTouchStart": AS_NamedActions_61196736f19c49d1991454a4788d3363,
+        "onTouchStart": AS_Label_10591b3b26d44d58ba45107643bbbbea,
         "right": 0,
         "skin": "skinLabelRegister",
         "text": "Forgot Password?",

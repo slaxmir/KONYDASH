@@ -9,9 +9,9 @@
     ],
     "_orientation_": 1,
     "_padding_": [
-        5,
         1,
-        5,
+        1,
+        1,
         1
     ],
     "_percent_": true,
@@ -21,7 +21,7 @@
     "canUpdateUI": true,
     "children": [
         "popupUpdateAdmissionsTitle",
-        "popupUpdateAdmissionsClose"
+        "TakeActionCloseIcon"
     ],
     "containerheight": 30,
     "containerheightreference": 1,
@@ -40,7 +40,7 @@
     "scrolldirection": 1,
     "scrollingevents": null,
     "showscrollbars": true,
-    "totalWt": 100,
+    "totalWt": 95,
     "wType": "ScrollBox",
     "widgetalignment": 5
 }
