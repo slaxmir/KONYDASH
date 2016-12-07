@@ -35,7 +35,10 @@
         "type": "string",
         "value": "96%"
     },
-    "advview": "default",
+    "advview": "onscreen",
+    "android": {
+        "viewType": "onscreen"
+    },
     "calendaricon": "calbtn.png",
     "canUpdateUI": true,
     "containerweight": 100,
@@ -58,7 +61,12 @@
     "hidemonthsheader": false,
     "hour": 0,
     "id": "CalendarAdmitformVitalSigns",
+    "ide_onSelection": "AS_TextField_a511e27cdb9b40fdbe41098c1a435a26",
     "info": null,
+    "invokedProperty": "gridcalendars",
+    "iphone": {
+        "viewType": "onscreen"
+    },
     "isvisible": true,
     "kuid": "172d2a051a5d4fe780a1414038928683",
     "minutes": 0,

@@ -43,8 +43,8 @@
         "TBAdmitFormPulse",
         "TBAdmitFormO2Level",
         "TBAdmitFormWeight",
-        "TBAdmitFormBaodyMass",
-        "tfBodyMass"
+        "TBAdmitFormHeight",
+        "TBAdmitFormBodyMass"
     ],
     "clipbounds": true,
     "containerweight": 100,

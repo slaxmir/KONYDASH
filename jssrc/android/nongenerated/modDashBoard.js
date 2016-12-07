@@ -16,6 +16,8 @@ function setDashBoardData() {
         labelValueReferringFacility: "labelValueReferringFacility",
         labelSepsisScreeing: "labelSepsisScreeing",
         labelValueSepsisScreening: "labelValueSepsisScreening",
+        FlexContainerDashboard: "FlexContainerDashboard",
+        ImageCollapsed: "ImageCollapsed"
     };
     dashBoardSegData = [{
         imgstatus: {
@@ -56,6 +58,12 @@ function setDashBoardData() {
         },
         labelValueSepsisScreening: {
             text: "Negative"
+        },
+        FlexContainerDashboard: {
+            skin: "dashboardSegmentBlue"
+        },
+        ImageCollapsed: {
+            src: "collapselabelicon"
         }
     }, {
         imgstatus: {
@@ -96,6 +104,12 @@ function setDashBoardData() {
         },
         labelValueSepsisScreening: {
             text: "Negative"
+        },
+        FlexContainerDashboard: {
+            skin: "dashboardSegmentGray"
+        },
+        ImageCollapsed: {
+            src: "collapselabelicongrey"
         }
     }, {
         imgstatus: {
@@ -136,6 +150,12 @@ function setDashBoardData() {
         },
         labelValueSepsisScreening: {
             text: "Negative"
+        },
+        FlexContainerDashboard: {
+            skin: "dashboardSegmentBlue"
+        },
+        ImageCollapsed: {
+            src: "collapselabelicon"
         }
     }, {
         imgstatus: {
@@ -176,6 +196,12 @@ function setDashBoardData() {
         },
         labelValueSepsisScreening: {
             text: "Negative"
+        },
+        FlexContainerDashboard: {
+            skin: "dashboardSegmentGray"
+        },
+        ImageCollapsed: {
+            src: "collapselabelicongrey"
         }
     }, {
         imgstatus: {
@@ -216,6 +242,12 @@ function setDashBoardData() {
         },
         labelValueSepsisScreening: {
             text: "Negative"
+        },
+        FlexContainerDashboard: {
+            skin: "dashboardSegmentBlue"
+        },
+        ImageCollapsed: {
+            src: "collapselabelicon"
         }
     }, {
         imgstatus: {
@@ -256,6 +288,12 @@ function setDashBoardData() {
         },
         labelValueSepsisScreening: {
             text: "Negative"
+        },
+        FlexContainerDashboard: {
+            skin: "dashboardSegmentGray"
+        },
+        ImageCollapsed: {
+            src: "collapselabelicongrey"
         }
     }];
     frmDashBoard.Segdashbaord.setData(dashBoardSegData);

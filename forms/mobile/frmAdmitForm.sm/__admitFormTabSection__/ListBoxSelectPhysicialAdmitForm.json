@@ -22,6 +22,7 @@
         0,
         0
     ],
+    "_placeholder_": "Select Physician",
     "_skin_": "s09a11d0700e4bb295a9dcc75f243145",
     "_top_": {
         "type": "string",
@@ -32,7 +33,8 @@
         "value": "96%"
     },
     "android": {
-        "dropDownImage": "activeicon.png"
+        "dropDownImage": "activeicon.png",
+        "placeholder": "Select Physician"
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -49,11 +51,14 @@
     "groupcells": false,
     "id": "ListBoxSelectPhysicialAdmitForm",
     "info": null,
+    "iphone": {
+        "placeholder": "Select Physician"
+    },
     "isvisible": true,
     "kuid": "3c6ca93ee9a74006974067a891c8915a",
     "masterdata": [
         [
-            "lb1",
+            "0",
             "Select Physician"
         ],
         [
@@ -64,12 +69,8 @@
     "name": "kony.ui.ListBox",
     "parent": "flxContainerAdmittingPreferencesAdmitForm",
     "pf": "frmAdmitForm",
-    "selectedkey": "lb1",
     "selectedkeys": null,
-    "selectedkeyvalue": [
-        "lb1",
-        "Select Physician"
-    ],
+    "selectedkeyvalue": null,
     "selectedkeyvalues": null,
     "size": 18,
     "tabpaneId": "admitFormTabSection",

@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_skin_": "s55a74c8d2304b289e93aa735704ab10",
+    "_skin_": "sa681b823be14cd68bb42e686b0d38c1",
     "_text_": "Female",
     "_top_": {
         "type": "string",
@@ -43,6 +43,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "id": "LblAdmitFormFemale",
+    "ide_onTouchStart": "AS_Label_6251f3853c3d4bebb3b0fff75e713d81",
     "info": null,
     "ipad": {
         "psp": {
