@@ -14,7 +14,7 @@
     "isForked": false
   },
   "fontSizeInPx": true,
-  "font_color": "000000ff",
+  "font_color": "555555ff",
   "font_name": "Helvetica",
   "font_size": 107,
   "font_style": "normal",
@@ -32,7 +32,7 @@
     "font_size": 281,
     "isForked": false
   },
-  "kuid": "sced8a81599e47f0a6818b5970bc2658",
+  "kuid": "s4f1977345f2445c9959e777f22edc62",
   "spaan": {
     "font_size": 188,
     "isForked": false
@@ -65,7 +65,7 @@
     "font_size": 267,
     "isForked": false
   },
-  "wType": "ListBox",
+  "wType": "TextField",
   "watchos": {
     "font_size": 161,
     "isForked": false

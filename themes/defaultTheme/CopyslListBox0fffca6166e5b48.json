@@ -1,4 +1,7 @@
 {
+  "android": {
+    "font_name": "Helvetica"
+  },
   "background_color": "fbfbfbff",
   "bg_type": "one",
   "border_color": "dededeff",

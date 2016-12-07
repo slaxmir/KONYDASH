@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "10%"
+        "value": "45dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "13dp"
     },
     "_margin_": [
         0,
@@ -23,7 +23,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sb5c75dd3aa44221b22e6fb2bc416508",
+    "_skin_": "s2a016ad20de42e9858c145b4fde0e87",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -36,24 +36,23 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "imgMenuOpen",
-        "labelProfile1",
-        "Image0f4ef1b57b1094b"
+        "Image07ba4f09130e74f",
+        "Label0ae0c1648a9dd4e"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxActionbarContainer",
+    "id": "FlexContainer01615e4ebb07244",
     "info": null,
     "isvisible": true,
-    "kuid": "37b7c4dae3b8451dbb735f96deb2d8db",
+    "kuid": "acb36ef9c1c0451d87b5a6db4a18cfbe",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxContainer1",
+    "parent": "flxScrollBodyContainer",
     "pf": "frmEditProfile",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 1
+    "zindex": 6
 }

@@ -29,14 +29,14 @@ function addWidgetsfrmEditProfile() {
     }, {}, {});
     flxActionbarContainer.setDefaultUnit(kony.flex.DP);
     var imgMenuOpen = new kony.ui.Image2({
-        "height": "50%",
+        "height": "40%",
         "id": "imgMenuOpen",
         "isVisible": true,
         "left": "5%",
         "onTouchStart": AS_NamedActions_59f90898340d4953be384a35208868b0,
         "src": "icons_03.png",
-        "top": "20%",
-        "width": "12%",
+        "top": "26%",
+        "width": "8%",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -44,10 +44,10 @@ function addWidgetsfrmEditProfile() {
         "paddingInPixel": false
     }, {});
     var labelProfile1 = new kony.ui.Label({
-        "centerY": "50%",
+        "centerY": "48%",
         "id": "labelProfile1",
         "isVisible": true,
-        "left": "20%",
+        "left": "18%",
         "skin": "skinActionBarHeader",
         "text": "Edit Profile",
         "textStyle": {
@@ -55,7 +55,7 @@ function addWidgetsfrmEditProfile() {
             "strikeThrough": false
         },
         "top": "10dp",
-        "width": "70.98%",
+        "width": "60%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
@@ -64,7 +64,22 @@ function addWidgetsfrmEditProfile() {
     }, {
         "textCopyable": false
     });
-    flxActionbarContainer.add(imgMenuOpen, labelProfile1);
+    var Image0f4ef1b57b1094b = new kony.ui.Image2({
+        "height": "30dp",
+        "id": "Image0f4ef1b57b1094b",
+        "isVisible": true,
+        "left": "310dp",
+        "skin": "slImage",
+        "src": "update.png",
+        "top": "16dp",
+        "width": "28dp",
+        "zIndex": 1
+    }, {
+        "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
+        "padding": [0, 0, 0, 0],
+        "paddingInPixel": false
+    }, {});
+    flxActionbarContainer.add(imgMenuOpen, labelProfile1, Image0f4ef1b57b1094b);
     var flxScrollBodyContainer = new kony.ui.FlexScrollContainer({
         "allowHorizontalBounce": false,
         "allowVerticalBounce": true,
@@ -109,30 +124,25 @@ function addWidgetsfrmEditProfile() {
     }, {
         "textCopyable": false
     });
-    var Copytfusername0d2d3806653fc45 = new kony.ui.TextBox2({
-        "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
-        "bottom": "5dp",
+    var Label0de25adc46c3a46 = new kony.ui.Label({
         "centerX": "50%",
-        "id": "Copytfusername0d2d3806653fc45",
+        "id": "Label0de25adc46c3a46",
         "isVisible": true,
-        "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
-        "placeholder": "Username",
-        "secureTextEntry": false,
-        "skin": "inputbox",
-        "text": "PhaniRC",
-        "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
-        "top": "1dp",
+        "skin": "ntedit",
+        "text": "Phanirc",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "top": "0dp",
         "width": "90%",
         "zIndex": 1
     }, {
-        "containerHeightMode": constants.TEXTBOX_FONT_METRICS_DRIVEN_HEIGHT,
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [1, 1, 2, 2],
+        "padding": [1, 3, 1, 3],
         "paddingInPixel": false
     }, {
-        "autoFilter": false,
-        "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DEFAULT,
-        "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
+        "textCopyable": false
     });
     var CopyepLabelFirstName0c838f5c8d70d42 = new kony.ui.Label({
         "bottom": "1%",
@@ -145,7 +155,7 @@ function addWidgetsfrmEditProfile() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "1%",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {
@@ -155,30 +165,25 @@ function addWidgetsfrmEditProfile() {
     }, {
         "textCopyable": false
     });
-    var Copytfusername071b0692c37694a = new kony.ui.TextBox2({
-        "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
-        "bottom": "5dp",
-        "centerX": "50%",
-        "id": "Copytfusername071b0692c37694a",
+    var CopyLabel0f6770acf6fd542 = new kony.ui.Label({
+        "centerX": "50.00%",
+        "id": "CopyLabel0f6770acf6fd542",
         "isVisible": true,
-        "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
-        "placeholder": "Username",
-        "secureTextEntry": false,
-        "skin": "inputbox",
-        "text": "Phani",
-        "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
-        "top": "1dp",
+        "skin": "ntedit",
+        "text": "phani",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "top": "0dp",
         "width": "90%",
         "zIndex": 1
     }, {
-        "containerHeightMode": constants.TEXTBOX_FONT_METRICS_DRIVEN_HEIGHT,
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [1, 1, 2, 2],
+        "padding": [1, 3, 1, 3],
         "paddingInPixel": false
     }, {
-        "autoFilter": false,
-        "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DEFAULT,
-        "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
+        "textCopyable": false
     });
     var CopyepLabelLastName04c65b5b97e9b46 = new kony.ui.Label({
         "bottom": "1%",
@@ -191,7 +196,7 @@ function addWidgetsfrmEditProfile() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "1%",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {
@@ -201,30 +206,25 @@ function addWidgetsfrmEditProfile() {
     }, {
         "textCopyable": false
     });
-    var Copytfusername0934904a232d341 = new kony.ui.TextBox2({
-        "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
-        "bottom": "5dp",
-        "centerX": "50%",
-        "id": "Copytfusername0934904a232d341",
+    var CopyLabel0cc8592b6215d4a = new kony.ui.Label({
+        "centerX": "50.06%",
+        "id": "CopyLabel0cc8592b6215d4a",
         "isVisible": true,
-        "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
-        "placeholder": "Username",
-        "secureTextEntry": false,
-        "skin": "inputbox",
-        "text": "PhaniRC",
-        "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
-        "top": "1dp",
+        "skin": "ntedit",
+        "text": "rc",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "top": "0dp",
         "width": "90%",
         "zIndex": 1
     }, {
-        "containerHeightMode": constants.TEXTBOX_FONT_METRICS_DRIVEN_HEIGHT,
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [1, 1, 2, 2],
+        "padding": [1, 3, 1, 3],
         "paddingInPixel": false
     }, {
-        "autoFilter": false,
-        "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DEFAULT,
-        "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
+        "textCopyable": false
     });
     var CopyLabel0cfef840dacc14b = new kony.ui.Label({
         "bottom": "1%",
@@ -237,7 +237,7 @@ function addWidgetsfrmEditProfile() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "1%",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {
@@ -256,7 +256,7 @@ function addWidgetsfrmEditProfile() {
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "placeholder": "Username",
         "secureTextEntry": false,
-        "skin": "sknTfEditProfile",
+        "skin": "editable",
         "text": "Phani@evhc.in",
         "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
         "top": "1dp",
@@ -283,7 +283,7 @@ function addWidgetsfrmEditProfile() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "1%",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {
@@ -302,7 +302,7 @@ function addWidgetsfrmEditProfile() {
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "placeholder": "Username",
         "secureTextEntry": false,
-        "skin": "sknTfEditProfile",
+        "skin": "editable",
         "text": "4578894563",
         "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
         "top": "1dp",
@@ -329,7 +329,7 @@ function addWidgetsfrmEditProfile() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "1%",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {
@@ -348,7 +348,7 @@ function addWidgetsfrmEditProfile() {
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "placeholder": "Username",
         "secureTextEntry": false,
-        "skin": "sknTfEditProfile",
+        "skin": "editable",
         "text": "4547879945",
         "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
         "top": "1dp",
@@ -375,7 +375,7 @@ function addWidgetsfrmEditProfile() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "1%",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {
@@ -385,30 +385,25 @@ function addWidgetsfrmEditProfile() {
     }, {
         "textCopyable": false
     });
-    var Copytfusername07191f4211dfc4b = new kony.ui.TextBox2({
-        "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
-        "bottom": "5dp",
+    var CopyLabel0724a8c93d74146 = new kony.ui.Label({
         "centerX": "50%",
-        "id": "Copytfusername07191f4211dfc4b",
+        "id": "CopyLabel0724a8c93d74146",
         "isVisible": true,
-        "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
-        "placeholder": "Username",
-        "secureTextEntry": false,
-        "skin": "sknTfEditProfile",
+        "skin": "ntedit",
         "text": "Clinic",
-        "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
-        "top": "1dp",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "top": "0dp",
         "width": "90%",
         "zIndex": 1
     }, {
-        "containerHeightMode": constants.TEXTBOX_FONT_METRICS_DRIVEN_HEIGHT,
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [1, 1, 2, 2],
+        "padding": [1, 3, 1, 3],
         "paddingInPixel": false
     }, {
-        "autoFilter": false,
-        "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DEFAULT,
-        "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
+        "textCopyable": false
     });
     var CopyLabel09c6bac55a8fb48 = new kony.ui.Label({
         "bottom": "1%",
@@ -421,7 +416,7 @@ function addWidgetsfrmEditProfile() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "1%",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {
@@ -431,30 +426,25 @@ function addWidgetsfrmEditProfile() {
     }, {
         "textCopyable": false
     });
-    var Copytfusername0041476c33dd046 = new kony.ui.TextBox2({
-        "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
-        "bottom": "5dp",
+    var CopyLabel0fdc08999132f44 = new kony.ui.Label({
         "centerX": "50%",
-        "id": "Copytfusername0041476c33dd046",
+        "id": "CopyLabel0fdc08999132f44",
         "isVisible": true,
-        "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
-        "placeholder": "Username",
-        "secureTextEntry": false,
-        "skin": "sknTfEditProfile",
-        "text": "Clinic clinisian",
-        "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
-        "top": "1dp",
+        "skin": "ntedit",
+        "text": "Clinician",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "top": "0dp",
         "width": "90%",
         "zIndex": 1
     }, {
-        "containerHeightMode": constants.TEXTBOX_FONT_METRICS_DRIVEN_HEIGHT,
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [1, 1, 2, 2],
+        "padding": [1, 3, 1, 3],
         "paddingInPixel": false
     }, {
-        "autoFilter": false,
-        "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DEFAULT,
-        "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
+        "textCopyable": false
     });
     var CopyLabel013658c058c4e47 = new kony.ui.Label({
         "bottom": "1%",
@@ -467,7 +457,7 @@ function addWidgetsfrmEditProfile() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "1%",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {
@@ -486,7 +476,7 @@ function addWidgetsfrmEditProfile() {
         "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
         "placeholder": "Username",
         "secureTextEntry": false,
-        "skin": "sknTfEditProfile",
+        "skin": "editable",
         "text": "4547879945",
         "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
         "top": "1%",
@@ -513,7 +503,7 @@ function addWidgetsfrmEditProfile() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "1%",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {
@@ -560,7 +550,7 @@ function addWidgetsfrmEditProfile() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "1%",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {
@@ -581,6 +571,7 @@ function addWidgetsfrmEditProfile() {
             ["lb2", "Degree 1"],
             ["lb3", "Degree 2"]
         ],
+        "onSelection": AS_ListBox_05049926a7f241ae9b75801a698c7cb8,
         "skin": "CopyslListBox0fffca6166e5b48",
         "top": "0dp",
         "width": "90%",
@@ -593,27 +584,164 @@ function addWidgetsfrmEditProfile() {
         "applySkinsToPopup": true,
         "viewType": constants.LISTBOX_VIEW_TYPE_LISTVIEW
     });
-    var CheckBoxGroup05d64f6c0200140 = new kony.ui.CheckBoxGroup({
-        "height": "30dp",
-        "id": "CheckBoxGroup05d64f6c0200140",
+    var FlexContainer01615e4ebb07244 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "clipBounds": true,
+        "height": "45dp",
+        "id": "FlexContainer01615e4ebb07244",
         "isVisible": true,
-        "left": "12dp",
-        "masterData": [
-            ["cbg1", "Change Password"]
-        ],
-        "selectedKeyValues": [
-            ["cbg1", "Change Password"]
-        ],
-        "selectedKeys": ["cbg1"],
-        "skin": "CopyslCheckBoxGroup0af60a8d5aab845",
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "13dp",
+        "skin": "slFbox",
         "top": "0dp",
-        "width": "90%",
-        "zIndex": 1
+        "width": "100%",
+        "zIndex": 6
+    }, {}, {});
+    FlexContainer01615e4ebb07244.setDefaultUnit(kony.flex.DP);
+    var Image07ba4f09130e74f = new kony.ui.Image2({
+        "height": "25dp",
+        "id": "Image07ba4f09130e74f",
+        "isVisible": true,
+        "left": "5dp",
+        "skin": "slImage",
+        "src": "uncheck.png",
+        "top": "10dp",
+        "width": "24dp",
+        "zIndex": 6
     }, {
-        "itemOrientation": constants.CHECKBOX_ITEM_ORIENTATION_VERTICAL,
+        "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {});
+    var Label0ae0c1648a9dd4e = new kony.ui.Label({
+        "id": "Label0ae0c1648a9dd4e",
+        "isVisible": true,
+        "left": "40dp",
+        "skin": "CopyslLabel0bae839e1629e4a",
+        "text": "Change Password",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "top": "27%",
+        "width": kony.flex.USE_PREFFERED_SIZE,
+        "zIndex": 6
+    }, {
+        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "padding": [0, 0, 0, 0],
+        "paddingInPixel": false
+    }, {
+        "textCopyable": false
+    });
+    FlexContainer01615e4ebb07244.add(Image07ba4f09130e74f, Label0ae0c1648a9dd4e);
+    var FlexContainer035608f7aea9f47 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "centerX": 180,
+        "clipBounds": true,
+        "height": "200dp",
+        "id": "FlexContainer035608f7aea9f47",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "5%",
+        "skin": "slFbox",
+        "top": "3%",
+        "width": "100%",
+        "zIndex": 3
+    }, {}, {});
+    FlexContainer035608f7aea9f47.setDefaultUnit(kony.flex.DP);
+    var Label0c431f692987d40 = new kony.ui.Label({
+        "id": "Label0c431f692987d40",
+        "isVisible": true,
+        "left": "18dp",
+        "skin": "CopyslLabel03a1aa91f18b347",
+        "text": "* Password length must be between 3 and 8 characters",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "top": "0dp",
+        "width": kony.flex.USE_PREFFERED_SIZE,
+        "zIndex": 1
+    }, {
+        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "padding": [0, 0, 0, 0],
+        "paddingInPixel": false
+    }, {
+        "textCopyable": false
+    });
+    var Copytfusername038e9b92b238347 = new kony.ui.TextBox2({
+        "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
+        "bottom": "5dp",
+        "centerX": "50%",
+        "id": "Copytfusername038e9b92b238347",
+        "isVisible": true,
+        "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
+        "placeholder": "Old Password",
+        "secureTextEntry": true,
+        "skin": "editable",
+        "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
+        "top": "20%",
+        "width": "90%",
+        "zIndex": 1
+    }, {
+        "containerHeightMode": constants.TEXTBOX_FONT_METRICS_DRIVEN_HEIGHT,
+        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "padding": [1, 1, 2, 2],
+        "paddingInPixel": false
+    }, {
+        "autoFilter": false,
+        "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DEFAULT,
+        "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
+    });
+    var Copytfusername066b2e000fa4241 = new kony.ui.TextBox2({
+        "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
+        "bottom": "5dp",
+        "centerX": "50%",
+        "id": "Copytfusername066b2e000fa4241",
+        "isVisible": true,
+        "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
+        "placeholder": "New Password",
+        "secureTextEntry": true,
+        "skin": "editable",
+        "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
+        "top": "50%",
+        "width": "90%",
+        "zIndex": 1
+    }, {
+        "containerHeightMode": constants.TEXTBOX_FONT_METRICS_DRIVEN_HEIGHT,
+        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "padding": [1, 1, 2, 2],
+        "paddingInPixel": false
+    }, {
+        "autoFilter": false,
+        "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DEFAULT,
+        "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
+    });
+    var Copytfusername0a9c9b374d55049 = new kony.ui.TextBox2({
+        "autoCapitalize": constants.TEXTBOX_AUTO_CAPITALIZE_NONE,
+        "bottom": "5dp",
+        "centerX": "50%",
+        "id": "Copytfusername0a9c9b374d55049",
+        "isVisible": true,
+        "keyBoardStyle": constants.TEXTBOX_KEY_BOARD_STYLE_DEFAULT,
+        "placeholder": "Re-enter New Password",
+        "secureTextEntry": true,
+        "skin": "editable",
+        "textInputMode": constants.TEXTBOX_INPUT_MODE_ANY,
+        "top": "77%",
+        "width": "90%",
+        "zIndex": 1
+    }, {
+        "containerHeightMode": constants.TEXTBOX_FONT_METRICS_DRIVEN_HEIGHT,
+        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "padding": [1, 1, 2, 2],
+        "paddingInPixel": false
+    }, {
+        "autoFilter": false,
+        "keyboardActionLabel": constants.TEXTBOX_KEYBOARD_LABEL_DEFAULT,
+        "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
+    });
+    FlexContainer035608f7aea9f47.add(Label0c431f692987d40, Copytfusername038e9b92b238347, Copytfusername066b2e000fa4241, Copytfusername0a9c9b374d55049);
     var flxContainerInfo = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
         "centerX": "50%",
@@ -624,9 +752,9 @@ function addWidgetsfrmEditProfile() {
         "left": "5%",
         "right": "5%",
         "skin": "CopyslFbox0fb98f6005e514b",
-        "top": "25dp",
+        "top": "3%",
         "width": "90%",
-        "zIndex": 1
+        "zIndex": 5
     }, {}, {});
     flxContainerInfo.setDefaultUnit(kony.flex.DP);
     var CopyLabel01052f794fc3c4e = new kony.ui.Label({
@@ -777,7 +905,7 @@ function addWidgetsfrmEditProfile() {
         "paddingInPixel": false
     }, {});
     flxContainerInfo.add(CopyLabel01052f794fc3c4e, Segment0002ee999218345, CopyLabel0bb2b08710dae47, CopySegment06e7fc81b9c7349);
-    flxScrollBodyContainer.add(CopyepLabelUsername0c305062ab10c41, Copytfusername0d2d3806653fc45, CopyepLabelFirstName0c838f5c8d70d42, Copytfusername071b0692c37694a, CopyepLabelLastName04c65b5b97e9b46, Copytfusername0934904a232d341, CopyLabel0cfef840dacc14b, Copytfusername08890d464730d43, CopyLabel087c83bf4890b48, Copytfusername04e07543c3ce248, CopyLabel01a0f985f34ea4d, Copytfusername06cf4b312660c4a, CopyLabel06a732202f8e640, Copytfusername07191f4211dfc4b, CopyLabel09c6bac55a8fb48, Copytfusername0041476c33dd046, CopyLabel013658c058c4e47, Copytfusername0259551c7cd9d44, CopyLabel0fbc8530da22c43, ListBox0712caeb0d21a4d, CopyLabel018bdbbf92ca042, CopyListBox051e93e6da2fd4e, CheckBoxGroup05d64f6c0200140, flxContainerInfo);
+    flxScrollBodyContainer.add(CopyepLabelUsername0c305062ab10c41, Label0de25adc46c3a46, CopyepLabelFirstName0c838f5c8d70d42, CopyLabel0f6770acf6fd542, CopyepLabelLastName04c65b5b97e9b46, CopyLabel0cc8592b6215d4a, CopyLabel0cfef840dacc14b, Copytfusername08890d464730d43, CopyLabel087c83bf4890b48, Copytfusername04e07543c3ce248, CopyLabel01a0f985f34ea4d, Copytfusername06cf4b312660c4a, CopyLabel06a732202f8e640, CopyLabel0724a8c93d74146, CopyLabel09c6bac55a8fb48, CopyLabel0fdc08999132f44, CopyLabel013658c058c4e47, Copytfusername0259551c7cd9d44, CopyLabel0fbc8530da22c43, ListBox0712caeb0d21a4d, CopyLabel018bdbbf92ca042, CopyListBox051e93e6da2fd4e, FlexContainer01615e4ebb07244, FlexContainer035608f7aea9f47, flxContainerInfo);
     flxContainer1.add(flxActionbarContainer, flxScrollBodyContainer);
     var flxMenuContainer = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
