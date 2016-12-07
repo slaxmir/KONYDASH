@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "40%"
+        "value": "30dp"
     },
     "_left_": {
         "type": "string",
-        "value": "5%"
+        "value": "310dp"
     },
     "_margin_": [
         0,
@@ -23,15 +23,15 @@
         0,
         0
     ],
-    "_skin_": "sd0b50d09a8d4170be69fdc9e2f135ae",
-    "_src_": "icons_03.png",
+    "_skin_": "s082eb711f8643d6bf3c2031f0c90278",
+    "_src_": "update.png",
     "_top_": {
         "type": "string",
-        "value": "26%"
+        "value": "16dp"
     },
     "_width_": {
         "type": "string",
-        "value": "8%"
+        "value": "28dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -42,13 +42,11 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "imgMenuOpen",
-    "ide_onTouchStart": "AS_NamedActions_59f90898340d4953be384a35208868b0",
+    "id": "Image0f4ef1b57b1094b",
     "imagescalemode": 1,
     "info": null,
-    "invokedProperty": "src",
     "isvisible": true,
-    "kuid": "c60478ef046844a2b4d2bfe5fcf168c2",
+    "kuid": "4026e07102bd4bb8ad4ddd5953bcd66e",
     "name": "kony.ui.Image2",
     "parent": "flxActionbarContainer",
     "pf": "frmEditProfile",

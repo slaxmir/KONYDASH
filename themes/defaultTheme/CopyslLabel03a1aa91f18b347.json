@@ -1,81 +1,81 @@
 {
   "android": {
-    "font_size": 107,
+    "font_size": 93,
     "isForked": false
   },
-  "background_color": "ffffffff",
+  "background_color": "00000000",
   "bg_type": "one",
-  "border_color": "dededeff",
+  "border_color": "424242ff",
   "border_style": "plain",
   "border_type": 0,
-  "border_width": 1,
+  "border_width": 0,
   "desktopweb": {
-    "font_size": 375,
+    "font_size": 325,
     "isForked": false
   },
   "fontSizeInPx": true,
-  "font_color": "000000ff",
+  "font_color": "424242ff",
   "font_name": "Helvetica",
-  "font_size": 107,
+  "font_size": 93,
   "font_style": "normal",
   "font_weight": "normal",
   "ipad": {
-    "font_size": 161,
+    "font_size": 139,
     "isForked": false
   },
   "iphone": {
-    "font_size": 161,
+    "font_size": 139,
     "isForked": false
   },
   "isDefaultSkin": false,
   "kiosk": {
-    "font_size": 281,
+    "font_size": 244,
     "isForked": false
   },
-  "kuid": "sced8a81599e47f0a6818b5970bc2658",
+  "kuid": "sc7c303d83eb403aa43284aa9428035c",
   "spaan": {
-    "font_size": 188,
+    "font_size": 163,
     "isForked": false
   },
   "spaandroidtablet": {
-    "font_size": 188,
+    "font_size": 163,
     "isForked": false
   },
   "spabb": {
-    "font_size": 188,
+    "font_size": 163,
     "isForked": false
   },
   "spaip": {
-    "font_size": 188,
+    "font_size": 163,
     "isForked": false
   },
   "spaipad": {
-    "font_size": 188,
+    "font_size": 163,
     "isForked": false
   },
   "spawindowstablet": {
-    "font_size": 188,
+    "font_size": 163,
     "isForked": false
   },
   "spawinphone8": {
-    "font_size": 188,
+    "font_size": 163,
     "isForked": false
   },
   "tabrcandroid": {
-    "font_size": 267,
+    "font_size": 231,
     "isForked": false
   },
-  "wType": "ListBox",
+  "wType": "Label",
   "watchos": {
-    "font_size": 161,
+    "font_size": 139,
     "isForked": false
   },
   "windows8": {
-    "font_size": 110,
+    "font_size": 95,
     "isForked": false
   },
   "winphone8": {
-    "font_size": 150,
+    "font_size": 130,
     "isForked": false
   }
 }
