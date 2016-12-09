@@ -2,17 +2,9 @@
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "2dp"
-    },
     "_height_": {
         "type": "string",
         "value": "30dp"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "2dp"
     },
     "_margin_": [
         1,
@@ -21,21 +13,13 @@
         1
     ],
     "_padding_": [
-        0,
+        1,
         0,
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "2dp"
-    },
     "_skin_": "s7ac7d6ccbce481bb2ba3d2c47fa4dd4",
     "_text_": "Label",
-    "_top_": {
-        "type": "string",
-        "value": "2dp"
-    },
     "_width_": {
         "type": "string",
         "value": "40%"
@@ -66,6 +50,7 @@
     "isvisible": true,
     "kuid": "4d2c18da987f4b4fa960930b2378529b",
     "name": "kony.ui.Label",
+    "paddinginpixel": false,
     "parent": "flxTemplateRowConfigurationAlertsContainer",
     "pf": "templateRowConfigurationAlerts",
     "tooltip": "",
