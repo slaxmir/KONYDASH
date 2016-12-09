@@ -1,5 +1,6 @@
 {
   "android": {
+    "font_name": "Helvetica",
     "font_size": 95,
     "isForked": false
   },
@@ -34,31 +35,31 @@
   },
   "kuid": "s645b4675f0645789f739345807c7f12",
   "spaan": {
-    "font_size": 111,
+    "font_size": 167,
     "isForked": false
   },
   "spaandroidtablet": {
-    "font_size": 111,
+    "font_size": 167,
     "isForked": false
   },
   "spabb": {
-    "font_size": 111,
+    "font_size": 167,
     "isForked": false
   },
   "spaip": {
-    "font_size": 111,
+    "font_size": 167,
     "isForked": false
   },
   "spaipad": {
-    "font_size": 111,
+    "font_size": 167,
     "isForked": false
   },
   "spawindowstablet": {
-    "font_size": 111,
+    "font_size": 167,
     "isForked": false
   },
   "spawinphone8": {
-    "font_size": 111,
+    "font_size": 167,
     "isForked": false
   },
   "tabrcandroid": {
