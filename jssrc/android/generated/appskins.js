@@ -2,6 +2,7 @@ function skinsInit() {
     addBtnSkin1 = "addBtnSkin1";
     adminValSkin = "adminValSkin";
     admitFormHDSkin = "admitFormHDSkin";
+    admitFormTabBorderColorSkin = "admitFormTabBorderColorSkin";
     alertTabActiveBorderSkin = "alertTabActiveBorderSkin";
     bedAdmissionHeader = "bedAdmissionHeader";
     bedAdmissionTitleSkin = "bedAdmissionTitleSkin";
@@ -45,7 +46,18 @@ function skinsInit() {
     Copyeditable0d4938a7f84e54f = "Copyeditable0d4938a7f84e54f";
     CopyfieldTextBox09e38b433298944 = "CopyfieldTextBox09e38b433298944";
     CopyfieldTextBox0d634e1227cae49 = "CopyfieldTextBox0d634e1227cae49";
+    Copyinputbox0d162dd1250e747 = "Copyinputbox0d162dd1250e747";
     Copylabelsupport07a146253c87b4f = "Copylabelsupport07a146253c87b4f";
+    CopypatientAdmitHSPSelectBxSkin00c300c93f82548 = "CopypatientAdmitHSPSelectBxSkin00c300c93f82548";
+    CopypatientAdmitHSPSelectBxSkin026d37abed09e43 = "CopypatientAdmitHSPSelectBxSkin026d37abed09e43";
+    CopypatientAdmitHSPSelectBxSkin02744cb3be4ac4a = "CopypatientAdmitHSPSelectBxSkin02744cb3be4ac4a";
+    CopypatientAdmitHSPSelectBxSkin065aa47808bd542 = "CopypatientAdmitHSPSelectBxSkin065aa47808bd542";
+    CopypatientAdmitHSPSelectBxSkin06bad6104d28843 = "CopypatientAdmitHSPSelectBxSkin06bad6104d28843";
+    CopypatientAdmitHSPSelectBxSkin0940d7499be6247 = "CopypatientAdmitHSPSelectBxSkin0940d7499be6247";
+    CopypatientAdmitHSPSelectBxSkin09ee7c5b8fda146 = "CopypatientAdmitHSPSelectBxSkin09ee7c5b8fda146";
+    CopypatientAdmitHSPSelectBxSkin0b76e9dd45d964e = "CopypatientAdmitHSPSelectBxSkin0b76e9dd45d964e";
+    CopypatientAdmitHSPSelectBxSkin0cddbf27bd2104e = "CopypatientAdmitHSPSelectBxSkin0cddbf27bd2104e";
+    CopypatientAdmitHSPSelectBxSkin0dabedf26c0064a = "CopypatientAdmitHSPSelectBxSkin0dabedf26c0064a";
     Copyseg00711d2eff97a44 = "Copyseg00711d2eff97a44";
     Copyseg026cd01d9ec1346 = "Copyseg026cd01d9ec1346";
     Copyseg02dde64fd099145 = "Copyseg02dde64fd099145";
@@ -115,6 +127,7 @@ function skinsInit() {
     CopyslDataGridHead0cc016a0b861544 = "CopyslDataGridHead0cc016a0b861544";
     CopyslDataGridRow045478e04096b4d = "CopyslDataGridRow045478e04096b4d";
     CopyslDataGridRow0b738f883b15840 = "CopyslDataGridRow0b738f883b15840";
+    CopyslFbox007396ecdc0154b = "CopyslFbox007396ecdc0154b";
     CopyslFbox0091e1f7d7d364a = "CopyslFbox0091e1f7d7d364a";
     CopyslFbox011b601cf7ce749 = "CopyslFbox011b601cf7ce749";
     CopyslFbox0131e551ab85c4b = "CopyslFbox0131e551ab85c4b";
@@ -145,6 +158,7 @@ function skinsInit() {
     CopyslFbox0dd4c3c7d7a674e = "CopyslFbox0dd4c3c7d7a674e";
     CopyslFbox0e0d77df790084a = "CopyslFbox0e0d77df790084a";
     CopyslFbox0e5617e1a52574a = "CopyslFbox0e5617e1a52574a";
+    CopyslFbox0eee9b5ac20d844 = "CopyslFbox0eee9b5ac20d844";
     CopyslFbox0fb98f6005e514b = "CopyslFbox0fb98f6005e514b";
     CopyslForm006a304f6f7ab43 = "CopyslForm006a304f6f7ab43";
     CopyslForm0277d921c62e440 = "CopyslForm0277d921c62e440";
@@ -260,6 +274,7 @@ function skinsInit() {
     CopytabCanvas0a32e8010188c4b = "CopytabCanvas0a32e8010188c4b";
     CopytabCanvasInactive052646609077543 = "CopytabCanvasInactive052646609077543";
     CopytabCanvasInactive0a17bff67241244 = "CopytabCanvasInactive0a17bff67241244";
+    CopytabColorSkin0a0ae4d64fd824f = "CopytabColorSkin0a0ae4d64fd824f";
     CopytabColorSkin0b2140c8bcc1849 = "CopytabColorSkin0b2140c8bcc1849";
     dashboardSegmentBlue = "dashboardSegmentBlue";
     dashboardSegmentGray = "dashboardSegmentGray";

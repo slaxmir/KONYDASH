@@ -748,54 +748,62 @@ function addWidgetsfrmAdmitForm() {
     }, {}, {});
     selectClinicAndFormTypeContainer.setDefaultUnit(kony.flex.DP);
     var selectClinicList = new kony.ui.ListBox({
+        "focusSkin": "CopypatientAdmitHSPSelectBxSkin02744cb3be4ac4a",
+        "height": "40dp",
         "id": "selectClinicList",
         "isVisible": true,
-        "left": "0dp",
+        "left": "2%",
         "masterData": [
             ["lb1", "select"],
             ["lb2", "HCL"],
             ["lb3", "GOIO"]
         ],
         "onSelection": AS_NamedActions_1b4bb0b105db410faed8ac7e165ed7ff,
+        "right": "2%",
         "selectedKey": "lb1",
         "selectedKeyValue": ["lb1", "select"],
         "skin": "patientAdmitHSPSelectBxSkin",
-        "top": "0dp",
-        "width": "100%",
+        "top": "10dp",
+        "width": "96%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
-        "padding": [0, 0, 0, 0],
+        "padding": [2, 0, 0, 0],
         "paddingInPixel": false
     }, {
         "applySkinsToPopup": true,
         "dropDownImage": "selecticon.png",
+        "placeholderSkin": "CopypatientAdmitHSPSelectBxSkin065aa47808bd542",
         "viewType": constants.LISTBOX_VIEW_TYPE_LISTVIEW
     });
     var selectFormTypeList = new kony.ui.ListBox({
+        "focusSkin": "CopypatientAdmitHSPSelectBxSkin026d37abed09e43",
+        "height": "40dp",
         "id": "selectFormTypeList",
         "isVisible": true,
-        "left": "0dp",
+        "left": "2%",
         "masterData": [
             ["lb1", "select "],
             ["lb2", "HCL"],
             ["lb3", "GOIO"]
         ],
         "onSelection": AS_NamedActions_96dba70c43c645a7a93754c6f2c04519,
+        "right": "2%",
         "selectedKey": "lb1",
         "selectedKeyValue": ["lb1", "select "],
         "skin": "patientAdmitHSPSelectBxSkin",
-        "top": "0dp",
-        "width": "100%",
+        "top": "10dp",
+        "width": "96%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
-        "padding": [0, 0, 0, 0],
+        "padding": [2, 0, 0, 0],
         "paddingInPixel": false
     }, {
         "applySkinsToPopup": true,
         "dropDownImage": "selecticon.png",
         "placeholder": "klkl",
+        "placeholderSkin": "CopypatientAdmitHSPSelectBxSkin0dabedf26c0064a",
         "viewType": constants.LISTBOX_VIEW_TYPE_LISTVIEW
     });
     var FlexContainerdownarrows = new kony.ui.FlexContainer({
@@ -847,6 +855,7 @@ function addWidgetsfrmAdmitForm() {
     var LabelTabNote = new kony.ui.Label({
         "centerX": "50%",
         "centerY": "40%",
+        "height": "40dp",
         "id": "LabelTabNote",
         "isVisible": true,
         "left": "0dp",
@@ -857,10 +866,10 @@ function addWidgetsfrmAdmitForm() {
             "strikeThrough": false
         },
         "top": "0dp",
-        "width": kony.flex.USE_PREFFERED_SIZE,
+        "width": "80%",
         "zIndex": 1
     }, {
-        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "contentAlignment": constants.CONTENT_ALIGN_CENTER,
         "padding": [2, 2, 2, 2],
         "paddingInPixel": false
     }, {
@@ -868,9 +877,9 @@ function addWidgetsfrmAdmitForm() {
     });
     selectClinicAndFormTypeContainer.add(selectClinicList, selectFormTypeList, FlexContainerdownarrows, LabelTabNote);
     var admitFormTabSection = new kony.ui.TabPane({
-        "activeFocusSkin": "CopytabColorSkin0b2140c8bcc1849",
+        "activeFocusSkin": "CopytabColorSkin0a0ae4d64fd824f",
         "activeSkin": "tabColorSkin",
-        "activeTabs": [0],
+        "activeTabs": [2],
         "centerX": "49.99%",
         "height": "90%",
         "id": "admitFormTabSection",
@@ -878,7 +887,7 @@ function addWidgetsfrmAdmitForm() {
         "isVisible": true,
         "layoutType": constants.CONTAINER_LAYOUT_BOX,
         "left": "0dp",
-        "top": "12.00%",
+        "top": "12.32%",
         "viewConfig": {
             "collapsibleViewConfig": {
                 "imagePosition": constants.TABPANE_COLLAPSIBLE_IMAGE_POSITION_RIGHT,
@@ -913,7 +922,7 @@ function addWidgetsfrmAdmitForm() {
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {
-        "tabHeaderHeight": 43
+        "tabHeaderHeight": 40
     });
     var TestpatientTab = new kony.ui.FlexContainer({
         "clipBounds": true,
@@ -932,16 +941,45 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     TestpatientTab.setDefaultUnit(kony.flex.PERCENTAGE);
-    var innerTabRow = new kony.ui.FlexContainer({
+    var admitTabActiveBorder1 = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
+        "clipBounds": true,
+        "id": "admitTabActiveBorder1",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "0dp",
+        "skin": "slFbox",
+        "top": "0dp",
+        "width": "100%",
+        "zIndex": 1
+    }, {}, {});
+    admitTabActiveBorder1.setDefaultUnit(kony.flex.DP);
+    var FlexContainer0da4767ec53a646 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "clipBounds": true,
+        "height": "3dp",
+        "id": "FlexContainer0da4767ec53a646",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "0dp",
+        "skin": "admitFormTabBorderColorSkin",
+        "top": "0dp",
+        "width": "33.33%"
+    }, {}, {});
+    FlexContainer0da4767ec53a646.setDefaultUnit(kony.flex.DP);
+    FlexContainer0da4767ec53a646.add();
+    admitTabActiveBorder1.add(FlexContainer0da4767ec53a646);
+    var innerTabRow = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
         "centerX": "50%",
         "clipBounds": true,
+        "height": "7%",
         "id": "innerTabRow",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,
         "left": "0dp",
         "skin": "innerTabRowSkin",
-        "top": "15dp",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {}, {});
@@ -958,7 +996,7 @@ function addWidgetsfrmAdmitForm() {
         "width": "25%"
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
-        "padding": [0, 2, 0, 3],
+        "padding": [0, 3, 0, 3],
         "paddingInPixel": false
     }, {
         "textCopyable": false
@@ -1053,7 +1091,7 @@ function addWidgetsfrmAdmitForm() {
         "bounces": true,
         "clipBounds": true,
         "enableScrolling": true,
-        "height": "80%",
+        "height": "76%",
         "horizontalScrollIndicator": true,
         "id": "patientMandatorySection",
         "isVisible": true,
@@ -1062,7 +1100,7 @@ function addWidgetsfrmAdmitForm() {
         "pagingEnabled": false,
         "right": "2%",
         "scrollDirection": kony.flex.SCROLL_VERTICAL,
-        "top": "9%",
+        "top": "12%",
         "verticalScrollIndicator": true,
         "width": "96%",
         "zIndex": 1
@@ -2735,13 +2773,27 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     flxContainerPatientStatusAdmitForm.add(CopyLabel0b75c0481e6ff48, SegmentPatientStatusCodeStatus);
+    patientMandatorySection.add(flexContainerPatientInfo, flxContainerPatientInfoAdmitForm, flexContainerAdmittingPreferences, flxContainerAdmittingPreferencesAdmitForm, flexContainerBedAssignAlert, flxContainerBedAssignAlertAdmitForm, flexContainerPatientDiagnosis, flxContainerPatientDiagnosisAdmitForm, flexContainerInfectiousDiseaseQuestionnaire, flxContainerInfectiousDiceaseQuestionareAdmitForm, flexContainerSepsisScreening, flxContainerSepsisScreeingAdmitForm, flexContainerVitalSigns, flxContainerVitalSignsAdmitForm, flexContainerPatientStatus, flxContainerPatientStatusAdmitForm);
+    var admitTabStickyFooter1 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "bottom": 5,
+        "clipBounds": true,
+        "height": "45dp",
+        "id": "admitTabStickyFooter1",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "0dp",
+        "skin": "CopyslFbox007396ecdc0154b",
+        "width": "100%",
+        "zIndex": 1
+    }, {}, {});
+    admitTabStickyFooter1.setDefaultUnit(kony.flex.DP);
     var patientSubmit = new kony.ui.Button({
-        "bottom": "5dp",
-        "height": "10%",
+        "height": "100%",
         "id": "patientSubmit",
         "isVisible": true,
         "left": "0dp",
-        "onClick": AS_Button_2d8730b20ada430e8123dab92eb2265d,
+        "onClick": AS_Button_261618402deb4a79b4fe54af75019ada,
         "skin": "sknAdmitFormSubmitDisable",
         "text": "Submit",
         "top": "0dp",
@@ -2753,8 +2805,8 @@ function addWidgetsfrmAdmitForm() {
         "padding": [0, 0, 0, 1],
         "paddingInPixel": false
     }, {});
-    patientMandatorySection.add(flexContainerPatientInfo, flxContainerPatientInfoAdmitForm, flexContainerAdmittingPreferences, flxContainerAdmittingPreferencesAdmitForm, flexContainerBedAssignAlert, flxContainerBedAssignAlertAdmitForm, flexContainerPatientDiagnosis, flxContainerPatientDiagnosisAdmitForm, flexContainerInfectiousDiseaseQuestionnaire, flxContainerInfectiousDiceaseQuestionareAdmitForm, flexContainerSepsisScreening, flxContainerSepsisScreeingAdmitForm, flexContainerVitalSigns, flxContainerVitalSignsAdmitForm, flexContainerPatientStatus, flxContainerPatientStatusAdmitForm, patientSubmit);
-    TestpatientTab.add(innerTabRow, patientMandatorySection);
+    admitTabStickyFooter1.add(patientSubmit);
+    TestpatientTab.add(admitTabActiveBorder1, innerTabRow, patientMandatorySection, admitTabStickyFooter1);
     admitFormTabSection.addTab("TestpatientTab", "Patient", null, TestpatientTab, AS_NamedActions_13f36a91edd14b358667a0fc935daedd);
     var TestDiagnosTab = new kony.ui.FlexContainer({
         "clipBounds": false,
@@ -2773,16 +2825,45 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     TestDiagnosTab.setDefaultUnit(kony.flex.DP);
-    var CopyinnerTabRow06443f593da7347 = new kony.ui.FlexContainer({
+    var admitTabActiveBorder2 = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
+        "clipBounds": true,
+        "id": "admitTabActiveBorder2",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "0dp",
+        "skin": "slFbox",
+        "top": "0dp",
+        "width": "100%",
+        "zIndex": 1
+    }, {}, {});
+    admitTabActiveBorder2.setDefaultUnit(kony.flex.DP);
+    var CopyFlexContainer056c5894ca66b49 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "clipBounds": true,
+        "height": "3dp",
+        "id": "CopyFlexContainer056c5894ca66b49",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "33.33%",
+        "skin": "admitFormTabBorderColorSkin",
+        "top": "0dp",
+        "width": "33.33%"
+    }, {}, {});
+    CopyFlexContainer056c5894ca66b49.setDefaultUnit(kony.flex.DP);
+    CopyFlexContainer056c5894ca66b49.add();
+    admitTabActiveBorder2.add(CopyFlexContainer056c5894ca66b49);
+    var CopyinnerTabRow06443f593da7347 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
         "centerX": "50%",
         "clipBounds": true,
+        "height": "7%",
         "id": "CopyinnerTabRow06443f593da7347",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,
         "left": "0dp",
         "skin": "innerTabRowSkin",
-        "top": "10dp",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {}, {});
@@ -2801,7 +2882,7 @@ function addWidgetsfrmAdmitForm() {
         "width": "25%"
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
-        "padding": [0, 2, 0, 3],
+        "padding": [0, 3, 0, 3],
         "paddingInPixel": false
     }, {
         "textCopyable": false
@@ -2897,7 +2978,7 @@ function addWidgetsfrmAdmitForm() {
         "bounces": true,
         "clipBounds": true,
         "enableScrolling": true,
-        "height": "80%",
+        "height": "76%",
         "horizontalScrollIndicator": true,
         "id": "flxContainerdiagnosticsAll",
         "isVisible": true,
@@ -2907,7 +2988,7 @@ function addWidgetsfrmAdmitForm() {
         "right": "2%",
         "scrollDirection": kony.flex.SCROLL_VERTICAL,
         "skin": "slFSbox",
-        "top": "15%",
+        "top": "12%",
         "verticalScrollIndicator": true,
         "width": "96%",
         "zIndex": 1
@@ -3505,16 +3586,34 @@ function addWidgetsfrmAdmitForm() {
         "viewType": constants.TEXTBOX_VIEW_TYPE_DEFAULT
     });
     FlexContainerPrimaryCareProviderAdmitForm.add(CopyetFirstName0c5368485cfe042, CopyetLastName0cb04dfd3dfdc41);
+    flxContainerdiagnosticsAll.add(flexContainerMedicalHistory, FlexContainerMedicalHistoryAdmitForm, flexContainerModeOfTransport, FlexContainerModeOfTransportAdmitForm, flexContainerPrimaryCareProvider, FlexContainerPrimaryCareProviderAdmitForm);
+    var admitTabStickyFooter2 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "bottom": "5dp",
+        "centerX": "50%",
+        "clipBounds": true,
+        "height": "45dp",
+        "id": "admitTabStickyFooter2",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "0dp",
+        "right": "0dp",
+        "skin": "CopyslFbox007396ecdc0154b",
+        "width": "100%",
+        "zIndex": 1
+    }, {}, {});
+    admitTabStickyFooter2.setDefaultUnit(kony.flex.DP);
     var DiagosticsSubmit = new kony.ui.Button({
-        "bottom": "50dp",
+        "centerX": "50%",
+        "height": "100%",
         "id": "DiagosticsSubmit",
         "isVisible": true,
         "left": "0dp",
-        "onClick": AS_Button_2d8730b20ada430e8123dab92eb2265d,
+        "onClick": AS_Button_782920efa8d1416eb4f4391d1b08db39,
         "skin": "sknAdmitFormSubmitDisable",
         "text": "Submit",
-        "top": "10dp",
-        "width": "96%",
+        "top": "0dp",
+        "width": "100%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
@@ -3522,7 +3621,7 @@ function addWidgetsfrmAdmitForm() {
         "padding": [0, 3, 0, 3],
         "paddingInPixel": false
     }, {});
-    flxContainerdiagnosticsAll.add(flexContainerMedicalHistory, FlexContainerMedicalHistoryAdmitForm, flexContainerModeOfTransport, FlexContainerModeOfTransportAdmitForm, flexContainerPrimaryCareProvider, FlexContainerPrimaryCareProviderAdmitForm, DiagosticsSubmit);
+    admitTabStickyFooter2.add(DiagosticsSubmit);
     var FlexContainerNoFeilds = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
         "clipBounds": true,
@@ -3558,7 +3657,7 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     FlexContainerNoFeilds.add(Label0a9f095f974dd4b);
-    TestDiagnosTab.add(CopyinnerTabRow06443f593da7347, flxContainerdiagnosticsAll, FlexContainerNoFeilds);
+    TestDiagnosTab.add(admitTabActiveBorder2, CopyinnerTabRow06443f593da7347, flxContainerdiagnosticsAll, admitTabStickyFooter2, FlexContainerNoFeilds);
     admitFormTabSection.addTab("TestDiagnosTab", "Diagnostics", null, TestDiagnosTab, AS_NamedActions_c650ed97c0f5429f9b7d64f3be30c2be);
     var TestRecommendTab = new kony.ui.FlexContainer({
         "clipBounds": true,
@@ -3577,16 +3676,45 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     TestRecommendTab.setDefaultUnit(kony.flex.DP);
-    var CopyinnerTabRow09d92c6a92f4d46 = new kony.ui.FlexContainer({
+    var admitTabActiveBorder3 = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
+        "clipBounds": true,
+        "id": "admitTabActiveBorder3",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "0dp",
+        "skin": "slFbox",
+        "top": "0dp",
+        "width": "100%",
+        "zIndex": 1
+    }, {}, {});
+    admitTabActiveBorder3.setDefaultUnit(kony.flex.DP);
+    var CopyFlexContainer0e3a7444f1e334d = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "clipBounds": true,
+        "height": "3dp",
+        "id": "CopyFlexContainer0e3a7444f1e334d",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "66.67%",
+        "skin": "admitFormTabBorderColorSkin",
+        "top": "0dp",
+        "width": "33.33%"
+    }, {}, {});
+    CopyFlexContainer0e3a7444f1e334d.setDefaultUnit(kony.flex.DP);
+    CopyFlexContainer0e3a7444f1e334d.add();
+    admitTabActiveBorder3.add(CopyFlexContainer0e3a7444f1e334d);
+    var CopyinnerTabRow09d92c6a92f4d46 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
         "centerX": "50%",
         "clipBounds": true,
+        "height": "7%",
         "id": "CopyinnerTabRow09d92c6a92f4d46",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,
         "left": "0dp",
         "skin": "innerTabRowSkin",
-        "top": "15dp",
+        "top": "2%",
         "width": "90%",
         "zIndex": 1
     }, {}, {});
@@ -3605,7 +3733,7 @@ function addWidgetsfrmAdmitForm() {
         "width": "25%"
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
-        "padding": [0, 1, 0, 4],
+        "padding": [0, 3, 0, 3],
         "paddingInPixel": false
     }, {
         "textCopyable": false
@@ -3701,7 +3829,7 @@ function addWidgetsfrmAdmitForm() {
         "bounces": true,
         "clipBounds": true,
         "enableScrolling": true,
-        "height": "80%",
+        "height": "76%",
         "horizontalScrollIndicator": true,
         "id": "recommendationAll",
         "isVisible": true,
@@ -3711,7 +3839,7 @@ function addWidgetsfrmAdmitForm() {
         "right": "2%",
         "scrollDirection": kony.flex.SCROLL_VERTICAL,
         "skin": "slFSbox",
-        "top": "13%",
+        "top": "12%",
         "verticalScrollIndicator": true,
         "width": "96%",
         "zIndex": 1
@@ -5097,16 +5225,33 @@ function addWidgetsfrmAdmitForm() {
         "paddingInPixel": false
     }, {});
     FlexContainerSpecialityConsultsAdmitForm.add(FlexContainer04d9339d29f0343, CopytfFirstName0007d1dc6ee084d, TextArea0c762ce33a7d646);
+    recommendationAll.add(flexContainerMedicationOrders, FlexContainerMedicationOrdersAdmitForm, FlexContaineTests, FlexContainerTestsAdmitForm, flexContainerImaging, FlexContainerImagingAdmitForm, flexContainerSpecialityConsults, FlexContainerSpecialityConsultsAdmitForm);
+    var admitTabStickyFooter3 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "bottom": "5dp",
+        "centerX": "50%",
+        "clipBounds": true,
+        "height": "45dp",
+        "id": "admitTabStickyFooter3",
+        "isVisible": true,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "0dp",
+        "right": "0dp",
+        "skin": "CopyslFbox007396ecdc0154b",
+        "width": "100%",
+        "zIndex": 1
+    }, {}, {});
+    admitTabStickyFooter3.setDefaultUnit(kony.flex.DP);
     var RecommendationSubmit = new kony.ui.Button({
-        "bottom": "60dp",
+        "height": "100%",
         "id": "RecommendationSubmit",
         "isVisible": true,
         "left": "0dp",
-        "onClick": AS_Button_2d8730b20ada430e8123dab92eb2265d,
+        "onClick": AS_Button_c3ba88ba59bc48f5b1e2b3ab9e80f0cb,
         "skin": "sknAdmitFormSubmitDisable",
         "text": "Submit",
-        "top": "10dp",
-        "width": "96%",
+        "top": "0dp",
+        "width": "100%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
@@ -5114,7 +5259,7 @@ function addWidgetsfrmAdmitForm() {
         "padding": [0, 3, 0, 3],
         "paddingInPixel": false
     }, {});
-    recommendationAll.add(flexContainerMedicationOrders, FlexContainerMedicationOrdersAdmitForm, FlexContaineTests, FlexContainerTestsAdmitForm, flexContainerImaging, FlexContainerImagingAdmitForm, flexContainerSpecialityConsults, FlexContainerSpecialityConsultsAdmitForm, RecommendationSubmit);
+    admitTabStickyFooter3.add(RecommendationSubmit);
     var FlexContainerRecommendationNoFeilds = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
         "clipBounds": true,
@@ -5150,7 +5295,23 @@ function addWidgetsfrmAdmitForm() {
         "textCopyable": false
     });
     FlexContainerRecommendationNoFeilds.add(CopyLabel09ee356d4cf4d4d);
-    TestRecommendTab.add(CopyinnerTabRow09d92c6a92f4d46, recommendationAll, FlexContainerRecommendationNoFeilds);
+    var recomTest1 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "bottom": "0dp",
+        "clipBounds": true,
+        "height": "40dp",
+        "id": "recomTest1",
+        "isVisible": false,
+        "layoutType": kony.flex.FREE_FORM,
+        "left": "0dp",
+        "right": "0dp",
+        "skin": "CopyslFbox0eee9b5ac20d844",
+        "width": "100%",
+        "zIndex": 1
+    }, {}, {});
+    recomTest1.setDefaultUnit(kony.flex.DP);
+    recomTest1.add();
+    TestRecommendTab.add(admitTabActiveBorder3, CopyinnerTabRow09d92c6a92f4d46, recommendationAll, admitTabStickyFooter3, FlexContainerRecommendationNoFeilds, recomTest1);
     admitFormTabSection.addTab("TestRecommendTab", "Recommendations", null, TestRecommendTab, AS_Button_bd9074a1ed624bea82d3877a955634eb);
     flexAdmitFormContainer.add(admitFormHeader, selectClinicAndFormTypeContainer, admitFormTabSection);
     flxBodyContainer.add(flexAdmitFormContainer);

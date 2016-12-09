@@ -27,8 +27,10 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
+        "admitTabActiveBorder2",
         "CopyinnerTabRow06443f593da7347",
         "flxContainerdiagnosticsAll",
+        "admitTabStickyFooter2",
         "FlexContainerNoFeilds"
     ],
     "clipbounds": false,

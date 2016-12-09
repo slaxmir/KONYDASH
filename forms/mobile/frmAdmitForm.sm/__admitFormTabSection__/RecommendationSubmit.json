@@ -2,13 +2,9 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "60dp"
-    },
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -30,11 +26,11 @@
     "_text_": "Submit",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -44,13 +40,13 @@
     },
     "displaytext": true,
     "id": "RecommendationSubmit",
-    "ide_onClick": "AS_Button_2d8730b20ada430e8123dab92eb2265d",
+    "ide_onClick": "AS_Button_c3ba88ba59bc48f5b1e2b3ab9e80f0cb",
     "info": null,
     "isvisible": true,
     "kuid": "33549085caac485c8f46da0fbb09b2fb",
     "name": "kony.ui.Button",
     "paddinginpixel": false,
-    "parent": "recommendationAll",
+    "parent": "admitTabStickyFooter3",
     "pf": "frmAdmitForm",
     "tabpaneId": "admitFormTabSection",
     "wType": "Button",
