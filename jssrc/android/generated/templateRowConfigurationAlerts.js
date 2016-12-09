@@ -9,24 +9,20 @@ function initializetemplateRowConfigurationAlerts() {
     }, {}, {});
     flxTemplateRowConfigurationAlertsContainer.setDefaultUnit(kony.flex.DP);
     var labelManageAlertsType = new kony.ui.Label({
-        "bottom": "2dp",
         "height": "30dp",
         "id": "labelManageAlertsType",
         "isVisible": true,
-        "left": "2dp",
-        "right": "2dp",
         "skin": "skinTemplateCongigurationAlerts",
         "text": "Label",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "2dp",
         "width": "40%",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [0, 0, 0, 0],
+        "padding": [1, 0, 0, 0],
         "paddingInPixel": false
     }, {
         "textCopyable": false
@@ -40,21 +36,20 @@ function initializetemplateRowConfigurationAlerts() {
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
         "skin": "slFbox",
-        "top": "2dp",
         "width": "20%",
         "zIndex": 1
     }, {}, {});
     FlexContainer0cdb60b5132e040.setDefaultUnit(kony.flex.DP);
     var btnManageAlertsEmail = new kony.ui.Button({
-        "bottom": "2dp",
-        "height": "20dp",
+        "centerX": "50%",
+        "centerY": "50%",
+        "height": "15dp",
         "id": "btnManageAlertsEmail",
         "isVisible": true,
-        "left": "2dp",
-        "right": "2dp",
+        "right": 0,
         "skin": "sknBtnManageAlerts",
-        "top": "2dp",
-        "width": "25dp",
+        "top": "0dp",
+        "width": "20dp",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
@@ -72,21 +67,20 @@ function initializetemplateRowConfigurationAlerts() {
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
         "skin": "slFbox",
-        "top": "2dp",
         "width": "20%",
         "zIndex": 1
     }, {}, {});
     CopyFlexContainer046138e35029a4a.setDefaultUnit(kony.flex.DP);
     var btnManageAlertText = new kony.ui.Button({
-        "bottom": "2dp",
-        "height": "20dp",
+        "centerX": "50%",
+        "centerY": "50%",
+        "height": "15dp",
         "id": "btnManageAlertText",
         "isVisible": true,
-        "left": "2dp",
-        "right": "2dp",
+        "right": 0,
         "skin": "sknBtnManageAlertsText",
-        "top": "2dp",
-        "width": "25dp",
+        "top": "0dp",
+        "width": "20dp",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
@@ -104,21 +98,22 @@ function initializetemplateRowConfigurationAlerts() {
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
         "skin": "slFbox",
-        "top": "2dp",
+        "top": "0dp",
         "width": "20%",
         "zIndex": 1
     }, {}, {});
     CopyFlexContainer0f0a492a0b4c446.setDefaultUnit(kony.flex.DP);
     var btnManageAlertNotification = new kony.ui.Button({
-        "bottom": "2dp",
-        "height": "20dp",
+        "bottom": 0,
+        "centerX": "50%",
+        "centerY": "50%",
+        "height": "18dp",
         "id": "btnManageAlertNotification",
         "isVisible": true,
-        "left": "2dp",
-        "right": "2dp",
+        "right": 0,
         "skin": "sknBtnManageAlertsNotification",
-        "top": "2dp",
-        "width": "25dp",
+        "top": "0dp",
+        "width": "20dp",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,

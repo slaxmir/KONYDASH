@@ -18,6 +18,7 @@ function skinsInit() {
     bedSectionsSkin = "bedSectionsSkin";
     BedUnAvailableButtonSkin = "BedUnAvailableButtonSkin";
     bg = "bg";
+    boldtext = "boldtext";
     Borderskin = "Borderskin";
     btnActiveSkin = "btnActiveSkin";
     btnAllSkin = "btnAllSkin";
@@ -36,6 +37,8 @@ function skinsInit() {
     CopyBedAssignTextAreaSkin0778a5eb75e4a4c = "CopyBedAssignTextAreaSkin0778a5eb75e4a4c";
     CopyBedAvailableTextAreaSkin036c0c9c785ba4a = "CopyBedAvailableTextAreaSkin036c0c9c785ba4a";
     CopyBedAvailableTextAreaSkin07bd9103bdc714b = "CopyBedAvailableTextAreaSkin07bd9103bdc714b";
+    Copyboldtext00ed8027e23fa47 = "Copyboldtext00ed8027e23fa47";
+    Copyboldtext03c882edaa44c46 = "Copyboldtext03c882edaa44c46";
     CopybtnWhite0800050b5f17e49 = "CopybtnWhite0800050b5f17e49";
     Copyeditable017d8ee2e77f141 = "Copyeditable017d8ee2e77f141";
     Copyeditable0444253943efb4a = "Copyeditable0444253943efb4a";

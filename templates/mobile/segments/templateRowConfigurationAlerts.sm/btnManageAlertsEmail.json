@@ -2,17 +2,9 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "2dp"
-    },
     "_height_": {
         "type": "string",
-        "value": "20dp"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "2dp"
+        "value": "15dp"
     },
     "_margin_": [
         6,
@@ -27,20 +19,28 @@
         0
     ],
     "_right_": {
-        "type": "string",
-        "value": "2dp"
+        "type": "number",
+        "value": "0"
     },
     "_skin_": "s30ac14a84994769a0b6a07b0d22b3e5",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "2dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "25dp"
+        "value": "20dp"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerId": true,
     "containerweight": 100,
     "contentalignment": 5,
@@ -53,6 +53,7 @@
     "isvisible": true,
     "kuid": "11bafed308794a11a7c2af6ae6a596f4",
     "name": "kony.ui.Button",
+    "paddinginpixel": false,
     "parent": "FlexContainer0cdb60b5132e040",
     "pf": "templateRowConfigurationAlerts",
     "wType": "Button",

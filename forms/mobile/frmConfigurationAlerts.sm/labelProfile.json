@@ -1,21 +1,5 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizLabel",
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
-        "type": "string",
-        "value": "100%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "25%"
-    },
-    "_margin_": [
-        1,
-        1,
-        1,
-        1
-    ],
     "_padding_": [
         0,
         0,
@@ -23,43 +7,20 @@
         0
     ],
     "_skin_": "s6f58fa3350b43f599c3844f4d87d7a6",
-    "_text_": "Profile",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "75%"
-    },
-    "_wrapping_": 2,
-    "android": {
-        "textStyle": {
-            "letterSpacing": 0,
-            "strikeThrough": false
-        }
-    },
+    "_srcKuid_": "m48b8bca6e6046f08adb21c603caec4f",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
-    "containerweight": 100,
-    "contentalignment": 4,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
     "id": "labelProfile",
-    "info": null,
-    "ipad": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
-    "iphone": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
+    "instanceOf": "m48b8bca6e6046f08adb21c603caec4f",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "bc14266a0ccb4cabaae9d190fae49ad6",
+    "kuid": "m04f54efc3ca4d309482f4ef78ee6048",
+    "masterInstance": true,
     "name": "kony.ui.Label",
     "parent": "flxProfileContainer",
     "pf": "frmConfigurationAlerts",
-    "tooltip": "",
-    "wType": "Label",
-    "zindex": 1
+    "wType": "Label"
 }

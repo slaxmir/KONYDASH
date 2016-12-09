@@ -1,21 +1,5 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizLabel",
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
-        "type": "string",
-        "value": "100%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "25%"
-    },
-    "_margin_": [
-        1,
-        1,
-        1,
-        1
-    ],
     "_padding_": [
         0,
         0,
@@ -23,43 +7,20 @@
         0
     ],
     "_skin_": "s6f58fa3350b43f599c3844f4d87d7a6",
-    "_text_": "Manage Alerts",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "75%"
-    },
-    "_wrapping_": 2,
-    "android": {
-        "textStyle": {
-            "letterSpacing": 0,
-            "strikeThrough": false
-        }
-    },
+    "_srcKuid_": "m412530186724583a163cc7dd89e793f",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
-    "containerweight": 100,
-    "contentalignment": 4,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
     "id": "labelConfigureAdmissionAlerts",
-    "info": null,
-    "ipad": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
-    "iphone": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
+    "instanceOf": "m412530186724583a163cc7dd89e793f",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "38b442e28d9e42fe8fc0b85f4e054180",
+    "kuid": "m838177c1eef48b4be284dfa293ea291",
+    "masterInstance": true,
     "name": "kony.ui.Label",
     "parent": "flxConfigarationAlertsContainer",
     "pf": "frmEditProfile",
-    "tooltip": "",
-    "wType": "Label",
-    "zindex": 1
+    "wType": "Label"
 }

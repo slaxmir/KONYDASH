@@ -1,21 +1,5 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizLabel",
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
-        "type": "ref",
-        "value": "preferred"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "25%"
-    },
-    "_margin_": [
-        1,
-        1,
-        1,
-        1
-    ],
     "_padding_": [
         0,
         0,
@@ -23,43 +7,20 @@
         0
     ],
     "_skin_": "s6f58fa3350b43f599c3844f4d87d7a6",
-    "_text_": "DashBoard",
-    "_top_": {
-        "type": "string",
-        "value": "12dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "75%"
-    },
-    "_wrapping_": 2,
-    "android": {
-        "textStyle": {
-            "letterSpacing": 0,
-            "strikeThrough": false
-        }
-    },
+    "_srcKuid_": "m0252c4a625c484483a21551dff7d385",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
-    "containerweight": 100,
-    "contentalignment": 4,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
     "id": "labelDashBoard",
-    "info": null,
-    "ipad": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
-    "iphone": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
+    "instanceOf": "m0252c4a625c484483a21551dff7d385",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "73480c1f4eb44259a499b02a873972fa",
+    "kuid": "maa4e3f36ed14b0f8a9af9230208ef0c",
+    "masterInstance": true,
     "name": "kony.ui.Label",
     "parent": "flxDashBoardContainer",
     "pf": "frmDashBoard",
-    "tooltip": "",
-    "wType": "Label",
-    "zindex": 1
+    "wType": "Label"
 }

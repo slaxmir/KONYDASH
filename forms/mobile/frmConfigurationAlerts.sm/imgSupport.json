@@ -1,58 +1,26 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizImage2",
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_base64_": null,
-    "_height_": {
-        "type": "string",
-        "value": "75%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_margin_": [
-        0,
-        0,
-        0,
-        0
-    ],
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_skin_": "sd0b50d09a8d4170be69fdc9e2f135ae",
-    "_src_": "menu_15.png",
-    "_top_": {
-        "type": "string",
-        "value": "5dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "25%"
-    },
+    "_skin_": "s082eb711f8643d6bf3c2031f0c90278",
+    "_srcKuid_": "mc3ecc2a378f4002b4239de068481487",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
-    "containerweight": 100,
-    "context": {
-        "channel": "mobile",
-        "formID": "frmConfigurationAlerts",
-        "platform": "android",
-        "templateType": "forms",
-        "topLevelBox": null
-    },
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
     "id": "imgSupport",
-    "imagescalemode": 1,
-    "info": null,
-    "invokedProperty": "src",
+    "instanceOf": "mc3ecc2a378f4002b4239de068481487",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "224fc9480e7745d8a34cfd7d10ece081",
+    "kuid": "m926d741bae048e782f204f7fd5197ab",
+    "masterInstance": true,
     "name": "kony.ui.Image2",
     "parent": "flxSupportContainer",
     "pf": "frmConfigurationAlerts",
-    "srcType": 1,
-    "wType": "Image",
-    "widgetalignment": 5,
-    "zindex": 1
+    "wType": "Image"
 }
