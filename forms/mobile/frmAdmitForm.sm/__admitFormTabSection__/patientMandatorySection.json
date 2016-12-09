@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "80%"
+        "value": "76%"
     },
     "_left_": {
         "type": "string",
@@ -30,7 +30,7 @@
     "_skin_": "s60066476c5a4d8eb52c0dcae1330e9d",
     "_top_": {
         "type": "string",
-        "value": "9%"
+        "value": "12%"
     },
     "_width_": {
         "type": "string",
@@ -57,8 +57,7 @@
         "flexContainerVitalSigns",
         "flxContainerVitalSignsAdmitForm",
         "flexContainerPatientStatus",
-        "flxContainerPatientStatusAdmitForm",
-        "patientSubmit"
+        "flxContainerPatientStatusAdmitForm"
     ],
     "clipbounds": true,
     "containerweight": 100,

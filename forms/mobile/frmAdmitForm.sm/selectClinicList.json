@@ -3,12 +3,12 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "2%"
     },
     "_margin_": [
         0,
@@ -17,20 +17,29 @@
         0
     ],
     "_padding_": [
-        0,
+        2,
         0,
         0,
         0
     ],
     "_placeholder_": "",
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
     "_skin_": "s09a11d0700e4bb295a9dcc75f243145",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "10dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "96%"
+    },
+    "android": {
+        "psp": {
+            "placeholderSkin": "s147c2cf0c6f4d10af27ec8c74ef1836"
+        }
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -44,6 +53,7 @@
         "topLevelBox": null
     },
     "dropdownimage": "selecticon.png",
+    "focusskin": "s3c9689e8e2243c887b59034d0253b3a",
     "groupcells": false,
     "id": "selectClinicList",
     "ide_onSelection": "AS_NamedActions_1b4bb0b105db410faed8ac7e165ed7ff",

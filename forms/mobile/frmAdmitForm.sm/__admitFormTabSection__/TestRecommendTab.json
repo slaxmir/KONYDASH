@@ -27,9 +27,12 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
+        "admitTabActiveBorder3",
         "CopyinnerTabRow09d92c6a92f4d46",
         "recommendationAll",
-        "FlexContainerRecommendationNoFeilds"
+        "admitTabStickyFooter3",
+        "FlexContainerRecommendationNoFeilds",
+        "recomTest1"
     ],
     "clipbounds": true,
     "containerweight": 100,

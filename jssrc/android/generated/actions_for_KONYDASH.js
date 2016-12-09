@@ -611,14 +611,125 @@ function AS_Button_1690e2e3b85347399e26c117c7f58d61(eventobject) {
     frmDashBoard.show();
 }
 
+function AS_Button_261618402deb4a79b4fe54af75019ada(eventobject) {
+    function SHOW_ALERT_ide_onClick_d415aee909bd44c0bde943cbe76d49ab_True() {}
+
+    function SHOW_ALERT_ide_onClick_e7249dc5eb6b4ab8b93d06bec2c9d385_True() {}
+    if ((frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerPatientInfoAdmitForm.TFFirstName.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerPatientInfoAdmitForm.TFLastName.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerAdmittingPreferencesAdmitForm.ListBoxAdmittingHospital.selectedKey == listboxdefaultkey) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerAdmittingPreferencesAdmitForm.ListBoxAdmittingGroup.selectedKey == listboxdefaultkey) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerAdmittingPreferencesAdmitForm.ListBoxPatienETA.selectedKey == listboxdefaultkey) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerPatientDiagnosisAdmitForm.TBChiefComplaint.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormTemparature.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormBP.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormDiastolic.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormPulse.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormO2Level.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormWeight.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormHeight.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormBodyMass.text == tbTempAdmitPage)) {
+        setDisableSubmitButton.call(this);
+
+        function SHOW_ALERT_ide_onClick_e7249dc5eb6b4ab8b93d06bec2c9d385_Callback() {
+            SHOW_ALERT_ide_onClick_e7249dc5eb6b4ab8b93d06bec2c9d385_True()
+        }
+        kony.ui.Alert({
+            "alertType": constants.ALERT_TYPE_ERROR,
+            "alertTitle": "Error",
+            "yesLabel": "OK",
+            "message": "Please fill all the mandatory feilds",
+            "alertHandler": SHOW_ALERT_ide_onClick_e7249dc5eb6b4ab8b93d06bec2c9d385_Callback
+        }, {
+            "iconPosition": constants.ALERT_ICON_POSITION_LEFT
+        })
+    } else {
+        resetAdmitForm.call(this);
+
+        function SHOW_ALERT_ide_onClick_d415aee909bd44c0bde943cbe76d49ab_Callback() {
+            SHOW_ALERT_ide_onClick_d415aee909bd44c0bde943cbe76d49ab_True()
+        }
+        kony.ui.Alert({
+            "alertType": constants.ALERT_TYPE_INFO,
+            "alertTitle": "Success",
+            "yesLabel": "OK",
+            "message": "Submitted Successfully",
+            "alertHandler": SHOW_ALERT_ide_onClick_d415aee909bd44c0bde943cbe76d49ab_Callback
+        }, {
+            "iconPosition": constants.ALERT_ICON_POSITION_LEFT
+        })
+    }
+}
+
 function AS_Button_6309f4c9f9464a7aacbbcff75474b536(eventobject) {}
 
 function AS_Button_63358be63ae44655825b9225467739cf(eventobject) {
     return showSupportGeneral.call(this);
 }
 
+function AS_Button_782920efa8d1416eb4f4391d1b08db39(eventobject) {
+    function SHOW_ALERT_ide_onClick_f1d8c89d90194346b39bb3bf1908c205_True() {}
+
+    function SHOW_ALERT_ide_onClick_23c420ec7ae249afa7e5a94e229482b1_True() {}
+    if ((frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerPatientInfoAdmitForm.TFFirstName.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerPatientInfoAdmitForm.TFLastName.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerAdmittingPreferencesAdmitForm.ListBoxAdmittingHospital.selectedKey == listboxdefaultkey) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerAdmittingPreferencesAdmitForm.ListBoxAdmittingGroup.selectedKey == listboxdefaultkey) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerAdmittingPreferencesAdmitForm.ListBoxPatienETA.selectedKey == listboxdefaultkey) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerPatientDiagnosisAdmitForm.TBChiefComplaint.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormTemparature.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormBP.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormDiastolic.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormPulse.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormO2Level.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormWeight.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormHeight.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormBodyMass.text == tbTempAdmitPage)) {
+        setDisableSubmitButton.call(this);
+
+        function SHOW_ALERT_ide_onClick_23c420ec7ae249afa7e5a94e229482b1_Callback() {
+            SHOW_ALERT_ide_onClick_23c420ec7ae249afa7e5a94e229482b1_True()
+        }
+        kony.ui.Alert({
+            "alertType": constants.ALERT_TYPE_ERROR,
+            "alertTitle": "Error",
+            "yesLabel": "OK",
+            "message": "Please fill all the mandatory feilds",
+            "alertHandler": SHOW_ALERT_ide_onClick_23c420ec7ae249afa7e5a94e229482b1_Callback
+        }, {
+            "iconPosition": constants.ALERT_ICON_POSITION_LEFT
+        })
+    } else {
+        resetAdmitForm.call(this);
+
+        function SHOW_ALERT_ide_onClick_f1d8c89d90194346b39bb3bf1908c205_Callback() {
+            SHOW_ALERT_ide_onClick_f1d8c89d90194346b39bb3bf1908c205_True()
+        }
+        kony.ui.Alert({
+            "alertType": constants.ALERT_TYPE_INFO,
+            "alertTitle": "Success",
+            "yesLabel": "OK",
+            "message": "Submitted Successfully",
+            "alertHandler": SHOW_ALERT_ide_onClick_f1d8c89d90194346b39bb3bf1908c205_Callback
+        }, {
+            "iconPosition": constants.ALERT_ICON_POSITION_LEFT
+        })
+    }
+}
+
 function AS_Button_a5bb6f7d80b54441b2a21d52540f0f15(eventobject) {
     return showSupportReportAnIssue.call(this);
+}
+
+function AS_Button_c3ba88ba59bc48f5b1e2b3ab9e80f0cb(eventobject) {
+    function SHOW_ALERT_ide_onClick_ef6ebaa760244b32b978731c2dc3f63f_True() {}
+
+    function SHOW_ALERT_ide_onClick_e13e02983e7e4d5bbac429cec847c653_True() {}
+    if ((frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerPatientInfoAdmitForm.TFFirstName.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerPatientInfoAdmitForm.TFLastName.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerAdmittingPreferencesAdmitForm.ListBoxAdmittingHospital.selectedKey == listboxdefaultkey) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerAdmittingPreferencesAdmitForm.ListBoxAdmittingGroup.selectedKey == listboxdefaultkey) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerAdmittingPreferencesAdmitForm.ListBoxPatienETA.selectedKey == listboxdefaultkey) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerPatientDiagnosisAdmitForm.TBChiefComplaint.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormTemparature.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormBP.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormDiastolic.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormPulse.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormO2Level.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormWeight.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormHeight.text == tbTempAdmitPage) || (frmAdmitForm.flxContainer1.flxBodyContainer.flexAdmitFormContainer.admitFormTabSection.TestpatientTab.patientMandatorySection.flxContainerVitalSignsAdmitForm.TBAdmitFormBodyMass.text == tbTempAdmitPage)) {
+        setDisableSubmitButton.call(this);
+
+        function SHOW_ALERT_ide_onClick_e13e02983e7e4d5bbac429cec847c653_Callback() {
+            SHOW_ALERT_ide_onClick_e13e02983e7e4d5bbac429cec847c653_True()
+        }
+        kony.ui.Alert({
+            "alertType": constants.ALERT_TYPE_ERROR,
+            "alertTitle": "Error",
+            "yesLabel": "OK",
+            "message": "Please fill all the mandatory feilds",
+            "alertHandler": SHOW_ALERT_ide_onClick_e13e02983e7e4d5bbac429cec847c653_Callback
+        }, {
+            "iconPosition": constants.ALERT_ICON_POSITION_LEFT
+        })
+    } else {
+        resetAdmitForm.call(this);
+
+        function SHOW_ALERT_ide_onClick_ef6ebaa760244b32b978731c2dc3f63f_Callback() {
+            SHOW_ALERT_ide_onClick_ef6ebaa760244b32b978731c2dc3f63f_True()
+        }
+        kony.ui.Alert({
+            "alertType": constants.ALERT_TYPE_INFO,
+            "alertTitle": "Success",
+            "yesLabel": "OK",
+            "message": "Submitted Successfully",
+            "alertHandler": SHOW_ALERT_ide_onClick_ef6ebaa760244b32b978731c2dc3f63f_Callback
+        }, {
+            "iconPosition": constants.ALERT_ICON_POSITION_LEFT
+        })
+    }
 }
 
 function AS_Button_Validation_MandatoryFeilds(eventobject) {

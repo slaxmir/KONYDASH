@@ -2,13 +2,9 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "5dp"
-    },
     "_height_": {
         "type": "string",
-        "value": "10%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -44,13 +40,13 @@
     },
     "displaytext": true,
     "id": "patientSubmit",
-    "ide_onClick": "AS_Button_2d8730b20ada430e8123dab92eb2265d",
+    "ide_onClick": "AS_Button_261618402deb4a79b4fe54af75019ada",
     "info": null,
     "isvisible": true,
     "kuid": "6a083ec3579d47f4996047245deb5850",
     "name": "kony.ui.Button",
     "paddinginpixel": false,
-    "parent": "patientMandatorySection",
+    "parent": "admitTabStickyFooter1",
     "pf": "frmAdmitForm",
     "tabpaneId": "admitFormTabSection",
     "wType": "Button",
