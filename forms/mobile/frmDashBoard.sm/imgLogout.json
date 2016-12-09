@@ -1,22 +1,5 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizImage2",
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_base64_": null,
-    "_height_": {
-        "type": "string",
-        "value": "25dp"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "22dp"
-    },
-    "_margin_": [
-        0,
-        0,
-        0,
-        0
-    ],
     "_padding_": [
         0,
         0,
@@ -24,35 +7,20 @@
         0
     ],
     "_skin_": "sd0b50d09a8d4170be69fdc9e2f135ae",
-    "_src_": "menu_31.png",
-    "_top_": {
-        "type": "string",
-        "value": "5dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "30dp"
-    },
+    "_srcKuid_": "m8b01f7428064a36be45d322d543aed4",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
-    "containerweight": 100,
-    "context": {
-        "channel": "mobile",
-        "formID": "frmDashBoard",
-        "platform": "android",
-        "templateType": "forms",
-        "topLevelBox": null
-    },
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
     "id": "imgLogout",
-    "imagescalemode": 1,
-    "info": null,
-    "invokedProperty": "src",
+    "instanceOf": "m8b01f7428064a36be45d322d543aed4",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "d849e9846e644c43afe4a5bad8af20b1",
+    "kuid": "me93857b7a5c42828d7bc15ae898e8c9",
+    "masterInstance": true,
     "name": "kony.ui.Image2",
     "parent": "flxLogoutContainer",
     "pf": "frmDashBoard",
-    "srcType": 1,
-    "wType": "Image",
-    "widgetalignment": 5,
-    "zindex": 1
+    "wType": "Image"
 }

@@ -1,21 +1,5 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizLabel",
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
-        "type": "ref",
-        "value": "preferred"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "22dp"
-    },
-    "_margin_": [
-        1,
-        1,
-        1,
-        1
-    ],
     "_padding_": [
         2,
         2,
@@ -23,43 +7,20 @@
         2
     ],
     "_skin_": "sea496bfacc74c1c8c4d8287ed73ec05",
-    "_text_": "© DASH 2016.",
-    "_top_": {
-        "type": "string",
-        "value": "9dp"
-    },
-    "_width_": {
-        "type": "ref",
-        "value": "preferred"
-    },
-    "_wrapping_": 2,
-    "android": {
-        "textStyle": {
-            "letterSpacing": 0,
-            "strikeThrough": false
-        }
-    },
+    "_srcKuid_": "maf8d06e6d474f77807d8429a58e4858",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
-    "containerweight": 100,
-    "contentalignment": 4,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
     "id": "Label024694653a6a04a",
-    "info": null,
-    "ipad": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
-    "iphone": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
+    "instanceOf": "maf8d06e6d474f77807d8429a58e4858",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "24ecddc5fd5b4204be0a35c35eb16b3f",
+    "kuid": "m3fdbe8d54fa45cb9d7399caa3adfbf2",
+    "masterInstance": true,
     "name": "kony.ui.Label",
-    "paddinginpixel": false,
     "parent": "FlexContainer0b649aae5ffd040",
     "pf": "frmDashBoard",
-    "tooltip": "",
     "wType": "Label"
 }

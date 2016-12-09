@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_skin_": "scb8b2d0f0894c5aa87c4c9341456053",
+    "_text_": "Business Associate Agreement ",
+    "_top_": {
+        "type": "string",
+        "value": "9dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m8233ab456fb42b79b49843e5262149f",
+        "m87233e41b79433181a95c31854635e7",
+        "med9ecf6aaba43e0b7bf173679a9dc7e"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyLabel08d5039c9b1934a",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "m43c1ca0f8cf4afdb19338e7e4b003b8",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "FlexContainer0b649aae5ffd040",
+    "pf": "Master02a90633ee58a41",
+    "tooltip": "",
+    "wType": "Label"
+}

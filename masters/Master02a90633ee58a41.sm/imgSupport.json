@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "20dp"
+        "value": "25dp"
     },
     "_left_": {
         "type": "string",
-        "value": "90%"
+        "value": "22dp"
     },
     "_margin_": [
         0,
@@ -23,38 +23,39 @@
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "10%"
-    },
     "_skin_": "sd0b50d09a8d4170be69fdc9e2f135ae",
-    "_src_": "close.png",
+    "_src_": "menu_15.png",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "5dp"
     },
     "_width_": {
         "type": "string",
-        "value": "20dp"
+        "value": "30dp"
     },
     "canUpdateUI": true,
+    "childInstances": [
+        "mb95e0801eb94487991fad1c5394217a",
+        "m926d741bae048e782f204f7fd5197ab",
+        "m2f6e5c9770f4ea3a3a557a7927f8ccb"
+    ],
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "frmConfigurationAlerts",
+        "formID": "Master02a90633ee58a41",
         "platform": "android",
-        "templateType": "forms",
+        "templateType": "masters",
         "topLevelBox": null
     },
-    "id": "imgMenuClose",
+    "id": "imgSupport",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",
     "isvisible": true,
-    "kuid": "b038560bd75040b1a00ddb5f067e6f31",
+    "kuid": "mc3ecc2a378f4002b4239de068481487",
     "name": "kony.ui.Image2",
-    "parent": "flxMenuProfileDetailsContainer",
-    "pf": "frmConfigurationAlerts",
+    "parent": "flxSupportContainer",
+    "pf": "Master02a90633ee58a41",
     "srcType": 1,
     "wType": "Image",
     "widgetalignment": 5,

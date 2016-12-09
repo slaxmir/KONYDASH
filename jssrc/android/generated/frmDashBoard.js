@@ -399,7 +399,6 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_59f90898340d4953be384a35208868b0,
         "top": "0dp",
         "width": "100%",
         "zIndex": 1
@@ -496,7 +495,6 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_92351225a2bc411e97fed2807a916c90,
         "top": "20%",
         "width": "100%",
         "zIndex": 1
@@ -545,7 +543,6 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_2ad466e34ded4873ac916d6af07a054a,
         "top": "30%",
         "width": "100%",
         "zIndex": 1
@@ -594,7 +591,6 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_05d3c02a2c394dc9aedbef399f38818a,
         "top": "40%",
         "width": "100%",
         "zIndex": 1
@@ -643,7 +639,6 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_ae9476a8164c45e09f2c52d480b93779,
         "top": "50%",
         "width": "100%",
         "zIndex": 1
@@ -740,7 +735,6 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_3c74bd01e75c4bfe95dc0f5eb28edd07,
         "top": "70%",
         "width": "100%",
         "zIndex": 1

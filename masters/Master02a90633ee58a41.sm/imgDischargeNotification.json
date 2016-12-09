@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "22dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd0b50d09a8d4170be69fdc9e2f135ae",
+    "_src_": "menu_07.png",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m78e3f72e3f64defa6cbffca09699f05",
+        "m7e52a8f614b4647af33b116925b77cc",
+        "me86a999129e46c98c136e8c88af600c"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "Master02a90633ee58a41",
+        "platform": "android",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgDischargeNotification",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "m9b5f43bcda444d09ed4ae83f3af95fc",
+    "name": "kony.ui.Image2",
+    "parent": "flxDischargeNotificationContainer",
+    "pf": "Master02a90633ee58a41",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}
