@@ -18,20 +18,25 @@
     ],
     "_padding_": [
         1,
+        3,
         1,
-        2,
-        2
+        3
     ],
     "_placeholder_": "Re-enter New Password",
     "_skin_": "s4f1977345f2445c9959e777f22edc62",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "77%"
+        "value": "10dp"
     },
     "_width_": {
         "type": "string",
         "value": "90%"
+    },
+    "android": {
+        "psp": {
+            "keyboardActionLabel": 1
+        }
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -49,13 +54,16 @@
     "id": "Copytfusername0a9c9b374d55049",
     "info": null,
     "isvisible": true,
+    "keyboardactionlabel": 1,
     "keyboardtype": "A",
     "kuid": "f8f4a545c3a948df894c3c578cdc36ad",
+    "maxtextlength": "",
     "mode": "A",
     "name": "kony.ui.TextBox2",
     "paddinginpixel": false,
     "parent": "FlexContainer035608f7aea9f47",
     "pf": "frmEditProfile",
+    "placeholderskin": "sceaadd121c1472494f71140f57f1f1a",
     "securetextentry": true,
     "textinputmode": "A",
     "viewtype": "default",
