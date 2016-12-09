@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "25dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
-        "value": "5%"
+        "value": "314dp"
     },
     "_margin_": [
         0,
@@ -23,15 +23,15 @@
         0,
         0
     ],
-    "_skin_": "sd0b50d09a8d4170be69fdc9e2f135ae",
-    "_src_": "icons_03.png",
+    "_skin_": "s082eb711f8643d6bf3c2031f0c90278",
+    "_src_": "dropdwnimg.png",
     "_top_": {
         "type": "string",
-        "value": "26%"
+        "value": "1dp"
     },
     "_width_": {
         "type": "string",
-        "value": "25dp"
+        "value": "28dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -42,15 +42,13 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "imgMenuOpen",
-    "ide_onTouchStart": "AS_NamedActions_59f90898340d4953be384a35208868b0",
-    "imagescalemode": 1,
+    "id": "Image093c298a173a848",
+    "imagescalemode": 0,
     "info": null,
-    "invokedProperty": "src",
     "isvisible": true,
-    "kuid": "c60478ef046844a2b4d2bfe5fcf168c2",
+    "kuid": "9fab65324f4d44a986cc4f85f14e76bf",
     "name": "kony.ui.Image2",
-    "parent": "flxActionbarContainer",
+    "parent": "FlexContainer0c4a9186b1ed944",
     "pf": "frmEditProfile",
     "srcType": 1,
     "wType": "Image",
