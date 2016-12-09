@@ -13,20 +13,20 @@
         1
     ],
     "_padding_": [
-        0,
-        0,
-        0,
-        0
+        1,
+        3,
+        1,
+        3
     ],
-    "_skin_": "s50c85507f3847b6bf1552de56404a5e",
-    "_text_": "Discharge Notifications",
+    "_skin_": "s19881f5bdc2461cadb560da9ac89417",
+    "_text_": "Select degree",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "2.45%"
     },
     "_width_": {
         "type": "string",
-        "value": "80%"
+        "value": "90%"
     },
     "_wrapping_": 2,
     "android": {
@@ -38,15 +38,11 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
-    },
-    "centery": {
-        "type": "string",
-        "value": "51.63%"
+        "value": "50.03%"
     },
     "containerweight": 100,
-    "contentalignment": 5,
-    "id": "labelDischargeNotifications1",
+    "contentalignment": 4,
+    "id": "CopyLabel05aacfa9249da4b",
     "info": null,
     "ipad": {
         "psp": {
@@ -59,12 +55,11 @@
         }
     },
     "isvisible": true,
-    "kuid": "ca63ab114eb24032bbc5f3e1ed7ea93f",
+    "kuid": "a83048a3ab8a44c985d0b4858ae37f94",
     "name": "kony.ui.Label",
-    "paddingLocked": true,
     "paddinginpixel": false,
-    "parent": "flxActionbarContainer",
-    "pf": "frmDischargeNotiifcattions",
+    "parent": "FlexContainer0c4a9186b1ed944",
+    "pf": "frmEditProfile",
     "tooltip": "",
     "wType": "Label",
     "zindex": 1

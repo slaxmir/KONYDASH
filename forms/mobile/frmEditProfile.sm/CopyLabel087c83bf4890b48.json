@@ -26,7 +26,7 @@
     "_text_": "Phone",
     "_top_": {
         "type": "string",
-        "value": "2%"
+        "value": "2.00%"
     },
     "_width_": {
         "type": "string",
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.32%"
     },
     "containerweight": 100,
     "contentalignment": 4,
