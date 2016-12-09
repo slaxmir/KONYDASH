@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "13%"
+        "value": "2dp"
     },
     "_margin_": [
         1,
@@ -17,20 +17,20 @@
         1
     ],
     "_padding_": [
-        0,
-        0,
-        0,
-        0
+        2,
+        2,
+        2,
+        2
     ],
-    "_skin_": "s50c85507f3847b6bf1552de56404a5e",
-    "_text_": "Edit Profile",
+    "_skin_": "scb8b2d0f0894c5aa87c4c9341456053",
+    "_text_": "Privacy Policy",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "9dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "72%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,13 +40,14 @@
         }
     },
     "canUpdateUI": true,
-    "centery": {
-        "type": "string",
-        "value": "48%"
-    },
+    "childInstances": [
+        "m78d18d021a74c338b0ffe0e4539a48a",
+        "m06971ea780642c8b9756983be121dd4",
+        "ma49a40c4268456f9a0de1f282845bc5"
+    ],
     "containerweight": 100,
-    "contentalignment": 5,
-    "id": "labelProfile1",
+    "contentalignment": 4,
+    "id": "CopyLabel0654298db22b04a",
     "info": null,
     "ipad": {
         "psp": {
@@ -59,13 +60,11 @@
         }
     },
     "isvisible": true,
-    "kuid": "4203fd8411504b4cb072b58204f0c665",
+    "kuid": "m28a5f8cd20646339a168192350cf645",
     "name": "kony.ui.Label",
-    "paddingLocked": true,
     "paddinginpixel": false,
-    "parent": "flxActionbarContainer",
-    "pf": "frmEditProfile",
+    "parent": "FlexContainer0b649aae5ffd040",
+    "pf": "Master02a90633ee58a41",
     "tooltip": "",
-    "wType": "Label",
-    "zindex": 1
+    "wType": "Label"
 }

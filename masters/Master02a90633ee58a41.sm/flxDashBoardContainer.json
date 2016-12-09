@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "25dp"
+        "value": "10%"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -23,38 +23,38 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s2a016ad20de42e9858c145b4fde0e87",
+    "_skin_": "s16a23613a4c4a67a4324786318bedf3",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "83%"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
+    "childInstances": [
+        "mfa77686d85f4d53a234158d78347ab4",
+        "m276d1ffcda1473b839332a3fe6a267f",
+        "m5f46386254544c9b5da05b2d38587cb"
+    ],
     "children": [
-        "Image0e6f20bef2fd645",
-        "CopylabelForgotPassword0e413f72fedeb48",
-        "labelForgotPassword"
+        "imgDashBoard",
+        "labelDashBoard"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "horFlexC1",
+    "id": "flxDashBoardContainer",
     "info": null,
     "isvisible": true,
-    "kuid": "e2192b99d8f54706b2404a482779448e",
-    "layouttype": 3,
+    "kuid": "mee2b74579f14236b30c569f01b9aa75",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flexForm",
-    "pf": "frmLogin",
+    "parent": "flxMenuItemsContainer",
+    "pf": "Master02a90633ee58a41",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",

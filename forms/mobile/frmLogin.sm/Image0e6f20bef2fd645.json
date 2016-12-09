@@ -5,11 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "25px"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "-258dp"
+        "value": "38px"
     },
     "_margin_": [
         0,
@@ -24,21 +20,21 @@
         0
     ],
     "_skin_": "s082eb711f8643d6bf3c2031f0c90278",
-    "_src_": "chckbox.png",
+    "_src_": "uncheck.png",
     "_top_": {
         "type": "string",
-        "value": "7dp"
+        "value": "4dp"
     },
     "_width_": {
         "type": "string",
-        "value": "25px"
+        "value": "50px"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "context": {
         "channel": "mobile",
         "formID": "frmLogin",
-        "platform": "spaan",
+        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },
