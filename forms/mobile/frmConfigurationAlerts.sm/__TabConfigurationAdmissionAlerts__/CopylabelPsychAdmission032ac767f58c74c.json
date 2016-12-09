@@ -17,12 +17,12 @@
         1
     ],
     "_padding_": [
-        0,
+        1,
         0,
         0,
         0
     ],
-    "_skin_": "s645b4675f0645789f739345807c7f12",
+    "_skin_": "s35fe2cdabf246b096237403e4f7de7f",
     "_text_": "Type",
     "_top_": {
         "type": "string",
@@ -41,7 +41,7 @@
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "contentalignment": 5,
+    "contentalignment": 4,
     "id": "CopylabelPsychAdmission032ac767f58c74c",
     "info": null,
     "ipad": {
@@ -57,6 +57,7 @@
     "isvisible": true,
     "kuid": "4dbcc141ace343aea6db2442697dac90",
     "name": "kony.ui.Label",
+    "paddinginpixel": false,
     "parent": "CopyflxPsychAdmissionHeaderContainer0d5022215c04a4d",
     "pf": "frmConfigurationAlerts",
     "tabpaneId": "TabConfigurationAdmissionAlerts",

@@ -1,22 +1,5 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizImage2",
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_base64_": null,
-    "_height_": {
-        "type": "string",
-        "value": "75%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_margin_": [
-        0,
-        0,
-        0,
-        0
-    ],
     "_padding_": [
         0,
         0,
@@ -24,35 +7,20 @@
         0
     ],
     "_skin_": "sd0b50d09a8d4170be69fdc9e2f135ae",
-    "_src_": "menu_23.png",
-    "_top_": {
-        "type": "string",
-        "value": "5dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "25%"
-    },
+    "_srcKuid_": "mb048c4e74b942a3bc2de446f9176762",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
-    "containerweight": 100,
-    "context": {
-        "channel": "mobile",
-        "formID": "frmDashBoard",
-        "platform": "android",
-        "templateType": "forms",
-        "topLevelBox": null
-    },
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
     "id": "imgConfigureAdmissionAlertsl",
-    "imagescalemode": 1,
-    "info": null,
-    "invokedProperty": "src",
+    "instanceOf": "mb048c4e74b942a3bc2de446f9176762",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "a4ddb1a54e244d9980d96ec1dc532fb7",
+    "kuid": "m00ad7581c4543a48c813f7ffbcc0a96",
+    "masterInstance": true,
     "name": "kony.ui.Image2",
     "parent": "flxConfigarationAlertsContainer",
     "pf": "frmDashBoard",
-    "srcType": 1,
-    "wType": "Image",
-    "widgetalignment": 5,
-    "zindex": 1
+    "wType": "Image"
 }
