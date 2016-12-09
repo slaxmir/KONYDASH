@@ -611,7 +611,7 @@ function addWidgetsfrmConfigurationAlerts() {
     var TabConfigurationAdmissionAlerts = new kony.ui.TabPane({
         "activeFocusSkin": "CopytabCanvas060f1e66f53da42",
         "activeSkin": "CopytabCanvas069c76196e4904f",
-        "activeTabs": [2],
+        "activeTabs": [0],
         "height": "100.26%",
         "id": "TabConfigurationAdmissionAlerts",
         "inactiveSkin": "CopytabCanvasInactive052646609077543",

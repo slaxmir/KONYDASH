@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "75%"
+        "value": "25dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "22dp"
     },
     "_margin_": [
         0,
@@ -27,11 +27,11 @@
     "_src_": "menu_19.png",
     "_top_": {
         "type": "string",
-        "value": "5%"
+        "value": "5dp"
     },
     "_width_": {
         "type": "string",
-        "value": "25%"
+        "value": "30dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,

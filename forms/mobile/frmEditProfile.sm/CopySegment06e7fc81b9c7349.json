@@ -10,7 +10,7 @@
             },
             "Label0c981bd3b128e47": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Test On-Call Group(Dallas Test Hospital - Dallas)"
+                "text": "Label"
             }
         },
         {
@@ -20,7 +20,7 @@
             },
             "Label0c981bd3b128e47": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "SAC Group(Dallas Test Hospital - Dallas)"
+                "text": "Label"
             }
         },
         {
@@ -30,7 +30,7 @@
             },
             "Label0c981bd3b128e47": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Test phani group(Test Phani Hospital)"
+                "text": "Label"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "Label0c981bd3b128e47": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Test On-Call Group(Dallas Test Hospital - Dallas)"
+                "text": "Label"
             }
         },
         {
@@ -50,17 +50,7 @@
             },
             "Label0c981bd3b128e47": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "SAC Group(Dallas Test Hospital - Dallas)"
-            }
-        },
-        {
-            "Image081203e63fbf643": {
-                "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "bullets.png"
-            },
-            "Label0c981bd3b128e47": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Test phani group(Test Phani Hospital)"
+                "text": "Label"
             }
         },
         {
@@ -70,7 +60,7 @@
             },
             "Label0c981bd3b128e47": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "SAC Group(Dallas Test Hospital - Dallas)"
+                "text": "Label"
             }
         },
         {
@@ -80,7 +70,7 @@
             },
             "Label0c981bd3b128e47": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Test On-Call Group(Dallas Test Hospital - Dallas)"
+                "text": "Label"
             }
         },
         {
@@ -90,13 +80,23 @@
             },
             "Label0c981bd3b128e47": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Test On-Call Group(Dallas Test Hospital - Dallas)"
+                "text": "Label"
+            }
+        },
+        {
+            "Image081203e63fbf643": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "bullet.png"
+            },
+            "Label0c981bd3b128e47": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
             }
         }
     ],
     "_height_": {
-        "type": "string",
-        "value": "80dp"
+        "type": "ref",
+        "value": "preferred"
     },
     "_indicator_": "none",
     "_left_": {
@@ -124,7 +124,7 @@
         "type": "string",
         "value": "100%"
     },
-    "autogrowmode": 0,
+    "autogrowmode": 1,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
@@ -162,11 +162,11 @@
     "parent": "flxContainerInfo",
     "pf": "frmEditProfile",
     "retainselection": false,
-    "rowTemplateId": "f39a76d8e21447f0a6a4a744ed00f7d1",
+    "rowTemplateId": "fcb94763bf22401aa6f5005a3d15eb0c",
     "rowcounter": 8,
     "rowfocusskin": "sb6ad43583984d478b3dd90c47d4aac2",
     "rowskin": "s7c6f073cc1f4bbd8fdd5a32f0c30340",
-    "rowtemplate": "FlexContainer060764c0cde7d4d",
+    "rowtemplate": "CopyFlexContainer075c9ac293fb748",
     "screenlevelwidget": false,
     "seccounter": 0,
     "sectionHeaderTemplateId": null,
@@ -185,7 +185,7 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
-        "FlexContainer060764c0cde7d4d": "FlexContainer060764c0cde7d4d",
+        "CopyFlexContainer075c9ac293fb748": "CopyFlexContainer075c9ac293fb748",
         "Image081203e63fbf643": "Image081203e63fbf643",
         "Label0c981bd3b128e47": "Label0c981bd3b128e47"
     },

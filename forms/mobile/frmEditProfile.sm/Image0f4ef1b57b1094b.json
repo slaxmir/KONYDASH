@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "30dp"
+        "value": "26dp"
     },
     "_left_": {
         "type": "string",
@@ -27,11 +27,11 @@
     "_src_": "update.png",
     "_top_": {
         "type": "string",
-        "value": "16dp"
+        "value": "15dp"
     },
     "_width_": {
         "type": "string",
-        "value": "28dp"
+        "value": "26dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,

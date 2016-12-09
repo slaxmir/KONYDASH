@@ -29,7 +29,11 @@
     "children": [
         "flxContainer",
         "imgLogo",
-        "CopyRichText0edfdb231ea7a45"
+        "CopyRichText09bc489a0054a43",
+        "CopyRichText0edfdb231ea7a45",
+        "CopyRichText0ea718206fb944e",
+        "CopyRichText00baa39226c874a",
+        "CopyRichText043db338a6d5b4c"
     ],
     "containerweight": 100,
     "currentLocale": null,
@@ -76,9 +80,9 @@
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "paddinginpixel": false,
-    "platform": "spaan",
-    "prevDevice": "GalaxyNote",
-    "prevPlatform": "iphone",
+    "platform": "android",
+    "prevDevice": "GalaxyS3",
+    "prevPlatform": "spaan",
     "retainscrollposition": false,
     "shellCSS": "and_GalaxyS5",
     "snapgridsize": 10,

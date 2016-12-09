@@ -65,6 +65,7 @@
     "isvisible": true,
     "kuid": "c3ea0979f7c849939aa87d164ec5992b",
     "name": "kony.ui.Image2",
+    "paddinginpixel": false,
     "parent": "CopyflxConMOTform0e9da8ee67e354e",
     "pf": "frmAdmission",
     "srcType": 1,

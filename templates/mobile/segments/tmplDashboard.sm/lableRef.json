@@ -17,7 +17,7 @@
         1
     ],
     "_padding_": [
-        1,
+        2,
         1,
         1,
         1
@@ -42,7 +42,7 @@
     },
     "containerId": true,
     "containerweight": 100,
-    "contentalignment": 5,
+    "contentalignment": 4,
     "id": "lableRef",
     "info": null,
     "ipad": {
