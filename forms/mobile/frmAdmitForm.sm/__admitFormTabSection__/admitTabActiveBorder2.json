@@ -2,8 +2,8 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "string",
-        "value": "7%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_left_": {
         "type": "string",
@@ -23,36 +23,31 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "scf302de9d4e41a3a0e2a81f5d63b372",
+    "_skin_": "s2a016ad20de42e9858c145b4fde0e87",
     "_top_": {
         "type": "string",
-        "value": "2%"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "90%"
+        "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
+    "autogrowmode": 1,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
     "children": [
-        "CopylableAdmissionDetails04064b65fc5f44b",
-        "CopyinnerTabRow060e90274a2834f"
+        "CopyFlexContainer056c5894ca66b49"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "CopyinnerTabRow09d92c6a92f4d46",
+    "id": "admitTabActiveBorder2",
     "info": null,
     "isvisible": true,
-    "kuid": "6b03040f40004f0aa3809ad7d79b47de",
-    "layouttype": 3,
+    "kuid": "9978dba3d9424ec580434059d2fb4549",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "TestRecommendTab",
+    "parent": "TestDiagnosTab",
     "pf": "frmAdmitForm",
     "snapgridsize": 10,
     "snaptogrid": true,

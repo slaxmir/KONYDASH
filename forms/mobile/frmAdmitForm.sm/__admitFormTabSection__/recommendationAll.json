@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "80%"
+        "value": "76%"
     },
     "_left_": {
         "type": "string",
@@ -30,7 +30,7 @@
     "_skin_": "s037cb943e4b450ab5722feb370d5841",
     "_top_": {
         "type": "string",
-        "value": "13%"
+        "value": "12%"
     },
     "_width_": {
         "type": "string",
@@ -49,8 +49,7 @@
         "flexContainerImaging",
         "FlexContainerImagingAdmitForm",
         "flexContainerSpecialityConsults",
-        "FlexContainerSpecialityConsultsAdmitForm",
-        "RecommendationSubmit"
+        "FlexContainerSpecialityConsultsAdmitForm"
     ],
     "clipbounds": true,
     "containerweight": 100,

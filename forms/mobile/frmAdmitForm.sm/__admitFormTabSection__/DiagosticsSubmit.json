@@ -2,13 +2,9 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "50dp"
-    },
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -30,13 +26,17 @@
     "_text_": "Submit",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "disabledSkins": {
@@ -44,13 +44,13 @@
     },
     "displaytext": true,
     "id": "DiagosticsSubmit",
-    "ide_onClick": "AS_Button_2d8730b20ada430e8123dab92eb2265d",
+    "ide_onClick": "AS_Button_782920efa8d1416eb4f4391d1b08db39",
     "info": null,
     "isvisible": true,
     "kuid": "4718f40946ed46b58a204fe915aa1e4a",
     "name": "kony.ui.Button",
     "paddinginpixel": false,
-    "parent": "flxContainerdiagnosticsAll",
+    "parent": "admitTabStickyFooter2",
     "pf": "frmAdmitForm",
     "tabpaneId": "admitFormTabSection",
     "wType": "Button",
