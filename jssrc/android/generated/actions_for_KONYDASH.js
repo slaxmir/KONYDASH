@@ -1051,8 +1051,6 @@ function AS__e69cc64b83e54ec29e1a445c59c1abc6(eventobject, x, y) {
     AS_TextField_a511e27cdb9b40fdbe41098c1a435a26(null, null);
 }
 
-function AS_ListBox_05049926a7f241ae9b75801a698c7cb8(eventobject) {}
-
 function AS_ListBox_action_onSelectItem(eventobject) {
     return AS_ListBox_9345a658d386424baa49f10cd05e8cbf(eventobject);
 }

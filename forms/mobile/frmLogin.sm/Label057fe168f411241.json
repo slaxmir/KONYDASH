@@ -26,7 +26,7 @@
     "_text_": "Privacy Policy",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "-1dp"
     },
     "_width_": {
         "type": "ref",

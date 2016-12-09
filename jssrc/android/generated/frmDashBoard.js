@@ -29,14 +29,14 @@ function addWidgetsfrmDashBoard() {
     }, {}, {});
     flxActionbarContainer.setDefaultUnit(kony.flex.DP);
     var imgMenuOpen = new kony.ui.Image2({
-        "height": "40%",
+        "height": "20dp",
         "id": "imgMenuOpen",
         "isVisible": true,
         "left": "5%",
         "onTouchStart": AS_NamedActions_59f90898340d4953be384a35208868b0,
         "src": "icons_03.png",
         "top": "20dp",
-        "width": "10%",
+        "width": "25dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_FIT_TO_DIMENSIONS,
@@ -328,13 +328,13 @@ function addWidgetsfrmDashBoard() {
     flxMenuProfileDetailsContainer.setDefaultUnit(kony.flex.DP);
     var imgMenuProfilePic = new kony.ui.Image2({
         "centerX": "50%",
-        "height": "100dp",
+        "height": "80dp",
         "id": "imgMenuProfilePic",
         "isVisible": true,
         "left": "20dp",
         "src": "icons_07.png",
-        "top": "20dp",
-        "width": "100dp",
+        "top": "30dp",
+        "width": "80dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -350,24 +350,24 @@ function addWidgetsfrmDashBoard() {
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
         "skin": "skinLine",
-        "top": "148dp",
+        "top": "151dp",
         "width": "100%",
         "zIndex": 1
     }, {}, {});
     flxLineContainer.setDefaultUnit(kony.flex.DP);
     flxLineContainer.add();
     var labelUsername = new kony.ui.Label({
-        "centerX": "50%",
+        "centerX": "51.08%",
         "id": "labelUsername",
         "isVisible": true,
         "left": 98,
-        "skin": "skinMenuLabel",
+        "skin": "CopyskinMenuLabel00e1400c6b3a74f",
         "text": "Swaraj RC",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "120dp",
+        "top": "116dp",
         "width": kony.flex.USE_PREFFERED_SIZE,
         "zIndex": 1
     }, {
@@ -399,20 +399,19 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_59f90898340d4953be384a35208868b0,
         "top": "0dp",
         "width": "100%",
         "zIndex": 1
     }, {}, {});
     flxDashBoardContainer.setDefaultUnit(kony.flex.DP);
     var imgDashBoard = new kony.ui.Image2({
-        "height": "75%",
+        "height": "25dp",
         "id": "imgDashBoard",
         "isVisible": true,
-        "left": "0dp",
+        "left": "22dp",
         "src": "menu_03.png",
-        "top": "5dp",
-        "width": "25%",
+        "top": "9dp",
+        "width": "30dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -420,7 +419,6 @@ function addWidgetsfrmDashBoard() {
         "paddingInPixel": false
     }, {});
     var labelDashBoard = new kony.ui.Label({
-        "height": "100%",
         "id": "labelDashBoard",
         "isVisible": true,
         "left": "25%",
@@ -430,7 +428,7 @@ function addWidgetsfrmDashBoard() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
+        "top": "12dp",
         "width": "75%",
         "zIndex": 1
     }, {
@@ -455,13 +453,13 @@ function addWidgetsfrmDashBoard() {
     }, {}, {});
     flxDischargeNotificationContainer.setDefaultUnit(kony.flex.DP);
     var imgDischargeNotification = new kony.ui.Image2({
-        "height": "75%",
+        "height": "25dp",
         "id": "imgDischargeNotification",
         "isVisible": true,
-        "left": "0dp",
+        "left": "22dp",
         "src": "menu_07.png",
         "top": "5dp",
-        "width": "25%",
+        "width": "30dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -469,17 +467,16 @@ function addWidgetsfrmDashBoard() {
         "paddingInPixel": false
     }, {});
     var labelDischargeNotification = new kony.ui.Label({
-        "height": "100%",
         "id": "labelDischargeNotification",
         "isVisible": true,
-        "left": "25%",
+        "left": "25.00%",
         "skin": "skinMenuLabel",
         "text": "Discharge Notifications",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
+        "top": "10dp",
         "width": "75%",
         "zIndex": 1
     }, {
@@ -498,20 +495,19 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_92351225a2bc411e97fed2807a916c90,
         "top": "20%",
         "width": "100%",
         "zIndex": 1
     }, {}, {});
     flxAdmittCointer.setDefaultUnit(kony.flex.DP);
     var imgAdmit = new kony.ui.Image2({
-        "height": "75%",
+        "height": "25dp",
         "id": "imgAdmit",
         "isVisible": true,
-        "left": "0dp",
+        "left": "22dp",
         "src": "menu_11.png",
         "top": "5dp",
-        "width": "25%",
+        "width": "30dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -519,7 +515,6 @@ function addWidgetsfrmDashBoard() {
         "paddingInPixel": false
     }, {});
     var labelAdmit = new kony.ui.Label({
-        "height": "100%",
         "id": "labelAdmit",
         "isVisible": true,
         "left": "25%",
@@ -529,7 +524,7 @@ function addWidgetsfrmDashBoard() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
+        "top": "10dp",
         "width": "75%",
         "zIndex": 1
     }, {
@@ -548,20 +543,19 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_2ad466e34ded4873ac916d6af07a054a,
         "top": "30%",
         "width": "100%",
         "zIndex": 1
     }, {}, {});
     flxSupportContainer.setDefaultUnit(kony.flex.DP);
     var imgSupport = new kony.ui.Image2({
-        "height": "75%",
+        "height": "25dp",
         "id": "imgSupport",
         "isVisible": true,
-        "left": "0dp",
+        "left": "22dp",
         "src": "menu_15.png",
         "top": "5dp",
-        "width": "25%",
+        "width": "30dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -569,7 +563,6 @@ function addWidgetsfrmDashBoard() {
         "paddingInPixel": false
     }, {});
     var labelSupport = new kony.ui.Label({
-        "height": "100%",
         "id": "labelSupport",
         "isVisible": true,
         "left": "25%",
@@ -579,7 +572,7 @@ function addWidgetsfrmDashBoard() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
+        "top": "10dp",
         "width": "75%",
         "zIndex": 1
     }, {
@@ -598,20 +591,19 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_05d3c02a2c394dc9aedbef399f38818a,
         "top": "40%",
         "width": "100%",
         "zIndex": 1
     }, {}, {});
     flxProfileContainer.setDefaultUnit(kony.flex.DP);
     var imgProfile = new kony.ui.Image2({
-        "height": "75%",
+        "height": "25dp",
         "id": "imgProfile",
         "isVisible": true,
-        "left": "0dp",
+        "left": "22dp",
         "src": "menu_19.png",
-        "top": "5%",
-        "width": "25%",
+        "top": "5dp",
+        "width": "30dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -619,7 +611,6 @@ function addWidgetsfrmDashBoard() {
         "paddingInPixel": false
     }, {});
     var labelProfile = new kony.ui.Label({
-        "height": "100%",
         "id": "labelProfile",
         "isVisible": true,
         "left": "25%",
@@ -629,7 +620,7 @@ function addWidgetsfrmDashBoard() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
+        "top": "10dp",
         "width": "75%",
         "zIndex": 1
     }, {
@@ -648,20 +639,19 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_ae9476a8164c45e09f2c52d480b93779,
         "top": "50%",
         "width": "100%",
         "zIndex": 1
     }, {}, {});
     flxConfigarationAlertsContainer.setDefaultUnit(kony.flex.DP);
     var imgConfigureAdmissionAlertsl = new kony.ui.Image2({
-        "height": "75%",
+        "height": "25dp",
         "id": "imgConfigureAdmissionAlertsl",
         "isVisible": true,
-        "left": "0dp",
+        "left": "22dp",
         "src": "menu_23.png",
         "top": "5dp",
-        "width": "25%",
+        "width": "30dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -669,7 +659,6 @@ function addWidgetsfrmDashBoard() {
         "paddingInPixel": false
     }, {});
     var labelConfigureAdmissionAlerts = new kony.ui.Label({
-        "height": "100%",
         "id": "labelConfigureAdmissionAlerts",
         "isVisible": true,
         "left": "25%",
@@ -679,7 +668,7 @@ function addWidgetsfrmDashBoard() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
+        "top": "9dp",
         "width": "75%",
         "zIndex": 1
     }, {
@@ -704,13 +693,13 @@ function addWidgetsfrmDashBoard() {
     }, {}, {});
     flxAlerttoneSettings.setDefaultUnit(kony.flex.DP);
     var imgAlertToneSettings = new kony.ui.Image2({
-        "height": "75%",
+        "height": "25dp",
         "id": "imgAlertToneSettings",
         "isVisible": true,
-        "left": "0dp",
+        "left": "22dp",
         "src": "menu_27.png",
         "top": "5dp",
-        "width": "25%",
+        "width": "30dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -718,17 +707,16 @@ function addWidgetsfrmDashBoard() {
         "paddingInPixel": false
     }, {});
     var labelAlerttoneSettings = new kony.ui.Label({
-        "height": "100%",
         "id": "labelAlerttoneSettings",
         "isVisible": true,
-        "left": "25%",
+        "left": "24.98%",
         "skin": "skinMenuLabel",
         "text": "Alert Tone Settings",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
+        "top": "8dp",
         "width": "75%",
         "zIndex": 1
     }, {
@@ -747,20 +735,19 @@ function addWidgetsfrmDashBoard() {
         "isVisible": true,
         "layoutType": kony.flex.FREE_FORM,
         "left": "0dp",
-        "onClick": AS_NamedActions_3c74bd01e75c4bfe95dc0f5eb28edd07,
         "top": "70%",
         "width": "100%",
         "zIndex": 1
     }, {}, {});
     flxLogoutContainer.setDefaultUnit(kony.flex.DP);
     var imgLogout = new kony.ui.Image2({
-        "height": "75%",
+        "height": "25dp",
         "id": "imgLogout",
         "isVisible": true,
-        "left": "0dp",
+        "left": "22dp",
         "src": "menu_31.png",
         "top": "5dp",
-        "width": "25%",
+        "width": "30dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -768,7 +755,6 @@ function addWidgetsfrmDashBoard() {
         "paddingInPixel": false
     }, {});
     var labelLogout = new kony.ui.Label({
-        "height": "100%",
         "id": "labelLogout",
         "isVisible": true,
         "left": "25%",
@@ -778,7 +764,7 @@ function addWidgetsfrmDashBoard() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "0dp",
+        "top": "8dp",
         "width": "75%",
         "zIndex": 1
     }, {
@@ -789,7 +775,79 @@ function addWidgetsfrmDashBoard() {
         "textCopyable": false
     });
     flxLogoutContainer.add(imgLogout, labelLogout);
-    flxMenuItemsContainer.add(flxDashBoardContainer, flxDischargeNotificationContainer, flxAdmittCointer, flxSupportContainer, flxProfileContainer, flxConfigarationAlertsContainer, flxAlerttoneSettings, flxLogoutContainer);
+    var FlexContainer0b649aae5ffd040 = new kony.ui.FlexContainer({
+        "autogrowMode": kony.flex.AUTOGROW_NONE,
+        "clipBounds": true,
+        "height": "35dp",
+        "id": "FlexContainer0b649aae5ffd040",
+        "isVisible": true,
+        "layoutType": kony.flex.FLOW_HORIZONTAL,
+        "left": "0dp",
+        "skin": "CopyslFbox06a7bf2770c6242",
+        "top": "425dp",
+        "width": "100%",
+        "zIndex": 1
+    }, {}, {});
+    FlexContainer0b649aae5ffd040.setDefaultUnit(kony.flex.DP);
+    var Label024694653a6a04a = new kony.ui.Label({
+        "id": "Label024694653a6a04a",
+        "isVisible": true,
+        "left": "22dp",
+        "skin": "CopyslLabel08205867ee7744e",
+        "text": "© DASH 2016.",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "top": "9dp",
+        "width": kony.flex.USE_PREFFERED_SIZE
+    }, {
+        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "padding": [2, 2, 2, 2],
+        "paddingInPixel": false
+    }, {
+        "textCopyable": false
+    });
+    var CopyLabel08d5039c9b1934a = new kony.ui.Label({
+        "id": "CopyLabel08d5039c9b1934a",
+        "isVisible": true,
+        "left": "2dp",
+        "skin": "CopyslLabel0d41d8afbe4e14e",
+        "text": "Business Associate Agreement ",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "top": "9dp",
+        "width": kony.flex.USE_PREFFERED_SIZE
+    }, {
+        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "padding": [2, 2, 2, 2],
+        "paddingInPixel": false
+    }, {
+        "textCopyable": false
+    });
+    var CopyLabel0654298db22b04a = new kony.ui.Label({
+        "id": "CopyLabel0654298db22b04a",
+        "isVisible": true,
+        "left": "2dp",
+        "skin": "CopyslLabel0d41d8afbe4e14e",
+        "text": "Privacy Policy",
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        },
+        "top": "9dp",
+        "width": kony.flex.USE_PREFFERED_SIZE
+    }, {
+        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "padding": [2, 2, 2, 2],
+        "paddingInPixel": false
+    }, {
+        "textCopyable": false
+    });
+    FlexContainer0b649aae5ffd040.add(Label024694653a6a04a, CopyLabel08d5039c9b1934a, CopyLabel0654298db22b04a);
+    flxMenuItemsContainer.add(flxDashBoardContainer, flxDischargeNotificationContainer, flxAdmittCointer, flxSupportContainer, flxProfileContainer, flxConfigarationAlertsContainer, flxAlerttoneSettings, flxLogoutContainer, FlexContainer0b649aae5ffd040);
     flxMenuContainer.add(flxMenuProfileDetailsContainer, flxMenuItemsContainer);
     frmDashBoard.add(flxContainer1, flxMenuContainer);
 };
