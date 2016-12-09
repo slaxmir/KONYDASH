@@ -26,11 +26,11 @@
     "_text_": "By clicking \"Sign in\" above,",
     "_top_": {
         "type": "string",
-        "value": "15dp"
+        "value": "17dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "55.61%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "canUpdateUI": true,

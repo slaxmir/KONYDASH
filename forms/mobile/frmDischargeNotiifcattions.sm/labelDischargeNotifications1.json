@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "20%"
-    },
     "_margin_": [
         1,
         1,
@@ -40,9 +36,13 @@
         }
     },
     "canUpdateUI": true,
-    "centery": {
+    "centerx": {
         "type": "string",
         "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "51.63%"
     },
     "containerweight": 100,
     "contentalignment": 5,

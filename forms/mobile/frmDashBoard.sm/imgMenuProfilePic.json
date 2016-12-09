@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "100dp"
+        "value": "80dp"
     },
     "_left_": {
         "type": "string",
@@ -27,11 +27,11 @@
     "_src_": "icons_07.png",
     "_top_": {
         "type": "string",
-        "value": "20dp"
+        "value": "30dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100dp"
+        "value": "80dp"
     },
     "canUpdateUI": true,
     "centerx": {

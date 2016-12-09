@@ -43,7 +43,8 @@
         "flxProfileContainer",
         "flxConfigarationAlertsContainer",
         "flxAlerttoneSettings",
-        "flxLogoutContainer"
+        "flxLogoutContainer",
+        "FlexContainer0b649aae5ffd040"
     ],
     "clipbounds": true,
     "containerweight": 100,

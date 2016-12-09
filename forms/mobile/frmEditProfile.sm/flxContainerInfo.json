@@ -30,7 +30,7 @@
     "_skin_": "s73dc91b317a4d808093695f399e2cf0",
     "_top_": {
         "type": "string",
-        "value": "3%"
+        "value": "2%"
     },
     "_width_": {
         "type": "string",
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "children": [
         "CopyLabel01052f794fc3c4e",

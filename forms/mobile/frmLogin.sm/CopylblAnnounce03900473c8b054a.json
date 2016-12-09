@@ -26,11 +26,11 @@
     "_text_": " I accept the Term & Condition",
     "_top_": {
         "type": "string",
-        "value": "-1dp"
+        "value": "-2dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "59.81%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "canUpdateUI": true,

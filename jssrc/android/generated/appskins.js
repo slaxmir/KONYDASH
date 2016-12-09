@@ -37,6 +37,9 @@ function skinsInit() {
     CopyBedAvailableTextAreaSkin036c0c9c785ba4a = "CopyBedAvailableTextAreaSkin036c0c9c785ba4a";
     CopyBedAvailableTextAreaSkin07bd9103bdc714b = "CopyBedAvailableTextAreaSkin07bd9103bdc714b";
     CopybtnWhite0800050b5f17e49 = "CopybtnWhite0800050b5f17e49";
+    Copyeditable017d8ee2e77f141 = "Copyeditable017d8ee2e77f141";
+    Copyeditable0444253943efb4a = "Copyeditable0444253943efb4a";
+    Copyeditable0d4938a7f84e54f = "Copyeditable0d4938a7f84e54f";
     CopyfieldTextBox09e38b433298944 = "CopyfieldTextBox09e38b433298944";
     CopyfieldTextBox0d634e1227cae49 = "CopyfieldTextBox0d634e1227cae49";
     Copylabelsupport07a146253c87b4f = "Copylabelsupport07a146253c87b4f";
@@ -55,6 +58,7 @@ function skinsInit() {
     Copyseg0fa61466f3ed043 = "Copyseg0fa61466f3ed043";
     CopyskinActionBar03ebf8249c80d4e = "CopyskinActionBar03ebf8249c80d4e";
     CopyskinLabelRegister0c96150c001d643 = "CopyskinLabelRegister0c96150c001d643";
+    CopyskinMenuLabel00e1400c6b3a74f = "CopyskinMenuLabel00e1400c6b3a74f";
     CopysknAdmissionflxDisable08377a1edfcff42 = "CopysknAdmissionflxDisable08377a1edfcff42";
     CopysknbtnFeilds018c6b510253d47 = "CopysknbtnFeilds018c6b510253d47";
     Copysknnoteatforgotpassword06c5a7d8267d04e = "Copysknnoteatforgotpassword06c5a7d8267d04e";
@@ -120,6 +124,7 @@ function skinsInit() {
     CopyslFbox057414f2765c546 = "CopyslFbox057414f2765c546";
     CopyslFbox057ed20ce9c2643 = "CopyslFbox057ed20ce9c2643";
     CopyslFbox0629a6bcc07f941 = "CopyslFbox0629a6bcc07f941";
+    CopyslFbox06a7bf2770c6242 = "CopyslFbox06a7bf2770c6242";
     CopyslFbox08162c7a9912345 = "CopyslFbox08162c7a9912345";
     CopyslFbox08a009b54e5eb4d = "CopyslFbox08a009b54e5eb4d";
     CopyslFbox09158354e9dd148 = "CopyslFbox09158354e9dd148";
@@ -184,6 +189,7 @@ function skinsInit() {
     CopyslLabel061d647e2d25246 = "CopyslLabel061d647e2d25246";
     CopyslLabel0663430320d2c48 = "CopyslLabel0663430320d2c48";
     CopyslLabel07bda3c772cd344 = "CopyslLabel07bda3c772cd344";
+    CopyslLabel08205867ee7744e = "CopyslLabel08205867ee7744e";
     CopyslLabel085287381776447 = "CopyslLabel085287381776447";
     CopyslLabel088e4df76a96f43 = "CopyslLabel088e4df76a96f43";
     CopyslLabel09302f4a6d3744b = "CopyslLabel09302f4a6d3744b";
@@ -199,6 +205,7 @@ function skinsInit() {
     CopyslLabel0c8f9817ca9574a = "CopyslLabel0c8f9817ca9574a";
     CopyslLabel0c94f071c9deb46 = "CopyslLabel0c94f071c9deb46";
     CopyslLabel0cf9384c7fe8743 = "CopyslLabel0cf9384c7fe8743";
+    CopyslLabel0d41d8afbe4e14e = "CopyslLabel0d41d8afbe4e14e";
     CopyslLabel0d6de64ad818e4b = "CopyslLabel0d6de64ad818e4b";
     CopyslLabel0dcbc935cbcbe45 = "CopyslLabel0dcbc935cbcbe45";
     CopyslLabel0dfb3f6bb664d4a = "CopyslLabel0dfb3f6bb664d4a";

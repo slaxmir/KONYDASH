@@ -47,14 +47,14 @@ function initializetemplateRowConfigurationAlerts() {
     FlexContainer0cdb60b5132e040.setDefaultUnit(kony.flex.DP);
     var btnManageAlertsEmail = new kony.ui.Button({
         "bottom": "2dp",
-        "height": "25dp",
+        "height": "20dp",
         "id": "btnManageAlertsEmail",
         "isVisible": true,
         "left": "2dp",
         "right": "2dp",
         "skin": "sknBtnManageAlerts",
         "top": "2dp",
-        "width": "30dp",
+        "width": "25dp",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
@@ -79,14 +79,14 @@ function initializetemplateRowConfigurationAlerts() {
     CopyFlexContainer046138e35029a4a.setDefaultUnit(kony.flex.DP);
     var btnManageAlertText = new kony.ui.Button({
         "bottom": "2dp",
-        "height": "25dp",
+        "height": "20dp",
         "id": "btnManageAlertText",
         "isVisible": true,
         "left": "2dp",
         "right": "2dp",
         "skin": "sknBtnManageAlertsText",
         "top": "2dp",
-        "width": "30dp",
+        "width": "25dp",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
@@ -111,14 +111,14 @@ function initializetemplateRowConfigurationAlerts() {
     CopyFlexContainer0f0a492a0b4c446.setDefaultUnit(kony.flex.DP);
     var btnManageAlertNotification = new kony.ui.Button({
         "bottom": "2dp",
-        "height": "25dp",
+        "height": "20dp",
         "id": "btnManageAlertNotification",
         "isVisible": true,
         "left": "2dp",
         "right": "2dp",
         "skin": "sknBtnManageAlertsNotification",
         "top": "2dp",
-        "width": "30dp",
+        "width": "25dp",
         "zIndex": 1
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,

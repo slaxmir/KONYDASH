@@ -29,13 +29,13 @@ function addWidgetsfrmDischargeNotiifcattions() {
     }, {}, {});
     flxActionbarContainer.setDefaultUnit(kony.flex.DP);
     var imgMenuOpen = new kony.ui.Image2({
-        "height": "35%",
+        "height": "25dp",
         "id": "imgMenuOpen",
         "isVisible": true,
         "left": "5%",
         "src": "icons_03.png",
-        "top": "20%",
-        "width": "7%",
+        "top": "31%",
+        "width": "25dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -43,10 +43,10 @@ function addWidgetsfrmDischargeNotiifcattions() {
         "paddingInPixel": false
     }, {});
     var labelDischargeNotifications1 = new kony.ui.Label({
-        "centerY": "50%",
+        "centerX": "50%",
+        "centerY": "51.63%",
         "id": "labelDischargeNotifications1",
         "isVisible": true,
-        "left": "20%",
         "skin": "skinActionBarHeader",
         "text": "Discharge Notifications",
         "textStyle": {

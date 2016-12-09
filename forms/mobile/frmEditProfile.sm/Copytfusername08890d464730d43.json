@@ -18,9 +18,9 @@
     ],
     "_padding_": [
         1,
+        3,
         1,
-        2,
-        2
+        3
     ],
     "_placeholder_": "Username",
     "_skin_": "s4f1977345f2445c9959e777f22edc62",
@@ -40,7 +40,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50.21%"
+        "value": "50%"
     },
     "containerheight": "",
     "containerheightmode": 1,
