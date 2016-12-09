@@ -1,0 +1,26 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_skin_": "scb8b2d0f0894c5aa87c4c9341456053",
+    "_srcKuid_": "m43c1ca0f8cf4afdb19338e7e4b003b8",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
+    "id": "CopyLabel08d5039c9b1934a",
+    "instanceOf": "m43c1ca0f8cf4afdb19338e7e4b003b8",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m87233e41b79433181a95c31854635e7",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer0b649aae5ffd040",
+    "pf": "frmConfigurationAlerts",
+    "wType": "Label"
+}
