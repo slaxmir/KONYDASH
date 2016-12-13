@@ -45,7 +45,7 @@
     "kuid": "4959a2a38fad4796a7cbc33c62af0f1d",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "CopyflxRegFormContainer00651f0c1c98243",
+    "parent": "flxRegChildContainer",
     "pf": "frmRegister",
     "snapgridsize": 10,
     "snaptogrid": true,

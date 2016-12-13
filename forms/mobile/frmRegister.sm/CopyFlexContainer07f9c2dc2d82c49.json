@@ -36,8 +36,8 @@
     "autogrowmode": 1,
     "canUpdateUI": true,
     "children": [
-        "CopyLabel001ef15ec4beb4f",
-        "CopyImage08809a75f9fd441"
+        "LabelCaptchaRegistration",
+        "ImageRefreshCaptchaRegistration"
     ],
     "clipbounds": true,
     "containerweight": 100,

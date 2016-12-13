@@ -1,0 +1,17 @@
+{
+    "AS__36dbef797488485884826b2596c01168": {
+        "id": "AS__36dbef797488485884826b2596c01168",
+        "type": "ACTION_SEQUENCE",
+        "name": "Action_Support_GeneralForm_Cancel",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___0fa86b4be5f64d19b9ee9f069c37bedf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetSupportGeneralForm",
+            "display": "resetSupportGeneralForm",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

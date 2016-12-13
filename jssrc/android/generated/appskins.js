@@ -39,6 +39,7 @@ function skinsInit() {
     CopybtnWhite0800050b5f17e49 = "CopybtnWhite0800050b5f17e49";
     CopyfieldTextBox09e38b433298944 = "CopyfieldTextBox09e38b433298944";
     CopyfieldTextBox0d634e1227cae49 = "CopyfieldTextBox0d634e1227cae49";
+    Copyinputbox035b67b227adb41 = "Copyinputbox035b67b227adb41";
     Copylabelsupport07a146253c87b4f = "Copylabelsupport07a146253c87b4f";
     Copyseg00711d2eff97a44 = "Copyseg00711d2eff97a44";
     Copyseg026cd01d9ec1346 = "Copyseg026cd01d9ec1346";
@@ -60,6 +61,9 @@ function skinsInit() {
     Copysknnoteatforgotpassword06c5a7d8267d04e = "Copysknnoteatforgotpassword06c5a7d8267d04e";
     CopysknReferringFacilityInfo02eb33aed5f564a = "CopysknReferringFacilityInfo02eb33aed5f564a";
     CopysknReferringFacilityInfo0e51f3b38f5204e = "CopysknReferringFacilityInfo0e51f3b38f5204e";
+    CopysknTBRegistration044cc2e0a3ede41 = "CopysknTBRegistration044cc2e0a3ede41";
+    CopysknTBRegistration0585d65db9a8a4c = "CopysknTBRegistration0585d65db9a8a4c";
+    CopysknTBRegistration0eb0fd25861014a = "CopysknTBRegistration0eb0fd25861014a";
     CopyslButtonGlossBlue0003cc7e8ae6240 = "CopyslButtonGlossBlue0003cc7e8ae6240";
     CopyslButtonGlossBlue011be09e3189e40 = "CopyslButtonGlossBlue011be09e3189e40";
     CopyslButtonGlossBlue01252b41ae9014e = "CopyslButtonGlossBlue01252b41ae9014e";
@@ -71,6 +75,7 @@ function skinsInit() {
     CopyslButtonGlossBlue03d00effe15134c = "CopyslButtonGlossBlue03d00effe15134c";
     CopyslButtonGlossBlue03ee7289ad0a649 = "CopyslButtonGlossBlue03ee7289ad0a649";
     CopyslButtonGlossBlue03efbd6ac45e14e = "CopyslButtonGlossBlue03efbd6ac45e14e";
+    CopyslButtonGlossBlue0458c11dc0bed44 = "CopyslButtonGlossBlue0458c11dc0bed44";
     CopyslButtonGlossBlue056578cf3bdb646 = "CopyslButtonGlossBlue056578cf3bdb646";
     CopyslButtonGlossBlue0565f0506cba648 = "CopyslButtonGlossBlue0565f0506cba648";
     CopyslButtonGlossBlue05e97fd492c5244 = "CopyslButtonGlossBlue05e97fd492c5244";
@@ -221,7 +226,6 @@ function skinsInit() {
     CopyslListBox0f7e860a9b4a04b = "CopyslListBox0f7e860a9b4a04b";
     CopyslListBox0fffca6166e5b48 = "CopyslListBox0fffca6166e5b48";
     CopyslRadioButtonGroup0385269eec16c4d = "CopyslRadioButtonGroup0385269eec16c4d";
-    CopyslRadioButtonGroup06641b0fa165044 = "CopyslRadioButtonGroup06641b0fa165044";
     CopyslRichText01b16713e6e324c = "CopyslRichText01b16713e6e324c";
     CopyslRichText0405b9b85b7284c = "CopyslRichText0405b9b85b7284c";
     CopyslSliderLeftBlue00d5dec5e328045 = "CopyslSliderLeftBlue00d5dec5e328045";
@@ -242,7 +246,6 @@ function skinsInit() {
     CopyslTextBox03955cc79771f40 = "CopyslTextBox03955cc79771f40";
     CopyslTextBox03b4a5761091948 = "CopyslTextBox03b4a5761091948";
     CopyslTextBox082eb3bbf69a04e = "CopyslTextBox082eb3bbf69a04e";
-    CopyslTextBox0d95698a9614f44 = "CopyslTextBox0d95698a9614f44";
     CopyslTextBox0da7be1e142c046 = "CopyslTextBox0da7be1e142c046";
     CopytabCanvas038b5bec321824c = "CopytabCanvas038b5bec321824c";
     CopytabCanvas060f1e66f53da42 = "CopytabCanvas060f1e66f53da42";
@@ -360,6 +363,7 @@ function skinsInit() {
     sknMenu = "sknMenu";
     sknNote = "sknNote";
     sknnoteatforgotpassword = "sknnoteatforgotpassword";
+    sknPlacehoderTBRegistration = "sknPlacehoderTBRegistration";
     sknRecoverPasswordheading = "sknRecoverPasswordheading";
     sknReferringFacilityInfo = "sknReferringFacilityInfo";
     sknSegAdmisionDetails1 = "sknSegAdmisionDetails1";
@@ -371,6 +375,7 @@ function skinsInit() {
     sknTakeActionButton = "sknTakeActionButton";
     sknTakeActionButton1 = "sknTakeActionButton1";
     sknTakeActionButtonDisable = "sknTakeActionButtonDisable";
+    sknTBRegistration = "sknTBRegistration";
     sknTemp1 = "sknTemp1";
     skntemplFlxbg = "skntemplFlxbg";
     sknTfEditProfile = "sknTfEditProfile";
@@ -423,6 +428,7 @@ function skinsInit() {
     slPickerView = "slPickerView";
     slPopup = "slPopup";
     slRadioButtonGroup = "slRadioButtonGroup";
+    slRadioButtonGroupRegistration = "slRadioButtonGroupRegistration";
     slRichTexInfectiousDiseaseQuestionnaire1 = "slRichTexInfectiousDiseaseQuestionnaire1";
     slRichText = "slRichText";
     slScrollBox = "slScrollBox";

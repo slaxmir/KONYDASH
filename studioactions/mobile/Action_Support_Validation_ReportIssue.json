@@ -1,0 +1,82 @@
+{
+    "AS_NamedActions_ccb683f3d7784682a28138c1ab3124b6": {
+        "id": "AS_NamedActions_ccb683f3d7784682a28138c1ab3124b6",
+        "type": "ACTION_SEQUENCE",
+        "name": "Action_Support_Validation_ReportIssue",
+        "language": "js",
+        "actions": [{
+            "id": "IF_CONDITION__9dabe43185b1434dbb94669677897d8c",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "frmSupport.flxContainer1.flxBodyContainer.reportIssueTabContainer.reportIssueContent.reportTabContentRow1.reportSelectModuleListBox.selectedKey",
+                "operator": "===",
+                "rightValueType": "varvalue",
+                "rightValue": "listboxdefaultkey",
+                "leftItemKUID": "b3b5324350fc4699a656b11729de50de",
+                "leftWidgetKUID": "d258ccba30914317a6f7c156009ce9a9"
+            }, {
+                "leftValueType": "widgetprop",
+                "leftValue": "frmSupport.flxContainer1.flxBodyContainer.reportIssueTabContainer.reportIssueContent.reportTabContentRow3.TextAreaReportIssue.text",
+                "operator": "===",
+                "rightValueType": "varvalue",
+                "rightValue": "tbTempAdmitPage",
+                "leftItemKUID": "b3b5324350fc4699a656b11729de50de",
+                "leftWidgetKUID": "f5f50e8a5af24a698209f64bfc509511"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "any"
+        }, {
+            "id": "SHOW_ALERT__8014d983ff724583b4aa271a44cc2f75",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_ERROR",
+            "alertTitle": "Error",
+            "yesLabel": "OK",
+            "alertMessage": "Please fill all the mandatory feilds",
+            "messageType": "constant",
+            "parentId": "IF_CONDITION__9dabe43185b1434dbb94669677897d8c",
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ELSE_CONDITION__39f182394c564bb0a30f7c1f949b158f",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": null,
+            "criteria": "all"
+        }, {
+            "id": "INVOKE_FUNCTION___746a0a84de46409b9d047d973ce54405",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetSupportReportIssueForm",
+            "display": "resetSupportReportIssueForm",
+            "inputparams": [],
+            "parentId": "ELSE_CONDITION__39f182394c564bb0a30f7c1f949b158f",
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "SHOW_ALERT__9642b6e4567445f0b5e1c6f517e7a17f",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": "Success",
+            "yesLabel": "OK",
+            "alertMessage": "Submitted Successfully",
+            "messageType": "constant",
+            "parentId": "ELSE_CONDITION__39f182394c564bb0a30f7c1f949b158f",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }]
+    }
+}

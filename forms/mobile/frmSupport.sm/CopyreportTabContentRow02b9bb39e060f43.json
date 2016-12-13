@@ -37,7 +37,7 @@
     "canUpdateUI": true,
     "children": [
         "CopysupportImpLabel0196247d4d55e41",
-        "CopyreportSelectModuleListBox024816da7fb0b46"
+        "GeneralSelectModuleListBox"
     ],
     "clipbounds": true,
     "containerweight": 100,
@@ -46,7 +46,7 @@
     "info": null,
     "isvisible": true,
     "kuid": "a6ca7e97c7884110b97c6485b4d65a6a",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "CopyreportIssueContent08a542d7470a24e",
     "pf": "frmSupport",

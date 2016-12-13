@@ -40,8 +40,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "CopyButton0c46395739dc546",
-        "CopyButton0592b16e29d8741"
+        "BtnSupportGeneralFeedBack",
+        "BtnSupportGeneralFormCancel"
     ],
     "clipbounds": true,
     "containerweight": 100,

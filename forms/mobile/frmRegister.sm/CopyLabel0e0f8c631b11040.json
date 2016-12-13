@@ -70,7 +70,7 @@
     "isvisible": true,
     "kuid": "6cbf9a608c28479bb0178f622df7fca2",
     "name": "kony.ui.Label",
-    "parent": "CopyflxRegFormContainer00651f0c1c98243",
+    "parent": "flxRegChildContainer",
     "pf": "frmRegister",
     "textStyle": {
         "letterSpacing": 0,

@@ -45,7 +45,7 @@
     "enablescrolling": true,
     "id": "generalFeedbackTabContaine",
     "info": null,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "203d133e0b0049999bfca3dafb6ecc14",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",
@@ -54,7 +54,7 @@
     "snapgridsize": 10,
     "snaptogrid": false,
     "vizProps": {
-        "hide": true
+        "hide": false
     },
     "wType": "FlexContainer",
     "widgetalignment": 1,

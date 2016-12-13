@@ -52,7 +52,7 @@
     "kuid": "d258ccba30914317a6f7c156009ce9a9",
     "masterdata": [
         [
-            "lb1",
+            "0",
             "Choose Module"
         ],
         [
@@ -80,10 +80,10 @@
     "paddinginpixel": false,
     "parent": "reportTabContentRow1",
     "pf": "frmSupport",
-    "selectedkey": "lb1",
+    "selectedkey": "0",
     "selectedkeys": null,
     "selectedkeyvalue": [
-        "lb1",
+        "0",
         "Choose Module"
     ],
     "selectedkeyvalues": null,

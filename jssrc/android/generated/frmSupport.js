@@ -30,13 +30,13 @@ function addWidgetsfrmSupport() {
     flxActionbarContainer.setDefaultUnit(kony.flex.DP);
     var imgMenuOpen = new kony.ui.Image2({
         "centerY": "50%",
-        "height": "40%",
+        "height": "25dp",
         "id": "imgMenuOpen",
         "isVisible": true,
         "left": "10dp",
         "onTouchStart": AS_NamedActions_59f90898340d4953be384a35208868b0,
         "src": "imgshape11copy9fd7333c0.png",
-        "width": "15%",
+        "width": "25dp",
         "zIndex": 1
     }, {
         "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
@@ -44,7 +44,7 @@ function addWidgetsfrmSupport() {
         "paddingInPixel": false
     }, {});
     var labelConfigurationAdmissionAlerts = new kony.ui.Label({
-        "centerX": "50%",
+        "centerX": "45%",
         "centerY": "50%",
         "id": "labelConfigurationAdmissionAlerts",
         "isVisible": true,
@@ -54,10 +54,10 @@ function addWidgetsfrmSupport() {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "width": "50%",
+        "width": "80%",
         "zIndex": 1
     }, {
-        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
+        "contentAlignment": constants.CONTENT_ALIGN_CENTER,
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {
@@ -251,7 +251,7 @@ function addWidgetsfrmSupport() {
         "clipBounds": true,
         "id": "supportImpLabel1",
         "isVisible": true,
-        "layoutType": kony.flex.FREE_FORM,
+        "layoutType": kony.flex.FLOW_HORIZONTAL,
         "left": "3%",
         "right": "2%",
         "skin": "slFbox",
@@ -281,7 +281,7 @@ function addWidgetsfrmSupport() {
     var Label0e5a66263aefe43 = new kony.ui.Label({
         "id": "Label0e5a66263aefe43",
         "isVisible": true,
-        "left": "90dp",
+        "left": "5dp",
         "skin": "starSkin",
         "text": "*",
         "textStyle": {
@@ -305,7 +305,7 @@ function addWidgetsfrmSupport() {
         "isVisible": true,
         "left": "3%",
         "masterData": [
-            ["lb1", "Choose Module"],
+            ["0", "Choose Module"],
             ["lb2", "Admission Details"],
             ["lb3", "Dashboard"],
             ["Key335", "Discharge Notifications"],
@@ -313,8 +313,8 @@ function addWidgetsfrmSupport() {
             ["Key255", "Profile"]
         ],
         "right": "2%",
-        "selectedKey": "lb1",
-        "selectedKeyValue": ["lb1", "Choose Module"],
+        "selectedKey": "0",
+        "selectedKeyValue": ["0", "Choose Module"],
         "skin": "supportFieldsSkin",
         "top": "30dp",
         "width": "95%",
@@ -416,7 +416,7 @@ function addWidgetsfrmSupport() {
         "isVisible": true,
         "left": "3%",
         "masterData": [
-            ["lb1", "Choose Browser"],
+            ["0", "Choose Browser"],
             ["lb2", "Internet Explorer"],
             ["lb3", "Firefox"],
             ["Key901", "Google Chrome"],
@@ -425,8 +425,8 @@ function addWidgetsfrmSupport() {
             ["Key910", "Other"]
         ],
         "right": "2%",
-        "selectedKey": "lb1",
-        "selectedKeyValue": ["lb1", "Choose Browser"],
+        "selectedKey": "0",
+        "selectedKeyValue": ["0", "Choose Browser"],
         "skin": "supportFieldsSkin",
         "top": "35dp",
         "width": "95%",
@@ -458,7 +458,7 @@ function addWidgetsfrmSupport() {
         "clipBounds": true,
         "id": "supportImpLabel2",
         "isVisible": true,
-        "layoutType": kony.flex.FREE_FORM,
+        "layoutType": kony.flex.FLOW_HORIZONTAL,
         "left": "3%",
         "right": "2%",
         "skin": "slFbox",
@@ -488,7 +488,7 @@ function addWidgetsfrmSupport() {
     var CopyLabel0b62b8d65633742 = new kony.ui.Label({
         "id": "CopyLabel0b62b8d65633742",
         "isVisible": true,
-        "left": "220dp",
+        "left": "5dp",
         "skin": "starSkin",
         "text": "*",
         "textStyle": {
@@ -506,10 +506,10 @@ function addWidgetsfrmSupport() {
         "textCopyable": false
     });
     supportImpLabel2.add(CopyreportSelectModuleLabel05da12ea0ebfe47, CopyLabel0b62b8d65633742);
-    var TextArea06c9a8d1ee3eb4a = new kony.ui.TextArea2({
+    var TextAreaReportIssue = new kony.ui.TextArea2({
         "autoCapitalize": constants.TEXTAREA_AUTO_CAPITALIZE_NONE,
         "height": "90dp",
-        "id": "TextArea06c9a8d1ee3eb4a",
+        "id": "TextAreaReportIssue",
         "isVisible": true,
         "keyBoardStyle": constants.TEXTAREA_KEY_BOARD_STYLE_DEFAULT,
         "left": "3%",
@@ -525,7 +525,7 @@ function addWidgetsfrmSupport() {
         "padding": [2, 2, 2, 2],
         "paddingInPixel": false
     }, {});
-    reportTabContentRow3.add(supportImpLabel2, TextArea06c9a8d1ee3eb4a);
+    reportTabContentRow3.add(supportImpLabel2, TextAreaReportIssue);
     var reportTabContentRow4 = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
         "clipBounds": true,
@@ -572,10 +572,10 @@ function addWidgetsfrmSupport() {
         "textCopyable": false
     });
     CopysupportImpLabel08bacddd0efde47.add(CopyreportSelectModuleLabel0feac97584cd545);
-    var CopyTextArea0d5cfcb76e40b41 = new kony.ui.TextArea2({
+    var TextAreaReportExperience = new kony.ui.TextArea2({
         "autoCapitalize": constants.TEXTAREA_AUTO_CAPITALIZE_NONE,
         "height": "90dp",
-        "id": "CopyTextArea0d5cfcb76e40b41",
+        "id": "TextAreaReportExperience",
         "isVisible": true,
         "keyBoardStyle": constants.TEXTAREA_KEY_BOARD_STYLE_DEFAULT,
         "left": "3%",
@@ -591,7 +591,7 @@ function addWidgetsfrmSupport() {
         "padding": [2, 2, 2, 2],
         "paddingInPixel": false
     }, {});
-    reportTabContentRow4.add(CopysupportImpLabel08bacddd0efde47, CopyTextArea0d5cfcb76e40b41);
+    reportTabContentRow4.add(CopysupportImpLabel08bacddd0efde47, TextAreaReportExperience);
     var reportTabContentRow5 = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
         "clipBounds": true,
@@ -638,10 +638,10 @@ function addWidgetsfrmSupport() {
         "textCopyable": false
     });
     CopysupportImpLabel0e376c204ebb24b.add(CopyreportSelectModuleLabel030d9117ae13447);
-    var CopyTextArea0412831b8e7744b = new kony.ui.TextArea2({
+    var TextAreaReportSteps = new kony.ui.TextArea2({
         "autoCapitalize": constants.TEXTAREA_AUTO_CAPITALIZE_NONE,
         "height": "90dp",
-        "id": "CopyTextArea0412831b8e7744b",
+        "id": "TextAreaReportSteps",
         "isVisible": true,
         "keyBoardStyle": constants.TEXTAREA_KEY_BOARD_STYLE_DEFAULT,
         "left": "3%",
@@ -657,7 +657,7 @@ function addWidgetsfrmSupport() {
         "padding": [2, 2, 2, 2],
         "paddingInPixel": false
     }, {});
-    reportTabContentRow5.add(CopysupportImpLabel0e376c204ebb24b, CopyTextArea0412831b8e7744b);
+    reportTabContentRow5.add(CopysupportImpLabel0e376c204ebb24b, TextAreaReportSteps);
     var CopyLabel02369650cae8945 = new kony.ui.Label({
         "id": "CopyLabel02369650cae8945",
         "isVisible": true,
@@ -772,12 +772,12 @@ function addWidgetsfrmSupport() {
         "zIndex": 1
     }, {}, {});
     CopyFlexContainer07895a70b818e49.setDefaultUnit(kony.flex.DP);
-    var Button0ea722b1cab0648 = new kony.ui.Button({
-        "focusSkin": "slButtonGlossRed",
+    var BtnSupportReportIssueSend = new kony.ui.Button({
         "height": "40dp",
-        "id": "Button0ea722b1cab0648",
+        "id": "BtnSupportReportIssueSend",
         "isVisible": true,
         "left": "25%",
+        "onClick": AS_NamedActions_ccb683f3d7784682a28138c1ab3124b6,
         "skin": "CopyslButtonGlossBlue07a309eb8f7d740",
         "text": "Send",
         "top": "0dp",
@@ -789,12 +789,12 @@ function addWidgetsfrmSupport() {
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {});
-    var CopyButton02d3cd22ec1774f = new kony.ui.Button({
-        "focusSkin": "slButtonGlossRed",
+    var BtnSupportReportIssueCancel = new kony.ui.Button({
         "height": "40dp",
-        "id": "CopyButton02d3cd22ec1774f",
+        "id": "BtnSupportReportIssueCancel",
         "isVisible": true,
         "left": "1%",
+        "onClick": AS_NamedActions_1d16dc8b63a8454fae546b851aa9a1ec,
         "skin": "CopyslButtonGlossBlue0b23b36f274c447",
         "text": "Cancel",
         "top": "0dp",
@@ -806,7 +806,7 @@ function addWidgetsfrmSupport() {
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {});
-    CopyFlexContainer07895a70b818e49.add(Button0ea722b1cab0648, CopyButton02d3cd22ec1774f);
+    CopyFlexContainer07895a70b818e49.add(BtnSupportReportIssueSend, BtnSupportReportIssueCancel);
     reportIssueContent.add(reportTabContentRow1, reportIssueHeadingSection1, reportTabContentRow2, reportTabContentRow3, reportTabContentRow4, reportTabContentRow5, CopyLabel02369650cae8945, CopyFlexScrollContainer05c466fcc95124e, CopyLabel0cf43a64cbc2243, CopyFlexContainer07895a70b818e49);
     reportIssueTabContainer.add(reportActiveIcon, CopyLabel02a9fff528fad4a, reportIssueContent);
     var generalFeedbackTabContaine = new kony.ui.FlexContainer({
@@ -814,7 +814,7 @@ function addWidgetsfrmSupport() {
         "clipBounds": true,
         "height": "82%",
         "id": "generalFeedbackTabContaine",
-        "isVisible": true,
+        "isVisible": false,
         "layoutType": kony.flex.FLOW_VERTICAL,
         "left": "0dp",
         "skin": "CopyslFbox01d89946072df49",
@@ -885,7 +885,7 @@ function addWidgetsfrmSupport() {
         "clipBounds": true,
         "id": "CopyreportTabContentRow02b9bb39e060f43",
         "isVisible": true,
-        "layoutType": kony.flex.FREE_FORM,
+        "layoutType": kony.flex.FLOW_VERTICAL,
         "left": "0dp",
         "skin": "slFbox",
         "top": "10dp",
@@ -946,13 +946,13 @@ function addWidgetsfrmSupport() {
         "textCopyable": false
     });
     CopysupportImpLabel0196247d4d55e41.add(CopyreportSelectModuleLabel0c33e63d9b0b34f, CopyLabel021897b430ddf46);
-    var CopyreportSelectModuleListBox024816da7fb0b46 = new kony.ui.ListBox({
+    var GeneralSelectModuleListBox = new kony.ui.ListBox({
         "height": "40dp",
-        "id": "CopyreportSelectModuleListBox024816da7fb0b46",
+        "id": "GeneralSelectModuleListBox",
         "isVisible": true,
         "left": "3%",
         "masterData": [
-            ["lb1", "Choose Module"],
+            ["0", "Choose Module"],
             ["lb2", "Admission Details"],
             ["lb3", "Dashboard"],
             ["Key335", "Discharge Notifications"],
@@ -960,10 +960,10 @@ function addWidgetsfrmSupport() {
             ["Key255", "Profile"]
         ],
         "right": "2%",
-        "selectedKey": "lb1",
-        "selectedKeyValue": ["lb1", "Choose Module"],
+        "selectedKey": "0",
+        "selectedKeyValue": ["0", "Choose Module"],
         "skin": "supportFieldsSkin",
-        "top": "30dp",
+        "top": "10dp",
         "width": "95%",
         "zIndex": 1
     }, {
@@ -974,7 +974,7 @@ function addWidgetsfrmSupport() {
         "applySkinsToPopup": true,
         "viewType": constants.LISTBOX_VIEW_TYPE_LISTVIEW
     });
-    CopyreportTabContentRow02b9bb39e060f43.add(CopysupportImpLabel0196247d4d55e41, CopyreportSelectModuleListBox024816da7fb0b46);
+    CopyreportTabContentRow02b9bb39e060f43.add(CopysupportImpLabel0196247d4d55e41, GeneralSelectModuleListBox);
     var CopyreportTabContentRow0bc2c9c68d8484e = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_HEIGHT,
         "clipBounds": true,
@@ -1041,10 +1041,10 @@ function addWidgetsfrmSupport() {
         "textCopyable": false
     });
     CopysupportImpLabel0b33431c314e244.add(CopyreportSelectModuleLabel01b42aafc30ab4b, CopyLabel0a1b4d1ec85a843);
-    var CopyTextArea06f5b4f2416bb47 = new kony.ui.TextArea2({
+    var TextAreaGeneralFeedBack = new kony.ui.TextArea2({
         "autoCapitalize": constants.TEXTAREA_AUTO_CAPITALIZE_NONE,
         "height": "90dp",
-        "id": "CopyTextArea06f5b4f2416bb47",
+        "id": "TextAreaGeneralFeedBack",
         "isVisible": true,
         "keyBoardStyle": constants.TEXTAREA_KEY_BOARD_STYLE_DEFAULT,
         "left": "3%",
@@ -1060,7 +1060,7 @@ function addWidgetsfrmSupport() {
         "padding": [2, 2, 2, 2],
         "paddingInPixel": false
     }, {});
-    CopyreportTabContentRow0bc2c9c68d8484e.add(CopysupportImpLabel0b33431c314e244, CopyTextArea06f5b4f2416bb47);
+    CopyreportTabContentRow0bc2c9c68d8484e.add(CopysupportImpLabel0b33431c314e244, TextAreaGeneralFeedBack);
     var CopyFlexContainer0b2bc9da1772a4c = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "bottom": "20dp",
@@ -1076,11 +1076,12 @@ function addWidgetsfrmSupport() {
         "zIndex": 1
     }, {}, {});
     CopyFlexContainer0b2bc9da1772a4c.setDefaultUnit(kony.flex.DP);
-    var CopyButton0c46395739dc546 = new kony.ui.Button({
+    var BtnSupportGeneralFeedBack = new kony.ui.Button({
         "height": "40dp",
-        "id": "CopyButton0c46395739dc546",
+        "id": "BtnSupportGeneralFeedBack",
         "isVisible": true,
         "left": "25%",
+        "onClick": AS__adede5e9b0c24636a23ecb673f000d7d,
         "skin": "CopyslButtonGlossBlue07a309eb8f7d740",
         "text": "Send",
         "top": "0dp",
@@ -1092,11 +1093,12 @@ function addWidgetsfrmSupport() {
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {});
-    var CopyButton0592b16e29d8741 = new kony.ui.Button({
+    var BtnSupportGeneralFormCancel = new kony.ui.Button({
         "height": "40dp",
-        "id": "CopyButton0592b16e29d8741",
+        "id": "BtnSupportGeneralFormCancel",
         "isVisible": true,
         "left": "1%",
+        "onClick": AS__36dbef797488485884826b2596c01168,
         "skin": "CopyslButtonGlossBlue0b23b36f274c447",
         "text": "Cancel",
         "top": "0dp",
@@ -1108,7 +1110,7 @@ function addWidgetsfrmSupport() {
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false
     }, {});
-    CopyFlexContainer0b2bc9da1772a4c.add(CopyButton0c46395739dc546, CopyButton0592b16e29d8741);
+    CopyFlexContainer0b2bc9da1772a4c.add(BtnSupportGeneralFeedBack, BtnSupportGeneralFormCancel);
     CopyreportIssueContent08a542d7470a24e.add(CopyreportTabContentRow02b9bb39e060f43, CopyreportTabContentRow0bc2c9c68d8484e, CopyFlexContainer0b2bc9da1772a4c);
     generalFeedbackTabContaine.add(CopyreportActiveIcon07feec779acf14d, CopyLabel06909932e1ebc46, CopyreportIssueContent08a542d7470a24e);
     flxBodyContainer.add(supportTabRow, reportIssueTabContainer, generalFeedbackTabContaine);
