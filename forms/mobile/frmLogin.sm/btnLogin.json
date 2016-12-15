@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "33dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
@@ -26,7 +26,7 @@
     "_text_": "Sign In",
     "_top_": {
         "type": "string",
-        "value": "7dp"
+        "value": "10dp"
     },
     "_width_": {
         "type": "string",

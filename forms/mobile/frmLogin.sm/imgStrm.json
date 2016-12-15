@@ -27,7 +27,7 @@
     "_src_": "footer.png",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "3dp"
     },
     "_width_": {
         "type": "string",
@@ -42,7 +42,7 @@
     "context": {
         "channel": "mobile",
         "formID": "frmLogin",
-        "platform": "spaan",
+        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },

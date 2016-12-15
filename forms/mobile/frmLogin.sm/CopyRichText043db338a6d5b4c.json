@@ -20,17 +20,17 @@
         0,
         0,
         0,
-        0
+        2
     ],
     "_right_": {
         "type": "string",
         "value": "5%"
     },
     "_skin_": "s76ea63c3c4e4166832c038a42f877a4",
-    "_text_": "You are about to access an HCA - Information Technology & Services, Inc. (IT&S) approved computer system. This system is to be used only by authorized users of IT&S, its customers and affiliates. As a user of this system, you have no expectation of privacy rights or ownership in anything you may create, store, send or receive on this system. By proceeding, your use of this system",
+    "_text_": "3) constitutes your agreement to comply with all privacy, security and other policies and procedures of IT&S and your company\nIf you have any questions about what constitutes an acceptable use by you, please consult the written policies provided by IT&S and your company.",
     "_top_": {
         "type": "string",
-        "value": "106%"
+        "value": "140%"
     },
     "_width_": {
         "type": "string",
@@ -40,11 +40,12 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "CopyRichText0edfdb231ea7a45",
+    "id": "CopyRichText043db338a6d5b4c",
     "info": null,
     "isvisible": true,
-    "kuid": "b0a59172c37a40a8a06629a47cfbbb41",
+    "kuid": "b05b78a6cd0447339698ced26896c289",
     "name": "kony.ui.RichText",
+    "paddinginpixel": false,
     "parent": "frmLogin",
     "pf": "frmLogin",
     "wType": "RichText",
