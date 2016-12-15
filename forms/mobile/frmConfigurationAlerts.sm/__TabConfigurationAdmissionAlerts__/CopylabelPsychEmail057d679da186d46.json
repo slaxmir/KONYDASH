@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "-16dp"
-    },
     "_margin_": [
         1,
         1,
@@ -22,7 +18,7 @@
         0,
         0
     ],
-    "_skin_": "s645b4675f0645789f739345807c7f12",
+    "_skin_": "s35fe2cdabf246b096237403e4f7de7f",
     "_text_": "Email",
     "_top_": {
         "type": "string",

@@ -1,59 +1,31 @@
 {
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
-        "type": "string",
-        "value": "10%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_margin_": [
-        0,
-        0,
-        0,
-        0
-    ],
-    "_orientation_": 6,
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_percent_": true,
     "_skin_": "s16a23613a4c4a67a4324786318bedf3",
-    "_top_": {
-        "type": "string",
-        "value": "50%"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "100%"
-    },
-    "allboxes": [],
-    "autogrowmode": 0,
+    "_srcKuid_": "m6d2d9930b954ad88315a66042c3bf7f",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
+    "channel": "mobile",
     "children": [
         "imgConfigureAdmissionAlertsl",
         "labelConfigureAdmissionAlerts"
     ],
-    "clipbounds": true,
-    "containerweight": 100,
-    "enablescrolling": true,
+    "context": {},
+    "dataDiffs": {},
     "id": "flxConfigarationAlertsContainer",
-    "ide_onClick": "AS_NamedActions_ae9476a8164c45e09f2c52d480b93779",
-    "info": null,
+    "instanceOf": "m6d2d9930b954ad88315a66042c3bf7f",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "7dd815234bc94f9fb66dd796e8e19158",
+    "kuid": "m6bcaecc56a74ef987a6c46385adf291",
     "layouttype": 2,
+    "masterInstance": true,
     "name": "kony.ui.FlexContainer",
     "parent": "flxMenuItemsContainer",
     "pf": "frmDashBoard",
-    "snapgridsize": 10,
-    "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "wType": "FlexContainer"
 }
