@@ -28,8 +28,10 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
+        "admitTabActiveBorder1",
         "innerTabRow",
-        "patientMandatorySection"
+        "patientMandatorySection",
+        "admitTabStickyFooter1"
     ],
     "clipbounds": true,
     "containerweight": 93,
