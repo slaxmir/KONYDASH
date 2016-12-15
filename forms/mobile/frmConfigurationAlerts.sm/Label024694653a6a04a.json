@@ -1,26 +1,26 @@
 {
     "__parentReadjusting__": false,
     "_padding_": [
-        0,
-        0,
-        0,
-        0
+        2,
+        2,
+        2,
+        2
     ],
-    "_skin_": "s6f58fa3350b43f599c3844f4d87d7a6",
-    "_srcKuid_": "m1774b0f7cd34ddd9a579b0f13dd453a",
+    "_skin_": "sea496bfacc74c1c8c4d8287ed73ec05",
+    "_srcKuid_": "maf8d06e6d474f77807d8429a58e4858",
     "areflexpropsreferenced": true,
     "canUpdateUI": true,
     "channel": "mobile",
     "context": {},
     "dataDiffs": {},
-    "id": "labelSupport",
-    "instanceOf": "m1774b0f7cd34ddd9a579b0f13dd453a",
+    "id": "Label024694653a6a04a",
+    "instanceOf": "maf8d06e6d474f77807d8429a58e4858",
     "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "me694d09310d4c2db9879bc8deda895a",
+    "kuid": "mf66228e498e4ee3a2bf04f0682dae5e",
     "masterInstance": true,
     "name": "kony.ui.Label",
-    "parent": "flxSupportContainer",
+    "parent": "FlexContainer0b649aae5ffd040",
     "pf": "frmConfigurationAlerts",
     "wType": "Label"
 }

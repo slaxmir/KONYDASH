@@ -1,40 +1,16 @@
 {
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
-        "type": "string",
-        "value": "75%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_margin_": [
-        0,
-        0,
-        0,
-        0
-    ],
-    "_orientation_": 6,
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_percent_": true,
     "_skin_": "s16a23613a4c4a67a4324786318bedf3",
-    "_top_": {
-        "type": "string",
-        "value": "25%"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "100%"
-    },
-    "allboxes": [],
-    "autogrowmode": 0,
+    "_srcKuid_": "m5e3b30e086849148209d881a2a59961",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
+    "channel": "mobile",
     "children": [
         "flxDashBoardContainer",
         "flxDischargeNotificationContainer",
@@ -43,22 +19,20 @@
         "flxProfileContainer",
         "flxConfigarationAlertsContainer",
         "flxAlerttoneSettings",
-        "flxLogoutContainer"
+        "flxLogoutContainer",
+        "FlexContainer0b649aae5ffd040"
     ],
-    "clipbounds": true,
-    "containerweight": 100,
-    "enablescrolling": true,
+    "context": {},
+    "dataDiffs": {},
     "id": "flxMenuItemsContainer",
-    "info": null,
+    "instanceOf": "m5e3b30e086849148209d881a2a59961",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "de9c82b6111a4450b49c37309253bc8e",
+    "kuid": "m5efc06ab2aa43f8a7ddece213d3e0ed",
     "layouttype": 2,
+    "masterInstance": true,
     "name": "kony.ui.FlexContainer",
     "parent": "flxMenuContainer",
     "pf": "frmDashBoard",
-    "snapgridsize": 10,
-    "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "wType": "FlexContainer"
 }
