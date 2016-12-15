@@ -29,8 +29,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxMenuContainer",
-        "flxContainer1"
+        "flxContainer1",
+        "flxMenuContainer"
     ],
     "containerweight": 100,
     "currentLocale": null,
