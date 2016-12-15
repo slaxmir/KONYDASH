@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "200dp"
+        "value": "194dp"
     },
     "_left_": {
         "type": "string",
@@ -26,7 +26,7 @@
     "_skin_": "s2a016ad20de42e9858c145b4fde0e87",
     "_top_": {
         "type": "string",
-        "value": "3%"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
@@ -36,12 +36,12 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "centerx": {
-        "type": "number",
-        "value": "180"
+        "type": "string",
+        "value": "50%"
     },
     "children": [
         "Label0c431f692987d40",
-        "Copytfusername038e9b92b238347",
+        "Copytfusername0efd671ca5a2745",
         "Copytfusername066b2e000fa4241",
         "Copytfusername0a9c9b374d55049"
     ],
@@ -52,7 +52,7 @@
     "info": null,
     "isvisible": true,
     "kuid": "63137c4de552433f8856f3da19796ac4",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "flxScrollBodyContainer",
     "pf": "frmEditProfile",
