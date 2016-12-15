@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "98"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s81fcd4bcf1c4f7680bd4b6a18286e33",
+    "_text_": "Swaraj RC",
+    "_top_": {
+        "type": "string",
+        "value": "116dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "51.08%"
+    },
+    "childInstances": [
+        "mda9406f154b444eac58546a8a3a1657",
+        "m3792e362ecc4e439c7d8326f8ddcc0a",
+        "m9638f99ded54466ab9ee5e620cf433f",
+        "mafdb8ec7095433d910731316b453e45"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "labelUsername",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "m51e9a98e33141f3ab45aba91aacf174",
+    "name": "kony.ui.Label",
+    "parent": "flxMenuProfileDetailsContainer",
+    "pf": "Master02a90633ee58a41",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

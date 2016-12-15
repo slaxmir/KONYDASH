@@ -39,6 +39,12 @@ function submitRegistrationForm(){
     	(currentForm.TextFieldRegUserName.text == temp) ||
     	(currentForm.TextFieldRegCaptcha.text == temp)){
     alert("Please fille all the feilds");
+  }if((currentForm.TextFieldRegFirstName.text != temp && currentForm.TextFieldRegFirstName.text == "") ||
+    	(currentForm.TextFieldRegLastName.text != temp && currentForm.TextFieldRegLastName.text == "")||
+    	(currentForm.TextFieldRegEmailId.text != temp && currentForm.TextFieldRegEmailId.text == "")||
+    	(currentForm.TextFieldRegUserName.text != temp && currentForm.TextFieldRegUserName.text == "") ||
+    	(currentForm.TextFieldRegCaptcha.text != temp && currentForm.TextFieldRegCaptcha.text == "")){
+    alert("Please fille all the feilds");
   }else if (currentForm.ImageCheckboxRegister.src != "checked"){
     alert("Please tick the check box");
   }else if ((currentForm.TextFieldRegCaptcha.text != currentForm.LabelCaptchaRegistration.text )){
