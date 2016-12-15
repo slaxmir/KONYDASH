@@ -3,12 +3,12 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "2%"
     },
     "_margin_": [
         0,
@@ -17,20 +17,29 @@
         0
     ],
     "_padding_": [
-        0,
+        2,
         0,
         0,
         0
     ],
     "_placeholder_": "klkl",
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
     "_skin_": "s09a11d0700e4bb295a9dcc75f243145",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "10dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "96%"
+    },
+    "android": {
+        "psp": {
+            "placeholderSkin": "s00a3fb1e2c94d62849294751fecca45"
+        }
     },
     "canUpdateUI": true,
     "containerweight": 100,
@@ -44,6 +53,7 @@
         "topLevelBox": null
     },
     "dropdownimage": "selecticon.png",
+    "focusskin": "s4b7c6c7fe7046c4b07cc111abbab963",
     "groupcells": false,
     "id": "selectFormTypeList",
     "ide_onSelection": "AS_NamedActions_96dba70c43c645a7a93754c6f2c04519",
@@ -82,6 +92,9 @@
         }
     },
     "viewtype": 0,
+    "vizProps": {
+        "hide": false
+    },
     "wType": "ListBox",
     "zindex": 1
 }
