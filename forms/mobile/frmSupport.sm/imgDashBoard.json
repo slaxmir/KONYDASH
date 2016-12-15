@@ -1,58 +1,26 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizImage2",
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_base64_": null,
-    "_height_": {
-        "type": "string",
-        "value": "75%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_margin_": [
-        0,
-        0,
-        0,
-        0
-    ],
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_skin_": "sd0b50d09a8d4170be69fdc9e2f135ae",
-    "_src_": "menu_03.png",
-    "_top_": {
-        "type": "string",
-        "value": "5dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "25%"
-    },
+    "_skin_": "s082eb711f8643d6bf3c2031f0c90278",
+    "_srcKuid_": "mbc14100df0a4ced8e10d7911561be0d",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
-    "containerweight": 100,
-    "context": {
-        "channel": "mobile",
-        "formID": "frmSupport",
-        "platform": "android",
-        "templateType": "forms",
-        "topLevelBox": null
-    },
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
     "id": "imgDashBoard",
-    "imagescalemode": 1,
-    "info": null,
-    "invokedProperty": "src",
+    "instanceOf": "mbc14100df0a4ced8e10d7911561be0d",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "94abac2d80e4402ca9c85dd9b75d9f81",
+    "kuid": "m207af238ced420f825186b3ccb377d3",
+    "masterInstance": true,
     "name": "kony.ui.Image2",
     "parent": "flxDashBoardContainer",
     "pf": "frmSupport",
-    "srcType": 1,
-    "wType": "Image",
-    "widgetalignment": 5,
-    "zindex": 1
+    "wType": "Image"
 }
