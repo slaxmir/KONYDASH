@@ -1,5 +1,6 @@
 {
   "android": {
+    "font_name": "Helvetica",
     "font_size": 71,
     "isForked": false
   },
@@ -14,11 +15,11 @@
     "isForked": false
   },
   "fontSizeInPx": true,
-  "font_color": "378c37ff",
+  "font_color": "0072c6ff",
   "font_name": "Helvetica",
   "font_size": 71,
   "font_style": "normal",
-  "font_weight": "normal",
+  "font_weight": "bold",
   "ipad": {
     "font_size": 107,
     "isForked": false
@@ -32,7 +33,7 @@
     "font_size": 188,
     "isForked": false
   },
-  "kuid": "scab9e12f5e84ea1991e08f08c9a36f4",
+  "kuid": "s35fe2cdabf246b096237403e4f7de7f",
   "spaan": {
     "font_size": 125,
     "isForked": false
