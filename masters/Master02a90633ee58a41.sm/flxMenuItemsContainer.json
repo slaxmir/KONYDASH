@@ -38,7 +38,8 @@
     "childInstances": [
         "m5efc06ab2aa43f8a7ddece213d3e0ed",
         "m20ad09f0cd34b79a18db1fca78735cf",
-        "mbb30b47ccbf4c178d86c72ff2a91136"
+        "mbb30b47ccbf4c178d86c72ff2a91136",
+        "md555cdceea64b9eb81c006e7af42295"
     ],
     "children": [
         "flxDashBoardContainer",

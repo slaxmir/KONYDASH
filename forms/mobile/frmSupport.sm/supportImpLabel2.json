@@ -50,7 +50,7 @@
     "info": null,
     "isvisible": true,
     "kuid": "553707a2b10c4519931cf1c5bd3cc570",
-    "layouttype": 2,
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "reportTabContentRow3",
     "pf": "frmSupport",

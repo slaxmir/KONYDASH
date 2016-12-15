@@ -52,7 +52,7 @@
     "kuid": "4249448e816f4a66a8b605082c43ec13",
     "masterdata": [
         [
-            "lb1",
+            "0",
             "Choose Browser"
         ],
         [
@@ -84,10 +84,10 @@
     "paddinginpixel": false,
     "parent": "reportTabContentRow2",
     "pf": "frmSupport",
-    "selectedkey": "lb1",
+    "selectedkey": "0",
     "selectedkeys": null,
     "selectedkeyvalue": [
-        "lb1",
+        "0",
         "Choose Browser"
     ],
     "selectedkeyvalues": null,

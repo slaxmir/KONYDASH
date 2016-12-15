@@ -312,7 +312,7 @@ function addWidgetsfrmAdmission() {
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
         "displayText": true,
-        "padding": [1, 0, 1, 0],
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {});
     flxConBoardingPass.add(CopyimgPrint08684fc3db5544c, CopybtnReferringFacilityInfo0d11d054a96bb4b);
@@ -358,7 +358,7 @@ function addWidgetsfrmAdmission() {
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
         "displayText": true,
-        "padding": [1, 0, 1, 0],
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {});
     flxConMOTform.add(CopyimgPrint0fca700c6b20045, CopybtnReferringFacilityInfo0cc949a35197749);

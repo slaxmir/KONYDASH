@@ -65,7 +65,7 @@
     "isvisible": true,
     "kuid": "50537f6eaeaf4e9b94f52eb073dceeeb",
     "name": "kony.ui.Label",
-    "parent": "CopyflxRegFormContainer00651f0c1c98243",
+    "parent": "flxRegChildContainer",
     "pf": "frmRegister",
     "tooltip": "",
     "wType": "Label",

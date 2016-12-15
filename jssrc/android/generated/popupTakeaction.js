@@ -46,6 +46,7 @@ function addWidgetspopupTakeaction() {
         "focusSkin": "slButtonGlossRed",
         "id": "TakeActionCloseIcon",
         "isVisible": true,
+        "onClick": AS_Label_d06b5d10406e4206ad38e4c06d979596,
         "skin": "popCloseIconSkin",
         "text": "X"
     }, {

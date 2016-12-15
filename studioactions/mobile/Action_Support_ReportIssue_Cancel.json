@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_1d16dc8b63a8454fae546b851aa9a1ec": {
+        "id": "AS_NamedActions_1d16dc8b63a8454fae546b851aa9a1ec",
+        "type": "ACTION_SEQUENCE",
+        "name": "Action_Support_ReportIssue_Cancel",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f0da5fc9fc6c459aac3de1df65ba3a15",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetSupportReportIssueForm",
+            "display": "resetSupportReportIssueForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

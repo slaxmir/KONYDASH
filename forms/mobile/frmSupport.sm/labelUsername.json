@@ -1,69 +1,26 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizLabel",
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
-        "type": "ref",
-        "value": "preferred"
-    },
-    "_left_": {
-        "type": "number",
-        "value": "98"
-    },
-    "_margin_": [
-        1,
-        1,
-        1,
-        1
-    ],
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_skin_": "s6f58fa3350b43f599c3844f4d87d7a6",
-    "_text_": "Swaraj RC",
-    "_top_": {
-        "type": "string",
-        "value": "120dp"
-    },
-    "_width_": {
-        "type": "ref",
-        "value": "preferred"
-    },
-    "_wrapping_": 2,
-    "android": {
-        "textStyle": {
-            "letterSpacing": 0,
-            "strikeThrough": false
-        }
-    },
+    "_skin_": "s81fcd4bcf1c4f7680bd4b6a18286e33",
+    "_srcKuid_": "m51e9a98e33141f3ab45aba91aacf174",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
-    "containerweight": 100,
-    "contentalignment": 4,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
     "id": "labelUsername",
-    "info": null,
-    "ipad": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
-    "iphone": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
+    "instanceOf": "m51e9a98e33141f3ab45aba91aacf174",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "0c7c6df3bf854e29894ef78e3fc8481d",
+    "kuid": "mafdb8ec7095433d910731316b453e45",
+    "masterInstance": true,
     "name": "kony.ui.Label",
     "parent": "flxMenuProfileDetailsContainer",
     "pf": "frmSupport",
-    "tooltip": "",
-    "wType": "Label",
-    "zindex": 1
+    "wType": "Label"
 }
