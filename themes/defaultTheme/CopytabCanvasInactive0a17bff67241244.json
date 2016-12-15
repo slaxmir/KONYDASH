@@ -3,12 +3,12 @@
     "font_size": 119,
     "isForked": false
   },
-  "background_color": "ffffffff",
+  "background_color": "e9eff2ff",
   "bg_type": "one",
   "border_color": "edeffaff",
   "border_style": "plain",
   "border_type": 0,
-  "border_width": 1,
+  "border_width": 0,
   "desktopweb": {
     "font_size": 417,
     "isForked": false
