@@ -1,21 +1,5 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizLabel",
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
-        "type": "string",
-        "value": "100%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "25%"
-    },
-    "_margin_": [
-        1,
-        1,
-        1,
-        1
-    ],
     "_padding_": [
         0,
         0,
@@ -23,43 +7,20 @@
         0
     ],
     "_skin_": "s6f58fa3350b43f599c3844f4d87d7a6",
-    "_text_": "Support",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "75%"
-    },
-    "_wrapping_": 2,
-    "android": {
-        "textStyle": {
-            "letterSpacing": 0,
-            "strikeThrough": false
-        }
-    },
+    "_srcKuid_": "m1774b0f7cd34ddd9a579b0f13dd453a",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
-    "containerweight": 100,
-    "contentalignment": 4,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
     "id": "labelSupport",
-    "info": null,
-    "ipad": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
-    "iphone": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
+    "instanceOf": "m1774b0f7cd34ddd9a579b0f13dd453a",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "47dff72f1a5840d39dde3c771488f3dc",
+    "kuid": "m12f9a9b6fd64c6b8b40c5bffd6376d8",
+    "masterInstance": true,
     "name": "kony.ui.Label",
     "parent": "flxSupportContainer",
     "pf": "frmDashBoard",
-    "tooltip": "",
-    "wType": "Label",
-    "zindex": 1
+    "wType": "Label"
 }
