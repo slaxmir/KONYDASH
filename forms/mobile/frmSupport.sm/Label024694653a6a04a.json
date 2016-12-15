@@ -1,26 +1,26 @@
 {
     "__parentReadjusting__": false,
     "_padding_": [
-        0,
-        0,
-        0,
-        0
+        2,
+        2,
+        2,
+        2
     ],
-    "_skin_": "s6f58fa3350b43f599c3844f4d87d7a6",
-    "_srcKuid_": "me0a4a6f8e584d91841d7a517f170189",
+    "_skin_": "sea496bfacc74c1c8c4d8287ed73ec05",
+    "_srcKuid_": "maf8d06e6d474f77807d8429a58e4858",
     "areflexpropsreferenced": true,
     "canUpdateUI": true,
     "channel": "mobile",
     "context": {},
     "dataDiffs": {},
-    "id": "labelLogout",
-    "instanceOf": "me0a4a6f8e584d91841d7a517f170189",
+    "id": "Label024694653a6a04a",
+    "instanceOf": "maf8d06e6d474f77807d8429a58e4858",
     "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "m6591c8a8eb44e60ba7c613835ff7ab3",
+    "kuid": "m42bd7e7e57649fa9de54e3932f5eb0a",
     "masterInstance": true,
     "name": "kony.ui.Label",
-    "parent": "flxLogoutContainer",
+    "parent": "FlexContainer0b649aae5ffd040",
     "pf": "frmSupport",
     "wType": "Label"
 }
