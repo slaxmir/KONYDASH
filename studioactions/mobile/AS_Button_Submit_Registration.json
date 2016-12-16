@@ -1,0 +1,28 @@
+{
+    "AS_Button_ae58b92fce404eeba00b163d8e4039c7": {
+        "id": "AS_Button_ae58b92fce404eeba00b163d8e4039c7",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Button_Submit_Registration",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegister",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2009436c05454dd2b794ade3e07a66a2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ec50ababd2644f0eb9e8c40871961320",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "submitRegistrationForm",
+            "display": "submitRegistrationForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

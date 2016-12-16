@@ -23,7 +23,8 @@
         "actions": [{
             "id": "NAVIGATE_TO_FORM___1814a5ac9abc4a61a625a3d40e24ab2a",
             "type": "NAVIGATE_TO_FORM",
-            "formKUID": "df7276cf5a86471ca0a482d2cce1f8fe",
+            "formId": "frmAdmission",
+            "formKUID": "6c615efc359e439e90d51933eeb167d0",
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "",

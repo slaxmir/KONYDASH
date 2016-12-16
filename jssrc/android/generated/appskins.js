@@ -2,7 +2,6 @@ function skinsInit() {
     addBtnSkin1 = "addBtnSkin1";
     adminValSkin = "adminValSkin";
     admitFormHDSkin = "admitFormHDSkin";
-    admitFormTabBorderColorSkin = "admitFormTabBorderColorSkin";
     alertTabActiveBorderSkin = "alertTabActiveBorderSkin";
     bedAdmissionHeader = "bedAdmissionHeader";
     bedAdmissionTitleSkin = "bedAdmissionTitleSkin";
@@ -19,7 +18,6 @@ function skinsInit() {
     bedSectionsSkin = "bedSectionsSkin";
     BedUnAvailableButtonSkin = "BedUnAvailableButtonSkin";
     bg = "bg";
-    boldtext = "boldtext";
     Borderskin = "Borderskin";
     btnActiveSkin = "btnActiveSkin";
     btnAllSkin = "btnAllSkin";
@@ -38,26 +36,11 @@ function skinsInit() {
     CopyBedAssignTextAreaSkin0778a5eb75e4a4c = "CopyBedAssignTextAreaSkin0778a5eb75e4a4c";
     CopyBedAvailableTextAreaSkin036c0c9c785ba4a = "CopyBedAvailableTextAreaSkin036c0c9c785ba4a";
     CopyBedAvailableTextAreaSkin07bd9103bdc714b = "CopyBedAvailableTextAreaSkin07bd9103bdc714b";
-    Copyboldtext00ed8027e23fa47 = "Copyboldtext00ed8027e23fa47";
-    Copyboldtext03c882edaa44c46 = "Copyboldtext03c882edaa44c46";
     CopybtnWhite0800050b5f17e49 = "CopybtnWhite0800050b5f17e49";
-    Copyeditable017d8ee2e77f141 = "Copyeditable017d8ee2e77f141";
-    Copyeditable0444253943efb4a = "Copyeditable0444253943efb4a";
-    Copyeditable0d4938a7f84e54f = "Copyeditable0d4938a7f84e54f";
     CopyfieldTextBox09e38b433298944 = "CopyfieldTextBox09e38b433298944";
     CopyfieldTextBox0d634e1227cae49 = "CopyfieldTextBox0d634e1227cae49";
-    Copyinputbox0d162dd1250e747 = "Copyinputbox0d162dd1250e747";
+    Copyinputbox035b67b227adb41 = "Copyinputbox035b67b227adb41";
     Copylabelsupport07a146253c87b4f = "Copylabelsupport07a146253c87b4f";
-    CopypatientAdmitHSPSelectBxSkin00c300c93f82548 = "CopypatientAdmitHSPSelectBxSkin00c300c93f82548";
-    CopypatientAdmitHSPSelectBxSkin026d37abed09e43 = "CopypatientAdmitHSPSelectBxSkin026d37abed09e43";
-    CopypatientAdmitHSPSelectBxSkin02744cb3be4ac4a = "CopypatientAdmitHSPSelectBxSkin02744cb3be4ac4a";
-    CopypatientAdmitHSPSelectBxSkin065aa47808bd542 = "CopypatientAdmitHSPSelectBxSkin065aa47808bd542";
-    CopypatientAdmitHSPSelectBxSkin06bad6104d28843 = "CopypatientAdmitHSPSelectBxSkin06bad6104d28843";
-    CopypatientAdmitHSPSelectBxSkin0940d7499be6247 = "CopypatientAdmitHSPSelectBxSkin0940d7499be6247";
-    CopypatientAdmitHSPSelectBxSkin09ee7c5b8fda146 = "CopypatientAdmitHSPSelectBxSkin09ee7c5b8fda146";
-    CopypatientAdmitHSPSelectBxSkin0b76e9dd45d964e = "CopypatientAdmitHSPSelectBxSkin0b76e9dd45d964e";
-    CopypatientAdmitHSPSelectBxSkin0cddbf27bd2104e = "CopypatientAdmitHSPSelectBxSkin0cddbf27bd2104e";
-    CopypatientAdmitHSPSelectBxSkin0dabedf26c0064a = "CopypatientAdmitHSPSelectBxSkin0dabedf26c0064a";
     Copyseg00711d2eff97a44 = "Copyseg00711d2eff97a44";
     Copyseg026cd01d9ec1346 = "Copyseg026cd01d9ec1346";
     Copyseg02dde64fd099145 = "Copyseg02dde64fd099145";
@@ -73,12 +56,14 @@ function skinsInit() {
     Copyseg0fa61466f3ed043 = "Copyseg0fa61466f3ed043";
     CopyskinActionBar03ebf8249c80d4e = "CopyskinActionBar03ebf8249c80d4e";
     CopyskinLabelRegister0c96150c001d643 = "CopyskinLabelRegister0c96150c001d643";
-    CopyskinMenuLabel00e1400c6b3a74f = "CopyskinMenuLabel00e1400c6b3a74f";
     CopysknAdmissionflxDisable08377a1edfcff42 = "CopysknAdmissionflxDisable08377a1edfcff42";
     CopysknbtnFeilds018c6b510253d47 = "CopysknbtnFeilds018c6b510253d47";
     Copysknnoteatforgotpassword06c5a7d8267d04e = "Copysknnoteatforgotpassword06c5a7d8267d04e";
     CopysknReferringFacilityInfo02eb33aed5f564a = "CopysknReferringFacilityInfo02eb33aed5f564a";
     CopysknReferringFacilityInfo0e51f3b38f5204e = "CopysknReferringFacilityInfo0e51f3b38f5204e";
+    CopysknTBRegistration044cc2e0a3ede41 = "CopysknTBRegistration044cc2e0a3ede41";
+    CopysknTBRegistration0585d65db9a8a4c = "CopysknTBRegistration0585d65db9a8a4c";
+    CopysknTBRegistration0eb0fd25861014a = "CopysknTBRegistration0eb0fd25861014a";
     CopyslButtonGlossBlue0003cc7e8ae6240 = "CopyslButtonGlossBlue0003cc7e8ae6240";
     CopyslButtonGlossBlue011be09e3189e40 = "CopyslButtonGlossBlue011be09e3189e40";
     CopyslButtonGlossBlue01252b41ae9014e = "CopyslButtonGlossBlue01252b41ae9014e";
@@ -90,6 +75,7 @@ function skinsInit() {
     CopyslButtonGlossBlue03d00effe15134c = "CopyslButtonGlossBlue03d00effe15134c";
     CopyslButtonGlossBlue03ee7289ad0a649 = "CopyslButtonGlossBlue03ee7289ad0a649";
     CopyslButtonGlossBlue03efbd6ac45e14e = "CopyslButtonGlossBlue03efbd6ac45e14e";
+    CopyslButtonGlossBlue0458c11dc0bed44 = "CopyslButtonGlossBlue0458c11dc0bed44";
     CopyslButtonGlossBlue056578cf3bdb646 = "CopyslButtonGlossBlue056578cf3bdb646";
     CopyslButtonGlossBlue0565f0506cba648 = "CopyslButtonGlossBlue0565f0506cba648";
     CopyslButtonGlossBlue05e97fd492c5244 = "CopyslButtonGlossBlue05e97fd492c5244";
@@ -127,7 +113,6 @@ function skinsInit() {
     CopyslDataGridHead0cc016a0b861544 = "CopyslDataGridHead0cc016a0b861544";
     CopyslDataGridRow045478e04096b4d = "CopyslDataGridRow045478e04096b4d";
     CopyslDataGridRow0b738f883b15840 = "CopyslDataGridRow0b738f883b15840";
-    CopyslFbox007396ecdc0154b = "CopyslFbox007396ecdc0154b";
     CopyslFbox0091e1f7d7d364a = "CopyslFbox0091e1f7d7d364a";
     CopyslFbox011b601cf7ce749 = "CopyslFbox011b601cf7ce749";
     CopyslFbox0131e551ab85c4b = "CopyslFbox0131e551ab85c4b";
@@ -140,7 +125,6 @@ function skinsInit() {
     CopyslFbox057414f2765c546 = "CopyslFbox057414f2765c546";
     CopyslFbox057ed20ce9c2643 = "CopyslFbox057ed20ce9c2643";
     CopyslFbox0629a6bcc07f941 = "CopyslFbox0629a6bcc07f941";
-    CopyslFbox06a7bf2770c6242 = "CopyslFbox06a7bf2770c6242";
     CopyslFbox08162c7a9912345 = "CopyslFbox08162c7a9912345";
     CopyslFbox08a009b54e5eb4d = "CopyslFbox08a009b54e5eb4d";
     CopyslFbox09158354e9dd148 = "CopyslFbox09158354e9dd148";
@@ -158,7 +142,6 @@ function skinsInit() {
     CopyslFbox0dd4c3c7d7a674e = "CopyslFbox0dd4c3c7d7a674e";
     CopyslFbox0e0d77df790084a = "CopyslFbox0e0d77df790084a";
     CopyslFbox0e5617e1a52574a = "CopyslFbox0e5617e1a52574a";
-    CopyslFbox0eee9b5ac20d844 = "CopyslFbox0eee9b5ac20d844";
     CopyslFbox0fb98f6005e514b = "CopyslFbox0fb98f6005e514b";
     CopyslForm006a304f6f7ab43 = "CopyslForm006a304f6f7ab43";
     CopyslForm0277d921c62e440 = "CopyslForm0277d921c62e440";
@@ -206,7 +189,6 @@ function skinsInit() {
     CopyslLabel061d647e2d25246 = "CopyslLabel061d647e2d25246";
     CopyslLabel0663430320d2c48 = "CopyslLabel0663430320d2c48";
     CopyslLabel07bda3c772cd344 = "CopyslLabel07bda3c772cd344";
-    CopyslLabel08205867ee7744e = "CopyslLabel08205867ee7744e";
     CopyslLabel085287381776447 = "CopyslLabel085287381776447";
     CopyslLabel088e4df76a96f43 = "CopyslLabel088e4df76a96f43";
     CopyslLabel09302f4a6d3744b = "CopyslLabel09302f4a6d3744b";
@@ -222,7 +204,6 @@ function skinsInit() {
     CopyslLabel0c8f9817ca9574a = "CopyslLabel0c8f9817ca9574a";
     CopyslLabel0c94f071c9deb46 = "CopyslLabel0c94f071c9deb46";
     CopyslLabel0cf9384c7fe8743 = "CopyslLabel0cf9384c7fe8743";
-    CopyslLabel0d41d8afbe4e14e = "CopyslLabel0d41d8afbe4e14e";
     CopyslLabel0d6de64ad818e4b = "CopyslLabel0d6de64ad818e4b";
     CopyslLabel0dcbc935cbcbe45 = "CopyslLabel0dcbc935cbcbe45";
     CopyslLabel0dfb3f6bb664d4a = "CopyslLabel0dfb3f6bb664d4a";
@@ -245,7 +226,6 @@ function skinsInit() {
     CopyslListBox0f7e860a9b4a04b = "CopyslListBox0f7e860a9b4a04b";
     CopyslListBox0fffca6166e5b48 = "CopyslListBox0fffca6166e5b48";
     CopyslRadioButtonGroup0385269eec16c4d = "CopyslRadioButtonGroup0385269eec16c4d";
-    CopyslRadioButtonGroup06641b0fa165044 = "CopyslRadioButtonGroup06641b0fa165044";
     CopyslRichText01b16713e6e324c = "CopyslRichText01b16713e6e324c";
     CopyslRichText0405b9b85b7284c = "CopyslRichText0405b9b85b7284c";
     CopyslSliderLeftBlue00d5dec5e328045 = "CopyslSliderLeftBlue00d5dec5e328045";
@@ -266,7 +246,6 @@ function skinsInit() {
     CopyslTextBox03955cc79771f40 = "CopyslTextBox03955cc79771f40";
     CopyslTextBox03b4a5761091948 = "CopyslTextBox03b4a5761091948";
     CopyslTextBox082eb3bbf69a04e = "CopyslTextBox082eb3bbf69a04e";
-    CopyslTextBox0d95698a9614f44 = "CopyslTextBox0d95698a9614f44";
     CopyslTextBox0da7be1e142c046 = "CopyslTextBox0da7be1e142c046";
     CopytabCanvas038b5bec321824c = "CopytabCanvas038b5bec321824c";
     CopytabCanvas060f1e66f53da42 = "CopytabCanvas060f1e66f53da42";
@@ -274,7 +253,6 @@ function skinsInit() {
     CopytabCanvas0a32e8010188c4b = "CopytabCanvas0a32e8010188c4b";
     CopytabCanvasInactive052646609077543 = "CopytabCanvasInactive052646609077543";
     CopytabCanvasInactive0a17bff67241244 = "CopytabCanvasInactive0a17bff67241244";
-    CopytabColorSkin0a0ae4d64fd824f = "CopytabColorSkin0a0ae4d64fd824f";
     CopytabColorSkin0b2140c8bcc1849 = "CopytabColorSkin0b2140c8bcc1849";
     dashboardSegmentBlue = "dashboardSegmentBlue";
     dashboardSegmentGray = "dashboardSegmentGray";
@@ -385,6 +363,7 @@ function skinsInit() {
     sknMenu = "sknMenu";
     sknNote = "sknNote";
     sknnoteatforgotpassword = "sknnoteatforgotpassword";
+    sknPlacehoderTBRegistration = "sknPlacehoderTBRegistration";
     sknRecoverPasswordheading = "sknRecoverPasswordheading";
     sknReferringFacilityInfo = "sknReferringFacilityInfo";
     sknSegAdmisionDetails1 = "sknSegAdmisionDetails1";
@@ -396,6 +375,7 @@ function skinsInit() {
     sknTakeActionButton = "sknTakeActionButton";
     sknTakeActionButton1 = "sknTakeActionButton1";
     sknTakeActionButtonDisable = "sknTakeActionButtonDisable";
+    sknTBRegistration = "sknTBRegistration";
     sknTemp1 = "sknTemp1";
     skntemplFlxbg = "skntemplFlxbg";
     sknTfEditProfile = "sknTfEditProfile";
@@ -448,6 +428,7 @@ function skinsInit() {
     slPickerView = "slPickerView";
     slPopup = "slPopup";
     slRadioButtonGroup = "slRadioButtonGroup";
+    slRadioButtonGroupRegistration = "slRadioButtonGroupRegistration";
     slRichTexInfectiousDiseaseQuestionnaire1 = "slRichTexInfectiousDiseaseQuestionnaire1";
     slRichText = "slRichText";
     slScrollBox = "slScrollBox";

@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "children": [
         "CopyFlexContainer07f9c2dc2d82c49",
-        "CopyTextField0ba4b3ede7bf641"
+        "TextFieldRegCaptcha"
     ],
     "clipbounds": true,
     "containerweight": 100,
@@ -52,7 +52,7 @@
     "kuid": "c9b60aa5fbf4459c91bfe0d580a2f50b",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "CopyflxRegFormContainer00651f0c1c98243",
+    "parent": "flxRegChildContainer",
     "pf": "frmRegister",
     "snapgridsize": 10,
     "snaptogrid": true,

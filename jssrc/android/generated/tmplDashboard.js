@@ -120,7 +120,7 @@ function initializetmplDashboard() {
         "id": "labelValueChiefComplaint",
         "isVisible": true,
         "skin": "sknSegmentTmplDashBoard",
-        "text": "Kidney stones issues",
+        "text": "KIdney stones issues",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
@@ -202,8 +202,8 @@ function initializetmplDashboard() {
         "width": "15%",
         "zIndex": 1
     }, {
-        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [2, 1, 1, 1],
+        "contentAlignment": constants.CONTENT_ALIGN_CENTER,
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {
         "textCopyable": false
@@ -320,8 +320,8 @@ function initializetmplDashboard() {
         "width": "15%",
         "zIndex": 1
     }, {
-        "contentAlignment": constants.CONTENT_ALIGN_MIDDLE_LEFT,
-        "padding": [2, 1, 1, 1],
+        "contentAlignment": constants.CONTENT_ALIGN_CENTER,
+        "padding": [1, 1, 1, 1],
         "paddingInPixel": false
     }, {
         "textCopyable": false

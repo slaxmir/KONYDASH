@@ -37,7 +37,7 @@
     "canUpdateUI": true,
     "children": [
         "supportImpLabel2",
-        "TextArea06c9a8d1ee3eb4a"
+        "TextAreaReportIssue"
     ],
     "clipbounds": true,
     "containerweight": 100,

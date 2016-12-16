@@ -38,7 +38,8 @@
     "childInstances": [
         "m26b63fbf246498292d1bdaee96f3770",
         "mc8bc05f134d425ea7518ab23cfd08d7",
-        "m1dd442e58c7462ab71d5183234d47ef"
+        "m1dd442e58c7462ab71d5183234d47ef",
+        "mdc78ea4313c4524a6ce67036c977d8f"
     ],
     "children": [
         "imgAlertToneSettings",

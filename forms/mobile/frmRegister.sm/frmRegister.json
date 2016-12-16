@@ -20,33 +20,45 @@
     "addWidgetsdone": false,
     "allboxes": [],
     "android": {
+        "inTransitionConfig": {
+            "formAnimation": 0
+        },
+        "needAppMenu": false,
         "psp": {
             "windowSoftInputMode": 2
         }
     },
     "canUpdateUI": true,
     "children": [
-        "flxregisterContainer",
-        "CopyflxregisterContainer0606567a656824c"
+        "flxregisterContainer"
     ],
     "containerweight": 100,
     "currentLocale": null,
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "GalaxyS5",
+    "device": "GalaxyS3",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmRegister",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "formAnimation": 0
+    },
     "ipad": {
         "psp": {
             "inputAccessoryViewType": 4
         }
     },
     "iphone": {
+        "inTransitionConfig": {
+            "transitionDirection": "none",
+            "transitionDuration": 0.3,
+            "transitionEffect": "none"
+        },
+        "needAppMenu": false,
         "psp": {
             "inputAccessoryViewType": 4,
             "titleBarConfig": {
@@ -65,7 +77,7 @@
                 "visible": true
             }
         },
-        "titleBar": true
+        "titleBar": false
     },
     "isvisible": true,
     "kuid": "2009436c05454dd2b794ade3e07a66a2",
@@ -74,14 +86,39 @@
     "needappmenu": true,
     "paddinginpixel": false,
     "platform": "android",
-    "prevDevice": "iPhone6",
+    "prevDevice": "GalaxyS5",
     "prevPlatform": "iphone",
     "retainscrollposition": false,
-    "shellCSS": "and_GalaxyS5",
+    "shellCSS": "and_GalaxyS3",
     "snapgridsize": 10,
     "snaptogrid": true,
+    "spa": {
+        "inTransitionConfig": {
+            "formTransition": "none"
+        }
+    },
+    "spaan": {
+        "needAppMenu": false
+    },
+    "spabb": {
+        "needAppMenu": false
+    },
+    "spaip": {
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "needAppMenu": false
+    },
     "titleBarSkin": "sdf03a80aec745d8b081496d1f29306d",
-    "titlebar": true,
+    "titlebar": false,
     "type": 3,
-    "wType": "Form"
+    "wType": "Form",
+    "winphone8": {
+        "inTransitionConfig": {
+            "inTransition": "none",
+            "transitionMode": "none",
+            "transitionSpeed": 0
+        },
+        "needAppMenu": false
+    }
 }
