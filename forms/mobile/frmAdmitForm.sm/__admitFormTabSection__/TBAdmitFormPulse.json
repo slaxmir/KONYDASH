@@ -43,6 +43,7 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
+    "focusskin": "s72f79af52474597b15794ab2252386d",
     "id": "TBAdmitFormPulse",
     "ide_onTextChange": "AS_TextField_a511e27cdb9b40fdbe41098c1a435a26",
     "info": null,

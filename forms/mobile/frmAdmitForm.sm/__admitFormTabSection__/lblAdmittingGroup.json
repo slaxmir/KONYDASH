@@ -23,10 +23,10 @@
         0
     ],
     "_skin_": "s7fb4699c77c4c50af8169a0b601bd59",
-    "_text_": "Admitting Group *",
+    "_text_": "Admitting Group ",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -58,7 +58,7 @@
     "kuid": "06c1d22188ee4626a9d283729996093a",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
-    "parent": "flxContainerAdmittingPreferencesAdmitForm",
+    "parent": "patientTitleRow2",
     "pf": "frmAdmitForm",
     "tabpaneId": "admitFormTabSection",
     "tooltip": "",

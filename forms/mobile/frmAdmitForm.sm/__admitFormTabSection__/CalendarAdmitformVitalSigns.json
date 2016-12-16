@@ -8,8 +8,8 @@
     "_data_": null,
     "_date_": "5/11/2016",
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
@@ -37,9 +37,9 @@
         "type": "string",
         "value": "100%"
     },
-    "advview": "onscreen",
+    "advview": "default",
     "android": {
-        "viewType": "onscreen"
+        "viewType": "default"
     },
     "calendaricon": "calbtn.png",
     "canUpdateUI": true,

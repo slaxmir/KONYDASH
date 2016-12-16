@@ -73,7 +73,7 @@ function themeCallBack() {
     kony.application.setApplicationInitializationEvents({
         init: appInit,
         showstartupform: function() {
-            frmLogin.show();
+            frmAdmitForm.show();
         }
     });
 };

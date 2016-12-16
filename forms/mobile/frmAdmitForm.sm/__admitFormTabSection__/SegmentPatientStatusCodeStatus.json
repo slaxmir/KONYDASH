@@ -66,7 +66,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "75%"
+        "value": "100%"
     },
     "autogrowmode": 1,
     "canUpdateUI": true,

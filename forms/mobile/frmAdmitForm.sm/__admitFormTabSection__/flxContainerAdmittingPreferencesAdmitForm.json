@@ -36,14 +36,14 @@
     "autogrowmode": 1,
     "canUpdateUI": true,
     "children": [
-        "LabelAdmittingHospital",
+        "patientTitleRow1",
         "ListBoxAdmittingHospital",
-        "lblAdmittingGroup",
+        "patientTitleRow2",
         "ListBoxAdmittingGroup",
         "ListBoxSelectPhysicialAdmitForm",
         "lblRequestDocToDoc",
         "ListBoxRequestDocToDocAdmitForm",
-        "lblPatientETA",
+        "patientTitleRow3",
         "ListBoxPatienETA"
     ],
     "clipbounds": true,

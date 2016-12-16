@@ -52,10 +52,6 @@
         "viewType": "tabview"
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "49.99%"
-    },
     "children": [
         "TestpatientTab",
         "TestDiagnosTab",

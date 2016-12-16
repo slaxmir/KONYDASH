@@ -22,8 +22,9 @@
         "channel": "mobile",
         "formID": "popupReferringFacility",
         "ispercent": true,
+        "platform": "iphone",
         "templateType": "popups",
-        "topLevelBox": null
+        "topLevelBox": false
     },
     "id": "Image0cf580a99056b4d",
     "imagescalemode": 1,

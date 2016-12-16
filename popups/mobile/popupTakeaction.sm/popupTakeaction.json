@@ -41,6 +41,8 @@
         "BedAssignTextArea",
         "BedAssignButton"
     ],
+    "containerheight": 80,
+    "containerheightreference": 1,
     "containerweight": 95,
     "currentLocale": null,
     "desktopweb": {

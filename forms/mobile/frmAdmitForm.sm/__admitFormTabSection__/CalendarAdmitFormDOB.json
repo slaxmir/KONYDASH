@@ -2,6 +2,8 @@
     "@class": "com.kony.gen.viz.model.component.KVizDateField",
     "DNDConfig": null,
     "Image": "calbtn.png",
+    "__id": "frmAdmitForm_CalendarAdmitFormDOB",
+    "__input": "CalendarAdmitFormDOB",
     "__parentReadjusting__": false,
     "_data_": null,
     "_date_": "5/11/2016",
@@ -34,9 +36,9 @@
         "type": "string",
         "value": "100%"
     },
-    "advview": "popup",
+    "advview": "default",
     "android": {
-        "viewType": "popup"
+        "viewType": "default"
     },
     "calendaricon": "calbtn.png",
     "canUpdateUI": true,
@@ -52,8 +54,22 @@
     ],
     "dateeditable": true,
     "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
     "day": 5,
     "daytextalignmentincell": 5,
+    "displayedMonths": [
+        11,
+        2016
+    ],
+    "entereddate": [
+        5,
+        11,
+        2016,
+        0,
+        0,
+        0
+    ],
     "format": "dd/MM/yyyy",
     "formatteddate": "05/11/2016",
     "hidedaysheader": false,
@@ -69,14 +85,19 @@
     "kuid": "e8fad6efec414d0cad0c64ff064967d7",
     "minutes": 0,
     "month": 11,
+    "monthsinrow": 3,
     "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
     "noofmonths": 1,
     "paddinginpixel": false,
     "pagedate": "/2016",
     "parent": "flxContainerPatientInfoAdmitForm",
     "pf": "frmAdmitForm",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
     "seconds": 0,
     "selectdate": "//2016",
+    "startDay": 0,
     "tabpaneId": "admitFormTabSection",
     "viewconfig": {
         "gridConfig": {},
@@ -85,6 +106,15 @@
     "viewtype": "default",
     "wType": "Calendar",
     "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
     "year": 2016,
     "zindex": 1
 }

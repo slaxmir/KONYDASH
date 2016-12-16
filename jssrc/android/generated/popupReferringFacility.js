@@ -953,7 +953,7 @@ function popupReferringFacilityGlobals() {
         "skin": "popupReferringFacilitySkin",
         "transparencyBehindThePopup": 100
     }, {
-        "containerHeight": 100,
+        "containerHeight": 80,
         "containerHeightReference": constants.CONTAINER_HEIGHT_BY_FORM_REFERENCE,
         "containerWeight": 95,
         "padding": [0, 0, 0, 0],

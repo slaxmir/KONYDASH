@@ -23,10 +23,10 @@
         0
     ],
     "_skin_": "s7fb4699c77c4c50af8169a0b601bd59",
-    "_text_": "Patient ETA *",
+    "_text_": "Patient ETA ",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -58,7 +58,7 @@
     "kuid": "f5104d306ab240b89a242dbf0ece7cdb",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
-    "parent": "flxContainerAdmittingPreferencesAdmitForm",
+    "parent": "patientTitleRow3",
     "pf": "frmAdmitForm",
     "tabpaneId": "admitFormTabSection",
     "tooltip": "",

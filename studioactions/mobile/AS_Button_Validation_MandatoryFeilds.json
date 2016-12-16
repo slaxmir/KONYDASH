@@ -132,7 +132,8 @@
             }],
             "parentId": null,
             "callbackType": null,
-            "criteria": "any"
+            "criteria": "any",
+            "disabled": true
         }, {
             "id": "ELSE_CONDITION__562cacb67f994256bfd25d8be89212fc",
             "type": "ELSE_CONDITION",
@@ -145,7 +146,17 @@
             }],
             "parentId": null,
             "callbackType": null,
-            "criteria": "all"
+            "criteria": "all",
+            "disabled": true
+        }, {
+            "id": "INVOKE_FUNCTION___0384e964725b434887433c141346a727",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "submitAdmitPatientForm",
+            "display": "submitAdmitPatientForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
         }, {
             "id": "INVOKE_FUNCTION___339c839794074fe884bd3b2f488bb4b8",
             "type": "INVOKE_FUNCTION",
@@ -154,7 +165,7 @@
             "inputparams": [],
             "parentId": "ELSE_CONDITION__562cacb67f994256bfd25d8be89212fc",
             "callbackType": null,
-            "disabled": null
+            "disabled": true
         }, {
             "id": "SHOW_ALERT__33538ece039647ab85b6eaa25d35d452",
             "type": "SHOW_ALERT",
@@ -169,7 +180,8 @@
             "yesLabeli18n": null,
             "noLabeli18n": null,
             "alertMessagei18n": null,
-            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": true
         }, {
             "id": "INVOKE_FUNCTION___1514d2318b0f4e3ca353780ad0df3ea9",
             "type": "INVOKE_FUNCTION",
@@ -178,7 +190,7 @@
             "inputparams": [],
             "parentId": "IF_CONDITION__4c3b681f059041b487f1ad957a202314",
             "callbackType": null,
-            "disabled": null
+            "disabled": true
         }, {
             "id": "SHOW_ALERT__2fda2713c5fe40b19d30dbc075014a2c",
             "type": "SHOW_ALERT",
@@ -193,7 +205,8 @@
             "yesLabeli18n": null,
             "noLabeli18n": null,
             "alertMessagei18n": null,
-            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": true
         }]
     }
 }

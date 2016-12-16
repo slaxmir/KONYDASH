@@ -59,7 +59,7 @@
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "10dp"
     },
     "_margin_": [
         0,
@@ -80,7 +80,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "85%"
+        "value": "80%"
     },
     "autogrowmode": 1,
     "canUpdateUI": true,

@@ -37,7 +37,7 @@
     "isTemplate": true,
     "isvisible": true,
     "kuid": "c9826484339e4ed4886bce2a1d5b8aae",
-    "layouttype": 3,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "tmplPatientStatusCodeStatus",
     "pf": "tmplPatientStatusCodeStatus",

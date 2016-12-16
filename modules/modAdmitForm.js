@@ -1133,7 +1133,7 @@ function setDataSegmentPatientStatusCodeStatus(){
                                            FlexContainerPatientStatusCodeStatus2:{onClick:onClickPatientStatusCode2},
                                            FlexContainerPatientStatusCodeStatus3:{onClick:onClickPatientStatusCode3},
                                            FlexContainerPatientStatusCodeStatus4:{onClick:onClickPatientStatusCode4},
-                                           ImagePatientCodeStatus1:{src:"cmfrtinactiv"},
+                                           ImagePatientCodeStatus1:{src:"cmfrtinactive"},
                                            ImagePatientCodeStatus2:{src:"dnrinactive"},
                                            ImagePatientCodeStatus3:{src:"fullcodeinactve"},
                                            ImagePatientCodeStatus4:{src:"halfcdeinactive"},
@@ -1257,17 +1257,25 @@ function resetAdmitForm(){
     frmAdmitForm.TBAdmitFormWeight.text = "";
     frmAdmitForm.TBAdmitFormHeight.text = "";
     frmAdmitForm.TBAdmitFormBodyMass.text = "";
+  	frmAdmitForm.TBAdmitFormPulse.text = "";
+  	frmAdmitForm.TBAdmitFormPulse.text = "";
+  
 
-    frmAdmitForm.LblAdmiFormMale.skin = "slLabelMediationOrdersSelected"; 
+    frmAdmitForm.LblAdmiFormMale.skin = "slLabelMediationOrders"; 
     frmAdmitForm.LblAdmitFormFemale.skin = "slLabelMediationOrders";
 
-	frmAdmitForm.LabelInfectiousDiseaseQuestionnaireSuspectEbolaNO.skin  ="slLabelMediationOrdersSelected";
+	frmAdmitForm.LabelInfectiousDiseaseQuestionnaireSuspectEbolaNO.skin  ="slLabelMediationOrders";
 	frmAdmitForm.LabelInfectiousDiseaseQuestionnaireSuspectEbolaYes.skin  ="slLabelMediationOrders";          
   
-  	frmAdmitForm.LabelInfectiousDiseaseQuestionnaireTravelledNo.skin= "slLabelMediationOrdersSelected";
+  	frmAdmitForm.LabelInfectiousDiseaseQuestionnaireTravelledNo.skin= "slLabelMediationOrders";
   	frmAdmitForm.LabelInfectiousDiseaseQuestionnaireTravelledYes.skin= "slLabelMediationOrders";  
   
+ 	frmAdmitForm.ListBoxAdmittingHospital.selectedKey = 0;
+  	frmAdmitForm.ListBoxAdmittingGroup.selectedKey = 0;
+  	frmAdmitForm.ListBoxPatienETA.selectedKey = 0;
+  
 	setSegmentSepsisScreeingSIRSData();
+  
   	setDisableSubmitButton();
   
 }
@@ -1335,3 +1343,134 @@ function tapToSelectInfectiousDiseaseQuestionnaireTravelledYes(){
 		  frmAdmitForm.LabelInfectiousDiseaseQuestionnaireTravelledNo.skin = "slLabelMediationOrders";         
    }
 }
+
+
+function submitAdmitPatientForm(){
+  //	alert(frmRegister.ListBoxAdmittingHospital.selectedKey);
+var curreentForm = kony.application.getCurrentForm();
+  	var temp = null;
+   	if((frmAdmitForm.TFFirstName.text == temp) ||
+      (frmAdmitForm.TFLastName.text == temp)||
+      (frmAdmitForm.TBChiefComplaint.text == temp) ||
+      (frmAdmitForm.TBAdmitFormTemparature.text == temp) ||
+      (frmAdmitForm.TBAdmitFormBP.text == temp) ||
+      (frmAdmitForm.TBAdmitFormDiastolic.text == temp) ||
+      (frmAdmitForm.TBAdmitFormPulse.text == temp)|| 
+      (frmAdmitForm.TBAdmitFormO2Level.text == temp) ||
+      (frmAdmitForm.TBAdmitFormWeight.text == temp) ||
+      (frmAdmitForm.TBAdmitFormHeight.text == temp) ||
+      (frmAdmitForm.TBAdmitFormBodyMass.text == temp) )
+    { 
+      alert("Please fill all the mandatory feilds");
+      setDisableSubmitButton();
+      
+    }else if((frmAdmitForm.TFFirstName.text != temp && frmAdmitForm.TFFirstName.text == "") ||
+      (frmAdmitForm.TFLastName.text != temp && frmAdmitForm.TFLastName.text == "")||
+      (frmAdmitForm.TBChiefComplaint.text != temp && frmAdmitForm.TBChiefComplaint.text == "") ||
+      (frmAdmitForm.TBAdmitFormTemparature.text != temp && frmAdmitForm.TBAdmitFormTemparature.text == "") ||
+      (frmAdmitForm.TBAdmitFormBP.text != temp && frmAdmitForm.TBAdmitFormBP.text == "") ||
+      (frmAdmitForm.TBAdmitFormDiastolic.text != temp && frmAdmitForm.TBAdmitFormDiastolic.text == "") ||
+      (frmAdmitForm.TBAdmitFormPulse.text != temp && frmAdmitForm.TBAdmitFormPulse.text == "")||
+      (frmAdmitForm.TBAdmitFormO2Level.text != temp && frmAdmitForm.TBAdmitFormO2Level.text == "") ||
+      (frmAdmitForm.TBAdmitFormWeight.text != temp && frmAdmitForm.TBAdmitFormWeight.text == "") ||
+      (frmAdmitForm.TBAdmitFormHeight.text != temp && frmAdmitForm.TBAdmitFormHeight.text == "") ||
+      (frmAdmitForm.TBAdmitFormBodyMass.text != temp && frmAdmitForm.TBAdmitFormBodyMass.text == "") )
+    { 
+    //  alert("Please fill all the mandatory feilds");
+      setDisableSubmitButton();
+      
+    }else if ((frmAdmitForm.LblAdmiFormMale.skin == "slLabelMediationOrders") && ( frmAdmitForm.LblAdmitFormFemale.skin == "slLabelMediationOrders")) {
+       alert("Please fill all the mandatory feilds");  
+        setDisableSubmitButton();
+	}else if ((frmAdmitForm.LabelInfectiousDiseaseQuestionnaireSuspectEbolaNO.skin == "slLabelMediationOrders") && ( frmAdmitForm.LabelInfectiousDiseaseQuestionnaireSuspectEbolaYes.skin == "slLabelMediationOrders")) {
+       alert("Please fill all the mandatory feilds");  
+        setDisableSubmitButton();
+	}else if ((frmAdmitForm.LabelInfectiousDiseaseQuestionnaireTravelledNo.skin == "slLabelMediationOrders") && ( frmAdmitForm.LabelInfectiousDiseaseQuestionnaireTravelledYes.skin == "slLabelMediationOrders")) {
+       alert("Please fill all the mandatory feilds"); 
+        setDisableSubmitButton();
+	}else if(curreentForm.ListBoxAdmittingHospital.selectedKey == 0){
+       alert("Please fill all the Admitting Hospital"); 
+        setDisableSubmitButton();
+	}else if(curreentForm.ListBoxAdmittingGroup.selectedKey == 0){
+       alert("Please fill all the Admitting Group");  
+        setDisableSubmitButton();
+	}else if(curreentForm.ListBoxPatienETA.selectedKey == 0){
+       alert("Please fill all the Patient ETA");    
+        setDisableSubmitButton();
+	}else if(!isSIRSDATASelected()){
+       alert("Please select the SIRS");    
+        setDisableSubmitButton();
+	}
+    else{
+      alert("sumitted successfully");
+      resetAdmitForm();
+    // setEnableSubmitButton();
+	} 
+ /** currentForm.ListBoxHospital.selectedKey == 0  **/ 
+}
+ function  isSIRSDATASelected(){
+  var isSelected =  false;
+  for(var i=0;i<frmAdmitForm.SegmentSepsisScreeingSIRS.data.length;i++){
+    alert(frmAdmitForm.SegmentSepsisScreeingSIRS.data[i].labelmediationOthers.skin);
+    var skin = frmAdmitForm.SegmentSepsisScreeingSIRS.data[i].labelmediationOthers.skin;
+    if(skin == "slLabelMediationOrdersSelected"){
+	  isSelected =  true;    
+	}  
+  return isSelected;
+  }
+  
+  
+  
+}
+function CheckVAlidationAdmitPatientForm(){
+  	var curreentForm = kony.application.getCurrentForm();
+  	var temp = null;
+   	if((frmAdmitForm.TFFirstName.text == temp) ||
+      (frmAdmitForm.TFLastName.text == temp)||
+      (frmAdmitForm.TBChiefComplaint.text == temp) ||
+      (frmAdmitForm.TBAdmitFormTemparature.text == temp) ||
+      (frmAdmitForm.TBAdmitFormBP.text == temp) ||
+      (frmAdmitForm.TBAdmitFormDiastolic.text == temp) ||
+      (frmAdmitForm.TBAdmitFormPulse.text == temp)|| 
+      (frmAdmitForm.TBAdmitFormO2Level.text == temp) ||
+      (frmAdmitForm.TBAdmitFormWeight.text == temp) ||
+      (frmAdmitForm.TBAdmitFormHeight.text == temp) ||
+      (frmAdmitForm.TBAdmitFormBodyMass.text == temp) )
+    {    
+      setDisableSubmitButton();      
+    }else if((frmAdmitForm.TFFirstName.text != temp && frmAdmitForm.TFFirstName.text == "") ||
+      (frmAdmitForm.TFLastName.text != temp && frmAdmitForm.TFLastName.text == "")||
+      (frmAdmitForm.TBChiefComplaint.text != temp && frmAdmitForm.TBChiefComplaint.text == "") ||
+      (frmAdmitForm.TBAdmitFormTemparature.text != temp && frmAdmitForm.TBAdmitFormTemparature.text == "") ||
+      (frmAdmitForm.TBAdmitFormBP.text != temp && frmAdmitForm.TBAdmitFormBP.text == "") ||
+      (frmAdmitForm.TBAdmitFormDiastolic.text != temp && frmAdmitForm.TBAdmitFormDiastolic.text == "") ||
+      (frmAdmitForm.TBAdmitFormPulse.text != temp && frmAdmitForm.TBAdmitFormPulse.text == "")||
+      (frmAdmitForm.TBAdmitFormO2Level.text != temp && frmAdmitForm.TBAdmitFormO2Level.text == "") ||
+      (frmAdmitForm.TBAdmitFormWeight.text != temp && frmAdmitForm.TBAdmitFormWeight.text == "") ||
+      (frmAdmitForm.TBAdmitFormHeight.text != temp && frmAdmitForm.TBAdmitFormHeight.text == "") ||
+      (frmAdmitForm.TBAdmitFormBodyMass.text != temp && frmAdmitForm.TBAdmitFormBodyMass.text == "") )
+    {    
+      setDisableSubmitButton();      
+    }else if ((frmAdmitForm.LblAdmiFormMale.skin == "slLabelMediationOrders") && ( frmAdmitForm.LblAdmitFormFemale.skin == "slLabelMediationOrders")) {
+    
+        setDisableSubmitButton();
+	}else if ((frmAdmitForm.LabelInfectiousDiseaseQuestionnaireSuspectEbolaNO.skin == "slLabelMediationOrders") && ( frmAdmitForm.LabelInfectiousDiseaseQuestionnaireSuspectEbolaYes.skin == "slLabelMediationOrders")) {
+      
+        setDisableSubmitButton();
+	}else if ((frmAdmitForm.LabelInfectiousDiseaseQuestionnaireTravelledNo.skin == "slLabelMediationOrders") && ( frmAdmitForm.LabelInfectiousDiseaseQuestionnaireTravelledYes.skin == "slLabelMediationOrders")) {
+   
+        setDisableSubmitButton();
+	}else if(curreentForm.ListBoxAdmittingHospital.selectedKey === 0){    
+        setDisableSubmitButton();
+	}else if(curreentForm.ListBoxAdmittingGroup.selectedKey === 0){     
+        setDisableSubmitButton();
+	}else if(curreentForm.ListBoxPatienETA.selectedKey === 0){     
+        setDisableSubmitButton();
+	}else if(!isSIRSDATASelected()){         
+        setDisableSubmitButton();
+	}else{
+     setEnableSubmitButton();
+	} 
+  
+}
+
