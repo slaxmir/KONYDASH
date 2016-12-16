@@ -1,5 +1,9 @@
 {
     "__parentReadjusting__": false,
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
     "_padding_": [
         0,
         0,

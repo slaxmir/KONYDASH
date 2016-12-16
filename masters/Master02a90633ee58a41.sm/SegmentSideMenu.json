@@ -1,0 +1,121 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m02ac82eea784dc2b2c3b93bec7251bb",
+        "mc3e826af72545c5b1b156d799e7b5aa",
+        "mf1c1600b7544d25bc0a4cdab8258fe5",
+        "mb9a97e0388941f58e77d45ae0b04fdf"
+    ],
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegmentSideMenu",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "026ea77a79f6412c8b5a313e6d46f5c8",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "labelMenulItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            }
+        ],
+        "rowTemplateId": "fc5a7f2305c941f7bc79bf6e09de4d43",
+        "rowtemplate": "flxMenuRowSeg1",
+        "widgetdatamap": {
+            "labelMenulItem": "labelMenulItem",
+            "segRowFlxMenu": "segRowFlxMenu"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMenuItemsContainer",
+    "pf": "Master02a90633ee58a41",
+    "retainselection": false,
+    "rowcounter": 0,
+    "rowfocusskin": "s059a0cadec843fb83554d402fcdd30f",
+    "rowskin": "s38d45b868ee48cebd799836a70d07d3",
+    "rowtemplate": "segRowFlxMenu",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s36bc0910fbd4744acd46aa2263dbc2a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "labelMenulItem": "labelMenulItem",
+        "segRowFlxMenu": "segRowFlxMenu"
+    },
+    "zindex": 1
+}

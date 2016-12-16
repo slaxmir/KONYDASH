@@ -41,6 +41,12 @@
     "isvisible": true,
     "kuid": "3932204d9ed7412dafb0044d48db9c58",
     "name": "kony.ui.Label",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
     "parent": "popupReferringFacilityRow5",
     "pf": "popupReferringFacility",
     "tooltip": "",

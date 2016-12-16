@@ -224,6 +224,20 @@ function addWidgetspopupReferringFacility() {
     }, {
         "textCopyable": false
     });
+    var Image0cf580a99056b4d = new kony.ui.Image2({
+        "id": "Image0cf580a99056b4d",
+        "isVisible": true,
+        "skin": "slImage",
+        "src": "phoneicon.png"
+    }, {
+        "containerWeight": 6,
+        "imageScaleMode": constants.IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO,
+        "margin": [0, 0, 0, 0],
+        "marginInPixel": false,
+        "padding": [0, 0, 0, 0],
+        "paddingInPixel": false,
+        "widgetAlignment": constants.WIDGET_ALIGN_CENTER
+    }, {});
     var ReferringPhoneValue = new kony.ui.Label({
         "id": "ReferringPhoneValue",
         "isVisible": true,
@@ -234,7 +248,7 @@ function addWidgetspopupReferringFacility() {
             "strikeThrough": false
         }
     }, {
-        "containerWeight": 55,
+        "containerWeight": 40,
         "contentAlignment": constants.CONTENT_ALIGN_TOP_LEFT,
         "hExpand": true,
         "margin": [1, 1, 1, 1],
@@ -246,7 +260,7 @@ function addWidgetspopupReferringFacility() {
     }, {
         "textCopyable": false
     });
-    popupReferringFacilityRow4.add(ReferringPhone, ReferringPhoneValue);
+    popupReferringFacilityRow4.add(ReferringPhone, Image0cf580a99056b4d, ReferringPhoneValue);
     var popupReferringFacilityRow5 = new kony.ui.ScrollBox({
         "enableScrollByPage": false,
         "id": "popupReferringFacilityRow5",
@@ -940,7 +954,7 @@ function popupReferringFacilityGlobals() {
         "skin": "popupReferringFacilitySkin",
         "transparencyBehindThePopup": 100
     }, {
-        "containerHeight": 100,
+        "containerHeight": 80,
         "containerHeightReference": constants.CONTAINER_HEIGHT_BY_FORM_REFERENCE,
         "containerWeight": 95,
         "padding": [0, 0, 0, 0],

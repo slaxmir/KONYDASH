@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "30dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
@@ -17,9 +17,9 @@
         0
     ],
     "_padding_": [
-        3,
+        2,
         0,
-        0,
+        2,
         0
     ],
     "_placeholder_": "SSN",
@@ -31,8 +31,9 @@
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
     },
+    "android": {},
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -42,6 +43,7 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
+    "focusskin": "sf9887a7d4614e8e8d13a06968d50a28",
     "id": "TFSSN",
     "info": null,
     "isvisible": true,
@@ -49,8 +51,10 @@
     "kuid": "4eec0e64934142bb9a2cefdc4acc87fb",
     "mode": "A",
     "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
     "parent": "flxContainerPatientInfoAdmitForm",
     "pf": "frmAdmitForm",
+    "placeholderskin": "seefccacdadc4822a057984dd3ab1850",
     "securetextentry": false,
     "tabpaneId": "admitFormTabSection",
     "textinputmode": "A",

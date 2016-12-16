@@ -16,7 +16,7 @@ function initializetmplModeofTransport() {
         "left": "0dp",
         "skin": "slImage",
         "src": "imagedrag.png",
-        "top": "0dp",
+        "top": "15dp",
         "width": "30dp",
         "zIndex": 1
     }, {

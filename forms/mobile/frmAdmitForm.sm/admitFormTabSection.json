@@ -29,7 +29,7 @@
     "_percent_": true,
     "_top_": {
         "type": "string",
-        "value": "12.32%"
+        "value": "12%"
     },
     "_width_": {
         "type": "string",
@@ -37,9 +37,9 @@
     },
     "activefocusskin": "sc7e2b757c344e50922e7d95a558ac6d",
     "activeskin": "sb00ff938d3f4d409a514b1e73eecd9b",
-    "activetab": 2,
+    "activetab": 0,
     "activetabs": [
-        2
+        0
     ],
     "activetabspw": [
         0
@@ -52,10 +52,6 @@
         "viewType": "tabview"
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "49.99%"
-    },
     "children": [
         "TestpatientTab",
         "TestDiagnosTab",
@@ -66,6 +62,7 @@
     "context": {
         "channel": "mobile",
         "formID": "frmAdmitForm",
+        "ispercent": "",
         "platform": "android",
         "tabpaneID": "",
         "templateType": "forms",

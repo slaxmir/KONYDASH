@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "30dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
@@ -17,9 +17,9 @@
         0
     ],
     "_padding_": [
-        3,
+        2,
         0,
-        0,
+        2,
         0
     ],
     "_placeholder_": "Temperature *(F)",
@@ -31,8 +31,9 @@
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
     },
+    "android": {},
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -42,6 +43,7 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
+    "focusskin": "sa05641e3cc941658b3a0c587260b6d6",
     "id": "TBAdmitFormTemparature",
     "ide_onTextChange": "AS_TextField_a511e27cdb9b40fdbe41098c1a435a26",
     "info": null,
@@ -50,8 +52,10 @@
     "kuid": "96edeb01d7dc4af1892610d7b18a0132",
     "mode": "A",
     "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
     "parent": "flxContainerVitalSignsAdmitForm",
     "pf": "frmAdmitForm",
+    "placeholderskin": "seefccacdadc4822a057984dd3ab1850",
     "securetextentry": false,
     "tabpaneId": "admitFormTabSection",
     "textinputmode": "A",

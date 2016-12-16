@@ -47,18 +47,19 @@
     "context": {
         "channel": "mobile",
         "formID": "frmAdmitForm",
+        "ispercent": "",
         "platform": "android",
         "tabpaneID": "",
         "templateType": "forms",
         "topLevelBox": null
     },
     "dropdownimage": "selecticon.png",
-    "focusskin": "s3c9689e8e2243c887b59034d0253b3a",
+    "focusskin": "sd0c0bce65ea485fb4a5aaa83d768fe4",
     "groupcells": false,
     "id": "selectClinicList",
     "ide_onSelection": "AS_NamedActions_1b4bb0b105db410faed8ac7e165ed7ff",
     "info": null,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "a7a29c08c67c4a37adbfdf2ef121398d",
     "masterdata": [
         [
