@@ -12,14 +12,7 @@
     "canUpdateUI": true,
     "channel": "mobile",
     "children": [
-        "flxDashBoardContainer",
-        "flxDischargeNotificationContainer",
-        "flxAdmittCointer",
-        "flxSupportContainer",
-        "flxProfileContainer",
-        "flxConfigarationAlertsContainer",
-        "flxAlerttoneSettings",
-        "flxLogoutContainer",
+        "Segment0dc75c7a0677f4e",
         "FlexContainer0b649aae5ffd040"
     ],
     "context": {},

@@ -9,7 +9,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "15dp"
     },
     "_margin_": [
         0,
@@ -34,15 +34,10 @@
         "value": "30dp"
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
     "containerId": true,
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "tmplPatientStatusCodeStatus",
         "platform": "iphone",
         "templateType": "segments",
         "topLevelBox": null

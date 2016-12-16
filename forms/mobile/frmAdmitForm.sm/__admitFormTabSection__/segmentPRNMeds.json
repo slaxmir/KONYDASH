@@ -83,7 +83,7 @@
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -93,14 +93,14 @@
     ],
     "_orientation_": 2,
     "_padding_": [
+        2,
         0,
-        0,
-        0,
+        2,
         0
     ],
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "10dp"
     },
     "_width_": {
         "type": "string",
@@ -132,6 +132,7 @@
     "masterdata": {},
     "name": "kony.ui.SegmentedUI2",
     "needpageindicator": true,
+    "paddinginpixel": false,
     "pageoffdotimage": "pageoffdot.png",
     "pageondotimage": "pageondot.png",
     "paginationconfig": {

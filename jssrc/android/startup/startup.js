@@ -26,6 +26,7 @@ function appInit(params) {
     initializetemplateEditProfileInfo2();
     initializetemplateRowConfigurationAlerts();
     initializeTemplateSegmentComorbidity();
+    initializetempSegmentMenuItem();
     initializetmplAdmissionDetails1();
     initializetmplDashboard();
     initializetmplDashboardRow();
@@ -72,7 +73,7 @@ function themeCallBack() {
     kony.application.setApplicationInitializationEvents({
         init: appInit,
         showstartupform: function() {
-            frmLogin.show();
+            frmAdmitForm.show();
         }
     });
 };

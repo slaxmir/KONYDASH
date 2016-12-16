@@ -4,11 +4,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "30dp"
+        "value": "40dp"
     },
     "_left_": {
-        "type": "string",
-        "value": "0dp"
+        "type": "number",
+        "value": "0"
     },
     "_margin_": [
         0,
@@ -17,12 +17,16 @@
         0
     ],
     "_padding_": [
-        3,
+        2,
         0,
-        0,
+        2,
         0
     ],
     "_placeholder_": "Last Name",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
     "_skin_": "sfa00918b22b4161b14a9818cfd2241a",
     "_text_": "",
     "_top_": {
@@ -31,8 +35,9 @@
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
     },
+    "android": {},
     "autocapitalize": "words",
     "autocomplete": false,
     "autocorrect": false,
@@ -42,6 +47,8 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
+    "disabledSkins": {},
+    "focusskin": "s73e6071149342d499e05f8f11503b76",
     "id": "TFLastName",
     "ide_onTextChange": "AS_TextField_a511e27cdb9b40fdbe41098c1a435a26",
     "info": null,
@@ -50,8 +57,10 @@
     "kuid": "5c592463880d4f449bb72562ac20cf59",
     "mode": "A",
     "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
     "parent": "flxContainerPatientInfoAdmitForm",
     "pf": "frmAdmitForm",
+    "placeholderskin": "seefccacdadc4822a057984dd3ab1850",
     "securetextentry": false,
     "tabpaneId": "admitFormTabSection",
     "textinputmode": "A",

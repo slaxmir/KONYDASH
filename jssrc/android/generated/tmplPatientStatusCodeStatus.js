@@ -4,7 +4,7 @@ function initializetmplPatientStatusCodeStatus() {
         "clipBounds": true,
         "id": "CopyFlexContainer0c2984e9049944e",
         "isVisible": true,
-        "layoutType": kony.flex.FLOW_HORIZONTAL,
+        "layoutType": kony.flex.FLOW_VERTICAL,
         "skin": "slFbox"
     }, {}, {});
     CopyFlexContainer0c2984e9049944e.setDefaultUnit(kony.flex.DP);
@@ -16,17 +16,16 @@ function initializetmplPatientStatusCodeStatus() {
         "layoutType": kony.flex.FLOW_VERTICAL,
         "left": "0dp",
         "skin": "slFbox",
-        "top": "0dp",
-        "width": "25%",
+        "top": "10dp",
+        "width": "100%",
         "zIndex": 1
     }, {}, {});
     FlexContainerPatientStatusCodeStatus1.setDefaultUnit(kony.flex.DP);
     var ImagePatientCodeStatus1 = new kony.ui.Image2({
-        "centerX": "50%",
         "height": "30dp",
         "id": "ImagePatientCodeStatus1",
         "isVisible": true,
-        "left": "0dp",
+        "left": "15dp",
         "skin": "slImage",
         "src": "imagedrag.png",
         "top": "0dp",
@@ -38,17 +37,16 @@ function initializetmplPatientStatusCodeStatus() {
         "paddingInPixel": false
     }, {});
     var LabelPatientCodeStatus1 = new kony.ui.Label({
-        "centerX": "50%",
         "id": "LabelPatientCodeStatus1",
         "isVisible": true,
-        "left": "0dp",
+        "left": "55dp",
         "skin": "slLabelMediationOrders",
         "text": "Label",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "5dp",
+        "top": "-30dp",
         "width": kony.flex.USE_PREFFERED_SIZE
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
@@ -66,17 +64,16 @@ function initializetmplPatientStatusCodeStatus() {
         "layoutType": kony.flex.FLOW_VERTICAL,
         "left": "0dp",
         "skin": "slFbox",
-        "top": "0dp",
-        "width": "25%",
+        "top": "10dp",
+        "width": "100%",
         "zIndex": 1
     }, {}, {});
     FlexContainerPatientStatusCodeStatus2.setDefaultUnit(kony.flex.DP);
     var ImagePatientCodeStatus2 = new kony.ui.Image2({
-        "centerX": "50%",
         "height": "30dp",
         "id": "ImagePatientCodeStatus2",
         "isVisible": true,
-        "left": "0dp",
+        "left": "15dp",
         "skin": "slImage",
         "src": "imagedrag.png",
         "top": "0dp",
@@ -88,17 +85,16 @@ function initializetmplPatientStatusCodeStatus() {
         "paddingInPixel": false
     }, {});
     var LabelPatientCodeStatus2 = new kony.ui.Label({
-        "centerX": "50%",
         "id": "LabelPatientCodeStatus2",
         "isVisible": true,
-        "left": "0dp",
+        "left": "55dp",
         "skin": "slLabelMediationOrders",
         "text": "Label",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "5dp",
+        "top": "-30dp",
         "width": kony.flex.USE_PREFFERED_SIZE
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
@@ -116,17 +112,16 @@ function initializetmplPatientStatusCodeStatus() {
         "layoutType": kony.flex.FLOW_VERTICAL,
         "left": "0dp",
         "skin": "slFbox",
-        "top": "0dp",
-        "width": "25%",
+        "top": "10dp",
+        "width": "100%",
         "zIndex": 1
     }, {}, {});
     FlexContainerPatientStatusCodeStatus3.setDefaultUnit(kony.flex.DP);
     var ImagePatientCodeStatus3 = new kony.ui.Image2({
-        "centerX": "50%",
         "height": "30dp",
         "id": "ImagePatientCodeStatus3",
         "isVisible": true,
-        "left": "0dp",
+        "left": "15dp",
         "skin": "slImage",
         "src": "imagedrag.png",
         "top": "0dp",
@@ -138,17 +133,16 @@ function initializetmplPatientStatusCodeStatus() {
         "paddingInPixel": false
     }, {});
     var LabelPatientCodeStatus3 = new kony.ui.Label({
-        "centerX": "50%",
         "id": "LabelPatientCodeStatus3",
         "isVisible": true,
-        "left": "0dp",
+        "left": "55dp",
         "skin": "slLabelMediationOrders",
         "text": "Label",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "5dp",
+        "top": "-30dp",
         "width": kony.flex.USE_PREFFERED_SIZE
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
@@ -166,17 +160,16 @@ function initializetmplPatientStatusCodeStatus() {
         "layoutType": kony.flex.FLOW_VERTICAL,
         "left": "0dp",
         "skin": "slFbox",
-        "top": "0dp",
-        "width": "25%",
+        "top": "10dp",
+        "width": "100%",
         "zIndex": 1
     }, {}, {});
     FlexContainerPatientStatusCodeStatus4.setDefaultUnit(kony.flex.DP);
     var ImagePatientCodeStatus4 = new kony.ui.Image2({
-        "centerX": "50%",
         "height": "30dp",
         "id": "ImagePatientCodeStatus4",
         "isVisible": true,
-        "left": "0dp",
+        "left": "15dp",
         "skin": "slImage",
         "src": "imagedrag.png",
         "top": "0dp",
@@ -188,17 +181,16 @@ function initializetmplPatientStatusCodeStatus() {
         "paddingInPixel": false
     }, {});
     var LabelPatientCodeStatus4 = new kony.ui.Label({
-        "centerX": "50%",
         "id": "LabelPatientCodeStatus4",
         "isVisible": true,
-        "left": "0dp",
+        "left": "55dp",
         "skin": "slLabelMediationOrders",
         "text": "Label",
         "textStyle": {
             "letterSpacing": 0,
             "strikeThrough": false
         },
-        "top": "5dp",
+        "top": "-30dp",
         "width": kony.flex.USE_PREFFERED_SIZE
     }, {
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,

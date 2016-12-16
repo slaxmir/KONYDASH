@@ -53,7 +53,7 @@
         "topLevelBox": null
     },
     "dropdownimage": "selecticon.png",
-    "focusskin": "s4b7c6c7fe7046c4b07cc111abbab963",
+    "focusskin": "s704ff0e455f4ed4a2f31ff923377008",
     "groupcells": false,
     "id": "selectFormTypeList",
     "ide_onSelection": "AS_NamedActions_96dba70c43c645a7a93754c6f2c04519",

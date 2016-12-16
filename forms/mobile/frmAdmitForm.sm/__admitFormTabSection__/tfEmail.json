@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "30dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
@@ -17,9 +17,9 @@
         0
     ],
     "_padding_": [
-        3,
+        2,
         0,
-        0,
+        2,
         0
     ],
     "_placeholder_": "Patient Email",
@@ -31,8 +31,9 @@
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
     },
+    "android": {},
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -42,6 +43,7 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
+    "focusskin": "s97da5299ac64238a96c307be15f6f84",
     "id": "tfEmail",
     "info": null,
     "isvisible": true,
@@ -50,8 +52,10 @@
     "maxtextlength": "",
     "mode": "A",
     "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
     "parent": "flxContainerBedAssignAlertAdmitForm",
     "pf": "frmAdmitForm",
+    "placeholderskin": "seefccacdadc4822a057984dd3ab1850",
     "securetextentry": false,
     "tabpaneId": "admitFormTabSection",
     "textinputmode": "A",

@@ -4,11 +4,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "30dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -17,10 +17,10 @@
         0
     ],
     "_padding_": [
-        1,
-        1,
-        1,
-        1
+        2,
+        0,
+        2,
+        0
     ],
     "_skin_": "s09a11d0700e4bb295a9dcc75f243145",
     "_top_": {
@@ -29,7 +29,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
     },
     "android": {
         "dropDownImage": "activeicon1.png",

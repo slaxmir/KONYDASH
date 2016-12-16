@@ -4,11 +4,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "30dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -17,9 +17,9 @@
         0
     ],
     "_padding_": [
+        2,
         0,
-        0,
-        0,
+        2,
         0
     ],
     "_placeholder_": "Select Group",
@@ -30,7 +30,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
     },
     "android": {
         "dropDownImage": "activeicon.png",
@@ -75,10 +75,15 @@
         ]
     ],
     "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
     "parent": "flxContainerAdmittingPreferencesAdmitForm",
     "pf": "frmAdmitForm",
+    "selectedkey": "0",
     "selectedkeys": null,
-    "selectedkeyvalue": null,
+    "selectedkeyvalue": [
+        "0",
+        "Select Group"
+    ],
     "selectedkeyvalues": null,
     "size": 18,
     "tabpaneId": "admitFormTabSection",

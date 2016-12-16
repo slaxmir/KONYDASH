@@ -173,7 +173,7 @@ function addWidgetspopupTakeaction() {
         "layoutAlignment": constants.BOX_LAYOUT_ALIGN_FROM_LEFT,
         "margin": [0, 0, 0, 0],
         "marginInPixel": false,
-        "padding": [5, 0, 5, 0],
+        "padding": [2, 0, 3, 0],
         "paddingInPixel": false,
         "percent": true
     }, {});
@@ -183,13 +183,13 @@ function addWidgetspopupTakeaction() {
         "skin": "BedAvailableButtonSkin",
         "text": "Bed Available"
     }, {
-        "containerWeight": 50,
+        "containerWeight": 48,
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
         "displayText": true,
         "hExpand": true,
-        "margin": [1, 0, 2, 0],
+        "margin": [1, 1, 1, 1],
         "marginInPixel": false,
-        "padding": [2, 4, 2, 4],
+        "padding": [0, 4, 0, 4],
         "paddingInPixel": false,
         "vExpand": false,
         "widgetAlignment": constants.WIDGET_ALIGN_CENTER
@@ -200,13 +200,13 @@ function addWidgetspopupTakeaction() {
         "skin": "BedUnAvailableButtonSkin",
         "text": "Bed UnAvailable"
     }, {
-        "containerWeight": 50,
+        "containerWeight": 48,
         "contentAlignment": constants.CONTENT_ALIGN_CENTER,
         "displayText": true,
         "hExpand": true,
-        "margin": [2, 1, 1, 1],
+        "margin": [1, 1, 1, 1],
         "marginInPixel": false,
-        "padding": [2, 4, 2, 4],
+        "padding": [0, 4, 0, 4],
         "paddingInPixel": false,
         "vExpand": false,
         "widgetAlignment": constants.WIDGET_ALIGN_CENTER
@@ -423,6 +423,8 @@ function popupTakeactionGlobals() {
         "skin": "popupTakeactionSkin",
         "transparencyBehindThePopup": 100
     }, {
+        "containerHeight": 80,
+        "containerHeightReference": constants.CONTAINER_HEIGHT_BY_FORM_REFERENCE,
         "containerWeight": 95,
         "padding": [0, 0, 0, 0],
         "paddingInPixel": false

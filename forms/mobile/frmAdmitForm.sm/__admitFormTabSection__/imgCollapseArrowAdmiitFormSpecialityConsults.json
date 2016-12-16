@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "20dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "number",
@@ -40,7 +40,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "25dp"
+        "value": "20dp"
     },
     "containerweight": 100,
     "context": {
@@ -59,6 +59,7 @@
     "isvisible": true,
     "kuid": "967c2e8990eb470bbdba66148c920449",
     "name": "kony.ui.Image2",
+    "paddinginpixel": false,
     "parent": "flexContainerSpecialityConsults",
     "pf": "frmAdmitForm",
     "srcType": 1,

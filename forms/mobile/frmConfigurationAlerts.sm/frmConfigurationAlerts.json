@@ -43,6 +43,7 @@
     "footer": "frmConfigurationAlerts_footer",
     "header": "frmConfigurationAlerts_header",
     "id": "frmConfigurationAlerts",
+    "ide_postShow": "AS_Form_e6c3c8549b4e4a37adbd6e9ff5b1d25e",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

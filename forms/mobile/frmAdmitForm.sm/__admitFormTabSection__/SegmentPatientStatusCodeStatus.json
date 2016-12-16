@@ -62,11 +62,11 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "5dp"
     },
     "_width_": {
         "type": "string",
-        "value": "75%"
+        "value": "100%"
     },
     "autogrowmode": 1,
     "canUpdateUI": true,

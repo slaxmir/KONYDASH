@@ -23,7 +23,7 @@
         }
     },
     "canUpdateUI": true,
-    "containerweight": 55,
+    "containerweight": 40,
     "contentalignment": 1,
     "hexpand": true,
     "id": "ReferringPhoneValue",

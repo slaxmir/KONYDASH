@@ -41,7 +41,7 @@
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,

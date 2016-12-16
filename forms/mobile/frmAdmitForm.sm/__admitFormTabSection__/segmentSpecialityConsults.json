@@ -59,7 +59,7 @@
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "10dp"
     },
     "_margin_": [
         0,
@@ -80,7 +80,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "85%"
+        "value": "80%"
     },
     "autogrowmode": 1,
     "canUpdateUI": true,
@@ -119,7 +119,7 @@
     "rowTemplateId": "5db374baf188457684c36cfb3a5b4fdd",
     "rowcounter": 7,
     "rowfocusskin": "sb6ad43583984d478b3dd90c47d4aac2",
-    "rowskin": "sb8a1606d29a408fae0767dae0cc6922",
+    "rowskin": "s346976cb94c4bfd8b9082c84b3c039b",
     "rowtemplate": "FlexContainer09b5d195a6ab142",
     "screenlevelwidget": false,
     "seccounter": 0,

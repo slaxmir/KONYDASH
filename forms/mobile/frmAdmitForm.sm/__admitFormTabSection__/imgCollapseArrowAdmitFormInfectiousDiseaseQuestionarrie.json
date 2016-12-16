@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "20dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "number",
@@ -40,7 +40,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "19dp"
+        "value": "20dp"
     },
     "containerweight": 100,
     "context": {
