@@ -45,7 +45,7 @@
     "isvisible": true,
     "kuid": "91e6d17264aa42edb198dec58e351986",
     "name": "kony.ui.Button",
-    "parent": "CopyflxRegFormContainer00651f0c1c98243",
+    "parent": "flxRegChildContainer",
     "pf": "frmRegister",
     "wType": "Button",
     "zindex": 1

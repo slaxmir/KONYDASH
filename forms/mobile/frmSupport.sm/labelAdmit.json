@@ -1,21 +1,5 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizLabel",
-    "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
-        "type": "string",
-        "value": "100%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "25%"
-    },
-    "_margin_": [
-        1,
-        1,
-        1,
-        1
-    ],
     "_padding_": [
         0,
         0,
@@ -23,43 +7,20 @@
         0
     ],
     "_skin_": "s6f58fa3350b43f599c3844f4d87d7a6",
-    "_text_": "Admit",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "75%"
-    },
-    "_wrapping_": 2,
-    "android": {
-        "textStyle": {
-            "letterSpacing": 0,
-            "strikeThrough": false
-        }
-    },
+    "_srcKuid_": "ma40f4d8ee7a481b9b527a3ed5ff26b7",
+    "areflexpropsreferenced": true,
     "canUpdateUI": true,
-    "containerweight": 100,
-    "contentalignment": 4,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
     "id": "labelAdmit",
-    "info": null,
-    "ipad": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
-    "iphone": {
-        "psp": {
-            "wrapping": 2
-        }
-    },
+    "instanceOf": "ma40f4d8ee7a481b9b527a3ed5ff26b7",
+    "isdatareferenced": true,
     "isvisible": true,
-    "kuid": "350a27d26be2448a9ea20bdb586902dc",
+    "kuid": "m37e01ca5af44f97b76b09ddd553d6bc",
+    "masterInstance": true,
     "name": "kony.ui.Label",
     "parent": "flxAdmittCointer",
     "pf": "frmSupport",
-    "tooltip": "",
-    "wType": "Label",
-    "zindex": 1
+    "wType": "Label"
 }

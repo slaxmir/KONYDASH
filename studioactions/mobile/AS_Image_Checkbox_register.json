@@ -1,0 +1,34 @@
+{
+    "AS_Image_9dbd93f496e54e21b01fce896f33748e": {
+        "id": "AS_Image_9dbd93f496e54e21b01fce896f33748e",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Image_Checkbox_register",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmRegister",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2009436c05454dd2b794ade3e07a66a2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___200864b4fbec427fa7622c38ad085627",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "checkBoxRegister",
+            "display": "checkBoxRegister",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

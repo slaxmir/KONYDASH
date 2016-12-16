@@ -2,7 +2,7 @@ function initializetemplateEditProfileInfo1() {
     CopyFlexContainer075c9ac293fb748 = new kony.ui.FlexContainer({
         "autogrowMode": kony.flex.AUTOGROW_NONE,
         "clipBounds": true,
-        "height": "30dp",
+        "height": "30%",
         "id": "CopyFlexContainer075c9ac293fb748",
         "isVisible": true,
         "layoutType": kony.flex.FLOW_HORIZONTAL,

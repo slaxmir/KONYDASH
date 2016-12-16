@@ -37,7 +37,7 @@
     "canUpdateUI": true,
     "children": [
         "CopysupportImpLabel08bacddd0efde47",
-        "CopyTextArea0d5cfcb76e40b41"
+        "TextAreaReportExperience"
     ],
     "clipbounds": true,
     "containerweight": 100,

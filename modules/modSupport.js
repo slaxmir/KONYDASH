@@ -1,9 +1,26 @@
 function showSupportGeneral(){
-  frmSupport.flxScreolGeneralFeedBack.generalFeedbackTabContaine = true;
+  frmSupport.generalFeedbackTabContaine.isVisible = true;
   frmSupport.reportIssueTabContainer.isVisible = false; 
 }
 
 function showSupportReportAnIssue(){
-  frmSupport.flxScreolGeneralFeedBack.generalFeedbackTabContaine = false;
+  frmSupport.generalFeedbackTabContaine.isVisible = false;
   frmSupport.reportIssueTabContainer.isVisible = true; 
 }
+
+function resetSupportReportIssueForm(){
+  frmSupport.reportSelectModuleListBox.selectedKeys = ["0"];
+  frmSupport.TextAreaReportIssue.text = "";
+  
+  frmSupport.reportBowserList.selectedKeys = ["0"];
+  frmSupport.TextAreaReportExperience.text = "";
+  frmSupport.TextAreaReportSteps.text = "";
+}
+
+
+function resetSupportGeneralForm(){
+  
+  frmSupport.GeneralSelectModuleListBox.selectedKeys = ["0"];
+  frmSupport.TextAreaGeneralFeedBack.text = ""; 
+}
+

@@ -46,6 +46,7 @@ function addWidgetspopupReferringFacility() {
         "focusSkin": "slButtonGlossRed",
         "id": "ReferringCloseIcon",
         "isVisible": true,
+        "onClick": AS__a131499a2f264fdc8d2a48c7518f4f67,
         "skin": "popCloseIconSkin",
         "text": "X"
     }, {

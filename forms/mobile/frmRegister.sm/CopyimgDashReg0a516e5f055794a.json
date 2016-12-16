@@ -53,7 +53,7 @@
     "isvisible": true,
     "kuid": "41f0aef0011541eeb500e5b6214eab7b",
     "name": "kony.ui.Image2",
-    "parent": "CopyflxScrollContainer0a557e0a566e646",
+    "parent": "flxRegScrollContainer",
     "pf": "frmRegister",
     "srcType": 1,
     "wType": "Image",

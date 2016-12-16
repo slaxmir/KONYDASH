@@ -40,8 +40,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "Button0ea722b1cab0648",
-        "CopyButton02d3cd22ec1774f"
+        "BtnSupportReportIssueSend",
+        "BtnSupportReportIssueCancel"
     ],
     "clipbounds": true,
     "containerweight": 100,

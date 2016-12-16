@@ -1,0 +1,18 @@
+{
+    "AS_NamedActions_e50c1fa14d494810acb2ab23a3383da3": {
+        "id": "AS_NamedActions_e50c1fa14d494810acb2ab23a3383da3",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Image_generateCaptcha_registration",
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d6efcd4c22d646248ed798d2a005ec56",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "generateCaptchRegistration",
+            "display": "generateCaptchRegistration",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

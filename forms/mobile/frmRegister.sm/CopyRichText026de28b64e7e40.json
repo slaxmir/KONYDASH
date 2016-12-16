@@ -54,7 +54,7 @@
     "kuid": "fd770657632444f1a2d4d658217191cc",
     "name": "kony.ui.RichText",
     "paddinginpixel": false,
-    "parent": "CopyflxRegFormContainer00651f0c1c98243",
+    "parent": "flxRegChildContainer",
     "pf": "frmRegister",
     "wType": "RichText",
     "widgetalignment": 5,

@@ -1,0 +1,96 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        10,
+        1,
+        10,
+        1
+    ],
+    "_placeholder_": "FirstName*",
+    "_render_": true,
+    "_right_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_skin_": "s4f1977345f2445c9959e777f22edc62",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "android": {
+        "contentAlignment": 4,
+        "psp": {
+            "keyboardActionLabel": 4
+        },
+        "render": true
+    },
+    "autocapitalize": "sentences",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "TextFieldRegFirstName",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "isvisible": true,
+    "keyboardactionlabel": 4,
+    "keyboardtype": "A",
+    "kuid": "37b08b46adfe45d3896e780348b19e6e",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxRegChildContainer",
+    "pf": "frmRegister",
+    "placeholderskin": "s7fec1ab4aa74e4c9918fd592afcd05b",
+    "securetextentry": false,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}
