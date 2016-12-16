@@ -9,9 +9,9 @@
     ],
     "_orientation_": 1,
     "_padding_": [
-        5,
+        2,
         0,
-        5,
+        3,
         0
     ],
     "_percent_": true,
@@ -33,13 +33,14 @@
     "isvisible": true,
     "kuid": "f2a6c3199bf54699a8b13b73530725a8",
     "name": "kony.ui.ScrollBox",
+    "paddinginpixel": false,
     "parent": "popupTakeaction",
     "pf": "popupTakeaction",
     "scrollbar": "scrollbar",
     "scrolldirection": 1,
     "scrollingevents": null,
     "showscrollbars": true,
-    "totalWt": 100,
+    "totalWt": 96,
     "wType": "ScrollBox",
     "widgetalignment": 5
 }

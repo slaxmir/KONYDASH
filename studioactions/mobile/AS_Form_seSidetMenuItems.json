@@ -1,0 +1,28 @@
+{
+    "AS_Form_e6c3c8549b4e4a37adbd6e9ff5b1d25e": {
+        "id": "AS_Form_e6c3c8549b4e4a37adbd6e9ff5b1d25e",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Form_seSidetMenuItems",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashBoard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4d052e83ef0b47678eb3c35c72c7d4a0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___80553c6603084619bcc6d9e50b9b69dc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setDataSegmentSideMenu",
+            "display": "setDataSegmentSideMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

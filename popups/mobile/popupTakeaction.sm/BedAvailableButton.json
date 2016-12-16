@@ -3,20 +3,20 @@
     "DNDConfig": null,
     "_margin_": [
         1,
-        0,
-        2,
-        0
+        1,
+        1,
+        1
     ],
     "_padding_": [
-        2,
+        0,
         4,
-        2,
+        0,
         4
     ],
     "_skin_": "sc5760521e9543a1a71a60819e9ffa60",
     "_text_": "Bed Available",
     "canUpdateUI": true,
-    "containerweight": 50,
+    "containerweight": 48,
     "contentalignment": 5,
     "disabledSkins": {
         "focusSkin": "s1ae931a069c40f4ac73da87a33301f1"

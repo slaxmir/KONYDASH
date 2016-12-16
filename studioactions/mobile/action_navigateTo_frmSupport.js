@@ -4,5 +4,5 @@ function action_navigateTo_frmSupport() {
 
 function AS_NamedActions_2ad466e34ded4873ac916d6af07a054a() {
     frmSupport.show();
-    closeMenu.call(this);
+    AS_NamedActions_59f90898340d4953be384a35208868b0();
 }

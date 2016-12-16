@@ -15,14 +15,14 @@
             "callbackType": null,
             "enableMappingEditor": true
         }, {
-            "id": "INVOKE_FUNCTION___24608740789442bdbfe90bc81e515ea3",
-            "type": "INVOKE_FUNCTION",
-            "sequenceKUID": "closeMenu",
-            "display": "closeMenu",
-            "inputparams": [],
+            "id": "NAMED_ACTION____2f64428c997848d49016b01044811a53",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_NamedActions_59f90898340d4953be384a35208868b0",
+            "display": "action_OpenMenu",
             "parentId": null,
             "callbackType": null,
-            "disabled": null
+            "disabled": null,
+            "isMasterInstanceAction": null
         }]
     }
 }
