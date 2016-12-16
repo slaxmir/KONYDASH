@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_margin_": [
         1,
@@ -17,9 +17,9 @@
         1
     ],
     "_padding_": [
+        2,
         0,
-        0,
-        0,
+        2,
         0
     ],
     "_skin_": "s7fb4699c77c4c50af8169a0b601bd59",
@@ -29,8 +29,8 @@
         "value": "10dp"
     },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "96%"
     },
     "_wrapping_": 2,
     "android": {
@@ -57,6 +57,7 @@
     "isvisible": true,
     "kuid": "d3ef4d2f4ab743cfbf993e8203ab008c",
     "name": "kony.ui.Label",
+    "paddinginpixel": false,
     "parent": "flxContainerAdmittingPreferencesAdmitForm",
     "pf": "frmAdmitForm",
     "tabpaneId": "admitFormTabSection",

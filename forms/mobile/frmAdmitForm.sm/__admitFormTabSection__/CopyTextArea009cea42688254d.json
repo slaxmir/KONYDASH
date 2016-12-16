@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_margin_": [
         2,
@@ -31,17 +31,18 @@
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "placeholderSkin": "s5d5d7b8f46b42158db9408d71ce2f05"
+        }
     },
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
     "autofilter": false,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
     "closebuttontext": "",
     "containerheight": "",
     "containerheightmode": 1,
@@ -58,6 +59,7 @@
     "numberofvisiblelines": 3,
     "parent": "FlexContainerMedicalHistoryAdmitForm",
     "pf": "frmAdmitForm",
+    "placeholderskin": "s5d5d7b8f46b42158db9408d71ce2f05",
     "securetextentry": false,
     "showoprogressindicator": false,
     "showprogressindicator": false,

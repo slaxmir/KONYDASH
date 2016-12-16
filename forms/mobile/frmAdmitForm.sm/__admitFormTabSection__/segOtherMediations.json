@@ -91,7 +91,7 @@
     "selectionbehavior": "default",
     "separatorcolor": "64646400",
     "separatorrequired": true,
-    "separatorthickness": 1,
+    "separatorthickness": 0,
     "showscrollbars": false,
     "tabpaneId": "admitFormTabSection",
     "viewtype": "tableview",

@@ -47,6 +47,7 @@
     "context": {
         "channel": "mobile",
         "formID": "frmAdmitForm",
+        "ispercent": "",
         "platform": "android",
         "tabpaneID": "",
         "templateType": "forms",

@@ -3,8 +3,8 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
@@ -17,9 +17,9 @@
         0
     ],
     "_padding_": [
-        3,
+        2,
         0,
-        0,
+        2,
         0
     ],
     "_placeholder_": "PCP's Firstname",
@@ -31,8 +31,9 @@
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
     },
+    "android": {},
     "autocapitalize": "words",
     "autocomplete": false,
     "autocorrect": false,
@@ -50,8 +51,10 @@
     "kuid": "3493b926a0d24dbd912012be71792cb7",
     "mode": "A",
     "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
     "parent": "FlexContainerPrimaryCareProviderAdmitForm",
     "pf": "frmAdmitForm",
+    "placeholderskin": "seefccacdadc4822a057984dd3ab1850",
     "securetextentry": false,
     "tabpaneId": "admitFormTabSection",
     "textinputmode": "A",

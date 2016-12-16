@@ -1,0 +1,50 @@
+{
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_srcKuid_": "026ea77a79f6412c8b5a313e6d46f5c8",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "id": "Segment0dc75c7a0677f4e",
+    "instanceOf": "026ea77a79f6412c8b5a313e6d46f5c8",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "mf1c1600b7544d25bc0a4cdab8258fe5",
+    "masterInstance": true,
+    "name": "kony.ui.SegmentedUI2",
+    "parent": "flxMenuItemsContainer",
+    "pf": "frmEditProfile",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "wType": "Segment",
+    "widgetdatamap": {
+        "flxMenuRowSeg1": "flxMenuRowSeg1",
+        "imgDashBoardSeg1": "imgDashBoardSeg1",
+        "labelDashBoardSeg1": "labelDashBoardSeg1"
+    }
+}

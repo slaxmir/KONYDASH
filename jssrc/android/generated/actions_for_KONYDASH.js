@@ -897,6 +897,14 @@ function AS_Form_Init_ShowAdmissionDetails(eventobject) {
 
 function AS_Form_7b02b282ee454740abece1e01cb5a37a(eventobject) {}
 
+function AS_Form_seSidetMenuItems(eventobject) {
+    return AS_Form_e6c3c8549b4e4a37adbd6e9ff5b1d25e(eventobject);
+}
+
+function AS_Form_e6c3c8549b4e4a37adbd6e9ff5b1d25e(eventobject) {
+    return setDataSegmentSideMenu.call(this);
+}
+
 function AS_Image_07dc63fc506c47e68a61a0342336a248(eventobject, x, y) {
     return hamburger.call(this);
 }

@@ -2,21 +2,21 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "_margin_": [
-        2,
+        1,
         1,
         1,
         1
     ],
     "_padding_": [
-        2,
+        0,
         4,
-        2,
+        0,
         4
     ],
     "_skin_": "s6a41e0c8d16491aac2d981eed2331c5",
     "_text_": "Bed UnAvailable",
     "canUpdateUI": true,
-    "containerweight": 50,
+    "containerweight": 48,
     "contentalignment": 5,
     "disabledSkins": {
         "focusSkin": "s1ae931a069c40f4ac73da87a33301f1"

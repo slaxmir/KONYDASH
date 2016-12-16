@@ -2,6 +2,8 @@
     "@class": "com.kony.gen.viz.model.component.KVizDateField",
     "DNDConfig": null,
     "Image": "calbtn.png",
+    "__id": "frmAdmitForm_CalendarAdmitformVitalSigns",
+    "__input": "CalendarAdmitformVitalSigns",
     "__parentReadjusting__": false,
     "_data_": null,
     "_date_": "5/11/2016",
@@ -20,20 +22,20 @@
         0
     ],
     "_padding_": [
+        2,
         0,
-        0,
-        0,
+        2,
         0
     ],
     "_placeholder_": "dd/MM/yyyy",
     "_skin_": "s396a8b9b2e340698d41459f73396c92",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
     },
     "advview": "onscreen",
     "android": {
@@ -53,8 +55,22 @@
     ],
     "dateeditable": true,
     "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
     "day": 5,
     "daytextalignmentincell": 5,
+    "displayedMonths": [
+        11,
+        2016
+    ],
+    "entereddate": [
+        5,
+        11,
+        2016,
+        0,
+        0,
+        0
+    ],
     "format": "dd/MM/yyyy",
     "formatteddate": "05/11/2016",
     "hidedaysheader": false,
@@ -71,13 +87,19 @@
     "kuid": "172d2a051a5d4fe780a1414038928683",
     "minutes": 0,
     "month": 11,
+    "monthsinrow": 3,
     "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
     "noofmonths": 1,
+    "paddinginpixel": false,
     "pagedate": "/2016",
     "parent": "flxContainerVitalSignsAdmitForm",
     "pf": "frmAdmitForm",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
     "seconds": 0,
     "selectdate": "//2016",
+    "startDay": 0,
     "tabpaneId": "admitFormTabSection",
     "viewconfig": {
         "gridConfig": {},
@@ -86,6 +108,15 @@
     "viewtype": "default",
     "wType": "Calendar",
     "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
     "year": 2016,
     "zindex": 1
 }

@@ -21,6 +21,7 @@
     "canUpdateUI": true,
     "children": [
         "ReferringPhone",
+        "Image0cf580a99056b4d",
         "ReferringPhoneValue"
     ],
     "containerheight": 30,
@@ -41,7 +42,7 @@
     "scrolldirection": 1,
     "scrollingevents": null,
     "showscrollbars": true,
-    "totalWt": 100,
+    "totalWt": 91,
     "wType": "ScrollBox",
     "widgetalignment": 5
 }

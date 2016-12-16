@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "0dp"
     },
     "_margin_": [
         2,
@@ -23,7 +23,7 @@
         2
     ],
     "_placeholder_": "Additional Orders",
-    "_skin_": "sf82756c5b4a4f7b874213c39b26d8ba",
+    "_skin_": "s6ba4726c0eb46ce8a12b0ac6dc571a2",
     "_text_": "",
     "_top_": {
         "type": "string",
@@ -31,7 +31,12 @@
     },
     "_width_": {
         "type": "string",
-        "value": "96%"
+        "value": "100%"
+    },
+    "android": {
+        "psp": {
+            "placeholderSkin": "s5d5d7b8f46b42158db9408d71ce2f05"
+        }
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -54,6 +59,7 @@
     "numberofvisiblelines": 3,
     "parent": "FlexContainerSpecialityConsultsAdmitForm",
     "pf": "frmAdmitForm",
+    "placeholderskin": "s5d5d7b8f46b42158db9408d71ce2f05",
     "securetextentry": false,
     "showoprogressindicator": false,
     "showprogressindicator": false,
