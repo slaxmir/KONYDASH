@@ -1,21 +1,14 @@
 {
-    "AS_Button_2d8730b20ada430e8123dab92eb2265d": {
-        "id": "AS_Button_2d8730b20ada430e8123dab92eb2265d",
+    "AS_Button_261618402deb4a79b4fe54af75019ada": {
+        "id": "AS_Button_261618402deb4a79b4fe54af75019ada",
         "type": "ACTION_SEQUENCE",
-        "name": "AS_Button_Validation_MandatoryFeilds",
         "params": [{
             "datatype": "collection",
             "name": "eventobject"
         }],
-        "contextObj": {
-            "name": "frmAdmitForm",
-            "type": "forms",
-            "platform": "",
-            "KUID": "a61f86b4fb384227b844ba626c644872"
-        },
         "language": "js",
         "actions": [{
-            "id": "IF_CONDITION__4c3b681f059041b487f1ad957a202314",
+            "id": "IF_CONDITION_ide_onClick_5356b6877be044a2910f44587841c810",
             "type": "IF_CONDITION",
             "conditions": [{
                 "leftValueType": "widgetprop",
@@ -130,11 +123,34 @@
                 "leftItemKUID": "a61f86b4fb384227b844ba626c644872",
                 "leftWidgetKUID": "c9e2ad24b13c4a5d9e68063d15f01032"
             }],
-            "parentId": null,
             "callbackType": null,
             "criteria": "any"
         }, {
-            "id": "ELSE_CONDITION__562cacb67f994256bfd25d8be89212fc",
+            "id": "INVOKE_FUNCTION__ide_onClick_d59ddc7302d64a1dbe504503f9c39bf3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setDisableSubmitButton",
+            "display": "setDisableSubmitButton",
+            "inputparams": [],
+            "parentId": "IF_CONDITION_ide_onClick_5356b6877be044a2910f44587841c810",
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "SHOW_ALERT_ide_onClick_e7249dc5eb6b4ab8b93d06bec2c9d385",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_ERROR",
+            "alertTitle": "Error",
+            "yesLabel": "OK",
+            "alertMessage": "Please fill all the mandatory feilds",
+            "messageType": "constant",
+            "parentId": "IF_CONDITION_ide_onClick_5356b6877be044a2910f44587841c810",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ELSE_CONDITION_ide_onClick_e2614740c7e24574aaaa017f71277a5f",
             "type": "ELSE_CONDITION",
             "conditions": [{
                 "leftValueType": "widgetprop",
@@ -143,51 +159,26 @@
                 "rightValueType": "widgetprop",
                 "rightValue": ""
             }],
-            "parentId": null,
             "callbackType": null,
             "criteria": "all"
         }, {
-            "id": "INVOKE_FUNCTION___339c839794074fe884bd3b2f488bb4b8",
+            "id": "INVOKE_FUNCTION__ide_onClick_65a9f93d828d41c0bb79fde45ff2789f",
             "type": "INVOKE_FUNCTION",
             "sequenceKUID": "resetAdmitForm",
             "display": "resetAdmitForm",
             "inputparams": [],
-            "parentId": "ELSE_CONDITION__562cacb67f994256bfd25d8be89212fc",
+            "parentId": "ELSE_CONDITION_ide_onClick_e2614740c7e24574aaaa017f71277a5f",
             "callbackType": null,
             "disabled": null
         }, {
-            "id": "SHOW_ALERT__33538ece039647ab85b6eaa25d35d452",
+            "id": "SHOW_ALERT_ide_onClick_d415aee909bd44c0bde943cbe76d49ab",
             "type": "SHOW_ALERT",
             "alertType": "constants.ALERT_TYPE_INFO",
             "alertTitle": "Success",
             "yesLabel": "OK",
             "alertMessage": "Submitted Successfully",
             "messageType": "constant",
-            "parentId": "ELSE_CONDITION__562cacb67f994256bfd25d8be89212fc",
-            "callbackType": null,
-            "alertTitlei18n": null,
-            "yesLabeli18n": null,
-            "noLabeli18n": null,
-            "alertMessagei18n": null,
-            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
-        }, {
-            "id": "INVOKE_FUNCTION___1514d2318b0f4e3ca353780ad0df3ea9",
-            "type": "INVOKE_FUNCTION",
-            "sequenceKUID": "setDisableSubmitButton",
-            "display": "setDisableSubmitButton",
-            "inputparams": [],
-            "parentId": "IF_CONDITION__4c3b681f059041b487f1ad957a202314",
-            "callbackType": null,
-            "disabled": null
-        }, {
-            "id": "SHOW_ALERT__2fda2713c5fe40b19d30dbc075014a2c",
-            "type": "SHOW_ALERT",
-            "alertType": "constants.ALERT_TYPE_ERROR",
-            "alertTitle": "Error",
-            "yesLabel": "OK",
-            "alertMessage": "Please fill all the mandatory feilds",
-            "messageType": "constant",
-            "parentId": "IF_CONDITION__4c3b681f059041b487f1ad957a202314",
+            "parentId": "ELSE_CONDITION_ide_onClick_e2614740c7e24574aaaa017f71277a5f",
             "callbackType": null,
             "alertTitlei18n": null,
             "yesLabeli18n": null,

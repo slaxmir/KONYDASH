@@ -69,10 +69,6 @@
     "mobile": {
         "_data_": [
             {
-                "imgMeniIcon": {
-                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                    "src": ""
-                },
                 "labelMenulItem": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                     "text": ""
@@ -82,7 +78,6 @@
         "rowTemplateId": "fc5a7f2305c941f7bc79bf6e09de4d43",
         "rowtemplate": "flxMenuRowSeg1",
         "widgetdatamap": {
-            "imgMeniIcon": "imgMeniIcon",
             "labelMenulItem": "labelMenulItem",
             "segRowFlxMenu": "segRowFlxMenu"
         }
@@ -119,7 +114,6 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
-        "imgMeniIcon": "imgMeniIcon",
         "labelMenulItem": "labelMenulItem",
         "segRowFlxMenu": "segRowFlxMenu"
     },

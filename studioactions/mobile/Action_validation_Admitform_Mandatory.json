@@ -135,8 +135,7 @@
             }],
             "parentId": null,
             "callbackType": null,
-            "criteria": "any",
-            "disabled": true
+            "criteria": "any"
         }, {
             "id": "ELSE_CONDITION__c68b235d3b2b422b8e4bedd7814b3119",
             "type": "ELSE_CONDITION",
@@ -149,17 +148,7 @@
             }],
             "parentId": null,
             "callbackType": null,
-            "criteria": "all",
-            "disabled": true
-        }, {
-            "id": "INVOKE_FUNCTION___85a645e886c04e029260d10fc0edf590",
-            "type": "INVOKE_FUNCTION",
-            "sequenceKUID": "CheckVAlidationAdmitPatientForm",
-            "display": "CheckVAlidationAdmitPatientForm",
-            "inputparams": [],
-            "parentId": null,
-            "callbackType": null,
-            "disabled": null
+            "criteria": "all"
         }, {
             "id": "INVOKE_FUNCTION___8c4903b5968c44188711541863b24452",
             "type": "INVOKE_FUNCTION",
@@ -168,7 +157,7 @@
             "inputparams": [],
             "parentId": "ELSE_CONDITION__c68b235d3b2b422b8e4bedd7814b3119",
             "callbackType": null,
-            "disabled": true
+            "disabled": null
         }, {
             "id": "INVOKE_FUNCTION___94749e60d65c4f44b70df65832b924e7",
             "type": "INVOKE_FUNCTION",
@@ -177,7 +166,7 @@
             "inputparams": [],
             "parentId": "IF_CONDITION__6b10d6d20596483c88f637cd44ab4bb6",
             "callbackType": null,
-            "disabled": true
+            "disabled": null
         }]
     }
 }
